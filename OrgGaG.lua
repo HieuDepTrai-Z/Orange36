@@ -1,1876 +1,1377 @@
-
-local _t = {}
-for _i = 1, 100 do
-  _t[_i] = _i * _i
-end
-local function _p(a, b)
-  local c = a + b
-  if c > 0 then return c else return -c end
-end
-local _dummy = _p(1, 2)
+-- Obfuscated by AlimeObfucastor (Secure)
 
 -- Junk variables
-local _kngoi1xt = 34185 local _mteu2up1 = 22589 local _vkkgluba = 5087 local _54uqinia = 50141 local _ei7yweka = 31068 local _y0feu7kd = 2407 local _pohfvr94 = 22826 local _1buwiaid = 37600 local _euorsrrf = 43272 local _7vsv0vc8 = 12544 local _63znp1i1 = 25122 local _42u25m84 = 73472 local _u4o1000r = 15601 local _nlif1yw5 = 83878 local _fvpccsh8 = 35789 local _yykjwjgf = 9897 local _mn5r24io = 51727 local _eq2kv379 = 40842 local _fu0m6l72 = 33834 local _8e9hzlcu = 9098 local _n7p1ywrj = 18675 local _kp9jmdhl = 18119 local _fgo7u52z = 3183 local _8eicyrck = 52154 local _8hno3iho = 1982 local _z6mqhlj3 = 77666 local _0il4jldt = 46119 local _2bxcxaac = 69831 local _xk6x7zd6 = 33981 local _ub1u1pys = 15091 local _hiy15m5q = 30469 local _jpbibwuj = 59581 local _t447u3t0 = 80346 local _u44bbk53 = 25126 local _5eedvvtg = 10777 local _nnvb6gl1 = 67731 local _0ez7wzza = 99897 local _6dojla0p = 5915 local _9wwrxsfo = 41082 local _d6w20y0o = 51350 local _nqfiw65m = 4108 local _3m33oxk5 = 31852 local _m068x2fr = 11115 local _k4hedgl5 = 9966 local _wrw7w363 = 35569 local _kimr8pta = 36370 local _cvwncbpa = 60235 local _3hji4kl4 = 8146 local _lu3ylde3 = 48148 local _1iv5p52a = 23951 local _attl3oq2 = 83248 local _b94vwep8 = 98883 local _oqzlwi9z = 72456 local _mosz1rge = 63788 local _dqujc9ru = 96683 local _pnymou0i = 2897 local _xww0uusi = 45105 local _7xxlkx48 = 79253 local _0h5u0ar0 = 92242 local _psk927ik = 62456 local _kqm2wm10 = 64001 local _tgif82jf = 35327 local _ctjaixoj = 38796 local _3i69t96r = 48065 local _a3b63xs8 = 58315 local _gb8qclmv = 8927 local _jqmxxo58 = 75934 local _s6undag9 = 53933 local _dduhp087 = 99903 local _iv4tbi1f = 65715 local _qaakq65l = 44281 local _x299blmm = 7597 local _b837omi8 = 60094 local _t7zm54z8 = 43290 local _cp9wqqp0 = 58098 local _h0ed0xcw = 65087 local _oaun6uyb = 55241 local _myxt23qv = 16270 local _ov8sns4z = 91203 local _unjfw1yl = 24706 local _malt05wi = 54119 local _6o1zmnd4 = 25181 local _d8y0dyh2 = 85672 local _97vfkom0 = 29234 local _sf4vz6z3 = 5902 local _gd4tm416 = 2004 local _3iagknsa = 47978 local _uvxxgpwg = 18201 local _v551r99j = 97445 local _03egj357 = 44546 local _3y02iz99 = 62346 local _v5zhluvc = 83810 local _v3u68bgy = 41955 local _jw6kp9wp = 62042 local _uhttp31c = 65190 local _9t35fdvq = 15995 local _hyg890fz = 34631 local _8shyywks = 91929 local _kttqvy6q = 28412 local _3fapw3l7 = 52893 local _8agrrzna = 84375 local _gh8hmfo7 = 75951 local _ia7exqni = 36376 local _y59v7rg3 = 837 local _on1zdytg = 80491 local _u8lj3vt0 = 320 local _fyjfiop9 = 2357 local _5gpsmffg = 97118 local _avqfvlo2 = 71297 local _bri0fert = 91173 local _ysafqktb = 43342 local _u2ioquf5 = 15791 local _tf9yfrlo = 72902 local _1jq2uhk6 = 26947 local _4xta3s8u = 83383 local _sha78x8p = 34546 local _ickz9tsb = 35708 local _2rauutua = 67193 local _rsp0hben = 41404 local _zv2nxc0n = 17921 local _4sdhvab7 = 17196 local _11g053nb = 13084 local _qdcs05vb = 2174 local _te5w0orr = 5733 local _o6kv5k9y = 72607 local _hhqtknvu = 36355 local _jquyw68z = 53770 local _g58nhphe = 40331 local _ho9fuwb7 = 23428 local _syef06vy = 70865 local _ap7zfyvd = 54349 local _2vnht5k0 = 96289 local _4yrjz1cg = 51059 local _0xp7y3mh = 58054 local _7x99uvs5 = 76905 local _7xbaimu2 = 62473 local _dtvr64m4 = 72970 local _43oexizs = 22564 local _zlafakru = 88142 local _aopu12rx = 33039 local _y254j36c = 75971 local _ih90zztw = 17361 local _26s4artz = 87971 local _qw1so2aa = 50315 local _a7a42h2h = 56055 local _qjg4sqvn = 14999 local _2z4dtmad = 8163 local _f36qf84v = 3363 local _3h098eww = 89268 local _9s1x8d3i = 2785
+local _1n1xnnysav = 41221
+local _ow0v6n8m29 = 81718
+local _dhvle4q1yu = 67428
+local _il6wwo5olf = 38801
+local _wew14sq80a = 32655
+local _5ma98mx2j6 = 62657
+local _qvg4bivg2p = 53170
+local _xv9x593eks = 51309
+local _v60jmz4umb = 55567
+local _b3j6jkxtff = 76083
+local _231hv9bcvp = 30776
+local _61865iums0 = 11032
+local _x284yj1msv = 20411
+local _g8ry7bxd47 = 9849
+local _z4wf3u21fx = 58325
+local _hj7m4d5lv2 = 9192
+local _4btho9oush = 45708
+local _fnt6vvrbm9 = 82507
+local _rtddk802q7 = 72536
+local _4ga1au8qpg = 39525
+local _qz4a4zpk5c = 10442
+local _li2vnlf968 = 55682
+local _lq2h6snx4r = 21221
+local _z394yx4d6x = 25764
+local _hnkturz7ui = 56625
+local _e5bqbhyxor = 47885
+local _f8fidlrlf1 = 89055
+local _nfyrfytm9x = 35702
+local _hqrbutd30k = 82445
+local _snihtlkr0c = 70300
+local _azkkt3m8p1 = 17374
+local _o982xtybhf = 71330
+local _olnrliebar = 81887
+local _mbmj8e2852 = 20498
+local _q5t2lqtjy5 = 30050
+local _qeby7zh92x = 63479
+local _2n2h033bnc = 98921
+local _4uba667k9k = 78873
+local _6et2k6yxnl = 11242
+local _fz4bibb8ro = 43730
+local _n64w2ulf65 = 97386
+local _11mpqfhmer = 86599
+local _jbv24g5zm1 = 13315
+local _u5yauzk7q3 = 80904
+local _8z1jtu6p8e = 80897
+local _sw275tw2hl = 15378
+local _5jlcv6i4xz = 97832
+local _ak8aitfg8f = 26780
+local _okbxymy81d = 88348
+local _daftggod1q = 3768
+local _owakju4ooj = 42421
+local _k0w29me94z = 1229
+local _9jgrtznl0j = 92093
+local _2xge5shukc = 73418
+local _gfxbnqh6zp = 54512
+local _5tih2nh15s = 88964
+local _2xzu0855pp = 56154
+local _uw9oaffh0m = 71111
+local _83xv0x4w3j = 36960
+local _2037ma3869 = 91270
+local _0pnas5ibej = 45292
+local _ic7a1rtbsw = 73801
+local _9xz9aptzpp = 65972
+local _kggsvm96bd = 908
+local _a1hmzt635a = 11399
+local _oy9j7g0v2m = 82450
+local _0icaph9y81 = 12533
+local _vh672p4qvc = 64608
+local _ouqtaoq5s1 = 7935
+local _emert3nms4 = 17399
+local _qb6xjrd0vt = 9209
+local _jjn3p8l3om = 89965
+local _43kdtpm91e = 27662
+local _ks14ppkmp9 = 76873
+local _ortin1szx0 = 66655
+local _ecnhe1zd3b = 76172
+local _qqmo00z5p4 = 91553
+local _3gg5ksqrhw = 67423
+local _qqgep2hpks = 96520
+local _hr8tcmek05 = 18502
+local _i99e359x9v = 41531
+local _5fjtdavm02 = 55196
+local _s2jd0s5099 = 72228
+local _o1ghkb1ad7 = 69817
+local _6umhv7k8d6 = 5801
+local _5aw2twgzc1 = 90995
+local _f9g97slqvn = 89985
+local _2dpexn18ci = 39178
+local _pgdc69lfnn = 31490
+local _l3rmjkpqp3 = 46263
+local _ph44e86mrf = 19394
+local _gd8q4b05iv = 94818
+local _lykbxepzt6 = 55246
+local _9n3s29uii8 = 12133
+local _f3vcrnskxg = 24812
+local _jwbz53zank = 31327
+local _kuqyqbqw4a = 39093
+local _2lzg9qw80b = 90368
+local _2y58f4ibu9 = 71838
+local _os1ypijysd = 40292
+local _eayqzw6dzi = 46610
+local _kvog9hd3yt = 1436
+local _apmwg3odyk = 657
+local _4vunqnhd0u = 95274
+local _3g29t9snrx = 15522
+local _96g6xvlkt0 = 74269
+local _z2fzyroaiq = 68442
+local _uxg72bslnn = 7582
+local _ujs1jpil6v = 670
+local _c21syw33fj = 68344
+local _klrvahi3a1 = 28337
+local _6tueawjjhj = 78415
+local _88pu8urpx6 = 87934
+local _owl8bgo8zq = 51533
+local _uvjup8ry2i = 22305
+local _rbwntdrrjp = 38097
+local _tr1oig3rm7 = 80235
+local _i5591ko76h = 91906
+local _403gcmtl9g = 40159
+local _4mui6ae2cg = 99259
+local _yu302rq1e3 = 68380
+local _tduyjjyz9v = 88117
+local _cnr0gmub01 = 1388
+local _dcgay2khaf = 58119
+local _mzouzpysfv = 15852
+local _ej12xtn09u = 31801
+local _49hlvd6cyp = 49855
+local _89nk9xkmwi = 27605
+local _olg4vylz5w = 38225
+local _rdjp9wbyju = 86390
+local _cdbztrod1h = 27059
+local _f7noigo1s9 = 50390
+local _j7214k9cxx = 30917
+local _lfvltkenqd = 34965
+local _519d3ajpoh = 50194
+local _b30tlz4xwq = 72366
+local _b9opybvjjx = 25033
+local _bqvg248p4i = 62332
+local _rqgqly5rut = 75121
+local _hv0o6rqepw = 37830
+local _7gfv913ciy = 17700
+local _tsn4qwwjyz = 80469
+local _ysiawex5ft = 15468
+local _lxld40vpc2 = 62165
+local _06v0scxk38 = 28351
+local _7egwbvxvza = 6304
+local _jfw5tl1bgx = 28638
+local _zuxpbkette = 29508
+local _8z7ushhzop = 41727
+local _tgr6pkaz1a = 23699
 
 -- Junk functions
-local _u8z0tvy2 = function()
-  local _r5a05xms = 601
-  local _upk32he4 = 828
-  local _fx4etoip = 58
-  return 84
+local function _t68waqsr1o(a, b)
+  local _xdfeg0uw2b = 822
+  local _bxrp6rrv85 = 39
+  local _ame44dycgv = 258
+  local _07h5oj1b5q = 213
+  local _chfst9wki4 = 624
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _c9ft5sve = function()
-  local _oyj9emvf = 860
-  local _y3g2cz3g = 402
-  local _r9zf1s7a = 403
-  local _08oql6oe = 611
-  local _p95mh4iy = 829
-  local _edyh8xjm = 215
-  local _x5ah66uu = 638
-  return 49
+local _dummy__t68waqsr1o = _t68waqsr1o(32, 40)
+local function _z90j4diwlm(a, b)
+  local _vj4z4faan5 = 119
+  local _68tu0iw285 = 413
+  local _w01ooornmr = 769
+  local _syvfb003da = 352
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _0wwiczkm = function()
-  local _g1lyzkrz = 908
-  local _bg2r422c = 979
-  local _x1ddvdek = 913
-  local _x1cszuy8 = 384
-  return 79
+local _dummy__z90j4diwlm = _z90j4diwlm(36, 16)
+local function _vd77fzrlpm(a, b)
+  local _dlh43v4fey = 893
+  local _oz1o0df47o = 10
+  local _x6pwjeg6cs = 705
+  local _g55xl6s54f = 882
+  local _7nn313dkcl = 609
+  local _952sj3umqh = 147
+  local _g7190xglst = 890
+  local _sfu0xabqw1 = 125
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _legz2hoa = function()
-  local _ezhf570x = 169
-  local _kdls4exe = 923
-  local _qgamn02p = 583
-  local _vtjg71rw = 627
-  local _lzjk58j7 = 601
-  local _csatbqlf = 983
-  local _3lvjedk4 = 566
-  local _wv8q1fkg = 298
-  return 80
+local _dummy__vd77fzrlpm = _vd77fzrlpm(7, 21)
+local function _0lvonfcf4o(a, b)
+  local _r3cke0ejyr = 710
+  local _gdc521gacc = 824
+  local _d328mdmftz = 658
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _179rlqjk = function()
-  local _nip6jt0d = 395
-  local _9ot2dchu = 767
-  local _6fh5lt6n = 607
-  local _qa011vky = 829
-  return 25
+local _dummy__0lvonfcf4o = _0lvonfcf4o(39, 28)
+local function _jp62hrcnwe(a, b)
+  local _lt86fdoerb = 416
+  local _4k7gmdosxu = 192
+  local _nogv4v3qfu = 158
+  local _vsfvn23sbi = 123
+  local _kudih6j2ov = 157
+  local _e3eqfb4b5e = 579
+  local _wiiua6lbyo = 37
+  local _ktrlnov3fo = 778
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _bvqviy4s = function()
-  local _rpdf2o8x = 610
-  local _c7gtak3i = 908
-  local _kd956gz2 = 558
-  local _jstqz8nr = 485
-  local _yqa3jywi = 380
-  return 56
+local _dummy__jp62hrcnwe = _jp62hrcnwe(15, 27)
+local function _nyqc52r7v9(a, b)
+  local _nhdue56fl0 = 754
+  local _za099xqoml = 566
+  local _9i7pfiue2l = 876
+  local _njhqr14shj = 234
+  local _anupdhsjoh = 703
+  local _rvpw6pzhzy = 72
+  local _wktk21a89k = 485
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _bpza4q0k = function()
-  local _cc7shh0e = 496
-  local _jfus5fug = 704
-  local _2ly7bns2 = 904
-  local _cmleawq6 = 372
-  local _rfpd5k6v = 150
-  local _8rkjg2o0 = 805
-  local _r8f78zao = 184
-  local _ozwxz3bg = 676
-  return 65
+local _dummy__nyqc52r7v9 = _nyqc52r7v9(47, 47)
+local function _hjme9pm62t(a, b)
+  local _owdlhzxmzn = 624
+  local _6ik5r9rfia = 855
+  local _abrktaztuc = 238
+  local _m3aq4xnb7y = 246
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _0jvth71q = function()
-  local _qvc187l8 = 376
-  local _njoinym9 = 439
-  local _iq05xofe = 244
-  local _fq3ir2qo = 365
-  local _flyqnuxp = 850
-  return 61
+local _dummy__hjme9pm62t = _hjme9pm62t(16, 19)
+local function _rp7wjvqlq3(a, b)
+  local _53qpa9fctq = 978
+  local _kbi2ynr4fc = 636
+  local _esi033ksrf = 929
+  local _v2vmeulgvc = 218
+  local _tojk57mgw8 = 449
+  local _gq8vgyeafg = 877
+  local _7ile0pbnf6 = 875
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _dtat9xrf = function()
-  local _q0tlngzg = 719
-  local _k4kfzotq = 61
-  local _kx8qg4bp = 512
-  return 94
+local _dummy__rp7wjvqlq3 = _rp7wjvqlq3(14, 6)
+local function _bvpiv3q4la(a, b)
+  local _cks3p5fh3d = 892
+  local _nizjlqkm67 = 393
+  local _gl64z8d770 = 43
+  local _6tb6j3gpls = 384
+  local _pwartg4hlp = 1
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _277e4wb2 = function()
-  local _rdsfmzx1 = 33
-  local _kamtmnuz = 16
-  local _6kdhe72h = 602
-  local _g06vrhbt = 358
-  local _pw0dhby6 = 239
-  local _j2vwyq23 = 603
-  local _wvikql1s = 486
-  local _a306aone = 628
-  return 20
+local _dummy__bvpiv3q4la = _bvpiv3q4la(9, 25)
+local function _hv2qvjgajg(a, b)
+  local _r712is5trm = 643
+  local _lwvo0a1p6i = 486
+  local _jexkeih73m = 323
+  local _n63x00x3s9 = 503
+  local _cgbxpz5s0q = 581
+  local _wmkkeaq5cl = 822
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _llaxk3x0 = function()
-  local _25gdzzc8 = 856
-  local _7qimombq = 96
-  local _q28u65am = 672
-  local _tk9vgb3o = 610
-  local _97qr3ntr = 240
-  local _xg0hsndz = 460
-  return 24
+local _dummy__hv2qvjgajg = _hv2qvjgajg(7, 35)
+local function _ogwg4sbnk8(a, b)
+  local _5bkqtdm6ja = 822
+  local _tgwyl7cxbd = 71
+  local _cguw79sm3m = 239
+  local _bz6cw5h4ln = 678
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _qmnd79q1 = function()
-  local _qx5s1tzx = 915
-  local _ipt30j8y = 633
-  local _4fye7ihd = 350
-  local _4ztbbpvm = 10
-  return 69
+local _dummy__ogwg4sbnk8 = _ogwg4sbnk8(30, 42)
+local function _g4rym89lmz(a, b)
+  local _kbagnoll00 = 847
+  local _7p457i34f2 = 855
+  local _0bqi0gnock = 649
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _g4fv45lw = function()
-  local _a7ji28zv = 359
-  local _xurc06p2 = 943
-  local _rqu2979p = 404
-  return 29
+local _dummy__g4rym89lmz = _g4rym89lmz(28, 21)
+local function _goje9qwpfu(a, b)
+  local _0kp8lwpkbx = 693
+  local _xvhdjqu7jc = 826
+  local _8sasvt468q = 859
+  local _evlx3fvtzq = 205
+  local _csngdpy2wv = 342
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _2ig67xm7 = function()
-  local _sh2vqjrk = 981
-  local _1q3m0gnz = 767
-  local _5i1s5v3a = 624
-  local _yaftty15 = 826
-  local _bhfqncku = 970
-  local _h9ckowqn = 180
-  local _zk8rl955 = 403
-  local _9ku5x6ul = 166
-  return 96
+local _dummy__goje9qwpfu = _goje9qwpfu(32, 50)
+local function _ix6yxho3o2(a, b)
+  local _x4zaqku00j = 593
+  local _nwswctsn5m = 97
+  local _80t5posa07 = 82
+  local _6azvunj17e = 260
+  local _zmnw5xou6g = 902
+  local _v34e21luc1 = 972
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _ayemqmtz = function()
-  local _kz95q8oq = 423
-  local _cv5kamc7 = 86
-  local _28ae2myu = 39
-  local _9lx7dmw9 = 505
-  local _m7bg4xo6 = 529
-  local _cpf5wufp = 392
-  local _b8qmrep1 = 333
-  local _25zfus3u = 311
-  return 27
+local _dummy__ix6yxho3o2 = _ix6yxho3o2(50, 16)
+local function _vrju0v7nyi(a, b)
+  local _jwk1ramk77 = 708
+  local _shuwhfearx = 78
+  local _lf0uaw1en5 = 864
+  local _aj65i9yca4 = 627
+  local _th63zhckqg = 512
+  local _zst87el5jp = 254
+  local _brhbd74skk = 414
+  local _pvro9i1rvw = 613
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _fz8ewoop = function()
-  local _vs7yvygh = 488
-  local _ezsx0imz = 206
-  local _dhjhn11z = 179
-  local _opmloa2o = 445
-  local _i2xsi8ua = 74
-  local _1jqc2kbc = 150
-  local _aaj4rtwg = 679
-  local _ratrlsfr = 780
-  return 44
+local _dummy__vrju0v7nyi = _vrju0v7nyi(47, 26)
+local function _e70agvivoj(a, b)
+  local _r87ev0w566 = 317
+  local _reel1lrz5u = 124
+  local _lfozgiet8e = 272
+  local _hwbqnbeg5g = 748
+  local _2ihb5o5ezh = 881
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _x2el6oi1 = function()
-  local _g0e82sr0 = 43
-  local _dxijl4sw = 506
-  local _b4gemzh1 = 612
-  local _nz8arect = 924
-  local _6axeu9i1 = 682
-  local _kqkeiyfr = 275
-  local _k4m12uhf = 997
-  return 96
+local _dummy__e70agvivoj = _e70agvivoj(28, 25)
+local function _0tpxapi67m(a, b)
+  local _oypaluw15v = 251
+  local _dxk8oaibj0 = 423
+  local _rh49ht8w9k = 327
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _err23irl = function()
-  local _dp7e5bqi = 417
-  local _woqlkt5p = 520
-  local _4szaq87t = 535
-  local _ydmfh6k2 = 186
-  return 3
+local _dummy__0tpxapi67m = _0tpxapi67m(43, 6)
+local function _g25l9wkl44(a, b)
+  local _dyspscjn8p = 744
+  local _jjs91go2df = 912
+  local _hquxbn09c8 = 31
+  local _iaoxtt1s4f = 136
+  local _kt7nfrjmg9 = 329
+  local _2k1q858h2u = 141
+  local _88d3olku17 = 49
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _q7og1336 = function()
-  local _lamx7sxp = 494
-  local _da77i4fy = 306
-  local _ht2ot95w = 657
-  local _d4z712hf = 455
-  return 60
+local _dummy__g25l9wkl44 = _g25l9wkl44(42, 15)
+local function _uvoufvhwx3(a, b)
+  local _scm54a5vs4 = 163
+  local _h4egsuns2m = 113
+  local _2b2t8vz5tu = 844
+  local _acfgs5jklt = 548
+  local _pmbjsoknck = 683
+  local _5ne233k6gu = 793
+  local _r6ew50s4hh = 633
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _jyjo1h0x = function()
-  local _l4satbjn = 97
-  local _sj87kgys = 514
-  local _aaqpnv3g = 118
-  local _7fxya96g = 945
-  local _38dn8yvz = 195
-  return 43
+local _dummy__uvoufvhwx3 = _uvoufvhwx3(35, 27)
+local function _5tg2p50s3n(a, b)
+  local _jsp8aql3k3 = 74
+  local _dedeylbnra = 287
+  local _t6atyn6c4s = 286
+  local _d34678rspb = 354
+  local _bplmpicra2 = 834
+  local _xrvd60yuq1 = 861
+  local _8c67o7glhv = 548
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _ggzj86jr = function()
-  local _b4scnjkz = 708
-  local _mtg0ozoo = 545
-  local _x0grvfqf = 286
-  local _qhy7cdfu = 917
-  local _gfkem7ly = 900
-  local _lf2eqe7s = 983
-  local _f30g5wht = 539
-  return 25
+local _dummy__5tg2p50s3n = _5tg2p50s3n(6, 24)
+local function _s3r3hy4jqz(a, b)
+  local _ylw2xs2rtb = 785
+  local _kh35js1gu9 = 924
+  local _wrp47ez8ym = 314
+  local _ccsb8d9kxq = 589
+  local _3rz624rony = 222
+  local _vawkhnbnbt = 995
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _68b05m5j = function()
-  local _okpwiwlt = 854
-  local _wxlt1q56 = 672
-  local _qn496pab = 546
-  local _agwxzd9d = 798
-  local _txqhguk5 = 84
-  local _336yqfz0 = 528
-  local _lddefmv2 = 488
-  local _p8vjnjue = 403
-  return 27
+local _dummy__s3r3hy4jqz = _s3r3hy4jqz(44, 7)
+local function _8k1hdw1wi1(a, b)
+  local _ahblibqcsr = 753
+  local _9qyy45k6f4 = 250
+  local _3h5x9nua09 = 718
+  local _sm22ctbbng = 806
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _91hmsck8 = function()
-  local _30rzd341 = 223
-  local _3lp46y32 = 2
-  local _gqvlje8i = 632
-  local _tw6wmupa = 581
-  local _s7diepmk = 630
-  local _qud1tfot = 263
-  local _6577czn5 = 989
-  local _x5dymfeu = 461
-  return 52
+local _dummy__8k1hdw1wi1 = _8k1hdw1wi1(13, 47)
+local function _ryw5bpex4m(a, b)
+  local _zveale2snr = 453
+  local _lqf367xbbg = 642
+  local _h2m0er1dc2 = 609
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _gp36voa3 = function()
-  local _syh65imo = 580
-  local _ogel9vq2 = 559
-  local _7knxa9tn = 839
-  local _gdxekhxi = 103
-  return 39
+local _dummy__ryw5bpex4m = _ryw5bpex4m(36, 47)
+local function _k4ugv0cxj0(a, b)
+  local _duozp6akt0 = 901
+  local _pz0s8z1n1n = 366
+  local _t9fnkmigx6 = 744
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _gqo523f6 = function()
-  local _o7konqmw = 406
-  local _13gtdlgr = 775
-  local _6pqr2eqn = 974
-  local _yo6y2e0s = 890
-  local _7d7aqfgd = 59
-  local _emlmmqj4 = 451
-  return 80
+local _dummy__k4ugv0cxj0 = _k4ugv0cxj0(41, 24)
+local function _zs4a52h5qo(a, b)
+  local _tkvwy6mmy9 = 466
+  local _kc9brqwlxh = 117
+  local _gfvven003m = 287
+  local _vlpcc2510c = 237
+  local _8qfgbc86vw = 655
+  local _0mideii19j = 223
+  local _znqthpsih2 = 923
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _6fupbd23 = function()
-  local _h20pm6wn = 199
-  local _21oo9ohb = 906
-  local _cfol15ru = 680
-  return 24
+local _dummy__zs4a52h5qo = _zs4a52h5qo(28, 24)
+local function _nr9q6mjbwx(a, b)
+  local _3gu5ltq4ml = 342
+  local _ccnuz3pi88 = 179
+  local _drgyx8rs5u = 362
+  local _8kvddc02x1 = 504
+  local _nl5juiq76t = 954
+  local _cgcy3vp2bd = 575
+  local _11irksr3nr = 5
+  local _2j419ftp3p = 973
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _jk1v3gbd = function()
-  local _e5rx3sjh = 71
-  local _lykoa3ym = 298
-  local _y7k7kkgm = 486
-  return 79
+local _dummy__nr9q6mjbwx = _nr9q6mjbwx(50, 23)
+local function _kovcox5jlu(a, b)
+  local _ryoxbb5zfw = 531
+  local _ho2xybjazn = 947
+  local _qzzddxh0i0 = 172
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _rofd8yn8 = function()
-  local _vik3krno = 24
-  local _43yp9riy = 512
-  local _o9p18j12 = 297
-  local _q7ni5hb7 = 156
-  local _gn8t7pl1 = 338
-  local _t1vu2y37 = 67
-  local _evo4rw1x = 139
-  local _hmwrpe98 = 702
-  return 54
+local _dummy__kovcox5jlu = _kovcox5jlu(42, 37)
+local function _yw9jirk3pt(a, b)
+  local _r9j7iwwul7 = 565
+  local _pve9is9c06 = 703
+  local _86rxkm9h2a = 176
+  local _ddtd44ynqc = 830
+  local _n64124wtpx = 966
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _y7gp75ym = function()
-  local _ziv6osse = 982
-  local _3uuzgegv = 832
-  local _1ciwyvfi = 678
-  return 67
+local _dummy__yw9jirk3pt = _yw9jirk3pt(33, 4)
+local function _18koffkne7(a, b)
+  local _96a10kmbk2 = 930
+  local _iirloyarzw = 422
+  local _523ulaxa9w = 412
+  local _jnnm0s8092 = 739
+  local _6u4n5h6hq9 = 785
+  local _531c81bq0m = 398
+  local _0vxnh2trdl = 818
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
-local _wno4b5ir = function()
-  local _lx5tqaod = 359
-  local _2zkiz5ym = 382
-  local _92qjrgh9 = 935
-  local _v9jnac5v = 210
-  local _ea5856xy = 635
-  local _dsss4wo7 = 402
-  local _lkolghbz = 214
-  return 82
+local _dummy__18koffkne7 = _18koffkne7(39, 22)
+local function _w4ehm79jbe(a, b)
+  local _zgyl6y42uz = 568
+  local _gzq3lpvgr8 = 79
+  local _bqk1jry7w9 = 917
+  local _of5hetjsiy = 291
+  local _g8n47j6ew5 = 753
+  local _qmzec4pt1n = 248
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
 end
+local _dummy__w4ehm79jbe = _w4ehm79jbe(43, 24)
+local function _qq1akp7epb(a, b)
+  local _2h3di0xa8g = 237
+  local _dc36tw18k0 = 701
+  local _xla3ptqu7j = 446
+  local _cbs11yhxvf = 88
+  local _1h5k7db4fl = 793
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__qq1akp7epb = _qq1akp7epb(11, 41)
+local function _7lhijeppvd(a, b)
+  local _647sotlu8x = 432
+  local _nhfx3gqypm = 39
+  local _pfwp3cku68 = 860
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__7lhijeppvd = _7lhijeppvd(20, 6)
+local function _2iiq0ncral(a, b)
+  local _ceoeukwlvx = 120
+  local _lnidt361nx = 788
+  local _lq6dnjrt6h = 288
+  local _lxbt6vi3qj = 979
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__2iiq0ncral = _2iiq0ncral(31, 46)
+local function _ime5ug2x5l(a, b)
+  local _hjsc20t7iq = 97
+  local _wn9v2nvmiu = 709
+  local _59vfgco8ln = 739
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__ime5ug2x5l = _ime5ug2x5l(10, 8)
+local function _ukj98r0myw(a, b)
+  local _e9wr3c5pt1 = 219
+  local _zdm56ggum9 = 598
+  local _8t8r9fvhyd = 889
+  local _47zsatylco = 948
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__ukj98r0myw = _ukj98r0myw(2, 26)
+local function _dvit8dy83e(a, b)
+  local _8m5xnbzvs4 = 434
+  local _e8c9w9d6g9 = 715
+  local _1iwe267fti = 869
+  local _2azu502dxl = 576
+  local _r9bhds4pvv = 922
+  local _mauz04jvc8 = 772
+  local _2og8j9w2oc = 57
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__dvit8dy83e = _dvit8dy83e(48, 12)
+local function _ot0xnwh30n(a, b)
+  local _qai2z673t8 = 426
+  local _wqck64wsy9 = 688
+  local _zh7koz2g2o = 960
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__ot0xnwh30n = _ot0xnwh30n(8, 23)
+local function _mmb6xnxjmn(a, b)
+  local _tdwz5y7h93 = 244
+  local _p65m9j3qz2 = 993
+  local _up5iileqpz = 311
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__mmb6xnxjmn = _mmb6xnxjmn(4, 36)
+local function _3j2jhiyfwq(a, b)
+  local _1bg46c6knc = 463
+  local _6rgimudtuo = 135
+  local _wq40nwo2mr = 786
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__3j2jhiyfwq = _3j2jhiyfwq(32, 42)
+local function _p3oz0totxn(a, b)
+  local _0ae0zbwo6v = 418
+  local _6yiwfv55u3 = 579
+  local _fjlakgp7eq = 212
+  local _p05yme2z3v = 687
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__p3oz0totxn = _p3oz0totxn(11, 48)
+local function _i40jdvd93j(a, b)
+  local _n3xcgys3hh = 681
+  local _g2ndfbdsis = 884
+  local _g1mixglp4q = 443
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__i40jdvd93j = _i40jdvd93j(33, 7)
+local function _eskv2feoib(a, b)
+  local _zpkjlloyaf = 432
+  local _qr0cojk7he = 750
+  local _3hx0ooohlf = 915
+  local _qeh9wju7ru = 934
+  local _jrjg1bjbp4 = 36
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__eskv2feoib = _eskv2feoib(22, 14)
+local function _y0vd48zlj7(a, b)
+  local _d8s1n29pzz = 96
+  local _c343mi7jb8 = 834
+  local _i9wokv5doz = 983
+  local _kwu9m3xbm6 = 275
+  local _s70bi0b6db = 87
+  local _cl3q4uhcag = 953
+  local _tvkitruwxn = 429
+  local _8dpu7ljluu = 19
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__y0vd48zlj7 = _y0vd48zlj7(19, 36)
+local function _7s58hi9xe9(a, b)
+  local _xj86o7ozjq = 934
+  local _5bo2n02cjs = 731
+  local _u56fq5w0zj = 280
+  local _a4tz9jhoc2 = 694
+  local _zfvgzv7hkk = 600
+  local _l1tyfg040h = 245
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__7s58hi9xe9 = _7s58hi9xe9(41, 22)
+local function _7vaum50m94(a, b)
+  local _rf47rs6qdw = 220
+  local _df12snsy2l = 146
+  local _o9abebxybl = 658
+  local _gnte0g7dy0 = 996
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__7vaum50m94 = _7vaum50m94(42, 26)
+local function _i7d6cockf6(a, b)
+  local _iwqn0qdez8 = 326
+  local _yztrc734ub = 848
+  local _7ov2qmcls2 = 846
+  local _komwsds06j = 87
+  local _9rah8go0ff = 825
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__i7d6cockf6 = _i7d6cockf6(2, 7)
+local function _8oupggsm2f(a, b)
+  local _7sl0mq0hg2 = 982
+  local _lq8atp6q0f = 86
+  local _p06rkjzncu = 633
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__8oupggsm2f = _8oupggsm2f(21, 34)
+local function _fvrx7qr215(a, b)
+  local _vxov7hqbbp = 690
+  local _36fte9ygmt = 964
+  local _pvi9ebcfbh = 301
+  local _mzzppwpd7f = 735
+  local _gj3lrnsugl = 956
+  local _v2j8uhuchl = 56
+  local _79k0y6cni8 = 641
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__fvrx7qr215 = _fvrx7qr215(45, 49)
+local function _csi7i22pgn(a, b)
+  local _s6oekca86j = 195
+  local _a5mm47lwpt = 151
+  local _gsk4z7gtjq = 637
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__csi7i22pgn = _csi7i22pgn(16, 39)
+local function _gmw53qneur(a, b)
+  local _i3i7c5wsuf = 130
+  local _sqhu1rabfd = 413
+  local _17kjye6vc7 = 639
+  local _n0trztk5ch = 199
+  local _l9abdvb0v4 = 299
+  local _eas0f1tt71 = 217
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__gmw53qneur = _gmw53qneur(15, 35)
+local function _wgona2t1ki(a, b)
+  local _nnttrgs0ne = 368
+  local _uljh0v912o = 757
+  local _ru3e3h1lm1 = 417
+  local _8azdygnn8s = 773
+  local _qrmfhml4c9 = 879
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__wgona2t1ki = _wgona2t1ki(29, 37)
+local function _r9xnkgd71m(a, b)
+  local _denjw84zt8 = 195
+  local _h36podqrdd = 925
+  local _kbeby8tjlv = 178
+  local _kfxors3ac6 = 117
+  local _pgyoe6s4jq = 138
+  local _rllqds9lq8 = 791
+  local _d1t2u0qjl4 = 371
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__r9xnkgd71m = _r9xnkgd71m(47, 27)
+local function _61y1rz1mcg(a, b)
+  local _x9enj9s33r = 632
+  local _6d5z3km85h = 317
+  local _e08cu9ec9f = 952
+  local _wv0dkikyj9 = 83
+  local _017883pyn5 = 433
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__61y1rz1mcg = _61y1rz1mcg(4, 24)
+local function _v9dojzmjc8(a, b)
+  local _6rx7g428k8 = 502
+  local _x84m5nyj8j = 807
+  local _c83iwgierk = 574
+  local _9g562h9ybv = 483
+  local _d73aqwwjhe = 539
+  local _swabm1cb7e = 453
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__v9dojzmjc8 = _v9dojzmjc8(36, 17)
+local function _n6lr5pyfp0(a, b)
+  local _n6bj1qzlyo = 129
+  local _javdwrzehb = 626
+  local _2zut45ymbn = 526
+  local _eztad227mk = 271
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__n6lr5pyfp0 = _n6lr5pyfp0(8, 36)
+local function _xosqajx2m0(a, b)
+  local _p4783x21jt = 836
+  local _dg9k3z65oy = 727
+  local _ez5teqoxhy = 476
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__xosqajx2m0 = _xosqajx2m0(21, 38)
+local function _r4m8drxbfu(a, b)
+  local _82xlhxegcx = 972
+  local _2zlpiy8q3y = 918
+  local _xmrizy2svv = 251
+  local _1k0vq7h3gu = 382
+  local _upkkwv9dx9 = 502
+  local _4meapy41rj = 760
+  local _9u5gzcaa44 = 69
+  local _5hjklczw4q = 282
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__r4m8drxbfu = _r4m8drxbfu(42, 3)
+local function _lnqq4uz98l(a, b)
+  local _9jm2crswv6 = 107
+  local _1ztbmfnsfq = 894
+  local _uhzt3tufdt = 891
+  local _7ue4lh2gxk = 179
+  local _55y4qfcnr8 = 661
+  local _iyvy9sworz = 622
+  local _911siflwvk = 807
+  local _a3xexgduby = 952
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__lnqq4uz98l = _lnqq4uz98l(12, 37)
+local function _07eac39ym5(a, b)
+  local _1d73sziikk = 694
+  local _ua8nuri3bx = 108
+  local _2u2rzaz98s = 529
+  local _1mhj5ojbl3 = 393
+  local _s6z6k3iqy1 = 933
+  local _fefs3gl381 = 118
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__07eac39ym5 = _07eac39ym5(50, 17)
+local function _9sponam57j(a, b)
+  local _9ahbftdjv5 = 134
+  local _gs045pih9j = 160
+  local _ja23on11r6 = 991
+  local _o9cx2wq6vg = 284
+  local _rk8zzeyz65 = 103
+  local _p2l4wdbf2y = 712
+  local _iua4dlrn6w = 216
+  local _3caes3n458 = 966
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__9sponam57j = _9sponam57j(16, 37)
+local function _050pu280gt(a, b)
+  local _4b0ps95m9y = 476
+  local _g9uuhpqi20 = 601
+  local _z3gybugm66 = 999
+  local _292w3n3r8v = 644
+  local _jxo5thwvv3 = 276
+  local _wf2vlktrvk = 397
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__050pu280gt = _050pu280gt(7, 50)
+local function _26u8x5culr(a, b)
+  local _tvbja712r2 = 717
+  local _pqhrcawyxd = 734
+  local _g8tdd3667x = 852
+  local _eo1tstemt4 = 67
+  local _ldkaq7t9zn = 79
+  local _z65yfh53jd = 710
+  local _x0das074h3 = 987
+  local _leo6m2qszd = 723
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__26u8x5culr = _26u8x5culr(6, 40)
+local function _70q11uhbkz(a, b)
+  local _k7ofzn2jkk = 707
+  local _aui2b9hici = 546
+  local _km4seqvyh2 = 43
+  local _1u7s964klr = 701
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__70q11uhbkz = _70q11uhbkz(13, 6)
+local function _jrjqvdfxbc(a, b)
+  local _77p62u2dlj = 280
+  local _rjsmmwf36m = 246
+  local _i9z95busur = 40
+  local _fnfvkq67xp = 518
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__jrjqvdfxbc = _jrjqvdfxbc(38, 50)
+local function _7tqrr1nrrc(a, b)
+  local _2f7hwso859 = 970
+  local _69qdjw8x45 = 903
+  local _zqqcrbfv8m = 878
+  local _u1sdlk3aam = 684
+  local _qqci07dmd3 = 589
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__7tqrr1nrrc = _7tqrr1nrrc(33, 32)
+local function _f6ttret3v2(a, b)
+  local _buy6amb6um = 206
+  local _rmu6w35wky = 453
+  local _54rsex5bn6 = 756
+  local _gb23odt7uq = 708
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__f6ttret3v2 = _f6ttret3v2(1, 47)
+local function _78ch430mfj(a, b)
+  local _63c6z4nprs = 100
+  local _cucilctpla = 675
+  local _y01prtx0zp = 977
+  local _z674c1b1sh = 250
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__78ch430mfj = _78ch430mfj(5, 2)
+local function _vagszfr7nb(a, b)
+  local _fdgxjd1zns = 614
+  local _xha8wlr129 = 885
+  local _28a7cln0cl = 638
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__vagszfr7nb = _vagszfr7nb(1, 39)
+local function _1yj5swftwu(a, b)
+  local _9aufkm8vlo = 515
+  local _4mfad3ft0u = 89
+  local _fwuy5q2nq7 = 941
+  local _k4d3931up2 = 84
+  local _7biheuva0c = 517
+  local _np72rddrqx = 883
+  local _zbgh2e49xt = 772
+  local _jzrs1jgp8j = 899
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__1yj5swftwu = _1yj5swftwu(42, 38)
+local function _pfof0epjha(a, b)
+  local _xft4t1gerq = 791
+  local _azq26j7g6f = 827
+  local _7foldz9ayb = 651
+  local _i6hn8n413z = 348
+  local _6lmklufbxq = 597
+  local _ebk06kdntd = 75
+  local _6fp9xx1ahi = 862
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__pfof0epjha = _pfof0epjha(29, 5)
+local function _1fd94ug4rs(a, b)
+  local _5ilyy9sdc5 = 906
+  local _4vbax7gf6j = 757
+  local _dl2gppmvtj = 275
+  local _rchtpnpx16 = 553
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__1fd94ug4rs = _1fd94ug4rs(22, 36)
+local function _okbz5nllr1(a, b)
+  local _lvl521ouc3 = 365
+  local _j6yzaqk7ym = 732
+  local _wzocpm3qj2 = 448
+  local _1gep7pge5d = 46
+  local _4x38c7wnwg = 308
+  local _5szdbwqc8i = 171
+  local _pkz8f7n3t4 = 671
+  local _7du5047kl8 = 627
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__okbz5nllr1 = _okbz5nllr1(11, 39)
+local function _u31ff05x5l(a, b)
+  local _6l4qblywgk = 865
+  local _7oqtuxys78 = 233
+  local _656dk8u6te = 545
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__u31ff05x5l = _u31ff05x5l(39, 27)
+local function _voqtjvjjkf(a, b)
+  local _ci7bgmzcjg = 72
+  local _6l4qbp2dhz = 20
+  local _5de9fwejqj = 386
+  local _w9gsthi6fp = 526
+  local _mlm75451ll = 111
+  local _hdhfqnakyv = 944
+  local _9zc8knnztc = 854
+  local _q5ft8ov8t8 = 147
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__voqtjvjjkf = _voqtjvjjkf(26, 14)
+local function _79n9th9whn(a, b)
+  local _egckbn1lti = 92
+  local _mzkwashf6n = 718
+  local _481ktjd3nm = 744
+  local _s95c2ic862 = 259
+  local _23lkkeq316 = 798
+  local _nck2das2ie = 394
+  local _4twh9lhi71 = 365
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__79n9th9whn = _79n9th9whn(17, 20)
+local function _d6rmkiyycp(a, b)
+  local _uy3ylxg4c8 = 832
+  local _h32nbkdiqq = 966
+  local _oktc7fe9ao = 453
+  local _pgduijwbas = 988
+  local _jhz8xjyjzm = 313
+  local _d07lgw0mgg = 410
+  local _7x4gj3uepz = 487
+  local _my691zrvwe = 812
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__d6rmkiyycp = _d6rmkiyycp(50, 30)
+local function _bpiqz0h9yp(a, b)
+  local _gaafi8v51t = 660
+  local _ykbj6ejgqb = 126
+  local _osg6fymfvr = 67
+  local _t9op29xdjn = 825
+  local _plx7utpnbh = 874
+  local _8hozbkwamt = 259
+  local _5fd2fl6ydw = 995
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__bpiqz0h9yp = _bpiqz0h9yp(43, 1)
+local function _44xxd42hey(a, b)
+  local _35o4hqyp1l = 465
+  local _hyhyqpbgpg = 910
+  local _kgft6zgp52 = 775
+  local _87afy2vhx7 = 491
+  local _hfphqwo2x5 = 286
+  local _jf12jfb2wh = 646
+  local _nacj5wgvw2 = 602
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__44xxd42hey = _44xxd42hey(27, 44)
+local function _83kbsfyhqf(a, b)
+  local _u4dfqm58gh = 520
+  local _unf6gfoh5j = 952
+  local _bqmrse9col = 690
+  local _kslvq55q0x = 779
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__83kbsfyhqf = _83kbsfyhqf(29, 30)
+local function _9yjskdc974(a, b)
+  local _u4l22x88wr = 515
+  local _2whv9m4y8i = 438
+  local _bkxpliogxc = 162
+  local _em7rpeywab = 111
+  local _pqnjjpb6q4 = 421
+  local c = 0
+  for i = 1, 20 do
+    c = c + (a or 1) * (b or 2)
+  end
+  return c
+end
+local _dummy__9yjskdc974 = _9yjskdc974(2, 7)
 
 
--- String decoder
-local function _dec(s)
+-- Encrypted code loader
+local _key = "tjX0"Ihx%DD<sJ|1jXm228$>90f#4J0'"
+local _hex = ""
+local function _hex2str(s)
     local t = {}
     for i = 1, #s, 2 do
         t[#t+1] = string.char(tonumber(s:sub(i, i+1), 16))
     end
     return table.concat(t)
 end
+local function _xor_dec(data, key)
+    local r = {}
+    local kl = #key
+    for i = 1, #data do
+        r[i] = string.char(string.byte(data, i) ~ string.byte(key, (i-1) % kl + 1))
+    end
+    return table.concat(r)
+end
 
--- String decryption table
-local _f2t1l9r4 = _dec("19496b76696a")
-local _w3g7lq8q = _dec("8cdce0ede2f8ff")
-local _8jms77q1 = _dec("abe3cad9ddced8dffbcaded8ceffc4ccccc7ce")
-local _0oj40bz6 = _dec("fbb4899a959c9eb38e99d4")
-local _oszw7f1d = _dec("de90b1b0bb")
-local _vtu2cm5z = _dec("0750667362756e696044666974")
-local _qr983wh6 = _dec("d2861e23f21c21e0bbcb5f29fa7b3f286ba28f291162bcb5")
-local _wcn9sg19 = _dec("edac989982bd848e86be888889b9828a8a8188")
-local _zguubnaf = _dec("e3a08b1e2e8dc3b01e12c3a88a1e248d")
-local _lhq2dyoj = _dec("7d2e1818192d1c1e162d0f12100d09")
-local _hbeegigg = _dec("c094a5b8b482b5b4b4afae")
-local _t2p0rh92 = _dec("7c0c151f17090c")
-local _ym465bpf = _dec("ecaa9e9985989f")
-local _jp887hhd = _dec("793014181e1c35181b1c15")
-local _d0ndal59 = _dec("7335121816241612071b1601270a0316")
-local _3xellyyy = _dec("01516d606f754c6e6564")
-local _7rfp9gyr = _dec("95d11e64b5185fa74fb")
-local _30m8pm1n = _dec("e4a98594")
-local _lrlkyk1t = _dec("91c2f4f4f5c1f0f2fa")
-local _c23uc1x3 = _dec("eea68f9c988b9d9aba818989828b")
-local _cjpfszcz = _dec("4f182a2e3b272a3d0c20213b3d2023232a3d")
-local _6cv8bvfr = _dec("7c330c19122f14130c28131b1b1019")
-local _nb3gstbh = _dec("c58ab7a4aba2a08db0a788acab87b1ab")
-local _vbw23nqf = _dec("b7d5ce97d8c5d0e8c1dec797cf97c7dac3")
-local _t4px6pki = _dec("ade5ccdfdbc8ded9ffccdfc4d9d4")
-local _jhl3zpes = _dec("99cdeb19af7feb9cf79f7fe")
-local _egfe7fr5 = _dec("c794b3a6b5b4b3b5b2a4ac")
-local _0jyewxuq = _dec("6e3d070900")
-local _vvtgj68h = _dec("80d0f2eff8e9ede9f4f9d0f2efedf0f4")
-local _bqjp97k8 = _dec("a5f5c0d1d6")
-local _xlmr6yn9 = _dec("3165435e46545d42")
-local _9rpkldar = _dec("1566707071")
-local _cltkhxgg = _dec("f4b695979f8495979f")
-local _y9q0tvf3 = _dec("eab88b988f")
-local _i9346hly = _dec("206155544f625559744f47474c45")
-local _pb6wx7gp = _dec("09487c7d664b7c70596c7d5d666e6e656c")
-local _8ow6uume = _dec("bcefd9dfced9c8")
-local _povntyue = _dec("236e4c4d48465a")
-local _xg4n0brv = _dec("aae7dfdecbdec3c5c4")
-local _5w13yezi = _dec("e3a08c8d97918c8f8f869190")
-local _w38iyg5l = _dec("084c1b81ed361284660ea66285e1ea57c")
-local _vkepwdzk = _dec("e2858b8496")
-local _yrxtxtcg = _dec("2a6b5f5e45685f537a4f5e")
-local _7jniny18 = _dec("d691bfb0a2ecf69dbe22b8b1f6b525f6a01e7ba2f6a6be1e7fbbf6b836b9f61c71e15f6b11e3bbff8")
-local _d8b0n0to = _dec("bccfd4d3cad9d0")
-local _n6pc656x = _dec("236e5a574b4a40")
-local _7affhumx = _dec("aee3c1cacbc2")
-local _kk1elxsx = _dec("d8f8f097aab9b6bfbdf890adbaf1")
-local _dsv6hmm8 = _dec("5105391e8c387105381eee257116381ef2")
-local _yewqbt2i = _dec("91c6f4f0e5f9f4e3c1e3f4f5f8f2e5abb1c5f8fcf4d2e8f2fdf4d5f0e5f0b1fffee5b1f7fee4fff5")
-local _i3h27ags = _dec("a9e8c5c0cec7f9c6dac0ddc0c6c7")
-local _epjl4izb = _dec("bffcd0cddaefdecdcbf1ded2da")
-local _dvrrr2n6 = _dec("652704160c0645350a11")
-local _s0mv021f = _dec("bcffd41e71d29cf41e1dc89cfbd51e6dd2db")
-local _d7qi799d = _dec("56053e3724333212372237")
-local _cdvi90gw = _dec("246e514954046951574c564b4b49")
-local _25ntn6xz = _dec("b9f6cbd8d7dedc99f1ccdb")
-local _n3d9ztww = _dec("386b5b4a5d5d567f4d51")
-local _5bld2gxl = _dec("56063322022f263325")
-local _9ne9yb8u = _dec("510239302334351c3e35243d3422")
-local _y3jjzs7k = _dec("0d4f6868")
-local _b6xwba4w = _dec("bdfadccfd9d8d3e7d2d3d8eddccfc9")
-local _0dh0xfzg = _dec("e0a28f8f8cb6818c9585")
-local _x8jf7kuu = _dec("9ecefbea")
-local _rfey2txq = _dec("2b6a5e5f447843445d4e477f444c4c474e")
-local _hm36afjq = _dec("f286809b9787")
-local _f7hdni3v = _dec("e4a5909085878c89818a90")
-local _ye249jpm = _dec("89fde8ebe5ec")
-local _wowwx2nr = _dec("590935362d")
-local _9pu0hmpx = _dec("5a0e1eab7a14a1e83343d7a172f3b7a121efb2e7a1d331e8b343d")
-local _a53o8fjk = _dec("317743505c54")
-local _sb8eil9y = _dec("194d1ee8391091ec0777e395e707c7639511eb86d395e701ec8777e")
-local _3vuciuns = _dec("03416f7671")
-local _jse1845r = _dec("c99dbb1caa7aee98428bc")
-local _m5pwn6rh = _dec("26704f5553474a")
-local _ru622h80 = _dec("87c3e2e2f5")
-local _eq2e15gf = _dec("a1efcee9c0d3d7c4d2d5ecd4d5c0d5c8cecfd2")
-local _ymc8witt = _dec("5d1b3c2f30")
-local _fl5yob67 = _dec("a8fc1e59881b81e71c6cf88eb1181e73d888fcda49c188eb4ad1")
-local _g3miwhdj = _dec("613300080f030e1632040405")
-local _485kedsn = _dec("b9cad1d6c9c9d0d7de94dad8cbcd")
-local _fiurvdnj = _dec("f083958484999e9783")
-local _cylhwx4u = _dec("1179656561622b3e3e6370663f76786579647364627463727e7f65747f653f727e7c3e75706678753c627263786165623e577d64747f653e7c70626574633e5075757e7f623e587f657463777072745c707f707674633f7d6470")
-local _vzp849dc = _dec("91c51e60b11811e48fff6b1dce4f0b1d6f4f0e3")
-local _xvqhfz5x = _dec("065573766374756f7c63264b73756e7469696b")
-local _d8j0djnx = _dec("4e1b3d2b3c07203e3b3a1d2b3c38272d2b")
-local _cpi7kgzk = _dec("41032e253817242d2e22283538")
-local _isgphpoq = _dec("16421ea17871364763f6")
-local _3y2mrzk7 = _dec("d79fbeb3b294b8bbbbb2b4a387a5b8afbebabea3ae87a5b8baa7a3a4")
-local _1v6rpd8t = _dec("5a123b282c3f292e1c33362e3f28")
-local _6h2wlehl = _dec("bdfcd1d1")
-local _qmfgw1a6 = _dec("ffb214f9e")
-local _6ed8ppyf = _dec("480b201e8526680ba92b20680f212d2768001ee93c680f211e99262f")
-local _lu37otuc = _dec("c880a9babeadbbbcadac8ebabda1bcbb")
-local _rahtru9c = _dec("be1ae54d3")
-local _21hsj4gp = _dec("386f505d5d545a594a4a574f")
-local _gwn0fz1o = _dec("64370c0b120108")
-local _0dnjnam1 = _dec("8bcafeffe4c9fef2d8eeeeef")
-local _zg0t2ssl = _dec("b6e5c6d3d3d296fbc3c5dec4d9d9db")
-local _w10jaqjp = _dec("cb87aaa5bfaeb9a5")
-local _4nws0jrz = _dec("efbc8a8a8bbb808083")
-local _7amil987 = _dec("3771565c52")
-local _5tgieanr = _dec("15457d7466704661746761417c7870")
-local _vpbyzq9n = _dec("dc97b428b2bbfca830b1fca8b41e79a5fcb81e2dfc1cdb33db2fcbfb4b3fc80")
-local _u7g5xlj7 = _dec("47031eb66715728a62967132f1e9a2e67132e1ef833")
-local _7252bvw9 = _dec("32174112122737c75125a5d1e9346121231eeb5c55136e5c625a534157125a5b1ef55c12461e935b08121741121a51c05c1217411b")
-local _z2a88meo = _dec("d183b4a1bdb8b2b0a5b4b582a5bea3b0b6b4")
-local _2plej8q5 = _dec("b1f7c3decbd4df")
-local _77pc28qw = _dec("1c4f7979786f")
-local _sh5lkcjj = _dec("98ebecfdf9f4")
-local _jevl56u7 = _dec("075477756e696c6b627574")
-local _9t9tigz6 = _dec("15597072707b7174676c354665677c7b7e797067")
-local _fg4ygfm6 = _dec("36755e1efb58166244d75f1675d44f")
-local _wwu0z1pz = _dec("2d7f4c434942400d7d414259")
-local _wrbbuip5 = _dec("44162b26282b3c03312d")
-local _1tb34nxe = _dec("96d3e6fff5")
-local _xje1ygdp = _dec("ecb8858189af958f8089a88d988d")
-local _njfc2qel = _dec("bafdd3dcce809aee56d79aced21e1fc39a9fde9ad6d51e1bd39acc1e17ce9acad21e13d7949af81e15ce9a1ab1e1dcf9add1e57d3949494")
-local _fh4jrvxr = _dec("0d4fec632d5962ed632d4f1ed42d597fec642d4eef74")
-local _wvhp9ufy = _dec("095c67606a667b67")
-local _y94f8yla = _dec("89dde0e4eccaf0eae5eccde8fde8a9e2e17de7eea9e2e11e2aa9ed1e6ce7ee")
-local _cyyhigz2 = _dec("2e6d4140484749")
-local _pnpy8t7g = _dec("05466d1ec86b25516dff25461b56b62")
-local _nd0hpa4y = _dec("4d1f2c24232f223a")
-local _qh11u5fg = _dec("42112a2d34272e1023302b363b")
-local _01tkmaw8 = _dec("2f6846495b150f6447db41480f5b471eec0f5b5d5a560f4c1e825f0f59cf400f4447400f13e1efc01")
-local _73j1bl2g = _dec("eaac989f839ea38e")
-local _h9j2cuta = _dec("2175531224f460116016cc154")
-local _jmxscp10 = _dec("66330805090b0b0908463516140f080d0a0314")
-local _3ofsycjh = _dec("d396bea3a7aa83bca7a0")
-local _vzvf4u9d = _dec("bfecdadadbefdedcd4cc")
-local _t2ar76cn = _dec("90f8e4e4e0e3aabfbff7f9e4f8e5f2bef3fffdbff4f1e7f9f4bde3f3e2f9e0e4e3bfd6fce5f5fee4bfe2f5fcf5f1e3f5e3bffcf1e4f5e3e4bff4ffe7fefcfff1f4bffdf1f9febefce5f1")
-local _nq7774xl = _dec("a0f0ccc1d9c5d2d3")
-local _z6a3dosn = _dec("dfacabbead")
-local _osf04ypr = _dec("15416270707b467067637c7670")
-local _b0l6h38q = _dec("ca9aa6aba4be83ae")
-local _6ynuh2a2 = _dec("a5e4d0d1caf6d1c0c4c9f1cac2c2c9c0")
-local _4kkifm0q = _dec("38715b5d186b5d4a485d564c")
-local _34g6f2xw = _dec("7527141b111a1855231ebe55210798")
-local _hcfu1pu3 = _dec("bfeb1e4e9f1af1e66d1d89ff75ed69febcd5ed69ffc5dc6")
-local _an8aab8a = _dec("88db1e2de5a8db61fc")
-local _ozrrkc5o = _dec("c496a5b6a1e497b4b6adaaafa8a1b6")
-local _ikmfcuhb = _dec("efa886899b")
-local _eggxy9ii = _dec("5b332f2f2b28617474293a2c753c322f332e392e283e293834352f3e352f75383436743f3a2c323f76283829322b2f28741d372e3e352f74363a282f3e29741a3f3f34352874083a2d3e163a353a3c3e2975372e3a")
-local _efxh5lj4 = _dec("8bc8e4e7e7eee8ffe2e4e5d8eef9fde2e8ee")
-local _ilt41rzc = _dec("e3b18280808c8c8d90")
-local _7xxzqlvg = _dec("dc9da9a8b38cb0bdb2a888b3bbbbb0b9")
-local _3drejubz = _dec("30654355427954")
-local _yz27enfx = _dec("91d2f91e5cffb1d6f4f0e3")
-local _iffxss4t = _dec("3a79521ef7541a6e521ee7531a6e531e854e")
-local _nq1s5mpa = _dec("34124555a5314401e975d1a1a1a")
-local _obvvdgws = _dec("aaf8cbc9c9c5c5c4")
-local _nbzzmadn = _dec("b9edcbd6cedcd5")
-local _fovsca9x = _dec("36715f50420c167e59d65816421e93421716126d516511edb5f16135216401e9b4216465e1e9f5b161271e895816134518")
-local _zp2ctpau = _dec("8cdff9fce9feacdbedf8e9fee5e2ebaccfede2")
-local _j9xlhxqo = _dec("c88aa9bbad98a9babc")
-local _ph25xpng = _dec("216c4e45544d44724253485155")
-local _gb87tu6r = _dec("dd8dafb2a5b4b0b4a9a48dafb2b0ada98eb8afabb4beb8")
-local _ptjsqazk = _dec("acf8c3c3c0")
-local _9p4ksiij = _dec("f9acb0ba968b979c8b")
-local _y5oq8l55 = _dec("a0f2cfc2c9ce")
-local _zbmqrb8f = _dec("4d0b2c26281a282c3925283f776d1a282c3925283f0e2223393f222121283f6d2322396d2b22382329")
-local _ocb91ju5 = _dec("22614d4f4f4d4c027152504b4c494e4750")
-local _dsy3xzzb = _dec("632c140f")
-local _7mejovgj = _dec("3c7f535050595f486f595958")
-local _i3pz3pof = _dec("de96bfaca8bbadaa8ebfabadbb9ba8bbb0aaad")
-local _6fyxatfh = _dec("8fcce0e2e2e0e1")
-local _wwuj0kc6 = _dec("30425248514343554459540a1f1f010109080703000809080706070208")
-local _mksc5wgn = _dec("c586b7a4b1a0b6")
-local _lwo394h8 = _dec("b5e6d0d0d1f1d4c1d4")
-local _etuzf3ls = _dec("ca9ea21e17a3ea9ea31e75beea87bf1e1ba4ea8e1e3bea1daa52ba4")
-local _cpz6sel0 = _dec("520127223720")
-local _pct9eihz = _dec("59797777792d362a2d2b30373e71061e772e3c382d313c2b092b3c3d303a2d0d382b3e3c2d7079777779")
-local _10eyivu3 = _dec("96d0f7fdf3c1f3f7e2fef3e4c2f9f1f1faf3")
-local _tzvq9058 = _dec("aee9c7c8da948eec1e01da8e1bf1e09db8eda42c38ec5c71e11c38ec0c911e1e73c78ecdc610fc7948e")
-local _rw5mipex = _dec("e4b4859690")
-local _onbf6clv = _dec("501d31393e")
-local _s6it4ny0 = _dec("8bcce2edffb1abdf67e6abffe31e2ef2abdef8eef9c2efb1ab")
-local _vj9unrcn = _dec("bbfcd2ddcf819bf0d34fd5dc9bcf57d69bcfd31e1ec29bd5dc10b1e66d29bd8d311ad29b9c")
-local _st0uur6e = _dec("7d281319180f5d2d111c04180f")
-local _oyoeyhvn = _dec("cd8aa4a8a2ed851e6cb9ed8aa41e1ca3aa")
-local _q8ok4b3t = _dec("e1a88f9788928883888d8d889598c1ac949289938e8e8c")
-local _7g0pva4h = _dec("b7f6c2c3d8f5c2cef0d2d6c5")
-local _htp47vil = _dec("cc8ba5aab8f6ec87a438a2abecb8a41e0fecb820a1ecb8a41e69b5ec99bfa9be85a8ecafa4a3f6ec")
-local _4dcuxths = _dec("e880818d9d8b8c9e86d1d1")
-local _ubjq9ysc = _dec("89dafdece8e5d9fbe6e4f9fd")
-local _eqqppg7y = _dec("cb89a7aaa8a0eb8fb9aaaca4a5")
-local _crvqwoac = _dec("e8bb8d8d8cb8898b83bb98899f86bb8d9a9e8d9aa4878b899c8187869b")
-local _xzomqhop = _dec("30735851595e5554")
-local _nmtfnqjm = _dec("d98ab1b6a9")
-local _7b98xbso = _dec("47143322262b67616704282b2b2224336714222223")
-local _rug3cmre = _dec("a0f3d4c5c1cc80c6c1c9ccc5c49a")
-local _iy1w7i2d = _dec("025377e222761eb56c6522761ee922")
-local _8ymlsf8c = _dec("7a291f1f1e341b171f")
-local _jcd2xcj3 = _dec("0b597e65586e797d62686e")
-local _2dztpod6 = _dec("5739223a353225")
-local _zm8w2ir6 = _dec("84c7ebf6e1c3f1ed")
-local _nrfednqo = _dec("d281baa0bbbcb9f29fa7a1baa0bdbdbf")
-local _wvfqsz22 = _dec("95c1f0f9f0e5fae7e1f0e7")
-local _7b6dk71q = _dec("b9eaccc9dccb99eac9cbd0d7d2d5dccb")
-local _ktgqr0aq = _dec("5f192d3038")
-local _g48hfvg2 = _dec("a1e4cdc4c2d5d3c8c2")
-local _ywg8cn44 = _dec("387c594a53")
-local _r2en3taj = _dec("fdbf91929299919489")
-local _he4fgthj = _dec("f4bc8199959a9b9d90")
-local _410nfmkq = _dec("0d591efc2d11d1ed4636a2d5562ec2d4eef74")
-local _ixq1hp6i = _dec("77231ec0191057241212135b30121605595959")
-local _fkwyf3e0 = _dec("f9be909f8dc3d9b51e2e90c3d9")
-local _4awuehj1 = _dec("95d6fd1e58fbb51851e4cb5ddfc1e2af8")
-local _58lh0i46 = _dec("6220170c0c1b")
-local _o21acunu = _dec("7f2f171e0c1a3b0a0d1e0b161011")
-local _1t1brxrr = _dec("e5a28a8981b6808081")
-local _92m6wr18 = _dec("9ccff9f9f8cff4f3ec")
-local _9i1nn5dj = _dec("b2e2deddc6fbd6")
-local _adn0302t = _dec("abfbc3cad8cef9cec6cac2c5c2c5cc")
-local _affix5bu = _dec("2e635b5d465c4141435d")
-local _g9k1gi59 = _dec("cd8aa3a2a0a8")
-local _myluca11 = _dec("1951786b6f7c6a6d496b7674696d")
-local _etgm4ayj = _dec("f3bd9687849c81989a9d94")
-local _ydpj8by3 = _dec("a9fd1e08c489ed1e42c7ce89e148c089fddb48c089ea4bd089e2c1c089ea5a89fa1e5889e2c01e6ec7")
-local _9ycsb07o = _dec("b3f4dad5c789931a35093d41e5eda9396d79c96d793c51e1ec793c3db1e1ade9d")
-local _4ds7qcb1 = _dec("c087afaca4")
-local _zd4iusc9 = _dec("4c1839351ef338")
-local _2nopzjbs = _dec("386d565b5755555756")
-local _x4eya0rq = _dec("b3fbc6ded2dddcdad7e1dcdcc7e3d2c1c7")
-local _8dkjik28 = _dec("a2e3d7d6cde0d7dbe5c7c3d0f6cdc5c5cec7")
-local _6tymawsf = _dec("34785153515a5055464d")
-local _q82egbt8 = _dec("a4e3cacbc9c1d7")
-local _kv0nhtvf = _dec("93ddfaf4fbe7")
-local _lajaegvj = _dec("d493bbb8b0b1baf490a6b5b3bbbab2b8ad")
-local _c9nj4b3o = _dec("723f070613061b1d1c36130613")
-local _kyqq2kjt = _dec("2c6744d8424b0c64cd450c785ecd450c6fce550c6159584d58454342")
-local _ez65cojv = _dec("d98d1e28f91c91e00b7bef997b11e6eadf98abcbcbdf9f19eb6b5bdf5f98bb8b0b7bbb6aef7f7f7f0")
-local _cttbs7ht = _dec("a7f4c2cbcbf3c8c0c0cbc2")
-local _7q134i0t = _dec("dfb3babeb9")
-local _kp6k3syi = _dec("afffc3ced6caddfcccddc6dfdbdc")
-local _as8cdbmw = _dec("81c0e2f5e8f7e4d1e9e0f2e4")
-local _8f9i8zlz = _dec("48182429263c093a2d29")
-local _dtbns6sn = _dec("92c5f7f3e6faf7e0c2e0f7f6fbf1e6c6f3e0f5f7e6")
-local _8e3k0vdm = _dec("692a0604040607493e081d0c1b00070e492a0807")
-local _6gdk47sl = _dec("d1f4a2f1a21e6cf1a9a41e74a5f1b9b81e16bff1a2b0a4f1f4e1e3b5ebf4e1e3b5ebf4e1e3b5f1f9a5a3bebfb6f1a1b9b0a2b4f1f4a2f88dbf81b9b0a2b4f1b9b81e16bff1a51e70b8ebf1f4a2f1f9b223bff1f4a2f8")
-local _bgnqjsl4 = _dec("87cfe6f5f1e2f4f3d7e6f5f3")
-local _4ydwkkae = _dec("642b14010a44370c0b14")
-local _8samzn1z = _dec("bae9dfdfdeeac8d5d7cace")
-local _kgknrbsc = _dec("387f515e4c02186cd25618565f1881ee5511856501e9556185350cc565f18501edb4818541eff16")
+local _gfztb5nklb = ""
+_gfztb5nklb = _gfztb5nklb .. "0cb08d4dfbc7b430b7a43f42766d76847989e738f7454069cf722cbeef6fa561ed1ff235a3081248bd856f44b71f2c8c9e9b511e24d0e2001526ed229eece17fb8bb80eebf486ee895acc310873598aee64749efae4c1626a069bb1e1ede2403b9a795fd"
+_gfztb5nklb = _gfztb5nklb .. "ef94a5b5e9899b001d87294eefda3d0b635e8e2b999351ac6f4b820b8cc61e913969cc1ffa3de28ae3f77373ce5265fcfab3dfa8931d4ab062df4fc08ea06f5f2ba5916204a33a281f39c968c07bfddb48f02dd897a763bf7211f98cec3a0e39e72cd342"
+_gfztb5nklb = _gfztb5nklb .. "e72b2e13260d0b5c8fdd88b407ca15d8f1fcd261d0ed75c5c3d4b2ab038837c3421d54e020e97cf010b9168670763c9a8152f41f200038e21b778d767b296bd19b40de80658a6106c480e370070c79799526554fb1b88d6cab0c82569b5386be12998d4c"
+_gfztb5nklb = _gfztb5nklb .. "c451d107cbd3d22a8a92c7f9110c25ddfe9e609a72548f2a6b58a32cdeaa308c8302a131c8ad64cbccfa7689f17f069615109f9304007829d8dea0cb690949ad0d5cc68f007833bb5df571eaa410f977d6e955438ec256e03f36c9e2c4679303eed1ea6f"
+_gfztb5nklb = _gfztb5nklb .. "c5c50c8412c5bd957e266c49b98667a7d9bc109bba50cb8959f011abfdfe95cd59ff070adacc184b970a7b4a25b4a9306da55e8bff7170cff09f2c34b44c66031dbe064d5ecd529ade71913f0b782ddae5835f517eb5e1d18617938ee35cc2c1b7d50451"
+_gfztb5nklb = _gfztb5nklb .. "b3f81b5216f4333ead7931724c2d564cf3b334cd87304814bb9b2fb02a9be081e49a6d65f325983a6348ae7dd880eb89993fe63778838558a62ded927be1c38d6b3f35ecc3ed9ff15f5619df7b4bd78f71b9d8feea830bbf08bf26973fed6b5f37156ac0"
+_gfztb5nklb = _gfztb5nklb .. "39c8b030e3982f634a771ca8ce7f6d5aa886bb1bef07f460b4609e6f1d48b4d917c2e2e668921c5d9200bf58b16c817d75974fe0d0043470bde072a23272bedf81111ae4aec875272dd2598ae9807fd3c50bf436a14e8e9ee59aa54512ec35d60b0f3a94"
+_gfztb5nklb = _gfztb5nklb .. "e359e7f538e6f1e74cae72048449b9cd11aa065f570c1031b717f89e903478bd53756d06abadcae4a204ea2b9eaa6e9d6966265a46e39874786942c436cd6e62ca67b7eced877af79a59cdc050cec3b8d9aba50b7b5ba71d32f6006b8b88426f7c62b84c"
+_gfztb5nklb = _gfztb5nklb .. "6e1e7ed64895739463e062b25b752213312d31614dd19e1f5f01f004bc2c56e9881b876f3a132d4c90c2943e334c222e8373edc0e27e5de4235dd0d572d1234d4cc88e0d9e4bd40cd42e654c08c12bb51ab6010871ca7612c86f44f84fab9e44f24d14eb"
+_gfztb5nklb = _gfztb5nklb .. "8f66ae5b86fbd8da7836dd6be16b4f2882f8eab0c558ea8f85dcb358d204c650df69f43bdd6430878efb15fd277e805023380b51251da7b5896660fd6aeceead21018157270c4d5a73fc66ff31aba5fa65fd851ab979291aee2a954c99e7d911bc7329d0"
+_gfztb5nklb = _gfztb5nklb .. "1f5e2e051b17d3ec1dad80d53afbc51715a67023ea000e36a0f5bbe9f0bc13d538b6992053ec6b1e7042efb296ba2aa40da5828c083406aab0a6bfd22bc0e79edf285cc9351eb721e35f4e36b28dba2dc4752f7a66414d3431df44e8bbf0eb18b5ae3297"
+_gfztb5nklb = _gfztb5nklb .. "a01eee8e984df1c9982b5cba4dbd6ab17a44d0b9d7a705afd767f4000588edd6e3df6d7e01012cb072b758e021b123d2931639e9253cdaff30d9c1d3dce45ba46459a7fe5bad332a98e2f8f8715a2bab6dd2b9a5c5cf1ef68ceac63c8f7677edd4f92f7a"
+_gfztb5nklb = _gfztb5nklb .. "675a6c5bb1f4195b6c420a61a1374bfcfabcd3b99b80fb14bcc2c7ab78d9d015e3181dca24fffb70e1f27f73369779870d192be00d04abacd44c3dd4db19f75f63200271022c5c664e06d7c1bac8b00799dc83090ae89b20f0f8471c406c9a79dd45c02f"
+_gfztb5nklb = _gfztb5nklb .. "083c8c103170aa24d169157a3371204c38c7713e9f746b70c98995639f5f1309af02484b6ab7becc1e3f512e52f75fe6d04f7159c8c5946d9b08cfb29394732077a20a1876adff684f40e4ff207462a1ff33c07e8327d8b92841c90f5b45d1c922486103"
+_gfztb5nklb = _gfztb5nklb .. "9207d484ff24ea562889650ed758f6fe44a7df8c85ec8e7c56242326c4bbf6fea0c27075912b4537a2d6c085b5f4a1d64ae88ddc3f3eb877c0428c07a72c45951fc913dff446847fd306e85f05c30b22ccf6dd94e7ea315da3bd42bc7db17465810ce2e9"
+_gfztb5nklb = _gfztb5nklb .. "97bb00ae62bd042b5207550665f2d1d2e5a33dbcf86af15d775d2e288723dedb7fcbf1250c68cf4e0b7930746aa4f613764c77d263049f97f2585572ddeba2a90a15c8bc642f1b6045aa767c38957ef959f4f9c18c69d24b5a78adbf55b4db6842e0c5fb"
+_gfztb5nklb = _gfztb5nklb .. "1feaae3b88f65af8f9101b18b54660e7440b13ebc8fa314c97482935c22083bf00680c27e4d772223e0b03c1a66ccff8a923400e75c2c20afb93c965d8567f94ee4c701bcccee8ee0a68fc7116cadba36c4f5094413219ac550ea1a025888bc395728b85"
+_gfztb5nklb = _gfztb5nklb .. "54b46d26afb50ecc2bbf09d58eefcde63c9b9064330142da4cf899249e707ae922bcc5eb98582afbaefb9a6b7b394a9d1b7fd4d95f20cf3553621c0e24ffb43a8088a0e53fd5f75a98377ead299455c687d3049e0115f323183e93ecebb3b6c09c53acbd"
+_gfztb5nklb = _gfztb5nklb .. "61664ae33c2f362487d5752bb5d7b15e9a30883fe53ad33739903b8f150c76a526e06973a498deb38c6ee54615d261689f10b70ebf40c5e0193545c785c2c5c8cd3618915cd16c4481b36b6cb483ee235ca025aa2f13b7147132a47189899ad75938666c"
+_gfztb5nklb = _gfztb5nklb .. "331ddcfd945693b3a03715d839b186044b6a8ec303d06db75a8808b8568f4f4f96a825010713eefc68401e4555fea4500ea70d40a70b35be373225271cd70d562d46cb499debf3ebd8a4fd17c00ca19c808400e10ffcad04663f18e6ff5fec21e2ea6a17"
+_gfztb5nklb = _gfztb5nklb .. "efb42a9033ddfaa359520c81b8e765f8b50956e35ee5f427dbe7e704b555034e9fa6827ef7a17b83c2adc50fd2ddcfcd6ca0a4dadf2654bd9f3ebb8bde100a2f6be3efb64326bafcfb3489de9f3dcf002014a0c5f7f297f5c2c28f43c5dff9489fb66204"
+_gfztb5nklb = _gfztb5nklb .. "9d73bfc1c84b957b55599093ed5b870a9c941fcff8c5795e898ced7d0d90230f938965638a5d12ab654de81bc5d6c1e6f694dc46549901d8c2608d319c096c9d5146a36536db153f5fc902319fe30bd4f591ec788fb8ddeebd4517804b5831b220805c70"
+_gfztb5nklb = _gfztb5nklb .. "2127846dcda766de582aa6631f2f70b8e08d0075fc8246cb8df42271b269c834dc9fc37e7594e5d96e60582812ab727dff136c537a53248714717df1a8bf6d4f7255c477365973dc0054a83648ce724b3cc6779e6ed42617b49bfdb37e95d78ffc8d4815"
+_gfztb5nklb = _gfztb5nklb .. "365e7e0b25960ddba353c23dca1f0b2191b60ccc078d8bc9e36ef5ceb1c3f2f6d13d1e3902444101cdb613ddc4d2a8abc4e11c887432ae0c239266ac59a1b78983bbe09d9fe780742644dfa649561a70ce87e84d20d1c58f7259a449f9855501aa41bb1f"
+_gfztb5nklb = _gfztb5nklb .. "7b9a8b27bae02c17e43f47c68f6676d7d4b3b7c6d389c7e4b1ce1c8a5ed0db3564e4a8e4e52c7132891afb6cc64f01099de9075ce3a70b42ee7b67cbbb6dfcfaf79e1f4e467b1266ff1afc4192a87bbbf0ed087444ba69bb01636af12fec93bfeae08fd7"
+_gfztb5nklb = _gfztb5nklb .. "1821f71868ca1fd3df316b4f0e35cf1cefb083a244a5c65919621627485d80f90465c1e7e9501de696e14290b69c3ecdfde99297d174b013d97bd99b42ebac7c873df65a009d4029e1e743aaf52c473d8884c6da36b509ba3a54bc46696252e993efa531"
+_gfztb5nklb = _gfztb5nklb .. "7e9210a241288d8afeb43e0590e6eff0e2b6d239ed10ae5a330cea1c25e06086dc9cd20454a28ff20f3c172cc8b7e7f24ba6cf1599ac6a6b170fabfb43c53bc237ba0c70111fa2b5397d07135cd723fcf549f44ead2eaef05a951d69c340562c19f88ec1"
+_gfztb5nklb = _gfztb5nklb .. "709c02f956178bca6d12e2ebc2efff241c1c5cacaca845b7173af1fad5a55f6980f0263667833e0e916599fd520aca9f1160558b8a3c537f81f9097564b31e93a3b0be591dbe2e90e6c6694ac0ad747d89b10795f037e5cf85117f79deed105f23a0e3cb"
+_gfztb5nklb = _gfztb5nklb .. "c03b4dd77b0c49eabd350df26a648d4a2f35ffde276be4797babb552eea6940a481d2097e9ae68e851d0bd60f30b93b7db08f154717561b20373f498c6962d0bf914ae81a0166e18969e6f74e41d888da3138538f220854e1e33a6390ef9d511f500d839"
+_gfztb5nklb = _gfztb5nklb .. "476f8e1b734433911df29fa1aef6719a629802520725f88377d0b83c5fff25909632f93da6de064dc5f0141ddf3e184fda9c8d17bdec4dce0a1d6c672b12e493af6f0f2bf78daccd131ddfd833d0ef78ae62f081283d0b4d7c27c704020c70497de4efd1"
+_gfztb5nklb = _gfztb5nklb .. "25027a5d2fb465764faf897f649777642994adb2e4b04eab130ec38b0b8d933f64e8b2a11b79a5cea9874efd15c889f083f605ec98e3019e594389468f99f96194e6d58229085b72baf2a97cd7c9ad7f31d61d4065918a1be6ce2eada85a1d4e375bc4d6"
+_gfztb5nklb = _gfztb5nklb .. "a933dafd559b49f805035175c68d9c437384e089acf27346f73949b1ae142c1c999377bf35b81dbd3889d1a51c2f1e1e185048d90d34e07b49a0379721dec3490e19476ab49dd90e5464f5b910ced3ec3725a3dcb0f3d3edc475f50dfafd4854a0c64917"
+_gfztb5nklb = _gfztb5nklb .. "9f1a344d37921a02e12a3c880ce79a93ef8f877e0ebec4c629b9856ca6dfcab76153d1dac23d203fa3eecbbef659d1272ea522bb5e2c1e4c58a42eb2686e310ec5fd1c182cd087e393ae2bb5772fc76b765732fe7f55baab01901fe31e2ef3e9c057adf2"
+_gfztb5nklb = _gfztb5nklb .. "ca24b5fd6d05edcc62c3326fbff2e710197dbac92dd165612c86b0f5e826bfcd6229456c03c89295d6d04ae389adfd115fdef8d3208f37551a6722893095b97174cb0c6cd31b6ad6397a52311e1a86a12f13e51b55671fa6acf13f77d40ba26405454c0b"
+_gfztb5nklb = _gfztb5nklb .. "3d9d6bad812fad6ef35e3ccaad12772190bb1be95b6bdd16d3868d529719d3eefc8bc0404e194bc61adfc3daeec6e45ae7410f3bae5e02304df8751553260f38abdb7e6267d85c8691905d93f03d33c0fd673a7bcceb93f06f6d493eba3b3c5c59dd9d90"
+_gfztb5nklb = _gfztb5nklb .. "ab53da58e465768a918873b9e8566232204fe272edcabd128dc1c863c1714cbc8249746ad2fd0ef971d84229be442288792fea0f2fac56c4f1895ea7ed79178236c7f58a82c3b6e30260e922e82db2e9d66146e910eef89e94a98a8034e807ccff628958"
+_gfztb5nklb = _gfztb5nklb .. "4f90a7096dd15a0d6a9837c7120813e0a65de25396e03f44c8ad13a1a4af222b3448db9413290000154b9fecf6d81ec7b846b755780de1a60a5f39819a24f8e116e21cd85d1e9cc0dc4681d512bbc64c9dca2804331de29d69f33e7fbe1c1bb52de4296c"
+_gfztb5nklb = _gfztb5nklb .. "2aa1452e8139cf17c7a882ee028806dcf6f7c756296ece150314b1170d57e9971a91259e99d3e31ca36410aea66fd2fbb507a6c2cc861f1089ebcdecbe87c1354f9393ea4e2775b22eb48e758418e668093c1eb903cf704f9b96e479c9ef80b9f76439c9"
+_gfztb5nklb = _gfztb5nklb .. "d0d671438b0deb55fa5cb98167cb2f8a76606c474f89c161c589ae136b8631ee394fa183bded1bdee0062df0c45b007265860e09f60ed3d00ec4e50ff6e933cbe9ee606299cb3f28ddac0be0381702c7fb57f3f49b07bbff0c61345d998c0c1f36a47479"
+_gfztb5nklb = _gfztb5nklb .. "319467fff6faf6a26f53863890bf794f4254f4aa1825dedebdfb7d8e0f43fdd105d4f8a087619f51cc55164c077ff6a3e88c409a34daafb68fc4150096c04bf0a58e96251658fad6736a6c94323a84b9c98995c606c70d50d0bafb345208fb45ec5d8ebb"
+_gfztb5nklb = _gfztb5nklb .. "63807e73e55453b6a09a675b02f8d9556fdcf51264980822313a27727c1a061d76e7ee0b17d5eddb7ecfaaf52148d6e9ddbb826f7e9aa54f28e12562c67f0c92ad1a06e28bd757a7b32ef0b4ff3acddfc20bd7f1d5c08b9f231530c1fc119c30c98fde2e"
+_gfztb5nklb = _gfztb5nklb .. "80aa14e9a025a8ffa65565bab39d15d1deca9c2057721443b95270cdf9281ca8a93d7bda6bcd11151e26977ac8d11c606967128e97368c484933673969f9a411df68ad845042b7eb2a862302a6bdb071871d656cbd0d347679fbd85a4685d82a8801a316"
+_gfztb5nklb = _gfztb5nklb .. "9c4ac7c93345c6a89490621300dff374c23504f8ffc154f295c17dacff71ce72c386c68a1ee7954d59890a648a7fcbb5c4f0eb9ebc032b26a2d735fc945cc4b885e958df4690e6ec725d008e2bb166b9ff3fec4803d24f4eff194b4027b5dba15593f7d0"
+_gfztb5nklb = _gfztb5nklb .. "f625ebd3cd8a1f2fce9bea9a227db3ebbfa2a12fe3d369dbe77cd920b01ee7463eee6f30f10071115d2e59385d9441c286edb7787546f79be90b1ee358b989f5f27f8d6cb419c8f9847871c15dfca83fe9b445644e6d4e9d924eb8b8200e7431a094eb4e"
+_gfztb5nklb = _gfztb5nklb .. "89ae1600a87da592853c7811911d43f407f7e93980cd420ba0f3a7388f5c9ad47929faffcb4026400e3fc8b91dcc17cbeb4c44b305a99f995d85f40072f5e7413ec7eded356dd488c3e0cdf9991fd0d1b5fe250f66dad0f6eac34f9c07a9496ce40e80c4"
+_gfztb5nklb = _gfztb5nklb .. "b7893c7f3aa1d67a266777becd3da0a6bfee894ffb91a602ecd577b63c43c347aeb04cc6ae932aa777f642409493cf52454cc0f5b7199dbe5673200f5925a93c84bde88c1bac9a35d3ad1224838bb920a0b2ef54a6692e83d4751ffee5e462a97725fc12"
+_gfztb5nklb = _gfztb5nklb .. "d58df469a7090087aaec6430145a3069a260944e2b68303a839f58e8d87e6a9e4061cf63bb065b46de37eb078b21941fbc0dce4aa4c87d1305fe7d1ecd3892eecbafde020f914e47590d82346623239849fb7be49f6831162cd6bde624aa8969938e1440"
+_gfztb5nklb = _gfztb5nklb .. "071a6f1e250f595a93434d8a66a6aaf6d954dc2cb5c6797c349d7eb7f1bb6437f1ef9b571ca596bcb76bb330a5a8231bb92273d013cd3e0c5666cbe5745ac830ae0444bf27883ebe82b5a9e5fe79fdafaea691e7318c70bf04763d11932c916a8d65900b"
+_gfztb5nklb = _gfztb5nklb .. "482a0bd06a4846dbba6df97f764caa6c24bc13ad7c6bcdb2e2dda0568e14a8e1f1c36383edf5cdd19ad45965ee6ad7366a2a632f633fa81cd3936c6be40961e314249f1d2966fc6a9d3bd991a163871a402ada651594541317612238734d4f0b66bb253d"
+_gfztb5nklb = _gfztb5nklb .. "b2d73bb3b826d15f9f7e8a76074f2e71af017f6c633a0cf51453fe35d9ccdee515d590146df8481b32bfb5cba12b4297d9173a0c0d06f827de1a577b6e57a7a247920a790df8c66b717265397ae2a52329b6626016a808f9b0c0bbfa1a53c0c57f7877bb"
+_gfztb5nklb = _gfztb5nklb .. "0f5c491ad2e9cd89ec3a72789c4486b238341287c7ad080ba41f75da73c08bd92504d62599ee58651923dc038fe6080a13d8146ae6f0126a3af7e296fb442a1f073147343b129e07286856ff14f3f818a54f4e1f580b516edb0b35062cf689ff22a02cb7"
+_gfztb5nklb = _gfztb5nklb .. "c6fe7832511caa89059540b136728262dd2e7a72cb3181a8280ea201d8219e8dce50245ad16b6047481c137390760a1ad3e05107141a934acefa9283097499d471eb3590997fbcadf3762ab2667e2d26c953fa477187214f00fb24c69770c097f9b9bc2a"
+_gfztb5nklb = _gfztb5nklb .. "0535cad9d95e7c8efef85c5cd83b5021e9c73224856bfb85ac373dbd913170d2be27fa70b949868af8d005a25576ae05f14c1a3ae830f7f622f58dc01a15effa7acbbb3388ce7e5a2aa3a14d88f9eb199ee4315aac5d29fe26e3ea73d014b559e59bcf39"
+_gfztb5nklb = _gfztb5nklb .. "53ab215db6715c0594775a085b7cfbb59f955f4f2d43390fca7b0f96a844d93b1768fb8cbd18f3cfe1f3c1e2e4d6fa190b46d895ae09889d70178c0b37ce137ee1670613b91c4cdded8e92f8b2b36f9b977da596119ce99b8024f3b7305b3030048b16d5"
+_gfztb5nklb = _gfztb5nklb .. "38064451d4bbebb448ab344028957eb559f38c9137408f0824af42e23794cf04cff88dd7428486535c54d31b88a1f17c7da71af2e0b67671d7a6fe83832a4bfaac84b4fb0c367391132f75f95318ee3d7d223db4a7edcf4b70c3bf7abd9233128fe7cb38"
+_gfztb5nklb = _gfztb5nklb .. "7c0541faa3c318dad364fcade678fa6e1c3f5d5fd4700e2ce45271e76ae9267b9c6e6e0cf814f7ac7d62a4c6078907179ba75ac29b1c7ae0f42c00a6bc49bf2d10f708b7cbd0bd317032efe8f7ff651591fbfc72264241409e2d431f9f3271b86fe45d46"
+_gfztb5nklb = _gfztb5nklb .. "cd83b1b479b9714edb680aff17b2fdc8160769ef4a83fa248aa12b56e7582b1c3561380f7081aa84ac5ec0cd15a759aa88a859e35c2827454e9f5f136bb2347105e1ee704af9824eb1b6397fdaeb966b5ceb479cef14bda3cb709a6d4f99ae08c1b7ac92"
+_gfztb5nklb = _gfztb5nklb .. "a0bcec9ed2e3af6c9a93ced64516a268552032d59a8137b282b98aa071566ddc8e6a1fa07b10b1eae657af881ad4f459858d657905d86855cd6beecd85b7a507ceb975a34873d1664f8bac3216788c783ec872543878ab2408f62bbf7bce9e3b6e0dcbb4"
+_gfztb5nklb = _gfztb5nklb .. "bf1465f4ec537a49b2e5cd99ba190ca21232f3aedf10421964922462c6a024802708c0a05cb66cc4b4f018faa5945d8fb91fa6ebcc5aa8eb9e9a5be93a6e4f6cc7274c53b1eb624bf7f9da6bf463cf4c41420a0fc6003f3a9369dab4fca9906392222f17"
+_gfztb5nklb = _gfztb5nklb .. "442d8ddbcfd4d32fefd24204ed9d8c6933a374a09d545fd81a7e3d4a212b0edb836927ec980135e9aa85ca44bce428ca18d6d459c6b7915c1810a6cca983dda1013260a8b8446b5541efefa29532fefb6add8f27f33fb9850cbb6e3232dd733f3e9ddfd4"
+_gfztb5nklb = _gfztb5nklb .. "b21eae290950008d13f7b837b551193ab64397241e3625bce1c8f2ffae8a95c74176efd604234cc539e7bf37ee95343f0d1cd0fde8455edbd36e1ef6ee5f7e3b13066536a5999999edb92e976a0e8e1123691c6ee603555f61e61968e033d55f9efed2bb"
+_gfztb5nklb = _gfztb5nklb .. "846bf030ee5d4031d83f204e6e60da270a2542662f9d711636ab2ac05ce587af1e1c9362d772707fe773de1d0ec754e530788f4034a8bc73390da666ced7512609abfacea7792738d8443d0fd1d699fd862544e74ce23ead5403768b30eb9bfe472e4cb5"
+_gfztb5nklb = _gfztb5nklb .. "468c12841233c1ef0367a4ffdf8119b0ce434cc58bd533e67c21e422ccc317f9ed6cf9e3665d8ed5b43d55bac960f69aebd4abed87ba481868ce62c4475e4955564385a667df2f08155554bcd32b5925735b6b62bf9db0a1e3773be80552760ed0f02f18"
+_gfztb5nklb = _gfztb5nklb .. "912ee0836c04625e3c6abd6fe3493dfdb54790d1b1435e6f4d0c9f26a3bbd8bc1270f45dc607bbae6afb725282ee579b5f0642948357fec5559eb5fc45d60e2664669b46869e4abf827564b16eea6035671988059d209bdf1560837a476a89faa8eafab0"
+_gfztb5nklb = _gfztb5nklb .. "f956946950da2c8e2e8988a44f962b32390b338a53b239277d5d93944d50af1d0c606b97842c79035d52a905c1dafbf4f69b120375f0be94075ed863a1def5cb7fc5abd88f791c00a2a1c33229b05f6c85b15e91c8e88589b579a06d4687e899b5a9b994"
+_gfztb5nklb = _gfztb5nklb .. "81ce14a61e387cb26c3b8015fe848332d0f43bf02fed93450aa775c555bdd2115e8019bedbfc2f1fa87b0b362fb49cf619df8a350aa3655f18b0095abad04bd9a739b11bffe43c1a0df34be9042e334503a0b06009a6b80c46559f3f6aa5db734baa401c"
+_gfztb5nklb = _gfztb5nklb .. "42e62d1e354a582fbacac94f3bb72539a17c314a5032a384b937252e6f93a644611109209f70c2f352ce0696c6bfb16a05f39d0050a2ff7526fef16f600407ae5491a1b948bc8b15b477503a7b7dae5d932222c2efcbdf788cac50d56f03da2592b8f818"
+_gfztb5nklb = _gfztb5nklb .. "dcbebc02ee6c92360d4db2759065b386fd7fdaeb4ddc33752e6dfc7989d179040897af2d833387625032614b8ea28ad5fe8eb1b98537c7ac6a88678a63cdbe0a645d3d277027bc75bf7893ba04e3eff5d7c179a86a25971e7a0c547fe08ce0c672564a4a"
+_gfztb5nklb = _gfztb5nklb .. "9982832d0c247f9b7a87ffd038360a8a6c7c0cd87c64744ff099eff5357eaebdebe5b05f1a66ea80bbe5cef15c86767af750727b56b0fee57797be309c9f951ee353c374a04cd6b4a2800baec9749f8dd72aba35db02500352d472041a65dbd2ab3a0a9c"
+_gfztb5nklb = _gfztb5nklb .. "d9665e75ff9dcc6c18a9b08f36ff468bc9055e535af2957a2e5a4da96615cdda67ed9e7acc02c158a1e2aa5f69e059a94319c874b766ca54e305fbecd998e6270526ae0624f88a4c5ac57a9dd36349267065282d6e0d5fc88efa1359a4284c25b7c10a26"
+_gfztb5nklb = _gfztb5nklb .. "14dd98c1b6ae955fdd046da5bc7d3f95a5e26cb19cc09e61c71f5990bfe0bc4e384a217868c04f4f491f6c1b6bcdfe572e3876f54e373d405a7608ea0fe431dc6497c5d252f1d928090771d4efc40131fede8b84a923effdc09581d9bd82d545799f7eac"
+_gfztb5nklb = _gfztb5nklb .. "3a2054be76b83fd15e31f9d69bdf3e8ff65770cdc0b625443341b594476d7b598b1caf709f9d71e3aeed9cbe9467fdd677643d0e4b2e772fcbc9991e8c8d5c994c43a44b6fa1a274d4acd2bfee6063fa0b51959ce52405fbbcb0310678bb543b106c81fa"
+_gfztb5nklb = _gfztb5nklb .. "1e0d361e5442c50076d40aa7d8fcda7f972ed28de51528b96899c460d39f244842da54b8600a8ec1c5904fd846e4efe58c5ba5b98fa27a8c8b41f0bf742c8e852a54473bab22bf114f3fba918230636712fce328c176447350bf6d4ea295c1e2e3187678"
+_gfztb5nklb = _gfztb5nklb .. "526f42f728a53088cd8e4f6a776ee72e001d152ff37f4eaa9965abb20517dd41f37b37a95102a05ea880198eb41faae5b7903e09b403846f506109770f92adb7f5431791c84d3b252d06cbfa1a4ce17759e34c88275d20685011e4f8359cdd5f4da8a2bc"
+_gfztb5nklb = _gfztb5nklb .. "67ff8eb31805a5069f87e7cf96b2f91a00610066ca28970893f4245a9e2c533137e4d2223cf1f548e9dec2437e514e1fe79631c34f58af7a805f91100a97b2ea2f1b57eaa6f2c94575e46fdaf121d3cb7cb8d02546eaefd4b9cceb695a13b8ceb8662b5b"
+_gfztb5nklb = _gfztb5nklb .. "6112d9dbf1a117802981bd4dbb02f104470c361edb0d4a1fed15ca919d45fc594514e753518b11e151de7a3086e7ba28ffec86948027158a183b3ef150b750d5364d3f9871cf673ed2134afa3e329da64ce37ce0c406a9fd169c14cbd3d4c09f8aecba8d"
+_gfztb5nklb = _gfztb5nklb .. "c563a96e99968f651f41c241c983446fd830b53c6def10daadb4ba139c0699845ed62d5616007b1787d7f7a0d6312e8a53d4bf3995522fb13caa0b60a471bb010e446d62aca6677af805892fde7e046208a53b16e6beb44f09faa3b25cbb4186a47fa380"
+_gfztb5nklb = _gfztb5nklb .. "050b0f7c41cb8130c1626070fc976a575af3ae47aae0e599d35e12812b3aa8acb699a33b8d6efdc02b8bc1facfec41fe8120230bc8fffe8645bff3334000acef0565374b94465ebafba4caef3600d8b2995fd18d08f8ef87188d0e6497f6e049885d6154"
+_gfztb5nklb = _gfztb5nklb .. "1406c537a45b236bf0c1d03e7d14df6008555245e1317e22d4df4129ddefb441ceaec8983ab44246bb96092856e4d87a6c4da3422fd8beaf5bc7b5a1b303a41ac0f82549ac77bd89302430f2bc2f73eba133b01d9ea538d625336b41feb166c41f69c670"
+_gfztb5nklb = _gfztb5nklb .. "40c74a0d380b47874b79847e2368418c56cae094588c5c5b2249fee03558241bb55f94351b1027fa39d054df98876802ba8fecffbeb34285ac7d2790401384d8eef5f07df7d1f6834ac91b4be13fa0b89950c3fc40ae3aad77eb303a46af08d290228c7e"
+_gfztb5nklb = _gfztb5nklb .. "edf4ea611e7299debaef97133fd721c517fa1934df8014efdd6382bc097add491f8ce3c685fa31f8002c0c1071f79d99abf8825bccee168b21aafc5a56a6434377704798dc6bc68fbcaddc0addcea1a52c3548cad511fa3c8e6ef4e7f5ed683f09bd624a"
+_gfztb5nklb = _gfztb5nklb .. "b93bb68933afeada4b3702c2897bb8856bff56f82453afe7b9e04f3447620f7be2232574dd10e70b1d9c8c69f58dd5528eb5bf7fc5e373f3e5c20aaffaee90497a4156aaedca7d793428f61bca9b0d26297fa3e92d09130842cbfb199ee2b58a2be04b57"
+_gfztb5nklb = _gfztb5nklb .. "97ac74bf14eccd26775beeda6220c6883f05773e8d3b9a651763c0f019cad4683ebfb234ff809f027e260f7c4fedfbe8f8b00e2b04053de0817b4d8691d1d40206cfa12dfa348eda9b18acd1d61671caf0fc2e0fbb504a8dff0fb6777a8e09951a072866"
+_gfztb5nklb = _gfztb5nklb .. "7608a45335422a83ccabb8c06784c150df8829bcbdc6d3577e3b15ec8c2509240f5c31479c36d5da3eb4415935a6767ba6567059680f1209f493bd15f01f0bc42b87e995d31824ae5ec4627a8846a0101ffa8de97c26cbacb8952e5dc05a5afc84097b19"
+_gfztb5nklb = _gfztb5nklb .. "fe583e4ea173dedcc1315f87de24dbaad88323ea9595f64fbf9edaac546a4dbdc938db2f9f82f5aaa9057e29238bb67488b594e035c580e6d5357d62bd65eaf0049e4b2c4d82753d1589c0ad63f77e404674adea41b59f08f1594f4b8c876a7207f00006"
+_gfztb5nklb = _gfztb5nklb .. "497feea38326571da4c3dfc29791ad2ebbbd8087878324955c56b7c2be05d3fa52e870e6c692044c382dcdaa4b1d7479172d061dda4f218aced49acb3123d7235c86e9281f854f5b2e6d4f12eecf38ad03483bb2e5bec0b2ad744c6b35efde9d6032f227"
+_gfztb5nklb = _gfztb5nklb .. "2868aaac76fa3e8a1bd257bc973d2461b0106e64679cffa0cc2f16a13c89531bef440c6a9eab8d223664477f22dfb5ab25f1c2a0bfadf68d2e00db0c47d0e9714539aaa249b7e4f6a58c66aa8962bb8db6210b40a8704f967cc6ad40b727bc3f703a9c8a"
+_gfztb5nklb = _gfztb5nklb .. "7b26f383faa33ca2212b916b31ad142a1d9ce76f36148bec18d2c066caf88118414ae7a56eebf82606feddf9e43e4332bcd508aa20a19a4e5791f79e998268e0eddb24028a529b47010e0f8a67dc84bb3d387fbd3a9a480e17d55f5f57207bb2d95620cc"
+_gfztb5nklb = _gfztb5nklb .. "51cba1a31e904a833032037ba171686d0eae0a7dc384caae4174ee84e5285f78ded04135539231ab7ec7b0d2c86e7b968faf5761f5619e879714d1a2e8c5f217494157b02da0a714daa1d5d19865acec664112fc11abd11ea6a715c390dfa9a1b0cdf935"
+_gfztb5nklb = _gfztb5nklb .. "86ccf574a5aa019db8523a5aa4d409321aa9a27027ad2a3f4c65df3673e4bf1053f90e1b48a4f0fb478fd6b997f1c028da2b51748c73eebc25847bc111298a998f18f70e40b867b3576d6f034ec533be96ebb71cd88216ad132b8ceeb1768df8ace8fb7b"
+_gfztb5nklb = _gfztb5nklb .. "8089d72d7efefd6dcb042a94efa18bde35037e72d32436b13a89b1e7f46a5ba4f6f358d55237977e830dac0ceceeb5a5bdf84be7d9099718fe89ed8036d1dec6bd305351e923e9dacdf54a3add5e8246e249ea16694d1be7a8d0f8b7c21b80fcb9bc8321"
+_gfztb5nklb = _gfztb5nklb .. "3645dda85626908121e2ed471a463c9da9337d0935cc30f9ad46fd778546301b9db5a8da18756356beb15d6bd92e179cb3b4c6533a7e580ded41a959e5b61cd86529da3d196e72d1a764af2f0c1493a03daea93c718279b98766c302fa984d481fdc6aa3"
+_gfztb5nklb = _gfztb5nklb .. "41c7a9e4f9edf303bd4ce4f721b0212ebda6a9190305380d7a7148906b7f951e082f60c36af80bdca65b530333113c5d02e7c110aa2c4d866e7ac9ef1e9b0155c216d36b94db2d83b2af3dca62c0b55fb0490748e911ad6e346ae7d8b5a5f6d4a58525a9"
+_gfztb5nklb = _gfztb5nklb .. "d5bf6decc5e8d9d267034b5484fe6bd43c33efb7e37ba10060dddf4dfca6d15ac0c5025d64d1deeb06c53caac06f1d5975470d8a1633c10b8f6a21e9a7e1f1ca10c1b9611bc7f2ac0c294379fb9ece2c7cd5b4cfd677e17b5bd902cfe025e34143bb2a9b"
+_gfztb5nklb = _gfztb5nklb .. "079cca007ee011e4815ebffa68b2d28d001fe4a6b1611afc49b255168b61a6d8920cfc8cd0228e1de691ebc7699c2bc401af3bb5705872735bcec04ae0b40f008c7c0b9253b73025245e1c7459403508dddf2ecfc338847d468dd900c860321b6f6f0ee1"
+_gfztb5nklb = _gfztb5nklb .. "a59675f7cfcb836ffa4a055d7ffca77072b639da9b3f221b03d8f12d53f2ad9d797dc3dea1728c66567a9332ed7e8d312cdf925235699a14021ff44895a877c26fc3dd078f97fd0b979565517f58877f588066d38403fcfde01dc08104632b04b9ab241f"
+_gfztb5nklb = _gfztb5nklb .. "ca40d1f58c53643a3694cfb0f665bc2098d4edb8f13ddcf70e9bf892b9fe3bb0de6398f668659fbcafb8844b4ea8ee7a99d7df5afb62568772d28e0332a1c9f28f95be18c5b78d8f83363ec58491a4d02a8bb33466c245b673dcebab989a94c2bdae93ee"
+_gfztb5nklb = _gfztb5nklb .. "1f095b4d87f32041807c4aa8c1ce5817d5536bc6b4f1cd651ae91142470385eb20963431ad67b3a4f2867bb85733dee9c40d57927782ebeb76e0219d9cb099fa926c616f9684a9b5c216dd680d6a7e7175dad5df0bcf191176722115bb55f0c93767f09e"
+_gfztb5nklb = _gfztb5nklb .. "f70fef5c1c6f97aa5a93882b3868382b3efd151a164c4ff1974891d966d46e77715673aa81f338ed14a0b8e7c9c78d02089fb8def584393bff1c32166523f29164185e4f93d96fed6565775ea226491bdef0d1c2a8f494c03aa3e7386d7a099548127825"
+_gfztb5nklb = _gfztb5nklb .. "85206eabf6948c2068e6dad957fce707be6ea016958dabfb5d8cc39a3676a0c4b319ae7de7e17c3a90054a5bc5d53519da21d29e1f724e3235c189cdbff9d70983b696ec9dee9fd2d8c51b77a3c9951acdbb1fedadbfa3cf89b5b4c45fbbf375f8336fb1"
+_gfztb5nklb = _gfztb5nklb .. "252c022d8314fcab8238d0c31587557a56cd212a83d196888e8f3bf8911147c615a0485cda8befd11ace92dad13dbee66b2da0c355ad9bcb1aba1a19dce95127144a704144cdca898f4210da3be39cf9a69e52e25756b0c54079cf25310d138f0d37b9b9"
+_gfztb5nklb = _gfztb5nklb .. "6711006784baaf984bb30d79bf36944ac777f1194b0e58f144fcfb83ae8134495e1a7347bb7559772a29a1de4184a6c294599351a820e8f41c0379e6004d52206241f06e0bf9f7eda68b425d8d578ecc29c0ec5bc26149cc2674c34b9507242dcfb6c0d7"
+_gfztb5nklb = _gfztb5nklb .. "c1d3898ceab51f740d54e7cc594e1701d27f9de06e5dd840cda3f73b7c3170d27846d5f04b18d2231f60958074e8678943c1d990da9ef1fe8d0f82ccbf1973d41da6c88af0eb448a22c129b30c8c0ca8e13751bb616be187d27ab09586bf9825361a185e"
+_gfztb5nklb = _gfztb5nklb .. "674b9103162e4c0fc420b0be3cabce38c316965144fc36ab5479869f441de70ff3a798ef840dc94a798af59c477ed0e757af3838dd818a1ea1417eb1625514b16da97061677057501421ba8d5d08d7ac276e8d626561896f0345207c58d135f495637d60"
+_gfztb5nklb = _gfztb5nklb .. "222a883b360393e5601c51d267adebdea20c4d295318abed544618bfa1227f1c46371782751c878179efeaeb8c6e03621baffef1fa3ae7e782cf9e9891361aa4095648e602b3de1a4239ad620d35af844dd1619e942c186c2e14a6a059b5e76fb1112c0f"
+_gfztb5nklb = _gfztb5nklb .. "1c75b834bbcd39364c23ed7e16008119c39a082e7492ae91467ed9d8b4d57ab4e0f0e36c7e588855d298a705b9c34bcbeba768c00f4a44b1a941f8b8078acdd49d34f9dd86d2fb1ca0172cea36c609ebc330a9debcb9339091bce82805174c75c3b8e0da"
+_gfztb5nklb = _gfztb5nklb .. "a67ab44a2111b0a97dbfabb9bbabc3403827e6859defdc1fff377ead3632b5da63badc43b66c36d05a1f3b948c41ea18027a31a811d77a9489db323a4c59fed968007779a5f2a23874b05c51c598b6bf2887927bfdc33c9212a4d0159fff4fbbe506d910"
+_gfztb5nklb = _gfztb5nklb .. "efcfad7e246bfefcb43bad8c6e48b559dca26239c7f475b24f410fe9e17e0a363c1147db04bf34c852d8c11121fb753c3fb60a08981ba7567146c4e154df604572edc643f8cbc844ef5a1bb1cb4957b17bc81cadc94486abb7f452f6b9dcc1eee0737215"
+_gfztb5nklb = _gfztb5nklb .. "149a66e241ef65cf40aed4de32daa7b5bd7477495d2e8a4fe17e06c8ad3dc30816fe8ae13da4a569604f2141b8cdad0f4409b7863a7f61b728e12e2f1b1d12207d9e079487c8ff95f7db2ccef247346abb634ba4cbdc9472643ad45c47bd9af01c63f49f"
+_gfztb5nklb = _gfztb5nklb .. "00e6222ca51ecab7d3326face382e7b90cf6a394bf5714daad5932555a2b4c1b754e53739bb2854e040100d7ec7c6497253981443df7c221c72b92edb031749ebe77a99dd3c99150ff4245e4198dc981bc9082c450c23db946eedb10d8db1e85ac9b0641"
+_gfztb5nklb = _gfztb5nklb .. "7b05158440b32db6edf3e0116a6fe0c5da801149d100ed225c74bdac36cca79d3c57ee3b0082d9a5ba742dd7239ade244f0d57b845df748c51eaae8b5c4cbd28a6398fa47f64b9724eb7322600ee41530d7711cfa65c61ef7eb226c07d78891b8292ed27"
+_gfztb5nklb = _gfztb5nklb .. "d29484cf1fb31959575346a94996df8956245c0ffbab29fc5e15ec5df6d95cc175056e68672ee9175d2b257973dcc7b594ed5c88e56b14fc711e7df42a78148eb14ebce220ad6844afe8077c9df3c9bef0bb80894d343418235277a70f220f736fe69aa8"
+_gfztb5nklb = _gfztb5nklb .. "e103a47b6a84fcc0ed1322e36c075fdb8d33726789c8a46977e377a87caae33a9594daa461f939c1e1fba5564ba5d0d6b92d90ff5cd69ecdbc25b60f22a9ed2987943a8bbba9efa9459faad70d35c7a2a46051fb0dd5fb8a9dc27586e724872e2976db3c"
+_gfztb5nklb = _gfztb5nklb .. "e321d649decf326b6caff3894d016e15f9b3f4eb8c91f5a8136eec7c47bf2bcd62d908a88110d0f6e1be47791988c9dd47b039bcdb129f777c784906aa2b1088ecc2fc5ece8c58663c51f076e020bb0c5cb16c35411a3684714cf1804fdaac454cee7828"
+_gfztb5nklb = _gfztb5nklb .. "029e51f4a2d357a2f6325cc69389f20b4a74150f2529082a1168aa12376e0b11c8c6adf86c86144d0dd288ca0be2a071a4207feb13837c272938648a37bcd2bbd0969e74366cdfc8e866fcb8bab02a00e4f16c4d2dc1392c35f16626690a0e1a190452ca"
+_gfztb5nklb = _gfztb5nklb .. "0607e6914a7d71996e28a74a63fba8230701ab6878ce02539b73b9a9b2772087bdac3ef9527dcbb352f2ff35abccd105f758df2f5c6ad544a466a0404ea692ac8092da52562d85e9ae2c267c335f21121f049232dae3b96bbf347d1f93790d1f3a361d14"
+_gfztb5nklb = _gfztb5nklb .. "b200b23247c74dd129feb77152ee2009da18db66aadcec02c419859f229a174a2b2f0cb885740d21fbb5cd8bc070645cc2b7011d64f069044e594a148f12d4800a699041797852a6d95293de50d9dc63d4c3ef147d65ce6653963a768541d51d39001fb4"
+_gfztb5nklb = _gfztb5nklb .. "ece691095f3f1149fd16f41f6e3d9ff2cafbd456836295a454cb455fedabe8a19fb0b88afc2b0e0fc185ed522904d1b3879a9d2ae1ddca205a2959ac3682b7a53b4469742929821aa0b142e8ddc46f642f9a35c3de2ee35646ab34787878ed9f463c6d64"
+_gfztb5nklb = _gfztb5nklb .. "374bfbff4b4dc8df652e04a075e24089f9a5f1417b75a209e10fc3dcbd8142ab9a9a3b762df2f9652fcc7d28391a5ba4a00dc6d2a382cdc5e7b675df6962ced710f044169026a18dd4eeb6fca7ff748c6277778580201a88c4078a31c21678b49d1a76fc"
+_gfztb5nklb = _gfztb5nklb .. "885a7b90ac54410cfa48f5382f20f4bfee2b14a7df5581ee28af6844e4305fe244f3e8ef1a637ebb42594af7385e5fdcae1c8dc7ecb7eb3a6f44a5423c6a9e999c3a047a57797537241c1717932b085a76c26f128fda382802351d6c47ebc3e368b24480"
+_gfztb5nklb = _gfztb5nklb .. "28b794d5e1ad4dab74dead85f0194117b0632ae1b6344dfcd792dc4bd121788cc48d9e9c338c5a076ded30d25ee16107d1eabf72a332e72a0755e93792f02f208df3aa3116da7d8b68ece01ff45bbb0e12ca7c60435a6b4c7efb41c903505a081835b57f"
+_gfztb5nklb = _gfztb5nklb .. "759b20171db0efd5bbe32dd4708e7972ff13aedd8c5c80093e5b7ff5f306ce27392ed4a1b15f693d0af62af8df05716f7ba26456cbd36327638f37251536e323ebc4b53447ac7f0b36fdbc4b201ce90dfb99dddc111ef3515ccb24d750ef9e3a9df7eda5"
+_gfztb5nklb = _gfztb5nklb .. "06489e5ecfe35b9c66f1551f027708be02fefe97bff680486add3af7f04277918352bf10db533a7b751168a39e978200207fb0c21e60085836d8262b9ca3a5cbbb5aa460dbef05a4224e58c0c3bf7b97dd8885f68f95a8e377de87cbd4cccc79de39cef3"
+_gfztb5nklb = _gfztb5nklb .. "515837968e116cb37e4a325a0443a3bfee5db675b49033afa1e85f1d4221e1dccb6c7505d3c62ffb8e0f219d719683b2a773743bef1b26ed9a8af2f2627462f278b3649f7de824987f5662fd740893f4f773d9c88b36cbf1d68aa94af743ae845ccb9d30"
+_gfztb5nklb = _gfztb5nklb .. "478d410550b59d838964d1331d0203c1766f62f751336f01a6bc73571c70a1c038072b01fd92b11057c1f0a2b9e15c04e774c987284b140477223eeba12bb76bbb9a263a5c7055ecd0eae1833532ecfa0f9400a9997dd08da21b97ecddf58674b6b0540f"
+_gfztb5nklb = _gfztb5nklb .. "5d7902bcd6fd05661c1de7098bf57b8c68abcddd6fc718bee9fa8babda03e398d7aefaa9418dc18ce3ace83da6493a90591ab6a6703e874ac81be61ab2a84e61c5fae962fdf1f75ffcda5043b7180cb05d3b1a46098034ff1d44d2ef972708216f85df53"
+_gfztb5nklb = _gfztb5nklb .. "a1c40c837280b7cada14c4ce879d2ba7e0577be8d4ce62cf799268dd8b1ec8bc1f5444bb89241e6e21662d8c31dbfb1bc4a17bafa8384c6eddd223e583677741840611b66b9e022ecd61fe6118e094da737ad3d8bc468e84f5c474169320d1a687fca31a"
+_gfztb5nklb = _gfztb5nklb .. "8dec64e55110a8a52722877a12b17398d6f559d7d21450275c8d4d22c40bdf6540ff"
 
--- Main code
-_G.harvest = false
-_G.sell = false
-_G.autoseed = false
-_G.autopickseed = false
-_G.autosteal = false
-_G.StealBlacklist = _G.StealBlacklist or {}
-_G.TweenBusy = false
-_G.autoplant = false
-_G.openshop = false
-_G.autobuy = false
-_G.autobuyseed = {}
-_G.plantmode = _wwu0z1pz
-_G.harvestfilter = {}
-_G.harvestrarity = _6h2wlehl
-_G.harvestpause = false
-_G.harvestpauseevents = {}
-_G.autobuypet = false
-_G.autobuypetname = {}
-_G.autobuygear = false
-_G.autobuygearname = {}
-_G.noharvestmutations = {}
-_G.autoshovel = false
-_G.autoshovelrarity = _6h2wlehl
-local _6eltuqh3 = game:GetService(_nq7774xl)
-local _ufd8fnvl = _6eltuqh3.LocalPlayer
-local _52dcp9f4 = game:GetService(_z2a88meo)
-local _jzq261sw = require(_52dcp9f4:WaitForChild(_9ne9yb8u):WaitForChild(_etgm4ayj))
-local _1hul1lt8 = game:GetService(_efxh5lj4)
-local _o1cvoh9j = game:GetService(_osf04ypr)
-  if false then
-    local _d857 = 238
-  end
-local _31z15kfe = require(_52dcp9f4:WaitForChild(_9ne9yb8u):WaitForChild(_lwo394h8))
-local _04pcekf3 = _ufd8fnvl:FindFirstChild(_3y2mrzk7)
-if _04pcekf3 then _04pcekf3.Value = false end
-local _dwrzhsq9 = game:GetService(_gb87tu6r)
-_dwrzhsq9.PromptShown:Connect(function(_wht8r6f1)
-    if _wht8r6f1 and _wht8r6f1:IsA(_vvtgj68h) then
-        _wht8r6f1.HoldDuration = 0
-    end
-end)
-local function _znh7g9jl(_wht8r6f1)
-    local _utvm95bf = _wht8r6f1.Parent
-    while _utvm95bf and not _utvm95bf:IsA(_7affhumx) do
-  if true then
-    local _d728 = 938
-  end
-        _utvm95bf = _utvm95bf.Parent
-    end
-    return _utvm95bf
-end
-local _039kuz1q = 300
-local function _r5jxevdk(targetPos, speedOverride)
-    while _G.TweenBusy do task.wait() end
-    _G.TweenBusy = true
-    local _ruhbyai9 = _ufd8fnvl.Character
-    if not _ruhbyai9 then _G.TweenBusy = false return end
-    local _smnoklpt = _ruhbyai9:FindFirstChild(_x4eya0rq)
-    local _pedc6hs0 = _ruhbyai9:FindFirstChild(_he4fgthj)
-    if not _smnoklpt or not _pedc6hs0 then _G.TweenBusy = false return end
-    local _8l2fv9hw = _pedc6hs0.AutoRotate
-    local _akl1ooj3    = _pedc6hs0.JumpPower
-    local _nvvt4aly    = _pedc6hs0.WalkSpeed
-    local _sao89c6t   = _pedc6hs0.MaxHealth
-  if 0 == 1 then
-    local _d667 = 245
-  end
-    local _mdjwzk5j      = _pedc6hs0.Health
-    _pedc6hs0.AutoRotate   = false
-    _pedc6hs0.JumpPower    = 0
-    _pedc6hs0.WalkSpeed    = 0
-    _pedc6hs0.MaxHealth    = math.huge
-    _pedc6hs0.Health       = math.huge
-    local _u71ei8i2 = Instance.new(_cpi7kgzk)
-    _u71ei8i2.Velocity  = Vector3.zero
-    _u71ei8i2.MaxForce  = Vector3.new(1e9, 1e9, 1e9)
-    _u71ei8i2.Parent    = _smnoklpt
-    local _djbjnkyf = Instance.new(_rw5mipex)
-    _djbjnkyf.Name         = _hm36afjq
-    _djbjnkyf.Size         = Vector3.new(0.1, 0.1, 0.1)
-    _djbjnkyf.Transparency = 1
-    _djbjnkyf.Anchored     = true
-    _djbjnkyf.CanCollide   = false
-    _djbjnkyf.CFrame       = _smnoklpt.CFrame
-    _djbjnkyf.Parent       = _ruhbyai9
-    local _4xr4pp41 = Instance.new(_f7hdni3v, _djbjnkyf)
-    local _69wtitun = _smnoklpt:FindFirstChildOfClass(_f7hdni3v) or Instance.new(_f7hdni3v, _smnoklpt)
-    local _vf6jaxd3 = Instance.new(_i3h27ags)
-    _vf6jaxd3.Attachment0     = _4xr4pp41
-    _vf6jaxd3.Attachment1     = _69wtitun
-    _vf6jaxd3.RigidityEnabled = true
-    _vf6jaxd3.Responsiveness  = 200
-    _vf6jaxd3.Parent          = _djbjnkyf
-    local _n35dt74h  = (_djbjnkyf.Position - targetPos).Magnitude
-    local _pck32o3m  = math.max(_n35dt74h / (speedOverride or _039kuz1q), 0.05)
-    local _ins4okak = TweenInfo.new(_pck32o3m, Enum.EasingStyle.Linear)
-    local _sylsrvdo     = _o1cvoh9j:Create(_djbjnkyf, _ins4okak, {CFrame = CFrame.new(targetPos)})
-    local conn
-    local _5vktsyun = function()
-        if conn then conn:Disconnect() conn = nil end
-        if _sylsrvdo then _sylsrvdo:Cancel() _sylsrvdo = nil end
-        pcall(function() _u71ei8i2:Destroy() end)
-        pcall(function() _djbjnkyf:Destroy() end)
-        _pedc6hs0.AutoRotate = _8l2fv9hw
-        _pedc6hs0.JumpPower  = _akl1ooj3
-        _pedc6hs0.WalkSpeed  = _nvvt4aly
-        _pedc6hs0.MaxHealth  = _sao89c6t
-        _pedc6hs0.Health     = math.min(_mdjwzk5j, _sao89c6t)
-    end
-    conn = _sylsrvdo.Completed:Connect(function() _5vktsyun() end)
-    _sylsrvdo:Play()
-    _sylsrvdo.Completed:Wait()
-    _smnoklpt.CFrame = CFrame.new(targetPos)
-    _5vktsyun()
-    _G.TweenBusy = false
-end
-local function _0zl65wsb()
-    local _xtar9mh0 = _ufd8fnvl:GetAttribute(_9i1nn5dj)
-    if not _xtar9mh0 then
-        _r5jxevdk(Vector3.new(0, 5, 0))
-        return
-    end
-    local _q49onx19 = workspace.Gardens:FindFirstChild(_wowwx2nr .. tostring(_xtar9mh0))
-    if not _q49onx19 then
-  if 0 == 1 then
-    local _d960 = 321
-  end
-        _r5jxevdk(Vector3.new(0, 5, 0))
-        return
-    end
-    local _yfbx7luc = _q49onx19:FindFirstChild(_m5pwn6rh)
-    if _yfbx7luc then
-        local _d9n1cj8q = _yfbx7luc:FindFirstChild(_b6xwba4w)
-        if _d9n1cj8q and _d9n1cj8q:IsA(_j9xlhxqo) then
-            local _ruhbyai9 = _ufd8fnvl.Character
-            local _smnoklpt = _ruhbyai9 and _ruhbyai9:FindFirstChild(_x4eya0rq)
-            if _smnoklpt then
-                local _pfcum1vk = _d9n1cj8q.Position
-                local _pb7cfkoe = _d9n1cj8q.Size
-                local _eonim2uq = math.max(_pb7cfkoe.X, _pb7cfkoe.Z) / 2 + 5
-                if (_smnoklpt.Position - _pfcum1vk).Magnitude <= _eonim2uq then return end
-                _r5jxevdk(_pfcum1vk)
-                return
-            end
-        end
-    end
-    _r5jxevdk(_q49onx19:GetPivot().Position)
-end
-_G.GiftTargetName = _4dcuxths
-local _mq6brpvq = {}
-  if false then
-    local _d362 = 335
-  end
-function _mq6brpvq.SendAllItemsTo(targetPlayerName)
-    if not targetPlayerName or targetPlayerName == "" then
-        warn(_kgknrbsc)
-        return false
-    end
-    print(_tzvq9058 .. targetPlayerName)
-    local _9zen2sdy = nil
-    pcall(function()
-        local _k0ycecf1 = _jzq261sw.Mailbox.LookupPlayer:Fire(targetPlayerName)
-        if type(_k0ycecf1) == _2dztpod6 and _k0ycecf1 > 0 then
-            _9zen2sdy = _k0ycecf1
-            print(_s6it4ny0 .. _9zen2sdy)
-        else
-            warn(_vj9unrcn .. targetPlayerName .. "'.")
-        end
-    end)
-    if not _9zen2sdy then
-  if false then
-    local _d62 = 976
-  end
-        warn(_htp47vil .. targetPlayerName)
-        return false
-    end
-    local _mmd2awos = PlayerStateClient:GetLocalReplica()
-    if not _mmd2awos or not _mmd2awos.Data or not _mmd2awos.Data.Inventory then
-        warn(_01tkmaw8)
-        return false
-    end
-    local _2mfnsicj = _mmd2awos.Data.Inventory
-    local _00nx1992 = {}
-    local _918vij2w = {
-  if false then
-    local _d936 = 869
-  end
-        _bqjp97k8, _jevl56u7, _vtu2cm5z, _affix5bu, _q82egbt8, _ilt41rzc,
-        _mksc5wgn, _vzvf4u9d, _xlmr6yn9, _f2t1l9r4, _77pc28qw, _lu37otuc, _3ofsycjh
-    }
-    for _, category in ipairs(_918vij2w) do
-  if false then
-    local _d368 = 844
-  end
-        local _k6m5uyje = _2mfnsicj[category]
-        if _k6m5uyje then
-            if category == _lu37otuc then
-                for itemKey, data in pairs(_k6m5uyje) do
-                    if type(data) == _ye249jpm and data.Id then
-                        table.insert(_00nx1992, {Category = category, ItemKey = itemKey, Count = 1})
-                    end
-                end
-            elseif category == _bqjp97k8 then
-                for itemKey, data in pairs(_k6m5uyje) do
-                    if type(data) == _ye249jpm and data.Id and not data.Equipped then
-                        table.insert(_00nx1992, {Category = category, ItemKey = itemKey, Count = 1})
-                    end
-                end
-            else
-                for itemKey, amount in pairs(_k6m5uyje) do
-                    if type(amount) == _2dztpod6 and amount > 0 then
-                        table.insert(_00nx1992, {Category = category, ItemKey = itemKey, Count = amount})
-                    end
-                end
-            end
-        end
-    end
-    if #_00nx1992 == 0 then
-        warn(_7jniny18)
-        return false
-    end
-    print(string.format(_njfc2qel, #_00nx1992))
-    local _vvo8fsyn = _iy1w7i2d .. _ufd8fnvl.Name .. _kk1elxsx
-    local _opwal10h = 0
-    for startIdx = 1, #_00nx1992, 20 do
-        local _xa6zqks8 = {}
-        for idx = startIdx, math.min(startIdx + 19, #_00nx1992) do
-            table.insert(_xa6zqks8, _00nx1992[idx])
-        end
-        local _wq39oig8, err = pcall(function()
-  if false then
-    local _d584 = 635
-  end
-            _jzq261sw.Mailbox.SendBatch:Fire(_9zen2sdy, _xa6zqks8, _vvo8fsyn)
-        end)
-        if _wq39oig8 then
-            _opwal10h = _opwal10h + #_xa6zqks8
-            print(string.format(_9ycsb07o, _opwal10h, #_00nx1992))
-        else
-            warn(_fkwyf3e0 .. tostring(err))
-        end
-        task.wait(0.5)
-    end
-    print(string.format(_fovsca9x, _opwal10h, targetPlayerName))
-    return true
-end
-local function _c4pywrt7()
-    local _tcpu4qrk = {}
-    local _rgqqlamd = workspace:FindFirstChild(_30m8pm1n)
-    if _rgqqlamd then
-        local _uwplnb7t = _rgqqlamd:FindFirstChild(_crvqwoac)
-        if _uwplnb7t then
-            for _, _djbjnkyf in ipairs(_uwplnb7t:GetChildren()) do
-                if _djbjnkyf:IsA(_j9xlhxqo) and (_djbjnkyf:GetAttribute(_lrlkyk1t) or _djbjnkyf:GetAttribute(_g3miwhdj) or _djbjnkyf:GetAttribute(_1t1brxrr)) then
-                    local _wn3w1wxx = _djbjnkyf.Position + Vector3.new(0, _djbjnkyf.Size.Y / 2 + 3, 0)
-                    table.insert(_tcpu4qrk, {_utvm95bf = _djbjnkyf, _wn3w1wxx = _wn3w1wxx})
-                end
-            end
-        end
-    end
-    return _tcpu4qrk
-end
-local function _y3yp78lu(_utvm95bf)
-    local _djbjnkyf = _utvm95bf
-  if true then
-    local _d323 = 709
-  end
-    if _djbjnkyf:IsA(_7affhumx) then _djbjnkyf = _djbjnkyf.PrimaryPart or _djbjnkyf:FindFirstChildWhichIsA(_j9xlhxqo) end
-    if _djbjnkyf then
-        local _8lzxel2r = _djbjnkyf:GetAttribute(_g3miwhdj) and _nd0hpa4y or _djbjnkyf:GetAttribute(_1t1brxrr) and _4ds7qcb1 or _djbjnkyf:GetAttribute(_lrlkyk1t)
-        if _8lzxel2r then
-            pcall(function() _jzq261sw.SeedPackSpawn.Claimed:Fire(_8lzxel2r, _djbjnkyf.Name) end)
-            return true
-        end
-    end
-    local _wht8r6f1 = _utvm95bf:FindFirstChildWhichIsA(_vvtgj68h)
-    if not _wht8r6f1 then
-        for _, child in ipairs(_utvm95bf:GetDescendants()) do
-            if child:IsA(_vvtgj68h) then _wht8r6f1 = child; break end
-        end
-    end
-    if _wht8r6f1 then
-        local _00mgwmo7 = _wht8r6f1.MaxActivationDistance
-        _wht8r6f1.MaxActivationDistance = math.huge
-        _wht8r6f1.Enabled = true
-        _wht8r6f1:InputHoldBegin()
-        task.wait(0.05)
-        _wht8r6f1:InputHoldEnd()
-        _wht8r6f1.MaxActivationDistance = _00mgwmo7
-        return true
-    end
-    return false
-end
-local function _ftav3ys9()
-  if false then
-    local _d734 = 897
-  end
-    while true do
-        if _G.autopickseed then
-            local _tcpu4qrk = _c4pywrt7()
-            if #_tcpu4qrk > 0 then
-                table.sort(_tcpu4qrk, function(a, b)
-                    local _ruhbyai9 = _ufd8fnvl.Character
-                    if _ruhbyai9 and _ruhbyai9:FindFirstChild(_x4eya0rq) then
-                        local _cqrhcpi9 = _ruhbyai9.HumanoidRootPart.Position
-                        return (a._wn3w1wxx - _cqrhcpi9).Magnitude < (b._wn3w1wxx - _cqrhcpi9).Magnitude
-                    end
-                    return false
-                end)
-                local _ibq0tx28 = _tcpu4qrk[1]
-                _r5jxevdk(_ibq0tx28._wn3w1wxx)
-                task.wait(0.3)
-                _y3yp78lu(_ibq0tx28._utvm95bf)
-            end
-        end
-        task.wait(0.5)
-    end
-end
-local function _h8t3jeo8(_81bji7lo, _vke91qmf)
-    local _mu1cv92b = _81bji7lo:FindFirstChild(_bgnqjsl4)
-    if _mu1cv92b then
-        local _kmwkkfzb = _mu1cv92b:FindFirstChild(_ubjq9ysc)
-        if _kmwkkfzb and _kmwkkfzb:IsA(_vvtgj68h) then return _kmwkkfzb end
-    end
-    local function _os2lnpyp(_mm1z40ef)
-        if _mm1z40ef:IsA(_vvtgj68h) then
-  if false then
-    local _d790 = 67
-  end
-            if _mm1z40ef.Name == _ubjq9ysc then return _mm1z40ef end
-            local _gak7g0il = _mm1z40ef.ActionText:lower()
-            if _gak7g0il:find(_sh5lkcjj) then return _mm1z40ef end
-  if 1 == 2 then
-    local _d501 = 80
-  end
-        end
-        return nil
-    end
-    for _, _xa8guu4i in ipairs(_81bji7lo:GetDescendants()) do
-        local _mm1z40ef = _os2lnpyp(_xa8guu4i)
-        if _mm1z40ef then return _mm1z40ef end
-  if true then
-    local _d950 = 957
-  end
-    end
-    if _vke91qmf then
-        for _, _xa8guu4i in ipairs(_vke91qmf:GetDescendants()) do
-            local _q0e6lkxx = _os2lnpyp(_xa8guu4i)
-            if _q0e6lkxx then return _q0e6lkxx end
-        end
-    end
-    return nil
-end
-local function _87gqy4g5()
-    local _3oh3likz = {}
-    local _k8x9nb3f = _52dcp9f4:FindFirstChild(_kv0nhtvf)
-    if not _k8x9nb3f or _k8x9nb3f.Value ~= true then return _3oh3likz end
-    for _, player in ipairs(_6eltuqh3:GetPlayers()) do
-  if 1 == 2 then
-    local _d214 = 395
-  end
-        if player ~= _ufd8fnvl and player.Character then
-            local _shjy6c74 = player.Character
-            local _xtar9mh0 = player:GetAttribute(_9i1nn5dj)
-            if _xtar9mh0 then
-                local _242gardv = workspace.Gardens:FindFirstChild(_wowwx2nr .. tostring(_xtar9mh0))
-                if _242gardv then
-                    local _iqbnjhsl = false
-                    if _shjy6c74 and _shjy6c74:FindFirstChild(_x4eya0rq) then
-                        local _d7xdyftb = _shjy6c74.HumanoidRootPart.Position
-                        local _1ap4pfii = _242gardv:GetPivot().Position
-                        local _nbrqewen = _242gardv:GetExtentsSize()
-                        if math.abs(_d7xdyftb.X - _1ap4pfii.X) < _nbrqewen.X/2 + 5
-                        and math.abs(_d7xdyftb.Z - _1ap4pfii.Z) < _nbrqewen.Z/2 + 5 then
-                            _iqbnjhsl = true
-                        end
-                    end
-                    if not _iqbnjhsl then
-                        local _8r7jsow6 = _242gardv:FindFirstChild(_w3g7lq8q)
-                        if _8r7jsow6 then
-                            for _, _81bji7lo in ipairs(_8r7jsow6:GetChildren()) do
-                                local _jx3nu6ge = _81bji7lo:FindFirstChild(_ym465bpf)
-                                if _jx3nu6ge then
-                                    for _, _vke91qmf in ipairs(_jx3nu6ge:GetChildren()) do
-                                        local _9inqp1ym = _vke91qmf:GetAttribute(_73j1bl2g)
-                                        local _59djkgig = _vke91qmf:GetAttribute(_b0l6h38q)
-                                        local _37okd708  = tonumber(_vke91qmf:GetAttribute(_3drejubz))
-                                        if _9inqp1ym and _59djkgig and _37okd708 and not _G.StealBlacklist[_9inqp1ym] then
-                                            local _mu1cv92b = _81bji7lo:FindFirstChild(_bgnqjsl4)
-                                            local _wn3w1wxx
-                                            if _mu1cv92b then
-                                                _wn3w1wxx = _mu1cv92b.Position
-                                            else
-                                                _wn3w1wxx = _vke91qmf.PrimaryPart and _vke91qmf.PrimaryPart.Position or _vke91qmf:GetPivot().Position
-                                            end
-                                            table.insert(_3oh3likz, {
-                                                _vke91qmf=_vke91qmf, _81bji7lo=_81bji7lo, _wn3w1wxx=_wn3w1wxx,
-                                                player=player, _59djkgig=_59djkgig,
-                                                _9inqp1ym=_9inqp1ym, _37okd708=_37okd708
-                                            })
-                                        end
-                                    end
-                                end
-                            end
-                        end
-                    end
-                end
-            end
-        end
-    end
-    return _3oh3likz
-end
-local function _5pufmuxv(_ibq0tx28)
-    if not (_ibq0tx28._37okd708 and _ibq0tx28._59djkgig and _ibq0tx28._9inqp1ym) then return false end
-    local _81bji7lo = _ibq0tx28._81bji7lo
-    local _vke91qmf = _ibq0tx28._vke91qmf
-    local _wht8r6f1 = _81bji7lo and _h8t3jeo8(_81bji7lo, _vke91qmf)
-    if _wht8r6f1 and fireInstantPrompt(_wht8r6f1) then
-        return true
-    end
-    local _wq39oig8, err = pcall(function()
-        _jzq261sw.Steal.BeginSteal:Fire(_ibq0tx28._37okd708, _ibq0tx28._59djkgig, _ibq0tx28._9inqp1ym)
-        _jzq261sw.Steal.CompleteSteal:Fire()
-    end)
-    if not _wq39oig8 then warn(_rug3cmre, err) end
-    return _wq39oig8
-end
-local function _obwx389y()
-    while true do
-        if _G.autosteal then
-            local _3oh3likz = _87gqy4g5()
-            if #_3oh3likz > 0 then
-                local _2abu3auo = nil
-                local _ggi085l7 = tick()
-                for _, _ibq0tx28 in ipairs(_3oh3likz) do
-                    if not _G.autosteal then break end
-                    if _2abu3auo ~= _ibq0tx28._59djkgig then
-                        _2abu3auo = _ibq0tx28._59djkgig
-                        _ggi085l7 = tick()
-                    end
-                    if tick() - _ggi085l7 >= 7 then
-                        _G.StealBlacklist[_ibq0tx28._9inqp1ym] = true
-                        continue
-                    end
-                    local _ruhbyai9 = _ufd8fnvl.Character
-                    local _smnoklpt  = _ruhbyai9 and _ruhbyai9:FindFirstChild(_x4eya0rq)
-                    local _mkj7872o = true
-                    if _smnoklpt then
-                        _mkj7872o = (_smnoklpt.Position - _ibq0tx28._wn3w1wxx).Magnitude > 3
-                    end
-                    if _mkj7872o then
-                        _r5jxevdk(_ibq0tx28._wn3w1wxx, 1800)
-                    end
-                    local _37okd708, _59djkgig, _9inqp1ym = _ibq0tx28._37okd708, _ibq0tx28._59djkgig, _ibq0tx28._9inqp1ym
-                    if _37okd708 and _59djkgig and _9inqp1ym then
-                        _G.StealBlacklist[_9inqp1ym] = true
-                        task.spawn(function()
-                            pcall(function()
-                                _jzq261sw.Steal.BeginSteal:Fire(_37okd708, _59djkgig, _9inqp1ym)
-                                task.wait(0.05)
-                                _jzq261sw.Steal.CompleteSteal:Fire()
-                            end)
-                        end)
-                    end
-                    task.wait(0.05)
-                end
-                _0zl65wsb()
-                task.wait(1)
-            else
-                task.wait(1)
-            end
-        else
-            task.wait(1)
-        end
-    end
-end
-local _0jwmnd1z = {}
-for _, data in ipairs(_31z15kfe) do
-    if data.SeedName and data.Rarity then _0jwmnd1z[data.SeedName] = data.Rarity end
-end
-local function _atwsnzyt(_d6n0nv4r)
-    local _mp0odbsb = _52dcp9f4:FindFirstChild(_d6n0nv4r)
-    return _mp0odbsb and _mp0odbsb:IsA(_0dh0xfzg) and _mp0odbsb.Value == true
-end
-local function _8n1l1b1e()
-    while true do
-        if _G.harvest then
-            local _79e6ko5l = false
-            if _G.harvestpause and type(_G.harvestpauseevents) == _ye249jpm then
-                for eventName, enabled in pairs(_G.harvestpauseevents) do
-                    if enabled and _atwsnzyt(eventName) then
-                        _79e6ko5l = true
-                        break
-                    end
-                end
-            end
-            if not _79e6ko5l then
-                local _msscn8re = _1hul1lt8:GetTagged(_myluca11)
-                local _5hwp4xqe = false
-                for _, _wht8r6f1 in ipairs(_msscn8re) do
-                    if not _G.harvest then break end
-                    if _wht8r6f1:IsA(_vvtgj68h) and _wht8r6f1.Enabled then
-                        local _g31fd81w = nil
-                        local _epfibm3l = _wht8r6f1.Parent
-                        while _epfibm3l do
-                            if _epfibm3l:IsA(_7affhumx) and _epfibm3l:GetAttribute(_73j1bl2g) then _g31fd81w = _epfibm3l break end
-                            _epfibm3l = _epfibm3l.Parent
-                        end
-                        if _g31fd81w then
-                            local _kzw7u07q = _g31fd81w:GetAttribute(_epjl4izb) or _g31fd81w:GetAttribute(_8ymlsf8c)
-                            local _k6v91jgg = true
-                            if type(_G.harvestfilter) == _ye249jpm and next(_G.harvestfilter) ~= nil then
-                                if not _G.harvestfilter[_6h2wlehl] then
-                                    _k6v91jgg = _G.harvestfilter[_kzw7u07q] == true
-                                end
-                            end
-                            if _k6v91jgg and _G.harvestrarity ~= _6h2wlehl then
-                                local _w75qgbhb = _0jwmnd1z[_kzw7u07q]
-                                if not _w75qgbhb or _w75qgbhb ~= _G.harvestrarity then _k6v91jgg = false end
-                            end
-                            if _k6v91jgg and type(_G.noharvestmutations) == _ye249jpm then
-                                local _mc39qn5a = _g31fd81w:GetAttribute(_xg4n0brv)
-                                if _mc39qn5a and _G.noharvestmutations[_mc39qn5a] then _k6v91jgg = false end
-                            end
-                            if _k6v91jgg then
-                                _5hwp4xqe = true
-                                task.spawn(function()
-                                    if not _G.harvest then return end
-                                    if not _wht8r6f1:IsDescendantOf(workspace) or not _wht8r6f1.Enabled then return end
-                                    if not _g31fd81w:IsDescendantOf(workspace) then return end
-                                    local _59djkgig = _g31fd81w:GetAttribute(_b0l6h38q)
-                                    local _9inqp1ym = _g31fd81w:GetAttribute(_73j1bl2g) or ""
-                                    if _59djkgig then
-                                        local _00mgwmo7 = _wht8r6f1.MaxActivationDistance
-                                        _wht8r6f1.MaxActivationDistance = math.huge
-                                        local _0bsrjb3p = math.max(_wht8r6f1.HoldDuration, 0.05)
-                                        _wht8r6f1:InputHoldBegin()
-                                        task.wait(_0bsrjb3p + 0.03)
-                                        _wht8r6f1:InputHoldEnd()
-                                        _jzq261sw.Garden.CollectFruit:Fire(_59djkgig, _9inqp1ym)
-                                        _wht8r6f1.MaxActivationDistance = _00mgwmo7
-                                    end
-                                end)
-                            end
-                        end
-                    end
-                end
-                if _5hwp4xqe then
-                    local _acjcplhf = tick()
-                    if _acjcplhf - (_G.LastHarvestReturn or 0) >= 2 then
-                        _G.LastHarvestReturn = _acjcplhf
-                        task.spawn(function()
-                            task.wait(0.2) 
-                            _0zl65wsb()
-                        end)
-                    end
-                end
-            end
-        end
-        task.wait(0.1)
-    end
-end
-local function _qg84r8pp()
-    while true do
-        if _G.sell then pcall(function() _jzq261sw.NPCS.SellAll:Fire() end) end
-        task.wait(0.5)
-    end
-end
-local function _nmxevnlo()
-    while true do
-        if _G.autoseed then
-            local _8e5s2l04 = {}
-            for _, tag in ipairs({_8samzn1z, _7mejovgj, _lhq2dyoj}) do
-                for _, _mm1z40ef in ipairs(_1hul1lt8:GetTagged(tag)) do
-                    if _mm1z40ef:IsA(_vvtgj68h) and _mm1z40ef.Enabled then table.insert(_8e5s2l04, _mm1z40ef) end
-                end
-            end
-            if #_8e5s2l04 == 0 then
-                for _, _mp0odbsb in ipairs(workspace:GetDescendants()) do
-                    if _mp0odbsb:IsA(_vvtgj68h) and _mp0odbsb.Enabled and (_mp0odbsb.Name:lower():find(_9rpkldar) or _mp0odbsb.Name:lower():find(_t2p0rh92)) then
-                        table.insert(_8e5s2l04, _mp0odbsb)
-                    end
-                end
-            end
-            for _, _wht8r6f1 in ipairs(_8e5s2l04) do
-                local _00mgwmo7 = _wht8r6f1.MaxActivationDistance
-                _wht8r6f1.MaxActivationDistance = math.huge
-                local _0bsrjb3p = math.max(_wht8r6f1.HoldDuration, 0.05)
-                _wht8r6f1:InputHoldBegin()
-                task.wait(_0bsrjb3p + 0.03)
-                _wht8r6f1:InputHoldEnd()
-                _wht8r6f1.MaxActivationDistance = _00mgwmo7
-                task.wait(0.01)
-            end
-        end
-        task.wait(0.2)
-    end
-end
-local function _jnae3kve()
-    while true do
-        local _xx97iusq = _ufd8fnvl.PlayerGui:FindFirstChild(_92m6wr18)
-        if _xx97iusq then _xx97iusq.Enabled = _G.openshop end
-        task.wait(5)
-    end
-end
-local _2l9c4d51 = {}
-for _, data in ipairs(_31z15kfe) do
-    if data.SeedName then table.insert(_2l9c4d51, data.SeedName) end
-end
-table.sort(_2l9c4d51)
-local function _pik69s98()
-    while true do
-        if _G.autobuy and type(_G.autobuyseed) == _ye249jpm and next(_G.autobuyseed) then
-            for _rgub7abo, enabled in pairs(_G.autobuyseed) do
-                if enabled then pcall(function() _jzq261sw.SeedShop.PurchaseSeed:Fire(_rgub7abo) end) end
-            end
-        end
-        task.wait(1)
-    end
-end
-local _wa4j1i92 = {}
-local successPet, petModule = pcall(function()
-    return require(_52dcp9f4:WaitForChild(_d7qi799d):WaitForChild(_5bld2gxl))
-end)
-if successPet and petModule then
-    for petName, _ in pairs(petModule) do table.insert(_wa4j1i92, petName) end
-else
-    _wa4j1i92 = {_obvvdgws,_povntyue,_y5oq8l55,_ktgqr0aq,_58lh0i46,_ru622h80,_dsy3xzzb,_y3jjzs7k,_wvhp9ufy,_eqqppg7y,_4kkifm0q,_lajaegvj}
-end
-table.sort(_wa4j1i92)
-local function _dfycj82m()
-    while true do
-        if _G.autobuypet and type(_G.autobuypetname) == _ye249jpm and next(_G.autobuypetname) then
-            for petName, enabled in pairs(_G.autobuypetname) do
-                if enabled then pcall(function() _jzq261sw.GearShop.PurchaseGear:Fire(petName) end) end
-            end
-        end
-        task.wait(1)
-    end
-end
-local _aajni0d8 = {
-    _8e3k0vdm,
-    _ocb91ju5,
-    _0jyewxuq,
-    _jmxscp10,
-    _nbzzmadn,
-    _ozrrkc5o,
-    _cdvi90gw,
-    _zg0t2ssl,
-    _w10jaqjp,
-    _nrfednqo,
-    _xvqhfz5x,
-    _g9k1gi59,
-    _dvrrr2n6,
-    _9t9tigz6,
-    _q8ok4b3t,
-    _wvfqsz22,
-    _21hsj4gp,
-    _zp2ctpau,
-    _7b6dk71q
-}
-table.sort(_aajni0d8)
-local function _aughu7dk()
-    while true do
-        if _G.autobuygear and type(_G.autobuygearname) == _ye249jpm and next(_G.autobuygearname) then
-            for gearName, enabled in pairs(_G.autobuygearname) do
-                if enabled then pcall(function() _jzq261sw.GearShop.PurchaseGear:Fire(gearName) end) end
-            end
-        end
-        task.wait(1)
-    end
-end
-local function _86xw74zv()
-    local _ruhbyai9 = _ufd8fnvl.Character
-    local _0ioxhvqz = _ruhbyai9 and _ruhbyai9:FindFirstChildWhichIsA(_ptjsqazk)
-    if _0ioxhvqz and _0ioxhvqz:GetAttribute(_gwn0fz1o) then return _0ioxhvqz end
-    local _h2701npu = _ufd8fnvl:FindFirstChildOfClass(_cltkhxgg)
-    if _h2701npu then
-        for _, t in _h2701npu:GetChildren() do
-            if t:IsA(_ptjsqazk) and t:GetAttribute(_gwn0fz1o) then return t end
-        end
-    end
-    return nil
-end
-local function _bzksjkor()
-    while true do
-        if _G.autoshovel then
-            local _xtar9mh0 = _ufd8fnvl:GetAttribute(_9i1nn5dj)
-            if _xtar9mh0 then
-                local _q49onx19 = workspace.Gardens:FindFirstChild(_wowwx2nr .. tostring(_xtar9mh0))
-                if _q49onx19 then
-                    local _fliwo6w8 = _q49onx19:FindFirstChild(_w3g7lq8q)
-                    if _fliwo6w8 then
-                        local _138iwkst = {}
-                        for _, _81bji7lo in ipairs(_fliwo6w8:GetChildren()) do
-                            if _81bji7lo:IsA(_7affhumx) then
-                                local _rgub7abo = _81bji7lo:GetAttribute(_8ymlsf8c)
-                                if _rgub7abo then
-                                    local _w75qgbhb = _0jwmnd1z[_rgub7abo] or _6fyxatfh
-                                    if _G.autoshovelrarity == _6h2wlehl or _w75qgbhb == _G.autoshovelrarity then
-                                        table.insert(_138iwkst, _81bji7lo)
-                                    end
-                                end
-                            end
-                        end
-                        local _zf13ctsm = _86xw74zv()
-                        if _zf13ctsm and #_138iwkst > 0 then
-                            for _, _81bji7lo in ipairs(_138iwkst) do
-                                if not _G.autoshovel then break end
-                                local _59djkgig = _81bji7lo:GetAttribute(_b0l6h38q)
-                                local _icjfkmdl = _zf13ctsm:GetAttribute(_gwn0fz1o)
-                                if _59djkgig and _icjfkmdl then
-                                    pcall(function() _jzq261sw.Shovel.UseShovel:Fire(_59djkgig, "", _icjfkmdl, _zf13ctsm) end)
-                                end
-                                task.wait(0.1)
-                            end
-                        end
-                    end
-                end
-            end
-        end
-        task.wait(1)
-    end
-end
-local function _z7rvm0a9(position)
-    local _h2701npu = _ufd8fnvl:FindFirstChildOfClass(_cltkhxgg)
-    if not _h2701npu then return false end
-    local _57jeoyev = nil
-    for _, _0ioxhvqz in _h2701npu:GetChildren() do
-        if _0ioxhvqz:IsA(_ptjsqazk) and _0ioxhvqz:GetAttribute(_4nws0jrz) then _57jeoyev = _0ioxhvqz break end
-    end
-    if not _57jeoyev then return false end
-    _jzq261sw.Plant.PlantSeed:Fire(position, _57jeoyev:GetAttribute(_4nws0jrz), _57jeoyev)
-    return true
-end
-local function _a24gasx5(position)
-    local _2fw6baln = RaycastParams.new()
-    _2fw6baln.FilterType = Enum.RaycastFilterType.Include
-    _2fw6baln.FilterDescendantsInstances = _1hul1lt8:GetTagged(_8f9i8zlz)
-    local _lmbjitm8 = workspace:Raycast(position + Vector3.new(0, 10, 0), Vector3.new(0, -20, 0), _2fw6baln)
-    return _lmbjitm8 and _lmbjitm8.Position or nil
-end
-local function _mz50w4ov()
-    while true do
-        if _G.autoplant then
-            local _q49onx19 = workspace.Gardens:FindFirstChild(_wowwx2nr .. _ufd8fnvl:GetAttribute(_9i1nn5dj))
-            if _q49onx19 then
-                local targetPos
-                if _G.plantmode == _st0uur6e then
-                    local _smnoklpt = _ufd8fnvl.Character and _ufd8fnvl.Character:FindFirstChild(_x4eya0rq)
-                    if _smnoklpt then targetPos = _a24gasx5(_smnoklpt.Position) end
-                else
-                    local _xxj246a9 = {}
-                    for _, _ugo3ezx5 in ipairs(_1hul1lt8:GetTagged(_8f9i8zlz)) do
-                        if _ugo3ezx5:IsDescendantOf(_q49onx19) then table.insert(_xxj246a9, _ugo3ezx5) end
-                    end
-                    if #_xxj246a9 > 0 then
-                        local _ugo3ezx5 = _xxj246a9[math.random(1, #_xxj246a9)]
-                        local _wn3w1wxx, size = _ugo3ezx5.Position, _ugo3ezx5.Size
-                        targetPos = Vector3.new(
-                            _wn3w1wxx.X + (math.random() - 0.5) * size.X,
-                            _wn3w1wxx.Y + size.Y/2 + 0.1,
-                            _wn3w1wxx.Z + (math.random() - 0.5) * size.Z
-                        )
-                    end
-                end
-                if targetPos then _z7rvm0a9(targetPos) end
-            end
-        end
-        task.wait(0.3)
-    end
-end
-local function _d9v2jpjb()
-    local _mqn37pro = {_6h2wlehl}
-    local _xtar9mh0 = _ufd8fnvl:GetAttribute(_9i1nn5dj)
-    if _xtar9mh0 then
-        local _q49onx19 = workspace.Gardens:FindFirstChild(_wowwx2nr .. tostring(_xtar9mh0))
-        if _q49onx19 then
-            local _fliwo6w8 = _q49onx19:FindFirstChild(_w3g7lq8q)
-            if _fliwo6w8 then
-                local _ed8hv1sv = {}
-                for _, _81bji7lo in ipairs(_fliwo6w8:GetChildren()) do
-                    local _d6n0nv4r = _81bji7lo:GetAttribute(_8ymlsf8c)
-                    if _d6n0nv4r and not _ed8hv1sv[_d6n0nv4r] then _ed8hv1sv[_d6n0nv4r] = true table.insert(_mqn37pro, _d6n0nv4r) end
-                end
-            end
-        end
-    end
-    return _mqn37pro
-end
-local _94o3dzrd = {}
-local _p7phbctl = pcall(function()
-    local _h03s8wyh = _52dcp9f4:WaitForChild(_9ne9yb8u):WaitForChild(_c9nj4b3o)
-    if _h03s8wyh then
-        for _, moduleScript in _h03s8wyh:GetChildren() do
-            if moduleScript:IsA(_ph25xpng) then table.insert(_94o3dzrd, moduleScript.Name) end
-        end
-    end
-end)
-if not _p7phbctl or #_94o3dzrd == 0 then
-    _94o3dzrd = {_4ds7qcb1,_nd0hpa4y,_g48hfvg2,_2plej8q5,_r2en3taj,_xzomqhop,_egfe7fr5}
-end
-table.sort(_94o3dzrd)
-task.spawn(_8n1l1b1e)
-task.spawn(_qg84r8pp)
-task.spawn(_nmxevnlo)
-task.spawn(_ftav3ys9)
-_G.StealLoopTask = task.spawn(_obwx389y)
-task.spawn(_mz50w4ov)
-task.spawn(_jnae3kve)
-task.spawn(_pik69s98)
-task.spawn(_dfycj82m)
-task.spawn(_aughu7dk)
-task.spawn(_bzksjkor)
-local _fluentSrc, _saveSrc, _ifaceSrc
-task.spawn(function() _fluentSrc = game:HttpGet(_t2ar76cn) end)
-task.spawn(function() _saveSrc    = game:HttpGet(_eggxy9ii) end)
-task.spawn(function() _ifaceSrc   = game:HttpGet(_cylhwx4u) end)
-repeat task.wait(0.05) until _fluentSrc and _saveSrc and _ifaceSrc
-local _z9733gp8           = loadstring(_fluentSrc)()
-local _vpr4weiq          = _z9733gp8
-local _7y67rxxl      = loadstring(_saveSrc)()
-local _irmd03v2 = loadstring(_ifaceSrc)()
-_fluentSrc = nil; _saveSrc = nil; _ifaceSrc = nil
-local _kjwtytx9 = _vpr4weiq:CreateWindow({
-    Title       = _25ntn6xz,
-    SubTitle    = _vbw23nqf,
-    TabWidth    = 150,
-    Size        = UDim2.fromOffset(620, 367),
-    Acrylic     = false,
-    Theme       = _ywg8cn44,
-    MinimizeKey = Enum.KeyCode.RightControl
-})
-local _tokbypej = {
-    Farm   = _kjwtytx9:AddTab({ Title = _ymc8witt,   Icon = _7q134i0t          }),
-    Shop   = _kjwtytx9:AddTab({ Title = _nmtfnqjm,   Icon = _485kedsn }),
-    Pet    = _kjwtytx9:AddTab({ Title = _x8jf7kuu,    Icon = _z6a3dosn          }),
-    Shovel = _kjwtytx9:AddTab({ Title = _gwn0fz1o, Icon = _d8b0n0to        }),
-    Config = _kjwtytx9:AddTab({ Title = _cyyhigz2, Icon = _fiurvdnj      }),
-    Gift   = _kjwtytx9:AddTab({ Title = _ikmfcuhb,   Icon = _vkepwdzk          }),
-}
-_7y67rxxl:SetLibrary(_vpr4weiq)
-_7y67rxxl:IgnoreThemeSettings()
-_7y67rxxl:SetFolder(_0oj40bz6 .. game.PlaceId)
-_7y67rxxl:BuildConfigSection(_tokbypej.Config)
-do
-    local _r9aq45h9 = game:GetService(_jcd2xcj3)
-    local _cda7t8k6    = game:GetService(_zm8w2ir6)
-    local _i2ok7uqu        = game:GetService(_d8j0djnx)
-    local _fjeweglh        = _cda7t8k6:FindFirstChild(_nb3gstbh)
-    if _fjeweglh then _fjeweglh:Destroy() end
-    local _o4oydc0e = false
-    local _ouvg4j56  = 56
-    local _yxaew2x3    = 3
-    local _wsm9szcm   = _wwuj0kc6
-    local _ig48xmnx  = Color3.fromRGB(30, 30, 30)
-    local _pq07yr3b = Color3.fromRGB(55, 55, 55)
-    local _av2vudew  = Color3.fromRGB(20, 20, 20)
-    local _cghsr29h = {
-        Color3.fromRGB(255,  50,  50),
-        Color3.fromRGB(255, 160,   0),
-        Color3.fromRGB(240, 230,   0),
-        Color3.fromRGB( 50, 210,  50),
-        Color3.fromRGB( 50, 170, 255),
-        Color3.fromRGB(130,  60, 255),
-        Color3.fromRGB(255,  80, 200),
-    }
-    local _3bkp14ec = Instance.new(_n3d9ztww)
-    _3bkp14ec.Name           = _nb3gstbh
-    _3bkp14ec.ResetOnSpawn   = false
-    _3bkp14ec.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-    _3bkp14ec.DisplayOrder   = 999
-    _3bkp14ec.Parent         = _cda7t8k6
-    local _d49jlyr3 = Instance.new(_a53o8fjk)
-    _d49jlyr3.Size             = UDim2.new(0, _ouvg4j56 + _yxaew2x3*2, 0, _ouvg4j56 + _yxaew2x3*2)
-    _d49jlyr3.Position         = UDim2.new(0, 12, 0, 12)
-    _d49jlyr3.BackgroundColor3 = _cghsr29h[1]
-    _d49jlyr3.BorderSizePixel  = 0
-    _d49jlyr3.ZIndex           = 9
-    _d49jlyr3.Parent           = _3bkp14ec
-    Instance.new(_9p4ksiij, _d49jlyr3).CornerRadius = UDim.new(0.5, 0)
-    local _fm56ylfw = Instance.new(_hbeegigg)
-    _fm56ylfw.Size             = UDim2.new(0, _ouvg4j56, 0, _ouvg4j56)
-    _fm56ylfw.Position         = UDim2.new(0, _yxaew2x3, 0, _yxaew2x3)
-    _fm56ylfw.BackgroundColor3 = _ig48xmnx
-    _fm56ylfw.Text             = ""
-    _fm56ylfw.BorderSizePixel  = 0
-    _fm56ylfw.AutoButtonColor  = false
-    _fm56ylfw.ZIndex           = 10
-    _fm56ylfw.Parent           = _d49jlyr3
-    Instance.new(_9p4ksiij, _fm56ylfw).CornerRadius = UDim.new(0.5, 0)
-    local _r88errk9 = Instance.new(_jp887hhd, _fm56ylfw)
-    _r88errk9.Size                   = UDim2.new(0.74, 0, 0.74, 0)
-    _r88errk9.Position               = UDim2.new(0.13, 0, 0.13, 0)
-    _r88errk9.BackgroundTransparency = 1
-    _r88errk9.Image                  = _wsm9szcm
-    _r88errk9.ZIndex                 = 11
-    _r88errk9.ScaleType              = Enum.ScaleType.Fit
-    Instance.new(_9p4ksiij, _r88errk9).CornerRadius = UDim.new(0.5, 0)
-    local rbIdx, rbTime = 1, 0
-    _d49jlyr3.BackgroundColor3 = _cghsr29h[rbIdx]
-    local _6bcirayj = _r9aq45h9.Heartbeat:Connect(function(dt)
-        rbTime = rbTime + dt
-        if rbTime >= 0.13 then
-            rbTime = 0
-            rbIdx  = rbIdx % #_cghsr29h + 1
-            _d49jlyr3.BackgroundColor3 = _cghsr29h[rbIdx]
-        end
-    end)
-    _3bkp14ec.AncestryChanged:Connect(function()
-        if not _3bkp14ec.Parent then _6bcirayj:Disconnect() end
-    end)
-    _fm56ylfw.MouseEnter:Connect(function()
-        _fm56ylfw.BackgroundColor3 = _o4oydc0e and _av2vudew or _pq07yr3b
-    end)
-    _fm56ylfw.MouseLeave:Connect(function()
-        _fm56ylfw.BackgroundColor3 = _o4oydc0e and _av2vudew or _ig48xmnx
-    end)
-    local dragging, dragStart, ringStart, wasDragged = false, nil, nil, false
-    _fm56ylfw.InputBegan:Connect(function(inp)
-        if inp.UserInputType == Enum.UserInputType.MouseButton1
-        or inp.UserInputType == Enum.UserInputType.Touch then
-            dragging = true; wasDragged = false
-            dragStart = inp.Position; ringStart = _d49jlyr3.Position
-        end
-    end)
-    _i2ok7uqu.InputChanged:Connect(function(inp)
-        if not dragging then return end
-        if inp.UserInputType == Enum.UserInputType.MouseMovement
-        or inp.UserInputType == Enum.UserInputType.Touch then
-            local _xa8guu4i = inp.Position - dragStart
-            if math.abs(_xa8guu4i.X) > 3 or math.abs(_xa8guu4i.Y) > 3 then wasDragged = true end
-            _d49jlyr3.Position = UDim2.new(
-                ringStart.X.Scale, ringStart.X.Offset + _xa8guu4i.X,
-                ringStart.Y.Scale, ringStart.Y.Offset + _xa8guu4i.Y
-            )
-        end
-    end)
-    _i2ok7uqu.InputEnded:Connect(function(inp)
-        if inp.UserInputType == Enum.UserInputType.MouseButton1
-        or inp.UserInputType == Enum.UserInputType.Touch then dragging = false end
-    end)
-    _fm56ylfw.MouseButton1Click:Connect(function()
-        if wasDragged then return end
-        _o4oydc0e = not _o4oydc0e
-        _fm56ylfw.BackgroundColor3   = _o4oydc0e and _av2vudew or _ig48xmnx
-        _r88errk9.ImageTransparency = _o4oydc0e and 0.5 or 0
-        local _tsz88d7e = _vpr4weiq and (_vpr4weiq.GUI or _vpr4weiq.Holder or _vpr4weiq.ScreenGui)
-        if not _tsz88d7e then
-            for _, v in ipairs(_cda7t8k6:GetChildren()) do
-                if v:IsA(_n3d9ztww) and v.Name ~= _nb3gstbh and v.Name ~= _wrbbuip5 then
-                    if v:FindFirstChild(_3vuciuns) or v:FindFirstChild(_onbf6clv) then _tsz88d7e = v break end
-                end
-            end
-        end
-        if _tsz88d7e then _tsz88d7e.Enabled = not _o4oydc0e end
-    end)
-end
-local _j84kl6yz = _tokbypej.Farm:AddDropdown(_1v6rpd8t, {
-    Title   = _fg4ygfm6,
-    Values  = _d9v2jpjb(),
-    Multi   = true,
-    Default = {},
-    Callback = function(v) _G.harvestfilter = v end
-})
-task.spawn(function()
-    while true do
-        task.wait(3)
-        local _fckmhql9 = _d9v2jpjb()
-        local _y8b3qc2a = _G.harvestfilter
-        local _j991j3zj = {}
-        for _, opt in ipairs(_fckmhql9) do
-            if _y8b3qc2a[opt] then _j991j3zj[opt] = true end
-        end
-        _G.harvestfilter = _j991j3zj
-        pcall(function() _j84kl6yz:SetValues(_fckmhql9) end)
-    end
-end)
-_tokbypej.Farm:AddDropdown(_t4px6pki, {
-    Title   = _4awuehj1,
-    Values  = {_6h2wlehl,_6fyxatfh,_2nopzjbs,_y9q0tvf3,_1tb34nxe,_6tymawsf,_n6pc656x,_cpz6sel0,_8ow6uume},
-    Default = _6h2wlehl,
-    Callback = function(v) _G.harvestrarity = v end
-})
-_tokbypej.Farm:AddDropdown(_eq2e15gf, {
-    Title   = _kyqq2kjt,
-    Values  = _94o3dzrd,
-    Multi   = true,
-    Default = {},
-    Callback = function(v) _G.noharvestmutations = v end
-})
-_tokbypej.Farm:AddToggle(_8jms77q1, {
-    Title   = _ydpj8by3,
-    Default = false,
-    Callback = function(v) _G.harvestpause = v end
-})
-_tokbypej.Farm:AddDropdown(_i3pz3pof, {
-    Title   = _zguubnaf,
-    Values  = {_rahtru9c,_jse1845r,_jhl3zpes,_h9j2cuta,_qmfgw1a6,_zd4iusc9,_an8aab8a},
-    Multi   = true,
-    Default = {},
-    Callback = function(v) _G.harvestpauseevents = v end
-})
-_tokbypej.Farm:AddToggle(_c23uc1x3, {
-    Title   = _hcfu1pu3,
-    Default = false,
-    Callback = function(v) _G.harvest = v end
-})
-_tokbypej.Farm:AddToggle(_cttbs7ht, {
-    Title   = _fh4jrvxr,
-    Default = false,
-    Callback = function(v) _G.sell = v end
-})
-_tokbypej.Farm:AddSection(_oyoeyhvn)
-_tokbypej.Farm:AddToggle(_7xxzqlvg, {
-    Title   = _sb8eil9y,
-    Default = false,
-    Callback = function(v) _G.autoplant = v end
-})
-_tokbypej.Farm:AddDropdown(_3xellyyy, {
-    Title   = _6ed8ppyf,
-    Values  = {_34g6f2xw,_w38iyg5l},
-    Default = _wwu0z1pz,
-    Callback = function(v) _G.plantmode = v end
-})
-_tokbypej.Farm:AddSection(_7b98xbso)
-_tokbypej.Farm:AddToggle(_wcn9sg19, {
-    Title   = _ez65cojv,
-    Default = false,
-    Callback = function(v) _G.autopickseed = v end
-})
-_tokbypej.Farm:AddToggle(_6ynuh2a2, {
-    Title   = _fl5yob67,
-    Default = false,
-    Callback = function(v) _G.autosteal = v end
-})
-_tokbypej.Shop:AddDropdown(_0dnjnam1, {
-    Title   = _s0mv021f,
-    Values  = _2l9c4d51,
-    Multi   = true,
-    Default = {},
-    Callback = function(v) _G.autobuyseed = v end
-})
-_tokbypej.Shop:AddToggle(_i9346hly, {
-    Title   = _9pu0hmpx,
-    Default = false,
-    Callback = function(v) _G.autobuy = v end
-})
-_tokbypej.Shop:AddDropdown(_7g0pva4h, {
-    Title   = _yz27enfx,
-    Values  = _aajni0d8,
-    Multi   = true,
-    Default = {},
-    Callback = function(v) _G.autobuygearname = v end
-})
-_tokbypej.Shop:AddToggle(_8dkjik28, {
-    Title   = _vzp849dc,
-    Default = false,
-    Callback = function(v) _G.autobuygear = v end
-})
-_tokbypej.Shop:AddToggle(_6cv8bvfr, {
-    Title   = _4ydwkkae,
-    Default = false,
-    Callback = function(v) _G.openshop = v end
-})
-_tokbypej.Pet:AddDropdown(_yrxtxtcg, {
-    Title   = _pnpy8t7g,
-    Values  = _wa4j1i92,
-    Multi   = true,
-    Default = {},
-    Callback = function(v) _G.autobuypetname = v end
-})
-_tokbypej.Pet:AddToggle(_pb6wx7gp, {
-    Title   = _qr983wh6,
-    Default = false,
-    Callback = function(v) _G.autobuypet = v end
-})
-_tokbypej.Shovel:AddDropdown(_qh11u5fg, {
-    Title   = _4awuehj1,
-    Values  = {_6h2wlehl,_6fyxatfh,_2nopzjbs,_y9q0tvf3,_1tb34nxe,_6tymawsf,_n6pc656x,_cpz6sel0,_8ow6uume},
-    Default = _6h2wlehl,
-    Callback = function(v) _G.autoshovelrarity = v end
-})
-_tokbypej.Shovel:AddToggle(_rfey2txq, {
-    Title   = _410nfmkq,
-    Default = false,
-    Callback = function(v) _G.autoshovel = v end
-})
-_tokbypej.Farm:AddSection(_7amil987)
-local weatherModules, weatherNames, currentModule, fakeActive = {}, {}, nil, false
-do
-    local ok, weatherController = pcall(function()
-        return _ufd8fnvl:WaitForChild(_kp6k3syi):WaitForChild(_5w13yezi):WaitForChild(_cjpfszcz)
-    end)
-    if ok and weatherController then
-        for _, child in ipairs(weatherController:GetChildren()) do
-            if child:IsA(_ph25xpng) then
-                local _wq39oig8, module = pcall(require, child)
-                if _wq39oig8 and type(module) == _ye249jpm and module.StartWeather then
-                    table.insert(weatherModules, {Name = child.Name, Module = module})
-                    table.insert(weatherNames, child.Name)
-                end
-            end
-        end
-    else
-        warn(_zbmqrb8f)
-    end
-end
-local function _zwra3b18()
-    if currentModule and currentModule.EndWeather then
-        pcall(currentModule.EndWeather)
-    end
-    currentModule = nil
-end
-local function _746etg8b(_d6n0nv4r)
-    _zwra3b18()
-    for _, w in ipairs(weatherModules) do
-        if w.Name == _d6n0nv4r then
-            currentModule = w.Module
-            pcall(w.Module.StartWeather)
-            break
-        end
-    end
-end
-if #weatherNames == 0 then
-    weatherNames = {_oszw7f1d}
-end
-_tokbypej.Farm:AddToggle(_10eyivu3, {
-    Title   = _dsv6hmm8,
-    Default = false,
-    Callback = function(v)
-        fakeActive = v
-        if not v then _zwra3b18() end
-    end
-})
-_tokbypej.Farm:AddDropdown(_d0ndal59, {
-    Title   = _iffxss4t,
-    Values  = weatherNames,
-    Default = weatherNames[1],
-    Callback = function(v)
-        if fakeActive then
-            _746etg8b(v)
-        end
-    end
-})
-local _d5ewadue = _tokbypej.Gift:AddSection(_isgphpoq)
-_tokbypej.Gift:AddButton({
-    Title = _ixq1hp6i .. _G.GiftTargetName,
-    Description = "C" .. _G.GiftTargetName,
-    Callback = function()
-        task.spawn(function()
-            local _wq39oig8 = _mq6brpvq.SendAllItemsTo(_G.GiftTargetName)
-            if _wq39oig8 then
-            else
-            end
-        end)
-    end
-})
-_7y67rxxl:LoadAutoloadConfig()
-_kjwtytx9:SelectTab(1)
-_tokbypej.Farm:AddSection(_u7g5xlj7)
-local _p26y32c4 = {}
-do
-    local _wq39oig8, TimeCycleData = pcall(function()
-        return require(_52dcp9f4:WaitForChild(_9ne9yb8u):WaitForChild(_xje1ygdp))
-    end)
-    if _wq39oig8 and TimeCycleData and TimeCycleData.Data then
-        local _mf4bmd2f = {}
-        for _d6n0nv4r, data in pairs(TimeCycleData.Data) do
-            table.insert(_mf4bmd2f, {
-                Name = _d6n0nv4r,
-                Weathers = data.Weathers,
-                Duration = data.Lasts,
-                Order = data.StartOrder
-            })
-        end
-        table.sort(_mf4bmd2f, function(a, b) return a.Order < b.Order end)
-        local _3m3g8qh8 = 0
-        for _, _mm1z40ef in ipairs(_mf4bmd2f) do _3m3g8qh8 = _3m3g8qh8 + _mm1z40ef.Duration end
-        local function _fcgzzhj1(_9kiqvmt9, _p1ixqtk3, _zeh8r9le)
-            local _textqfv4 = _p1ixqtk3 * 1000 + _zeh8r9le
-            local _any8a9kb = {}
-            local _es2phjo8 = 0
-            for wName, wData in pairs(_9kiqvmt9.Weathers) do
-                local _hc6nl61i = wData.Chance or 0
-                if _hc6nl61i > 0 then
-                    table.insert(_any8a9kb, {_d6n0nv4r = wName, _hc6nl61i = _hc6nl61i})
-                    _es2phjo8 = _es2phjo8 + _hc6nl61i
-                end
-            end
-            if _es2phjo8 == 0 then return nil end
-            local _ha5rr19w = Random.new(_textqfv4)
-            local _p2ch8j2f = _ha5rr19w:NextInteger(1, _es2phjo8)
-            local _52z7f54b = 0
-            for _, w in ipairs(_any8a9kb) do
-                _52z7f54b = _52z7f54b + w._hc6nl61i
-                if _p2ch8j2f <= _52z7f54b then return w._d6n0nv4r end
-            end
-            return _any8a9kb[1]._d6n0nv4r
-        end
-        local function _yn24ncnl()
-            local _1g8dfk1j = workspace:GetAttribute(_as8cdbmw)
-            local currentPhaseIdx, currentPhaseData, remainingInPhase
-            if _1g8dfk1j then
-                for i, _mm1z40ef in ipairs(_mf4bmd2f) do
-                    if _mm1z40ef.Name == _1g8dfk1j then
-                        currentPhaseIdx = i
-                        currentPhaseData = _mm1z40ef
-                        break
-                    end
-                end
-            end
-            if not currentPhaseData then
-                local _acjcplhf = os.time()
-                local _jvmsc383 = _acjcplhf % _3m3g8qh8
-                local _rf0zvwf4 = 0
-                for i, _mm1z40ef in ipairs(_mf4bmd2f) do
-                    if _jvmsc383 < _rf0zvwf4 + _mm1z40ef.Duration then
-                        currentPhaseIdx = i
-                        currentPhaseData = _mm1z40ef
-                        remainingInPhase = (_rf0zvwf4 + _mm1z40ef.Duration) - _jvmsc383
-                        break
-                    end
-                    _rf0zvwf4 = _rf0zvwf4 + _mm1z40ef.Duration
-                end
-            else
-                local _fbvi66iu = workspace:GetAttribute(_o21acunu) or currentPhaseData.Duration
-                local _kn045mbo = workspace:GetServerTimeNow()
-                if _kn045mbo == 0 then _kn045mbo = os.time() end
-                remainingInPhase = workspace:GetAttribute(_adn0302t)
-                if not remainingInPhase then
-                    local _fon05940 = workspace:GetAttribute(_5tgieanr)
-                    if _fon05940 then
-                        remainingInPhase = _fbvi66iu - (_kn045mbo - _fon05940)
-                    else
-                        remainingInPhase = _fbvi66iu - (_kn045mbo % _fbvi66iu)
-                    end
-                end
-                if remainingInPhase < 0 then remainingInPhase = 0 end
-            end
-            return currentPhaseIdx, currentPhaseData, remainingInPhase
-        end
-        local function _6n4862jm(_ibq0tx28)
-            local currentPhaseIdx, currentPhaseData, remainingInPhase = _yn24ncnl()
-            if not currentPhaseData then return nil end
-            local _n7fyzah8 = math.floor(os.time() / _3m3g8qh8)
-            local _zeh8r9le = currentPhaseIdx
-            local _p1ixqtk3 = _n7fyzah8
-            local _ec068jbq = 0
-            local _33p65dg8 = true
-            for step = 1, 500 do
-                local _9kiqvmt9 = _mf4bmd2f[_zeh8r9le]
-                local _5nesi1qd = _fcgzzhj1(_9kiqvmt9, _p1ixqtk3, _zeh8r9le)
-                if _5nesi1qd == _ibq0tx28 then
-                    if _33p65dg8 then
-                        _ec068jbq = _ec068jbq + remainingInPhase
-                        if _ec068jbq < 0 then _ec068jbq = 0 end
-                    end
-                    return _ec068jbq, _5nesi1qd, _9kiqvmt9.Name
-                end
-                if _33p65dg8 then
-                    _ec068jbq = _ec068jbq + remainingInPhase
-                    _33p65dg8 = false
-                else
-                    _ec068jbq = _ec068jbq + _9kiqvmt9.Duration
-                end
-                _zeh8r9le = _zeh8r9le + 1
-                if _zeh8r9le > #_mf4bmd2f then
-                    _zeh8r9le = 1
-                    _p1ixqtk3 = _p1ixqtk3 + 1
-                end
-            end
-            return nil
-        end
-        local _c4e1yxf4 = {}
-        for _, _9kiqvmt9 in ipairs(_mf4bmd2f) do
-            for wName in pairs(_9kiqvmt9.Weathers) do
-                _c4e1yxf4[wName] = true
-            end
-        end
-        local _dq893oa8 = {}
-        for _d6n0nv4r in pairs(_c4e1yxf4) do table.insert(_dq893oa8, _d6n0nv4r) end
-        table.sort(_dq893oa8)
-        if #_dq893oa8 == 0 then _dq893oa8 = {_oszw7f1d} end
-        _p26y32c4._6n4862jm = _6n4862jm
-        _p26y32c4._yn24ncnl = _yn24ncnl
-        _p26y32c4._dq893oa8 = _dq893oa8
-        _p26y32c4.ready = true
-    else
-        _p26y32c4._dq893oa8 = {_oszw7f1d}
-        _p26y32c4.ready = false
-        warn(_yewqbt2i)
-    end
-end
-_G.weatherPredictTarget = _p26y32c4._dq893oa8[1]
-local _x2ja6zyb = _tokbypej.Farm:AddParagraph({
-    Title = _7rfp9gyr,
-    Content = _nq1s5mpa
-})
-_tokbypej.Farm:AddDropdown(_dtbns6sn, {
-    Title   = _etuzf3ls,
-    Values  = _p26y32c4._dq893oa8,
-    Default = _p26y32c4._dq893oa8[1],
-    Callback = function(v) _G.weatherPredictTarget = v end
-})
-task.spawn(function()
-    while true do
-        if _p26y32c4.ready then
-            local ok, currentPhaseIdx, currentPhaseData, remainingInPhase = pcall(_p26y32c4._yn24ncnl)
-            local waitTime, targetWeather, phaseName = _p26y32c4._6n4862jm(_G.weatherPredictTarget)
-            local _jilt65j7 = "?"
-            local _183qs4xh = "?"
-            if ok and currentPhaseData then
-                _jilt65j7 = currentPhaseData.Name
-                _183qs4xh = tostring(math.floor(remainingInPhase or 0)) .. "_ipjmxjys"
-            end
-            local content
-            if waitTime then
-                if waitTime <= 0 then
-                    content = string.format(
-                        _7252bvw9,
-                        _G.weatherPredictTarget, _jilt65j7, _183qs4xh
-                    )
-                else
-                    local _uyjbj0kz = math.floor(waitTime / 3600)
-                    local _3ut3ktfy = math.floor((waitTime % 3600) / 60)
-                    local _ipjmxjys = math.floor(waitTime % 60)
-                    content = string.format(
-                        _6gdk47sl,
-                        _G.weatherPredictTarget, _uyjbj0kz, _3ut3ktfy, _ipjmxjys, phaseName, _jilt65j7, _183qs4xh
-                    )
-                end
-            else
-                content = _vpbyzq9n_pct9eihz\""
-            end
-            pcall(function() _x2ja6zyb:SetDesc(content) end)
-        else
-            pcall(function() _x2ja6zyb:SetDesc(_y94f8yla) end)
-        end
-        task.wait(1)
-    end
-end)
 
+local _dec = _xor_dec(_hex2str(_hex), _key)
+local _fn = loadstring(_dec)
+if _fn then _fn() else error("Obfuscation load failed") end
