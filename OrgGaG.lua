@@ -1,1377 +1,2589 @@
--- Obfuscated by AlimeObfucastor (Secure)
-
--- Junk variables
-local _1n1xnnysav = 41221
-local _ow0v6n8m29 = 81718
-local _dhvle4q1yu = 67428
-local _il6wwo5olf = 38801
-local _wew14sq80a = 32655
-local _5ma98mx2j6 = 62657
-local _qvg4bivg2p = 53170
-local _xv9x593eks = 51309
-local _v60jmz4umb = 55567
-local _b3j6jkxtff = 76083
-local _231hv9bcvp = 30776
-local _61865iums0 = 11032
-local _x284yj1msv = 20411
-local _g8ry7bxd47 = 9849
-local _z4wf3u21fx = 58325
-local _hj7m4d5lv2 = 9192
-local _4btho9oush = 45708
-local _fnt6vvrbm9 = 82507
-local _rtddk802q7 = 72536
-local _4ga1au8qpg = 39525
-local _qz4a4zpk5c = 10442
-local _li2vnlf968 = 55682
-local _lq2h6snx4r = 21221
-local _z394yx4d6x = 25764
-local _hnkturz7ui = 56625
-local _e5bqbhyxor = 47885
-local _f8fidlrlf1 = 89055
-local _nfyrfytm9x = 35702
-local _hqrbutd30k = 82445
-local _snihtlkr0c = 70300
-local _azkkt3m8p1 = 17374
-local _o982xtybhf = 71330
-local _olnrliebar = 81887
-local _mbmj8e2852 = 20498
-local _q5t2lqtjy5 = 30050
-local _qeby7zh92x = 63479
-local _2n2h033bnc = 98921
-local _4uba667k9k = 78873
-local _6et2k6yxnl = 11242
-local _fz4bibb8ro = 43730
-local _n64w2ulf65 = 97386
-local _11mpqfhmer = 86599
-local _jbv24g5zm1 = 13315
-local _u5yauzk7q3 = 80904
-local _8z1jtu6p8e = 80897
-local _sw275tw2hl = 15378
-local _5jlcv6i4xz = 97832
-local _ak8aitfg8f = 26780
-local _okbxymy81d = 88348
-local _daftggod1q = 3768
-local _owakju4ooj = 42421
-local _k0w29me94z = 1229
-local _9jgrtznl0j = 92093
-local _2xge5shukc = 73418
-local _gfxbnqh6zp = 54512
-local _5tih2nh15s = 88964
-local _2xzu0855pp = 56154
-local _uw9oaffh0m = 71111
-local _83xv0x4w3j = 36960
-local _2037ma3869 = 91270
-local _0pnas5ibej = 45292
-local _ic7a1rtbsw = 73801
-local _9xz9aptzpp = 65972
-local _kggsvm96bd = 908
-local _a1hmzt635a = 11399
-local _oy9j7g0v2m = 82450
-local _0icaph9y81 = 12533
-local _vh672p4qvc = 64608
-local _ouqtaoq5s1 = 7935
-local _emert3nms4 = 17399
-local _qb6xjrd0vt = 9209
-local _jjn3p8l3om = 89965
-local _43kdtpm91e = 27662
-local _ks14ppkmp9 = 76873
-local _ortin1szx0 = 66655
-local _ecnhe1zd3b = 76172
-local _qqmo00z5p4 = 91553
-local _3gg5ksqrhw = 67423
-local _qqgep2hpks = 96520
-local _hr8tcmek05 = 18502
-local _i99e359x9v = 41531
-local _5fjtdavm02 = 55196
-local _s2jd0s5099 = 72228
-local _o1ghkb1ad7 = 69817
-local _6umhv7k8d6 = 5801
-local _5aw2twgzc1 = 90995
-local _f9g97slqvn = 89985
-local _2dpexn18ci = 39178
-local _pgdc69lfnn = 31490
-local _l3rmjkpqp3 = 46263
-local _ph44e86mrf = 19394
-local _gd8q4b05iv = 94818
-local _lykbxepzt6 = 55246
-local _9n3s29uii8 = 12133
-local _f3vcrnskxg = 24812
-local _jwbz53zank = 31327
-local _kuqyqbqw4a = 39093
-local _2lzg9qw80b = 90368
-local _2y58f4ibu9 = 71838
-local _os1ypijysd = 40292
-local _eayqzw6dzi = 46610
-local _kvog9hd3yt = 1436
-local _apmwg3odyk = 657
-local _4vunqnhd0u = 95274
-local _3g29t9snrx = 15522
-local _96g6xvlkt0 = 74269
-local _z2fzyroaiq = 68442
-local _uxg72bslnn = 7582
-local _ujs1jpil6v = 670
-local _c21syw33fj = 68344
-local _klrvahi3a1 = 28337
-local _6tueawjjhj = 78415
-local _88pu8urpx6 = 87934
-local _owl8bgo8zq = 51533
-local _uvjup8ry2i = 22305
-local _rbwntdrrjp = 38097
-local _tr1oig3rm7 = 80235
-local _i5591ko76h = 91906
-local _403gcmtl9g = 40159
-local _4mui6ae2cg = 99259
-local _yu302rq1e3 = 68380
-local _tduyjjyz9v = 88117
-local _cnr0gmub01 = 1388
-local _dcgay2khaf = 58119
-local _mzouzpysfv = 15852
-local _ej12xtn09u = 31801
-local _49hlvd6cyp = 49855
-local _89nk9xkmwi = 27605
-local _olg4vylz5w = 38225
-local _rdjp9wbyju = 86390
-local _cdbztrod1h = 27059
-local _f7noigo1s9 = 50390
-local _j7214k9cxx = 30917
-local _lfvltkenqd = 34965
-local _519d3ajpoh = 50194
-local _b30tlz4xwq = 72366
-local _b9opybvjjx = 25033
-local _bqvg248p4i = 62332
-local _rqgqly5rut = 75121
-local _hv0o6rqepw = 37830
-local _7gfv913ciy = 17700
-local _tsn4qwwjyz = 80469
-local _ysiawex5ft = 15468
-local _lxld40vpc2 = 62165
-local _06v0scxk38 = 28351
-local _7egwbvxvza = 6304
-local _jfw5tl1bgx = 28638
-local _zuxpbkette = 29508
-local _8z7ushhzop = 41727
-local _tgr6pkaz1a = 23699
-
--- Junk functions
-local function _t68waqsr1o(a, b)
-  local _xdfeg0uw2b = 822
-  local _bxrp6rrv85 = 39
-  local _ame44dycgv = 258
-  local _07h5oj1b5q = 213
-  local _chfst9wki4 = 624
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__t68waqsr1o = _t68waqsr1o(32, 40)
-local function _z90j4diwlm(a, b)
-  local _vj4z4faan5 = 119
-  local _68tu0iw285 = 413
-  local _w01ooornmr = 769
-  local _syvfb003da = 352
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__z90j4diwlm = _z90j4diwlm(36, 16)
-local function _vd77fzrlpm(a, b)
-  local _dlh43v4fey = 893
-  local _oz1o0df47o = 10
-  local _x6pwjeg6cs = 705
-  local _g55xl6s54f = 882
-  local _7nn313dkcl = 609
-  local _952sj3umqh = 147
-  local _g7190xglst = 890
-  local _sfu0xabqw1 = 125
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__vd77fzrlpm = _vd77fzrlpm(7, 21)
-local function _0lvonfcf4o(a, b)
-  local _r3cke0ejyr = 710
-  local _gdc521gacc = 824
-  local _d328mdmftz = 658
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__0lvonfcf4o = _0lvonfcf4o(39, 28)
-local function _jp62hrcnwe(a, b)
-  local _lt86fdoerb = 416
-  local _4k7gmdosxu = 192
-  local _nogv4v3qfu = 158
-  local _vsfvn23sbi = 123
-  local _kudih6j2ov = 157
-  local _e3eqfb4b5e = 579
-  local _wiiua6lbyo = 37
-  local _ktrlnov3fo = 778
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__jp62hrcnwe = _jp62hrcnwe(15, 27)
-local function _nyqc52r7v9(a, b)
-  local _nhdue56fl0 = 754
-  local _za099xqoml = 566
-  local _9i7pfiue2l = 876
-  local _njhqr14shj = 234
-  local _anupdhsjoh = 703
-  local _rvpw6pzhzy = 72
-  local _wktk21a89k = 485
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__nyqc52r7v9 = _nyqc52r7v9(47, 47)
-local function _hjme9pm62t(a, b)
-  local _owdlhzxmzn = 624
-  local _6ik5r9rfia = 855
-  local _abrktaztuc = 238
-  local _m3aq4xnb7y = 246
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__hjme9pm62t = _hjme9pm62t(16, 19)
-local function _rp7wjvqlq3(a, b)
-  local _53qpa9fctq = 978
-  local _kbi2ynr4fc = 636
-  local _esi033ksrf = 929
-  local _v2vmeulgvc = 218
-  local _tojk57mgw8 = 449
-  local _gq8vgyeafg = 877
-  local _7ile0pbnf6 = 875
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__rp7wjvqlq3 = _rp7wjvqlq3(14, 6)
-local function _bvpiv3q4la(a, b)
-  local _cks3p5fh3d = 892
-  local _nizjlqkm67 = 393
-  local _gl64z8d770 = 43
-  local _6tb6j3gpls = 384
-  local _pwartg4hlp = 1
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__bvpiv3q4la = _bvpiv3q4la(9, 25)
-local function _hv2qvjgajg(a, b)
-  local _r712is5trm = 643
-  local _lwvo0a1p6i = 486
-  local _jexkeih73m = 323
-  local _n63x00x3s9 = 503
-  local _cgbxpz5s0q = 581
-  local _wmkkeaq5cl = 822
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__hv2qvjgajg = _hv2qvjgajg(7, 35)
-local function _ogwg4sbnk8(a, b)
-  local _5bkqtdm6ja = 822
-  local _tgwyl7cxbd = 71
-  local _cguw79sm3m = 239
-  local _bz6cw5h4ln = 678
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__ogwg4sbnk8 = _ogwg4sbnk8(30, 42)
-local function _g4rym89lmz(a, b)
-  local _kbagnoll00 = 847
-  local _7p457i34f2 = 855
-  local _0bqi0gnock = 649
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__g4rym89lmz = _g4rym89lmz(28, 21)
-local function _goje9qwpfu(a, b)
-  local _0kp8lwpkbx = 693
-  local _xvhdjqu7jc = 826
-  local _8sasvt468q = 859
-  local _evlx3fvtzq = 205
-  local _csngdpy2wv = 342
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__goje9qwpfu = _goje9qwpfu(32, 50)
-local function _ix6yxho3o2(a, b)
-  local _x4zaqku00j = 593
-  local _nwswctsn5m = 97
-  local _80t5posa07 = 82
-  local _6azvunj17e = 260
-  local _zmnw5xou6g = 902
-  local _v34e21luc1 = 972
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__ix6yxho3o2 = _ix6yxho3o2(50, 16)
-local function _vrju0v7nyi(a, b)
-  local _jwk1ramk77 = 708
-  local _shuwhfearx = 78
-  local _lf0uaw1en5 = 864
-  local _aj65i9yca4 = 627
-  local _th63zhckqg = 512
-  local _zst87el5jp = 254
-  local _brhbd74skk = 414
-  local _pvro9i1rvw = 613
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__vrju0v7nyi = _vrju0v7nyi(47, 26)
-local function _e70agvivoj(a, b)
-  local _r87ev0w566 = 317
-  local _reel1lrz5u = 124
-  local _lfozgiet8e = 272
-  local _hwbqnbeg5g = 748
-  local _2ihb5o5ezh = 881
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__e70agvivoj = _e70agvivoj(28, 25)
-local function _0tpxapi67m(a, b)
-  local _oypaluw15v = 251
-  local _dxk8oaibj0 = 423
-  local _rh49ht8w9k = 327
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__0tpxapi67m = _0tpxapi67m(43, 6)
-local function _g25l9wkl44(a, b)
-  local _dyspscjn8p = 744
-  local _jjs91go2df = 912
-  local _hquxbn09c8 = 31
-  local _iaoxtt1s4f = 136
-  local _kt7nfrjmg9 = 329
-  local _2k1q858h2u = 141
-  local _88d3olku17 = 49
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__g25l9wkl44 = _g25l9wkl44(42, 15)
-local function _uvoufvhwx3(a, b)
-  local _scm54a5vs4 = 163
-  local _h4egsuns2m = 113
-  local _2b2t8vz5tu = 844
-  local _acfgs5jklt = 548
-  local _pmbjsoknck = 683
-  local _5ne233k6gu = 793
-  local _r6ew50s4hh = 633
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__uvoufvhwx3 = _uvoufvhwx3(35, 27)
-local function _5tg2p50s3n(a, b)
-  local _jsp8aql3k3 = 74
-  local _dedeylbnra = 287
-  local _t6atyn6c4s = 286
-  local _d34678rspb = 354
-  local _bplmpicra2 = 834
-  local _xrvd60yuq1 = 861
-  local _8c67o7glhv = 548
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__5tg2p50s3n = _5tg2p50s3n(6, 24)
-local function _s3r3hy4jqz(a, b)
-  local _ylw2xs2rtb = 785
-  local _kh35js1gu9 = 924
-  local _wrp47ez8ym = 314
-  local _ccsb8d9kxq = 589
-  local _3rz624rony = 222
-  local _vawkhnbnbt = 995
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__s3r3hy4jqz = _s3r3hy4jqz(44, 7)
-local function _8k1hdw1wi1(a, b)
-  local _ahblibqcsr = 753
-  local _9qyy45k6f4 = 250
-  local _3h5x9nua09 = 718
-  local _sm22ctbbng = 806
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__8k1hdw1wi1 = _8k1hdw1wi1(13, 47)
-local function _ryw5bpex4m(a, b)
-  local _zveale2snr = 453
-  local _lqf367xbbg = 642
-  local _h2m0er1dc2 = 609
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__ryw5bpex4m = _ryw5bpex4m(36, 47)
-local function _k4ugv0cxj0(a, b)
-  local _duozp6akt0 = 901
-  local _pz0s8z1n1n = 366
-  local _t9fnkmigx6 = 744
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__k4ugv0cxj0 = _k4ugv0cxj0(41, 24)
-local function _zs4a52h5qo(a, b)
-  local _tkvwy6mmy9 = 466
-  local _kc9brqwlxh = 117
-  local _gfvven003m = 287
-  local _vlpcc2510c = 237
-  local _8qfgbc86vw = 655
-  local _0mideii19j = 223
-  local _znqthpsih2 = 923
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__zs4a52h5qo = _zs4a52h5qo(28, 24)
-local function _nr9q6mjbwx(a, b)
-  local _3gu5ltq4ml = 342
-  local _ccnuz3pi88 = 179
-  local _drgyx8rs5u = 362
-  local _8kvddc02x1 = 504
-  local _nl5juiq76t = 954
-  local _cgcy3vp2bd = 575
-  local _11irksr3nr = 5
-  local _2j419ftp3p = 973
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__nr9q6mjbwx = _nr9q6mjbwx(50, 23)
-local function _kovcox5jlu(a, b)
-  local _ryoxbb5zfw = 531
-  local _ho2xybjazn = 947
-  local _qzzddxh0i0 = 172
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__kovcox5jlu = _kovcox5jlu(42, 37)
-local function _yw9jirk3pt(a, b)
-  local _r9j7iwwul7 = 565
-  local _pve9is9c06 = 703
-  local _86rxkm9h2a = 176
-  local _ddtd44ynqc = 830
-  local _n64124wtpx = 966
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__yw9jirk3pt = _yw9jirk3pt(33, 4)
-local function _18koffkne7(a, b)
-  local _96a10kmbk2 = 930
-  local _iirloyarzw = 422
-  local _523ulaxa9w = 412
-  local _jnnm0s8092 = 739
-  local _6u4n5h6hq9 = 785
-  local _531c81bq0m = 398
-  local _0vxnh2trdl = 818
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__18koffkne7 = _18koffkne7(39, 22)
-local function _w4ehm79jbe(a, b)
-  local _zgyl6y42uz = 568
-  local _gzq3lpvgr8 = 79
-  local _bqk1jry7w9 = 917
-  local _of5hetjsiy = 291
-  local _g8n47j6ew5 = 753
-  local _qmzec4pt1n = 248
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__w4ehm79jbe = _w4ehm79jbe(43, 24)
-local function _qq1akp7epb(a, b)
-  local _2h3di0xa8g = 237
-  local _dc36tw18k0 = 701
-  local _xla3ptqu7j = 446
-  local _cbs11yhxvf = 88
-  local _1h5k7db4fl = 793
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__qq1akp7epb = _qq1akp7epb(11, 41)
-local function _7lhijeppvd(a, b)
-  local _647sotlu8x = 432
-  local _nhfx3gqypm = 39
-  local _pfwp3cku68 = 860
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__7lhijeppvd = _7lhijeppvd(20, 6)
-local function _2iiq0ncral(a, b)
-  local _ceoeukwlvx = 120
-  local _lnidt361nx = 788
-  local _lq6dnjrt6h = 288
-  local _lxbt6vi3qj = 979
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__2iiq0ncral = _2iiq0ncral(31, 46)
-local function _ime5ug2x5l(a, b)
-  local _hjsc20t7iq = 97
-  local _wn9v2nvmiu = 709
-  local _59vfgco8ln = 739
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__ime5ug2x5l = _ime5ug2x5l(10, 8)
-local function _ukj98r0myw(a, b)
-  local _e9wr3c5pt1 = 219
-  local _zdm56ggum9 = 598
-  local _8t8r9fvhyd = 889
-  local _47zsatylco = 948
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__ukj98r0myw = _ukj98r0myw(2, 26)
-local function _dvit8dy83e(a, b)
-  local _8m5xnbzvs4 = 434
-  local _e8c9w9d6g9 = 715
-  local _1iwe267fti = 869
-  local _2azu502dxl = 576
-  local _r9bhds4pvv = 922
-  local _mauz04jvc8 = 772
-  local _2og8j9w2oc = 57
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__dvit8dy83e = _dvit8dy83e(48, 12)
-local function _ot0xnwh30n(a, b)
-  local _qai2z673t8 = 426
-  local _wqck64wsy9 = 688
-  local _zh7koz2g2o = 960
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__ot0xnwh30n = _ot0xnwh30n(8, 23)
-local function _mmb6xnxjmn(a, b)
-  local _tdwz5y7h93 = 244
-  local _p65m9j3qz2 = 993
-  local _up5iileqpz = 311
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__mmb6xnxjmn = _mmb6xnxjmn(4, 36)
-local function _3j2jhiyfwq(a, b)
-  local _1bg46c6knc = 463
-  local _6rgimudtuo = 135
-  local _wq40nwo2mr = 786
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__3j2jhiyfwq = _3j2jhiyfwq(32, 42)
-local function _p3oz0totxn(a, b)
-  local _0ae0zbwo6v = 418
-  local _6yiwfv55u3 = 579
-  local _fjlakgp7eq = 212
-  local _p05yme2z3v = 687
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__p3oz0totxn = _p3oz0totxn(11, 48)
-local function _i40jdvd93j(a, b)
-  local _n3xcgys3hh = 681
-  local _g2ndfbdsis = 884
-  local _g1mixglp4q = 443
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__i40jdvd93j = _i40jdvd93j(33, 7)
-local function _eskv2feoib(a, b)
-  local _zpkjlloyaf = 432
-  local _qr0cojk7he = 750
-  local _3hx0ooohlf = 915
-  local _qeh9wju7ru = 934
-  local _jrjg1bjbp4 = 36
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__eskv2feoib = _eskv2feoib(22, 14)
-local function _y0vd48zlj7(a, b)
-  local _d8s1n29pzz = 96
-  local _c343mi7jb8 = 834
-  local _i9wokv5doz = 983
-  local _kwu9m3xbm6 = 275
-  local _s70bi0b6db = 87
-  local _cl3q4uhcag = 953
-  local _tvkitruwxn = 429
-  local _8dpu7ljluu = 19
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__y0vd48zlj7 = _y0vd48zlj7(19, 36)
-local function _7s58hi9xe9(a, b)
-  local _xj86o7ozjq = 934
-  local _5bo2n02cjs = 731
-  local _u56fq5w0zj = 280
-  local _a4tz9jhoc2 = 694
-  local _zfvgzv7hkk = 600
-  local _l1tyfg040h = 245
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__7s58hi9xe9 = _7s58hi9xe9(41, 22)
-local function _7vaum50m94(a, b)
-  local _rf47rs6qdw = 220
-  local _df12snsy2l = 146
-  local _o9abebxybl = 658
-  local _gnte0g7dy0 = 996
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__7vaum50m94 = _7vaum50m94(42, 26)
-local function _i7d6cockf6(a, b)
-  local _iwqn0qdez8 = 326
-  local _yztrc734ub = 848
-  local _7ov2qmcls2 = 846
-  local _komwsds06j = 87
-  local _9rah8go0ff = 825
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__i7d6cockf6 = _i7d6cockf6(2, 7)
-local function _8oupggsm2f(a, b)
-  local _7sl0mq0hg2 = 982
-  local _lq8atp6q0f = 86
-  local _p06rkjzncu = 633
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__8oupggsm2f = _8oupggsm2f(21, 34)
-local function _fvrx7qr215(a, b)
-  local _vxov7hqbbp = 690
-  local _36fte9ygmt = 964
-  local _pvi9ebcfbh = 301
-  local _mzzppwpd7f = 735
-  local _gj3lrnsugl = 956
-  local _v2j8uhuchl = 56
-  local _79k0y6cni8 = 641
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__fvrx7qr215 = _fvrx7qr215(45, 49)
-local function _csi7i22pgn(a, b)
-  local _s6oekca86j = 195
-  local _a5mm47lwpt = 151
-  local _gsk4z7gtjq = 637
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__csi7i22pgn = _csi7i22pgn(16, 39)
-local function _gmw53qneur(a, b)
-  local _i3i7c5wsuf = 130
-  local _sqhu1rabfd = 413
-  local _17kjye6vc7 = 639
-  local _n0trztk5ch = 199
-  local _l9abdvb0v4 = 299
-  local _eas0f1tt71 = 217
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__gmw53qneur = _gmw53qneur(15, 35)
-local function _wgona2t1ki(a, b)
-  local _nnttrgs0ne = 368
-  local _uljh0v912o = 757
-  local _ru3e3h1lm1 = 417
-  local _8azdygnn8s = 773
-  local _qrmfhml4c9 = 879
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__wgona2t1ki = _wgona2t1ki(29, 37)
-local function _r9xnkgd71m(a, b)
-  local _denjw84zt8 = 195
-  local _h36podqrdd = 925
-  local _kbeby8tjlv = 178
-  local _kfxors3ac6 = 117
-  local _pgyoe6s4jq = 138
-  local _rllqds9lq8 = 791
-  local _d1t2u0qjl4 = 371
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__r9xnkgd71m = _r9xnkgd71m(47, 27)
-local function _61y1rz1mcg(a, b)
-  local _x9enj9s33r = 632
-  local _6d5z3km85h = 317
-  local _e08cu9ec9f = 952
-  local _wv0dkikyj9 = 83
-  local _017883pyn5 = 433
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__61y1rz1mcg = _61y1rz1mcg(4, 24)
-local function _v9dojzmjc8(a, b)
-  local _6rx7g428k8 = 502
-  local _x84m5nyj8j = 807
-  local _c83iwgierk = 574
-  local _9g562h9ybv = 483
-  local _d73aqwwjhe = 539
-  local _swabm1cb7e = 453
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__v9dojzmjc8 = _v9dojzmjc8(36, 17)
-local function _n6lr5pyfp0(a, b)
-  local _n6bj1qzlyo = 129
-  local _javdwrzehb = 626
-  local _2zut45ymbn = 526
-  local _eztad227mk = 271
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__n6lr5pyfp0 = _n6lr5pyfp0(8, 36)
-local function _xosqajx2m0(a, b)
-  local _p4783x21jt = 836
-  local _dg9k3z65oy = 727
-  local _ez5teqoxhy = 476
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__xosqajx2m0 = _xosqajx2m0(21, 38)
-local function _r4m8drxbfu(a, b)
-  local _82xlhxegcx = 972
-  local _2zlpiy8q3y = 918
-  local _xmrizy2svv = 251
-  local _1k0vq7h3gu = 382
-  local _upkkwv9dx9 = 502
-  local _4meapy41rj = 760
-  local _9u5gzcaa44 = 69
-  local _5hjklczw4q = 282
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__r4m8drxbfu = _r4m8drxbfu(42, 3)
-local function _lnqq4uz98l(a, b)
-  local _9jm2crswv6 = 107
-  local _1ztbmfnsfq = 894
-  local _uhzt3tufdt = 891
-  local _7ue4lh2gxk = 179
-  local _55y4qfcnr8 = 661
-  local _iyvy9sworz = 622
-  local _911siflwvk = 807
-  local _a3xexgduby = 952
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__lnqq4uz98l = _lnqq4uz98l(12, 37)
-local function _07eac39ym5(a, b)
-  local _1d73sziikk = 694
-  local _ua8nuri3bx = 108
-  local _2u2rzaz98s = 529
-  local _1mhj5ojbl3 = 393
-  local _s6z6k3iqy1 = 933
-  local _fefs3gl381 = 118
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__07eac39ym5 = _07eac39ym5(50, 17)
-local function _9sponam57j(a, b)
-  local _9ahbftdjv5 = 134
-  local _gs045pih9j = 160
-  local _ja23on11r6 = 991
-  local _o9cx2wq6vg = 284
-  local _rk8zzeyz65 = 103
-  local _p2l4wdbf2y = 712
-  local _iua4dlrn6w = 216
-  local _3caes3n458 = 966
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__9sponam57j = _9sponam57j(16, 37)
-local function _050pu280gt(a, b)
-  local _4b0ps95m9y = 476
-  local _g9uuhpqi20 = 601
-  local _z3gybugm66 = 999
-  local _292w3n3r8v = 644
-  local _jxo5thwvv3 = 276
-  local _wf2vlktrvk = 397
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__050pu280gt = _050pu280gt(7, 50)
-local function _26u8x5culr(a, b)
-  local _tvbja712r2 = 717
-  local _pqhrcawyxd = 734
-  local _g8tdd3667x = 852
-  local _eo1tstemt4 = 67
-  local _ldkaq7t9zn = 79
-  local _z65yfh53jd = 710
-  local _x0das074h3 = 987
-  local _leo6m2qszd = 723
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__26u8x5culr = _26u8x5culr(6, 40)
-local function _70q11uhbkz(a, b)
-  local _k7ofzn2jkk = 707
-  local _aui2b9hici = 546
-  local _km4seqvyh2 = 43
-  local _1u7s964klr = 701
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__70q11uhbkz = _70q11uhbkz(13, 6)
-local function _jrjqvdfxbc(a, b)
-  local _77p62u2dlj = 280
-  local _rjsmmwf36m = 246
-  local _i9z95busur = 40
-  local _fnfvkq67xp = 518
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__jrjqvdfxbc = _jrjqvdfxbc(38, 50)
-local function _7tqrr1nrrc(a, b)
-  local _2f7hwso859 = 970
-  local _69qdjw8x45 = 903
-  local _zqqcrbfv8m = 878
-  local _u1sdlk3aam = 684
-  local _qqci07dmd3 = 589
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__7tqrr1nrrc = _7tqrr1nrrc(33, 32)
-local function _f6ttret3v2(a, b)
-  local _buy6amb6um = 206
-  local _rmu6w35wky = 453
-  local _54rsex5bn6 = 756
-  local _gb23odt7uq = 708
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__f6ttret3v2 = _f6ttret3v2(1, 47)
-local function _78ch430mfj(a, b)
-  local _63c6z4nprs = 100
-  local _cucilctpla = 675
-  local _y01prtx0zp = 977
-  local _z674c1b1sh = 250
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__78ch430mfj = _78ch430mfj(5, 2)
-local function _vagszfr7nb(a, b)
-  local _fdgxjd1zns = 614
-  local _xha8wlr129 = 885
-  local _28a7cln0cl = 638
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__vagszfr7nb = _vagszfr7nb(1, 39)
-local function _1yj5swftwu(a, b)
-  local _9aufkm8vlo = 515
-  local _4mfad3ft0u = 89
-  local _fwuy5q2nq7 = 941
-  local _k4d3931up2 = 84
-  local _7biheuva0c = 517
-  local _np72rddrqx = 883
-  local _zbgh2e49xt = 772
-  local _jzrs1jgp8j = 899
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__1yj5swftwu = _1yj5swftwu(42, 38)
-local function _pfof0epjha(a, b)
-  local _xft4t1gerq = 791
-  local _azq26j7g6f = 827
-  local _7foldz9ayb = 651
-  local _i6hn8n413z = 348
-  local _6lmklufbxq = 597
-  local _ebk06kdntd = 75
-  local _6fp9xx1ahi = 862
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__pfof0epjha = _pfof0epjha(29, 5)
-local function _1fd94ug4rs(a, b)
-  local _5ilyy9sdc5 = 906
-  local _4vbax7gf6j = 757
-  local _dl2gppmvtj = 275
-  local _rchtpnpx16 = 553
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__1fd94ug4rs = _1fd94ug4rs(22, 36)
-local function _okbz5nllr1(a, b)
-  local _lvl521ouc3 = 365
-  local _j6yzaqk7ym = 732
-  local _wzocpm3qj2 = 448
-  local _1gep7pge5d = 46
-  local _4x38c7wnwg = 308
-  local _5szdbwqc8i = 171
-  local _pkz8f7n3t4 = 671
-  local _7du5047kl8 = 627
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__okbz5nllr1 = _okbz5nllr1(11, 39)
-local function _u31ff05x5l(a, b)
-  local _6l4qblywgk = 865
-  local _7oqtuxys78 = 233
-  local _656dk8u6te = 545
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__u31ff05x5l = _u31ff05x5l(39, 27)
-local function _voqtjvjjkf(a, b)
-  local _ci7bgmzcjg = 72
-  local _6l4qbp2dhz = 20
-  local _5de9fwejqj = 386
-  local _w9gsthi6fp = 526
-  local _mlm75451ll = 111
-  local _hdhfqnakyv = 944
-  local _9zc8knnztc = 854
-  local _q5ft8ov8t8 = 147
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__voqtjvjjkf = _voqtjvjjkf(26, 14)
-local function _79n9th9whn(a, b)
-  local _egckbn1lti = 92
-  local _mzkwashf6n = 718
-  local _481ktjd3nm = 744
-  local _s95c2ic862 = 259
-  local _23lkkeq316 = 798
-  local _nck2das2ie = 394
-  local _4twh9lhi71 = 365
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__79n9th9whn = _79n9th9whn(17, 20)
-local function _d6rmkiyycp(a, b)
-  local _uy3ylxg4c8 = 832
-  local _h32nbkdiqq = 966
-  local _oktc7fe9ao = 453
-  local _pgduijwbas = 988
-  local _jhz8xjyjzm = 313
-  local _d07lgw0mgg = 410
-  local _7x4gj3uepz = 487
-  local _my691zrvwe = 812
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__d6rmkiyycp = _d6rmkiyycp(50, 30)
-local function _bpiqz0h9yp(a, b)
-  local _gaafi8v51t = 660
-  local _ykbj6ejgqb = 126
-  local _osg6fymfvr = 67
-  local _t9op29xdjn = 825
-  local _plx7utpnbh = 874
-  local _8hozbkwamt = 259
-  local _5fd2fl6ydw = 995
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__bpiqz0h9yp = _bpiqz0h9yp(43, 1)
-local function _44xxd42hey(a, b)
-  local _35o4hqyp1l = 465
-  local _hyhyqpbgpg = 910
-  local _kgft6zgp52 = 775
-  local _87afy2vhx7 = 491
-  local _hfphqwo2x5 = 286
-  local _jf12jfb2wh = 646
-  local _nacj5wgvw2 = 602
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__44xxd42hey = _44xxd42hey(27, 44)
-local function _83kbsfyhqf(a, b)
-  local _u4dfqm58gh = 520
-  local _unf6gfoh5j = 952
-  local _bqmrse9col = 690
-  local _kslvq55q0x = 779
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__83kbsfyhqf = _83kbsfyhqf(29, 30)
-local function _9yjskdc974(a, b)
-  local _u4l22x88wr = 515
-  local _2whv9m4y8i = 438
-  local _bkxpliogxc = 162
-  local _em7rpeywab = 111
-  local _pqnjjpb6q4 = 421
-  local c = 0
-  for i = 1, 20 do
-    c = c + (a or 1) * (b or 2)
-  end
-  return c
-end
-local _dummy__9yjskdc974 = _9yjskdc974(2, 7)
+-- Ultimate Obfuscator by AlimeObfucastor
+-- Level: NORMAL
 
 
--- Encrypted code loader
-local _key = "tjX0"Ihx%DD<sJ|1jXm228$>90f#4J0'"
-local _hex = ""
-local function _hex2str(s)
-    local t = {}
-    for i = 1, #s, 2 do
-        t[#t+1] = string.char(tonumber(s:sub(i, i+1), 16))
+-- Anti-debug
+local function _check()
+    local ok, err = pcall(function()
+        if debug and debug.getinfo then
+            return true
+        end
+        return false
+    end)
+    if ok and err then
+        error("Debugger detected")
     end
-    return table.concat(t)
 end
-local function _xor_dec(data, key)
-    local r = {}
-    local kl = #key
-    for i = 1, #data do
-        r[i] = string.char(string.byte(data, i) ~ string.byte(key, (i-1) % kl + 1))
+_check()
+
+
+local jyb84u3hn = 82411
+local jqkukn73n = 13216
+local j76ct790i = 88349
+local jhwbr92wx = 9701
+local jayn3hv0f = 8893
+local j1ky216py = 40844
+local jrfetswec = 42828
+local jqtoi5cn2 = 67703
+local j92kefjxf = 52124
+local jcrlqpfhx = 80108
+local j012xbc96 = 68953
+local j1o44yqr9 = 83695
+local jtyh69m3m = 16683
+local j8pqitl8t = 43762
+local j9sf98ekc = 62255
+local j60mpdm3k = 27758
+local j8i5s7iic = 75428
+local jhld8tn8m = 16111
+local jsgtzt67s = 41645
+local jhwxh2554 = 9889
+local jwri79okr = 80159
+local j2i5egdtc = 48241
+local jv9kfacqd = 50897
+local jrfq0w7hg = 48090
+local jg9kcuydf = 11582
+local jrbipvsjm = 56707
+local jwc04gnas = 19690
+local jx8c8rx9b = 22525
+local j65m61ud6 = 4792
+local j1u7fk2x4 = 39353
+
+
+local function jf9ip0fz9t(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
     end
-    return table.concat(r)
+    return c
+end
+local _d_jf9ip0fz9t = jf9ip0fz9t(47, 46)
+
+
+local function jfrqr69sc2(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfrqr69sc2 = jfrqr69sc2(8, 37)
+
+
+local function jfuhfqyjio(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfuhfqyjio = jfuhfqyjio(42, 23)
+
+
+local function jf9za6jyrm(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jf9za6jyrm = jf9za6jyrm(24, 33)
+
+
+local function jfknom0vv5(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfknom0vv5 = jfknom0vv5(10, 16)
+
+
+local function jfe9xzrl7j(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfe9xzrl7j = jfe9xzrl7j(5, 13)
+
+
+local function jf3af0lz3k(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jf3af0lz3k = jf3af0lz3k(17, 47)
+
+
+local function jfrhcgtsx8(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfrhcgtsx8 = jfrhcgtsx8(39, 13)
+
+
+local function jfrrguphn2(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfrrguphn2 = jfrrguphn2(30, 18)
+
+
+local function jfi4015mgx(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfi4015mgx = jfi4015mgx(23, 4)
+
+
+local function jftp19xczn(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jftp19xczn = jftp19xczn(31, 7)
+
+
+local function jfwxrmnh33(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfwxrmnh33 = jfwxrmnh33(18, 5)
+
+
+local function jfky0tevyw(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfky0tevyw = jfky0tevyw(21, 44)
+
+
+local function jfm244lcuz(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfm244lcuz = jfm244lcuz(23, 23)
+
+
+local function jfez34jql1(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfez34jql1 = jfez34jql1(31, 40)
+
+
+local function jfuw28fwte(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfuw28fwte = jfuw28fwte(2, 11)
+
+
+local function jf6jr7rxkg(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jf6jr7rxkg = jf6jr7rxkg(30, 24)
+
+
+local function jfr0zb4rwn(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfr0zb4rwn = jfr0zb4rwn(3, 26)
+
+
+local function jf1uafubzy(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jf1uafubzy = jf1uafubzy(7, 5)
+
+
+local function jfj81yvw98(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfj81yvw98 = jfj81yvw98(6, 40)
+
+
+
+-- VM Interpreter
+local _vm = {}
+local _stack = {}
+local _vars = {}
+
+local function _exec(op, ...)
+    local args = {...}
+    if op == "opj3dcclgn" then
+        print(table.unpack(args))
+    elseif op == "op5jyga82y" then
+        return args[1] + args[2]
+    elseif op == "opd9db579j" then
+        return args[1] - args[2]
+    elseif op == "op92ukr7qr" then
+        return args[1] * args[2]
+    elseif op == "opqcg730ai" then
+        return args[1] / args[2]
+    elseif op == "opxsy2bb2w" then
+        _vars[args[1]] = args[2]
+    elseif op == "opvijk3ro7" then
+        return _vars[args[1]]
+    elseif op == "op7lbthwy8" then
+        return args[1](table.unpack(args, 2))
+    end
 end
 
-local _gfztb5nklb = ""
-_gfztb5nklb = _gfztb5nklb .. "0cb08d4dfbc7b430b7a43f42766d76847989e738f7454069cf722cbeef6fa561ed1ff235a3081248bd856f44b71f2c8c9e9b511e24d0e2001526ed229eece17fb8bb80eebf486ee895acc310873598aee64749efae4c1626a069bb1e1ede2403b9a795fd"
-_gfztb5nklb = _gfztb5nklb .. "ef94a5b5e9899b001d87294eefda3d0b635e8e2b999351ac6f4b820b8cc61e913969cc1ffa3de28ae3f77373ce5265fcfab3dfa8931d4ab062df4fc08ea06f5f2ba5916204a33a281f39c968c07bfddb48f02dd897a763bf7211f98cec3a0e39e72cd342"
-_gfztb5nklb = _gfztb5nklb .. "e72b2e13260d0b5c8fdd88b407ca15d8f1fcd261d0ed75c5c3d4b2ab038837c3421d54e020e97cf010b9168670763c9a8152f41f200038e21b778d767b296bd19b40de80658a6106c480e370070c79799526554fb1b88d6cab0c82569b5386be12998d4c"
-_gfztb5nklb = _gfztb5nklb .. "c451d107cbd3d22a8a92c7f9110c25ddfe9e609a72548f2a6b58a32cdeaa308c8302a131c8ad64cbccfa7689f17f069615109f9304007829d8dea0cb690949ad0d5cc68f007833bb5df571eaa410f977d6e955438ec256e03f36c9e2c4679303eed1ea6f"
-_gfztb5nklb = _gfztb5nklb .. "c5c50c8412c5bd957e266c49b98667a7d9bc109bba50cb8959f011abfdfe95cd59ff070adacc184b970a7b4a25b4a9306da55e8bff7170cff09f2c34b44c66031dbe064d5ecd529ade71913f0b782ddae5835f517eb5e1d18617938ee35cc2c1b7d50451"
-_gfztb5nklb = _gfztb5nklb .. "b3f81b5216f4333ead7931724c2d564cf3b334cd87304814bb9b2fb02a9be081e49a6d65f325983a6348ae7dd880eb89993fe63778838558a62ded927be1c38d6b3f35ecc3ed9ff15f5619df7b4bd78f71b9d8feea830bbf08bf26973fed6b5f37156ac0"
-_gfztb5nklb = _gfztb5nklb .. "39c8b030e3982f634a771ca8ce7f6d5aa886bb1bef07f460b4609e6f1d48b4d917c2e2e668921c5d9200bf58b16c817d75974fe0d0043470bde072a23272bedf81111ae4aec875272dd2598ae9807fd3c50bf436a14e8e9ee59aa54512ec35d60b0f3a94"
-_gfztb5nklb = _gfztb5nklb .. "e359e7f538e6f1e74cae72048449b9cd11aa065f570c1031b717f89e903478bd53756d06abadcae4a204ea2b9eaa6e9d6966265a46e39874786942c436cd6e62ca67b7eced877af79a59cdc050cec3b8d9aba50b7b5ba71d32f6006b8b88426f7c62b84c"
-_gfztb5nklb = _gfztb5nklb .. "6e1e7ed64895739463e062b25b752213312d31614dd19e1f5f01f004bc2c56e9881b876f3a132d4c90c2943e334c222e8373edc0e27e5de4235dd0d572d1234d4cc88e0d9e4bd40cd42e654c08c12bb51ab6010871ca7612c86f44f84fab9e44f24d14eb"
-_gfztb5nklb = _gfztb5nklb .. "8f66ae5b86fbd8da7836dd6be16b4f2882f8eab0c558ea8f85dcb358d204c650df69f43bdd6430878efb15fd277e805023380b51251da7b5896660fd6aeceead21018157270c4d5a73fc66ff31aba5fa65fd851ab979291aee2a954c99e7d911bc7329d0"
-_gfztb5nklb = _gfztb5nklb .. "1f5e2e051b17d3ec1dad80d53afbc51715a67023ea000e36a0f5bbe9f0bc13d538b6992053ec6b1e7042efb296ba2aa40da5828c083406aab0a6bfd22bc0e79edf285cc9351eb721e35f4e36b28dba2dc4752f7a66414d3431df44e8bbf0eb18b5ae3297"
-_gfztb5nklb = _gfztb5nklb .. "a01eee8e984df1c9982b5cba4dbd6ab17a44d0b9d7a705afd767f4000588edd6e3df6d7e01012cb072b758e021b123d2931639e9253cdaff30d9c1d3dce45ba46459a7fe5bad332a98e2f8f8715a2bab6dd2b9a5c5cf1ef68ceac63c8f7677edd4f92f7a"
-_gfztb5nklb = _gfztb5nklb .. "675a6c5bb1f4195b6c420a61a1374bfcfabcd3b99b80fb14bcc2c7ab78d9d015e3181dca24fffb70e1f27f73369779870d192be00d04abacd44c3dd4db19f75f63200271022c5c664e06d7c1bac8b00799dc83090ae89b20f0f8471c406c9a79dd45c02f"
-_gfztb5nklb = _gfztb5nklb .. "083c8c103170aa24d169157a3371204c38c7713e9f746b70c98995639f5f1309af02484b6ab7becc1e3f512e52f75fe6d04f7159c8c5946d9b08cfb29394732077a20a1876adff684f40e4ff207462a1ff33c07e8327d8b92841c90f5b45d1c922486103"
-_gfztb5nklb = _gfztb5nklb .. "9207d484ff24ea562889650ed758f6fe44a7df8c85ec8e7c56242326c4bbf6fea0c27075912b4537a2d6c085b5f4a1d64ae88ddc3f3eb877c0428c07a72c45951fc913dff446847fd306e85f05c30b22ccf6dd94e7ea315da3bd42bc7db17465810ce2e9"
-_gfztb5nklb = _gfztb5nklb .. "97bb00ae62bd042b5207550665f2d1d2e5a33dbcf86af15d775d2e288723dedb7fcbf1250c68cf4e0b7930746aa4f613764c77d263049f97f2585572ddeba2a90a15c8bc642f1b6045aa767c38957ef959f4f9c18c69d24b5a78adbf55b4db6842e0c5fb"
-_gfztb5nklb = _gfztb5nklb .. "1feaae3b88f65af8f9101b18b54660e7440b13ebc8fa314c97482935c22083bf00680c27e4d772223e0b03c1a66ccff8a923400e75c2c20afb93c965d8567f94ee4c701bcccee8ee0a68fc7116cadba36c4f5094413219ac550ea1a025888bc395728b85"
-_gfztb5nklb = _gfztb5nklb .. "54b46d26afb50ecc2bbf09d58eefcde63c9b9064330142da4cf899249e707ae922bcc5eb98582afbaefb9a6b7b394a9d1b7fd4d95f20cf3553621c0e24ffb43a8088a0e53fd5f75a98377ead299455c687d3049e0115f323183e93ecebb3b6c09c53acbd"
-_gfztb5nklb = _gfztb5nklb .. "61664ae33c2f362487d5752bb5d7b15e9a30883fe53ad33739903b8f150c76a526e06973a498deb38c6ee54615d261689f10b70ebf40c5e0193545c785c2c5c8cd3618915cd16c4481b36b6cb483ee235ca025aa2f13b7147132a47189899ad75938666c"
-_gfztb5nklb = _gfztb5nklb .. "331ddcfd945693b3a03715d839b186044b6a8ec303d06db75a8808b8568f4f4f96a825010713eefc68401e4555fea4500ea70d40a70b35be373225271cd70d562d46cb499debf3ebd8a4fd17c00ca19c808400e10ffcad04663f18e6ff5fec21e2ea6a17"
-_gfztb5nklb = _gfztb5nklb .. "efb42a9033ddfaa359520c81b8e765f8b50956e35ee5f427dbe7e704b555034e9fa6827ef7a17b83c2adc50fd2ddcfcd6ca0a4dadf2654bd9f3ebb8bde100a2f6be3efb64326bafcfb3489de9f3dcf002014a0c5f7f297f5c2c28f43c5dff9489fb66204"
-_gfztb5nklb = _gfztb5nklb .. "9d73bfc1c84b957b55599093ed5b870a9c941fcff8c5795e898ced7d0d90230f938965638a5d12ab654de81bc5d6c1e6f694dc46549901d8c2608d319c096c9d5146a36536db153f5fc902319fe30bd4f591ec788fb8ddeebd4517804b5831b220805c70"
-_gfztb5nklb = _gfztb5nklb .. "2127846dcda766de582aa6631f2f70b8e08d0075fc8246cb8df42271b269c834dc9fc37e7594e5d96e60582812ab727dff136c537a53248714717df1a8bf6d4f7255c477365973dc0054a83648ce724b3cc6779e6ed42617b49bfdb37e95d78ffc8d4815"
-_gfztb5nklb = _gfztb5nklb .. "365e7e0b25960ddba353c23dca1f0b2191b60ccc078d8bc9e36ef5ceb1c3f2f6d13d1e3902444101cdb613ddc4d2a8abc4e11c887432ae0c239266ac59a1b78983bbe09d9fe780742644dfa649561a70ce87e84d20d1c58f7259a449f9855501aa41bb1f"
-_gfztb5nklb = _gfztb5nklb .. "7b9a8b27bae02c17e43f47c68f6676d7d4b3b7c6d389c7e4b1ce1c8a5ed0db3564e4a8e4e52c7132891afb6cc64f01099de9075ce3a70b42ee7b67cbbb6dfcfaf79e1f4e467b1266ff1afc4192a87bbbf0ed087444ba69bb01636af12fec93bfeae08fd7"
-_gfztb5nklb = _gfztb5nklb .. "1821f71868ca1fd3df316b4f0e35cf1cefb083a244a5c65919621627485d80f90465c1e7e9501de696e14290b69c3ecdfde99297d174b013d97bd99b42ebac7c873df65a009d4029e1e743aaf52c473d8884c6da36b509ba3a54bc46696252e993efa531"
-_gfztb5nklb = _gfztb5nklb .. "7e9210a241288d8afeb43e0590e6eff0e2b6d239ed10ae5a330cea1c25e06086dc9cd20454a28ff20f3c172cc8b7e7f24ba6cf1599ac6a6b170fabfb43c53bc237ba0c70111fa2b5397d07135cd723fcf549f44ead2eaef05a951d69c340562c19f88ec1"
-_gfztb5nklb = _gfztb5nklb .. "709c02f956178bca6d12e2ebc2efff241c1c5cacaca845b7173af1fad5a55f6980f0263667833e0e916599fd520aca9f1160558b8a3c537f81f9097564b31e93a3b0be591dbe2e90e6c6694ac0ad747d89b10795f037e5cf85117f79deed105f23a0e3cb"
-_gfztb5nklb = _gfztb5nklb .. "c03b4dd77b0c49eabd350df26a648d4a2f35ffde276be4797babb552eea6940a481d2097e9ae68e851d0bd60f30b93b7db08f154717561b20373f498c6962d0bf914ae81a0166e18969e6f74e41d888da3138538f220854e1e33a6390ef9d511f500d839"
-_gfztb5nklb = _gfztb5nklb .. "476f8e1b734433911df29fa1aef6719a629802520725f88377d0b83c5fff25909632f93da6de064dc5f0141ddf3e184fda9c8d17bdec4dce0a1d6c672b12e493af6f0f2bf78daccd131ddfd833d0ef78ae62f081283d0b4d7c27c704020c70497de4efd1"
-_gfztb5nklb = _gfztb5nklb .. "25027a5d2fb465764faf897f649777642994adb2e4b04eab130ec38b0b8d933f64e8b2a11b79a5cea9874efd15c889f083f605ec98e3019e594389468f99f96194e6d58229085b72baf2a97cd7c9ad7f31d61d4065918a1be6ce2eada85a1d4e375bc4d6"
-_gfztb5nklb = _gfztb5nklb .. "a933dafd559b49f805035175c68d9c437384e089acf27346f73949b1ae142c1c999377bf35b81dbd3889d1a51c2f1e1e185048d90d34e07b49a0379721dec3490e19476ab49dd90e5464f5b910ced3ec3725a3dcb0f3d3edc475f50dfafd4854a0c64917"
-_gfztb5nklb = _gfztb5nklb .. "9f1a344d37921a02e12a3c880ce79a93ef8f877e0ebec4c629b9856ca6dfcab76153d1dac23d203fa3eecbbef659d1272ea522bb5e2c1e4c58a42eb2686e310ec5fd1c182cd087e393ae2bb5772fc76b765732fe7f55baab01901fe31e2ef3e9c057adf2"
-_gfztb5nklb = _gfztb5nklb .. "ca24b5fd6d05edcc62c3326fbff2e710197dbac92dd165612c86b0f5e826bfcd6229456c03c89295d6d04ae389adfd115fdef8d3208f37551a6722893095b97174cb0c6cd31b6ad6397a52311e1a86a12f13e51b55671fa6acf13f77d40ba26405454c0b"
-_gfztb5nklb = _gfztb5nklb .. "3d9d6bad812fad6ef35e3ccaad12772190bb1be95b6bdd16d3868d529719d3eefc8bc0404e194bc61adfc3daeec6e45ae7410f3bae5e02304df8751553260f38abdb7e6267d85c8691905d93f03d33c0fd673a7bcceb93f06f6d493eba3b3c5c59dd9d90"
-_gfztb5nklb = _gfztb5nklb .. "ab53da58e465768a918873b9e8566232204fe272edcabd128dc1c863c1714cbc8249746ad2fd0ef971d84229be442288792fea0f2fac56c4f1895ea7ed79178236c7f58a82c3b6e30260e922e82db2e9d66146e910eef89e94a98a8034e807ccff628958"
-_gfztb5nklb = _gfztb5nklb .. "4f90a7096dd15a0d6a9837c7120813e0a65de25396e03f44c8ad13a1a4af222b3448db9413290000154b9fecf6d81ec7b846b755780de1a60a5f39819a24f8e116e21cd85d1e9cc0dc4681d512bbc64c9dca2804331de29d69f33e7fbe1c1bb52de4296c"
-_gfztb5nklb = _gfztb5nklb .. "2aa1452e8139cf17c7a882ee028806dcf6f7c756296ece150314b1170d57e9971a91259e99d3e31ca36410aea66fd2fbb507a6c2cc861f1089ebcdecbe87c1354f9393ea4e2775b22eb48e758418e668093c1eb903cf704f9b96e479c9ef80b9f76439c9"
-_gfztb5nklb = _gfztb5nklb .. "d0d671438b0deb55fa5cb98167cb2f8a76606c474f89c161c589ae136b8631ee394fa183bded1bdee0062df0c45b007265860e09f60ed3d00ec4e50ff6e933cbe9ee606299cb3f28ddac0be0381702c7fb57f3f49b07bbff0c61345d998c0c1f36a47479"
-_gfztb5nklb = _gfztb5nklb .. "319467fff6faf6a26f53863890bf794f4254f4aa1825dedebdfb7d8e0f43fdd105d4f8a087619f51cc55164c077ff6a3e88c409a34daafb68fc4150096c04bf0a58e96251658fad6736a6c94323a84b9c98995c606c70d50d0bafb345208fb45ec5d8ebb"
-_gfztb5nklb = _gfztb5nklb .. "63807e73e55453b6a09a675b02f8d9556fdcf51264980822313a27727c1a061d76e7ee0b17d5eddb7ecfaaf52148d6e9ddbb826f7e9aa54f28e12562c67f0c92ad1a06e28bd757a7b32ef0b4ff3acddfc20bd7f1d5c08b9f231530c1fc119c30c98fde2e"
-_gfztb5nklb = _gfztb5nklb .. "80aa14e9a025a8ffa65565bab39d15d1deca9c2057721443b95270cdf9281ca8a93d7bda6bcd11151e26977ac8d11c606967128e97368c484933673969f9a411df68ad845042b7eb2a862302a6bdb071871d656cbd0d347679fbd85a4685d82a8801a316"
-_gfztb5nklb = _gfztb5nklb .. "9c4ac7c93345c6a89490621300dff374c23504f8ffc154f295c17dacff71ce72c386c68a1ee7954d59890a648a7fcbb5c4f0eb9ebc032b26a2d735fc945cc4b885e958df4690e6ec725d008e2bb166b9ff3fec4803d24f4eff194b4027b5dba15593f7d0"
-_gfztb5nklb = _gfztb5nklb .. "f625ebd3cd8a1f2fce9bea9a227db3ebbfa2a12fe3d369dbe77cd920b01ee7463eee6f30f10071115d2e59385d9441c286edb7787546f79be90b1ee358b989f5f27f8d6cb419c8f9847871c15dfca83fe9b445644e6d4e9d924eb8b8200e7431a094eb4e"
-_gfztb5nklb = _gfztb5nklb .. "89ae1600a87da592853c7811911d43f407f7e93980cd420ba0f3a7388f5c9ad47929faffcb4026400e3fc8b91dcc17cbeb4c44b305a99f995d85f40072f5e7413ec7eded356dd488c3e0cdf9991fd0d1b5fe250f66dad0f6eac34f9c07a9496ce40e80c4"
-_gfztb5nklb = _gfztb5nklb .. "b7893c7f3aa1d67a266777becd3da0a6bfee894ffb91a602ecd577b63c43c347aeb04cc6ae932aa777f642409493cf52454cc0f5b7199dbe5673200f5925a93c84bde88c1bac9a35d3ad1224838bb920a0b2ef54a6692e83d4751ffee5e462a97725fc12"
-_gfztb5nklb = _gfztb5nklb .. "d58df469a7090087aaec6430145a3069a260944e2b68303a839f58e8d87e6a9e4061cf63bb065b46de37eb078b21941fbc0dce4aa4c87d1305fe7d1ecd3892eecbafde020f914e47590d82346623239849fb7be49f6831162cd6bde624aa8969938e1440"
-_gfztb5nklb = _gfztb5nklb .. "071a6f1e250f595a93434d8a66a6aaf6d954dc2cb5c6797c349d7eb7f1bb6437f1ef9b571ca596bcb76bb330a5a8231bb92273d013cd3e0c5666cbe5745ac830ae0444bf27883ebe82b5a9e5fe79fdafaea691e7318c70bf04763d11932c916a8d65900b"
-_gfztb5nklb = _gfztb5nklb .. "482a0bd06a4846dbba6df97f764caa6c24bc13ad7c6bcdb2e2dda0568e14a8e1f1c36383edf5cdd19ad45965ee6ad7366a2a632f633fa81cd3936c6be40961e314249f1d2966fc6a9d3bd991a163871a402ada651594541317612238734d4f0b66bb253d"
-_gfztb5nklb = _gfztb5nklb .. "b2d73bb3b826d15f9f7e8a76074f2e71af017f6c633a0cf51453fe35d9ccdee515d590146df8481b32bfb5cba12b4297d9173a0c0d06f827de1a577b6e57a7a247920a790df8c66b717265397ae2a52329b6626016a808f9b0c0bbfa1a53c0c57f7877bb"
-_gfztb5nklb = _gfztb5nklb .. "0f5c491ad2e9cd89ec3a72789c4486b238341287c7ad080ba41f75da73c08bd92504d62599ee58651923dc038fe6080a13d8146ae6f0126a3af7e296fb442a1f073147343b129e07286856ff14f3f818a54f4e1f580b516edb0b35062cf689ff22a02cb7"
-_gfztb5nklb = _gfztb5nklb .. "c6fe7832511caa89059540b136728262dd2e7a72cb3181a8280ea201d8219e8dce50245ad16b6047481c137390760a1ad3e05107141a934acefa9283097499d471eb3590997fbcadf3762ab2667e2d26c953fa477187214f00fb24c69770c097f9b9bc2a"
-_gfztb5nklb = _gfztb5nklb .. "0535cad9d95e7c8efef85c5cd83b5021e9c73224856bfb85ac373dbd913170d2be27fa70b949868af8d005a25576ae05f14c1a3ae830f7f622f58dc01a15effa7acbbb3388ce7e5a2aa3a14d88f9eb199ee4315aac5d29fe26e3ea73d014b559e59bcf39"
-_gfztb5nklb = _gfztb5nklb .. "53ab215db6715c0594775a085b7cfbb59f955f4f2d43390fca7b0f96a844d93b1768fb8cbd18f3cfe1f3c1e2e4d6fa190b46d895ae09889d70178c0b37ce137ee1670613b91c4cdded8e92f8b2b36f9b977da596119ce99b8024f3b7305b3030048b16d5"
-_gfztb5nklb = _gfztb5nklb .. "38064451d4bbebb448ab344028957eb559f38c9137408f0824af42e23794cf04cff88dd7428486535c54d31b88a1f17c7da71af2e0b67671d7a6fe83832a4bfaac84b4fb0c367391132f75f95318ee3d7d223db4a7edcf4b70c3bf7abd9233128fe7cb38"
-_gfztb5nklb = _gfztb5nklb .. "7c0541faa3c318dad364fcade678fa6e1c3f5d5fd4700e2ce45271e76ae9267b9c6e6e0cf814f7ac7d62a4c6078907179ba75ac29b1c7ae0f42c00a6bc49bf2d10f708b7cbd0bd317032efe8f7ff651591fbfc72264241409e2d431f9f3271b86fe45d46"
-_gfztb5nklb = _gfztb5nklb .. "cd83b1b479b9714edb680aff17b2fdc8160769ef4a83fa248aa12b56e7582b1c3561380f7081aa84ac5ec0cd15a759aa88a859e35c2827454e9f5f136bb2347105e1ee704af9824eb1b6397fdaeb966b5ceb479cef14bda3cb709a6d4f99ae08c1b7ac92"
-_gfztb5nklb = _gfztb5nklb .. "a0bcec9ed2e3af6c9a93ced64516a268552032d59a8137b282b98aa071566ddc8e6a1fa07b10b1eae657af881ad4f459858d657905d86855cd6beecd85b7a507ceb975a34873d1664f8bac3216788c783ec872543878ab2408f62bbf7bce9e3b6e0dcbb4"
-_gfztb5nklb = _gfztb5nklb .. "bf1465f4ec537a49b2e5cd99ba190ca21232f3aedf10421964922462c6a024802708c0a05cb66cc4b4f018faa5945d8fb91fa6ebcc5aa8eb9e9a5be93a6e4f6cc7274c53b1eb624bf7f9da6bf463cf4c41420a0fc6003f3a9369dab4fca9906392222f17"
-_gfztb5nklb = _gfztb5nklb .. "442d8ddbcfd4d32fefd24204ed9d8c6933a374a09d545fd81a7e3d4a212b0edb836927ec980135e9aa85ca44bce428ca18d6d459c6b7915c1810a6cca983dda1013260a8b8446b5541efefa29532fefb6add8f27f33fb9850cbb6e3232dd733f3e9ddfd4"
-_gfztb5nklb = _gfztb5nklb .. "b21eae290950008d13f7b837b551193ab64397241e3625bce1c8f2ffae8a95c74176efd604234cc539e7bf37ee95343f0d1cd0fde8455edbd36e1ef6ee5f7e3b13066536a5999999edb92e976a0e8e1123691c6ee603555f61e61968e033d55f9efed2bb"
-_gfztb5nklb = _gfztb5nklb .. "846bf030ee5d4031d83f204e6e60da270a2542662f9d711636ab2ac05ce587af1e1c9362d772707fe773de1d0ec754e530788f4034a8bc73390da666ced7512609abfacea7792738d8443d0fd1d699fd862544e74ce23ead5403768b30eb9bfe472e4cb5"
-_gfztb5nklb = _gfztb5nklb .. "468c12841233c1ef0367a4ffdf8119b0ce434cc58bd533e67c21e422ccc317f9ed6cf9e3665d8ed5b43d55bac960f69aebd4abed87ba481868ce62c4475e4955564385a667df2f08155554bcd32b5925735b6b62bf9db0a1e3773be80552760ed0f02f18"
-_gfztb5nklb = _gfztb5nklb .. "912ee0836c04625e3c6abd6fe3493dfdb54790d1b1435e6f4d0c9f26a3bbd8bc1270f45dc607bbae6afb725282ee579b5f0642948357fec5559eb5fc45d60e2664669b46869e4abf827564b16eea6035671988059d209bdf1560837a476a89faa8eafab0"
-_gfztb5nklb = _gfztb5nklb .. "f956946950da2c8e2e8988a44f962b32390b338a53b239277d5d93944d50af1d0c606b97842c79035d52a905c1dafbf4f69b120375f0be94075ed863a1def5cb7fc5abd88f791c00a2a1c33229b05f6c85b15e91c8e88589b579a06d4687e899b5a9b994"
-_gfztb5nklb = _gfztb5nklb .. "81ce14a61e387cb26c3b8015fe848332d0f43bf02fed93450aa775c555bdd2115e8019bedbfc2f1fa87b0b362fb49cf619df8a350aa3655f18b0095abad04bd9a739b11bffe43c1a0df34be9042e334503a0b06009a6b80c46559f3f6aa5db734baa401c"
-_gfztb5nklb = _gfztb5nklb .. "42e62d1e354a582fbacac94f3bb72539a17c314a5032a384b937252e6f93a644611109209f70c2f352ce0696c6bfb16a05f39d0050a2ff7526fef16f600407ae5491a1b948bc8b15b477503a7b7dae5d932222c2efcbdf788cac50d56f03da2592b8f818"
-_gfztb5nklb = _gfztb5nklb .. "dcbebc02ee6c92360d4db2759065b386fd7fdaeb4ddc33752e6dfc7989d179040897af2d833387625032614b8ea28ad5fe8eb1b98537c7ac6a88678a63cdbe0a645d3d277027bc75bf7893ba04e3eff5d7c179a86a25971e7a0c547fe08ce0c672564a4a"
-_gfztb5nklb = _gfztb5nklb .. "9982832d0c247f9b7a87ffd038360a8a6c7c0cd87c64744ff099eff5357eaebdebe5b05f1a66ea80bbe5cef15c86767af750727b56b0fee57797be309c9f951ee353c374a04cd6b4a2800baec9749f8dd72aba35db02500352d472041a65dbd2ab3a0a9c"
-_gfztb5nklb = _gfztb5nklb .. "d9665e75ff9dcc6c18a9b08f36ff468bc9055e535af2957a2e5a4da96615cdda67ed9e7acc02c158a1e2aa5f69e059a94319c874b766ca54e305fbecd998e6270526ae0624f88a4c5ac57a9dd36349267065282d6e0d5fc88efa1359a4284c25b7c10a26"
-_gfztb5nklb = _gfztb5nklb .. "14dd98c1b6ae955fdd046da5bc7d3f95a5e26cb19cc09e61c71f5990bfe0bc4e384a217868c04f4f491f6c1b6bcdfe572e3876f54e373d405a7608ea0fe431dc6497c5d252f1d928090771d4efc40131fede8b84a923effdc09581d9bd82d545799f7eac"
-_gfztb5nklb = _gfztb5nklb .. "3a2054be76b83fd15e31f9d69bdf3e8ff65770cdc0b625443341b594476d7b598b1caf709f9d71e3aeed9cbe9467fdd677643d0e4b2e772fcbc9991e8c8d5c994c43a44b6fa1a274d4acd2bfee6063fa0b51959ce52405fbbcb0310678bb543b106c81fa"
-_gfztb5nklb = _gfztb5nklb .. "1e0d361e5442c50076d40aa7d8fcda7f972ed28de51528b96899c460d39f244842da54b8600a8ec1c5904fd846e4efe58c5ba5b98fa27a8c8b41f0bf742c8e852a54473bab22bf114f3fba918230636712fce328c176447350bf6d4ea295c1e2e3187678"
-_gfztb5nklb = _gfztb5nklb .. "526f42f728a53088cd8e4f6a776ee72e001d152ff37f4eaa9965abb20517dd41f37b37a95102a05ea880198eb41faae5b7903e09b403846f506109770f92adb7f5431791c84d3b252d06cbfa1a4ce17759e34c88275d20685011e4f8359cdd5f4da8a2bc"
-_gfztb5nklb = _gfztb5nklb .. "67ff8eb31805a5069f87e7cf96b2f91a00610066ca28970893f4245a9e2c533137e4d2223cf1f548e9dec2437e514e1fe79631c34f58af7a805f91100a97b2ea2f1b57eaa6f2c94575e46fdaf121d3cb7cb8d02546eaefd4b9cceb695a13b8ceb8662b5b"
-_gfztb5nklb = _gfztb5nklb .. "6112d9dbf1a117802981bd4dbb02f104470c361edb0d4a1fed15ca919d45fc594514e753518b11e151de7a3086e7ba28ffec86948027158a183b3ef150b750d5364d3f9871cf673ed2134afa3e329da64ce37ce0c406a9fd169c14cbd3d4c09f8aecba8d"
-_gfztb5nklb = _gfztb5nklb .. "c563a96e99968f651f41c241c983446fd830b53c6def10daadb4ba139c0699845ed62d5616007b1787d7f7a0d6312e8a53d4bf3995522fb13caa0b60a471bb010e446d62aca6677af805892fde7e046208a53b16e6beb44f09faa3b25cbb4186a47fa380"
-_gfztb5nklb = _gfztb5nklb .. "050b0f7c41cb8130c1626070fc976a575af3ae47aae0e599d35e12812b3aa8acb699a33b8d6efdc02b8bc1facfec41fe8120230bc8fffe8645bff3334000acef0565374b94465ebafba4caef3600d8b2995fd18d08f8ef87188d0e6497f6e049885d6154"
-_gfztb5nklb = _gfztb5nklb .. "1406c537a45b236bf0c1d03e7d14df6008555245e1317e22d4df4129ddefb441ceaec8983ab44246bb96092856e4d87a6c4da3422fd8beaf5bc7b5a1b303a41ac0f82549ac77bd89302430f2bc2f73eba133b01d9ea538d625336b41feb166c41f69c670"
-_gfztb5nklb = _gfztb5nklb .. "40c74a0d380b47874b79847e2368418c56cae094588c5c5b2249fee03558241bb55f94351b1027fa39d054df98876802ba8fecffbeb34285ac7d2790401384d8eef5f07df7d1f6834ac91b4be13fa0b89950c3fc40ae3aad77eb303a46af08d290228c7e"
-_gfztb5nklb = _gfztb5nklb .. "edf4ea611e7299debaef97133fd721c517fa1934df8014efdd6382bc097add491f8ce3c685fa31f8002c0c1071f79d99abf8825bccee168b21aafc5a56a6434377704798dc6bc68fbcaddc0addcea1a52c3548cad511fa3c8e6ef4e7f5ed683f09bd624a"
-_gfztb5nklb = _gfztb5nklb .. "b93bb68933afeada4b3702c2897bb8856bff56f82453afe7b9e04f3447620f7be2232574dd10e70b1d9c8c69f58dd5528eb5bf7fc5e373f3e5c20aaffaee90497a4156aaedca7d793428f61bca9b0d26297fa3e92d09130842cbfb199ee2b58a2be04b57"
-_gfztb5nklb = _gfztb5nklb .. "97ac74bf14eccd26775beeda6220c6883f05773e8d3b9a651763c0f019cad4683ebfb234ff809f027e260f7c4fedfbe8f8b00e2b04053de0817b4d8691d1d40206cfa12dfa348eda9b18acd1d61671caf0fc2e0fbb504a8dff0fb6777a8e09951a072866"
-_gfztb5nklb = _gfztb5nklb .. "7608a45335422a83ccabb8c06784c150df8829bcbdc6d3577e3b15ec8c2509240f5c31479c36d5da3eb4415935a6767ba6567059680f1209f493bd15f01f0bc42b87e995d31824ae5ec4627a8846a0101ffa8de97c26cbacb8952e5dc05a5afc84097b19"
-_gfztb5nklb = _gfztb5nklb .. "fe583e4ea173dedcc1315f87de24dbaad88323ea9595f64fbf9edaac546a4dbdc938db2f9f82f5aaa9057e29238bb67488b594e035c580e6d5357d62bd65eaf0049e4b2c4d82753d1589c0ad63f77e404674adea41b59f08f1594f4b8c876a7207f00006"
-_gfztb5nklb = _gfztb5nklb .. "497feea38326571da4c3dfc29791ad2ebbbd8087878324955c56b7c2be05d3fa52e870e6c692044c382dcdaa4b1d7479172d061dda4f218aced49acb3123d7235c86e9281f854f5b2e6d4f12eecf38ad03483bb2e5bec0b2ad744c6b35efde9d6032f227"
-_gfztb5nklb = _gfztb5nklb .. "2868aaac76fa3e8a1bd257bc973d2461b0106e64679cffa0cc2f16a13c89531bef440c6a9eab8d223664477f22dfb5ab25f1c2a0bfadf68d2e00db0c47d0e9714539aaa249b7e4f6a58c66aa8962bb8db6210b40a8704f967cc6ad40b727bc3f703a9c8a"
-_gfztb5nklb = _gfztb5nklb .. "7b26f383faa33ca2212b916b31ad142a1d9ce76f36148bec18d2c066caf88118414ae7a56eebf82606feddf9e43e4332bcd508aa20a19a4e5791f79e998268e0eddb24028a529b47010e0f8a67dc84bb3d387fbd3a9a480e17d55f5f57207bb2d95620cc"
-_gfztb5nklb = _gfztb5nklb .. "51cba1a31e904a833032037ba171686d0eae0a7dc384caae4174ee84e5285f78ded04135539231ab7ec7b0d2c86e7b968faf5761f5619e879714d1a2e8c5f217494157b02da0a714daa1d5d19865acec664112fc11abd11ea6a715c390dfa9a1b0cdf935"
-_gfztb5nklb = _gfztb5nklb .. "86ccf574a5aa019db8523a5aa4d409321aa9a27027ad2a3f4c65df3673e4bf1053f90e1b48a4f0fb478fd6b997f1c028da2b51748c73eebc25847bc111298a998f18f70e40b867b3576d6f034ec533be96ebb71cd88216ad132b8ceeb1768df8ace8fb7b"
-_gfztb5nklb = _gfztb5nklb .. "8089d72d7efefd6dcb042a94efa18bde35037e72d32436b13a89b1e7f46a5ba4f6f358d55237977e830dac0ceceeb5a5bdf84be7d9099718fe89ed8036d1dec6bd305351e923e9dacdf54a3add5e8246e249ea16694d1be7a8d0f8b7c21b80fcb9bc8321"
-_gfztb5nklb = _gfztb5nklb .. "3645dda85626908121e2ed471a463c9da9337d0935cc30f9ad46fd778546301b9db5a8da18756356beb15d6bd92e179cb3b4c6533a7e580ded41a959e5b61cd86529da3d196e72d1a764af2f0c1493a03daea93c718279b98766c302fa984d481fdc6aa3"
-_gfztb5nklb = _gfztb5nklb .. "41c7a9e4f9edf303bd4ce4f721b0212ebda6a9190305380d7a7148906b7f951e082f60c36af80bdca65b530333113c5d02e7c110aa2c4d866e7ac9ef1e9b0155c216d36b94db2d83b2af3dca62c0b55fb0490748e911ad6e346ae7d8b5a5f6d4a58525a9"
-_gfztb5nklb = _gfztb5nklb .. "d5bf6decc5e8d9d267034b5484fe6bd43c33efb7e37ba10060dddf4dfca6d15ac0c5025d64d1deeb06c53caac06f1d5975470d8a1633c10b8f6a21e9a7e1f1ca10c1b9611bc7f2ac0c294379fb9ece2c7cd5b4cfd677e17b5bd902cfe025e34143bb2a9b"
-_gfztb5nklb = _gfztb5nklb .. "079cca007ee011e4815ebffa68b2d28d001fe4a6b1611afc49b255168b61a6d8920cfc8cd0228e1de691ebc7699c2bc401af3bb5705872735bcec04ae0b40f008c7c0b9253b73025245e1c7459403508dddf2ecfc338847d468dd900c860321b6f6f0ee1"
-_gfztb5nklb = _gfztb5nklb .. "a59675f7cfcb836ffa4a055d7ffca77072b639da9b3f221b03d8f12d53f2ad9d797dc3dea1728c66567a9332ed7e8d312cdf925235699a14021ff44895a877c26fc3dd078f97fd0b979565517f58877f588066d38403fcfde01dc08104632b04b9ab241f"
-_gfztb5nklb = _gfztb5nklb .. "ca40d1f58c53643a3694cfb0f665bc2098d4edb8f13ddcf70e9bf892b9fe3bb0de6398f668659fbcafb8844b4ea8ee7a99d7df5afb62568772d28e0332a1c9f28f95be18c5b78d8f83363ec58491a4d02a8bb33466c245b673dcebab989a94c2bdae93ee"
-_gfztb5nklb = _gfztb5nklb .. "1f095b4d87f32041807c4aa8c1ce5817d5536bc6b4f1cd651ae91142470385eb20963431ad67b3a4f2867bb85733dee9c40d57927782ebeb76e0219d9cb099fa926c616f9684a9b5c216dd680d6a7e7175dad5df0bcf191176722115bb55f0c93767f09e"
-_gfztb5nklb = _gfztb5nklb .. "f70fef5c1c6f97aa5a93882b3868382b3efd151a164c4ff1974891d966d46e77715673aa81f338ed14a0b8e7c9c78d02089fb8def584393bff1c32166523f29164185e4f93d96fed6565775ea226491bdef0d1c2a8f494c03aa3e7386d7a099548127825"
-_gfztb5nklb = _gfztb5nklb .. "85206eabf6948c2068e6dad957fce707be6ea016958dabfb5d8cc39a3676a0c4b319ae7de7e17c3a90054a5bc5d53519da21d29e1f724e3235c189cdbff9d70983b696ec9dee9fd2d8c51b77a3c9951acdbb1fedadbfa3cf89b5b4c45fbbf375f8336fb1"
-_gfztb5nklb = _gfztb5nklb .. "252c022d8314fcab8238d0c31587557a56cd212a83d196888e8f3bf8911147c615a0485cda8befd11ace92dad13dbee66b2da0c355ad9bcb1aba1a19dce95127144a704144cdca898f4210da3be39cf9a69e52e25756b0c54079cf25310d138f0d37b9b9"
-_gfztb5nklb = _gfztb5nklb .. "6711006784baaf984bb30d79bf36944ac777f1194b0e58f144fcfb83ae8134495e1a7347bb7559772a29a1de4184a6c294599351a820e8f41c0379e6004d52206241f06e0bf9f7eda68b425d8d578ecc29c0ec5bc26149cc2674c34b9507242dcfb6c0d7"
-_gfztb5nklb = _gfztb5nklb .. "c1d3898ceab51f740d54e7cc594e1701d27f9de06e5dd840cda3f73b7c3170d27846d5f04b18d2231f60958074e8678943c1d990da9ef1fe8d0f82ccbf1973d41da6c88af0eb448a22c129b30c8c0ca8e13751bb616be187d27ab09586bf9825361a185e"
-_gfztb5nklb = _gfztb5nklb .. "674b9103162e4c0fc420b0be3cabce38c316965144fc36ab5479869f441de70ff3a798ef840dc94a798af59c477ed0e757af3838dd818a1ea1417eb1625514b16da97061677057501421ba8d5d08d7ac276e8d626561896f0345207c58d135f495637d60"
-_gfztb5nklb = _gfztb5nklb .. "222a883b360393e5601c51d267adebdea20c4d295318abed544618bfa1227f1c46371782751c878179efeaeb8c6e03621baffef1fa3ae7e782cf9e9891361aa4095648e602b3de1a4239ad620d35af844dd1619e942c186c2e14a6a059b5e76fb1112c0f"
-_gfztb5nklb = _gfztb5nklb .. "1c75b834bbcd39364c23ed7e16008119c39a082e7492ae91467ed9d8b4d57ab4e0f0e36c7e588855d298a705b9c34bcbeba768c00f4a44b1a941f8b8078acdd49d34f9dd86d2fb1ca0172cea36c609ebc330a9debcb9339091bce82805174c75c3b8e0da"
-_gfztb5nklb = _gfztb5nklb .. "a67ab44a2111b0a97dbfabb9bbabc3403827e6859defdc1fff377ead3632b5da63badc43b66c36d05a1f3b948c41ea18027a31a811d77a9489db323a4c59fed968007779a5f2a23874b05c51c598b6bf2887927bfdc33c9212a4d0159fff4fbbe506d910"
-_gfztb5nklb = _gfztb5nklb .. "efcfad7e246bfefcb43bad8c6e48b559dca26239c7f475b24f410fe9e17e0a363c1147db04bf34c852d8c11121fb753c3fb60a08981ba7567146c4e154df604572edc643f8cbc844ef5a1bb1cb4957b17bc81cadc94486abb7f452f6b9dcc1eee0737215"
-_gfztb5nklb = _gfztb5nklb .. "149a66e241ef65cf40aed4de32daa7b5bd7477495d2e8a4fe17e06c8ad3dc30816fe8ae13da4a569604f2141b8cdad0f4409b7863a7f61b728e12e2f1b1d12207d9e079487c8ff95f7db2ccef247346abb634ba4cbdc9472643ad45c47bd9af01c63f49f"
-_gfztb5nklb = _gfztb5nklb .. "00e6222ca51ecab7d3326face382e7b90cf6a394bf5714daad5932555a2b4c1b754e53739bb2854e040100d7ec7c6497253981443df7c221c72b92edb031749ebe77a99dd3c99150ff4245e4198dc981bc9082c450c23db946eedb10d8db1e85ac9b0641"
-_gfztb5nklb = _gfztb5nklb .. "7b05158440b32db6edf3e0116a6fe0c5da801149d100ed225c74bdac36cca79d3c57ee3b0082d9a5ba742dd7239ade244f0d57b845df748c51eaae8b5c4cbd28a6398fa47f64b9724eb7322600ee41530d7711cfa65c61ef7eb226c07d78891b8292ed27"
-_gfztb5nklb = _gfztb5nklb .. "d29484cf1fb31959575346a94996df8956245c0ffbab29fc5e15ec5df6d95cc175056e68672ee9175d2b257973dcc7b594ed5c88e56b14fc711e7df42a78148eb14ebce220ad6844afe8077c9df3c9bef0bb80894d343418235277a70f220f736fe69aa8"
-_gfztb5nklb = _gfztb5nklb .. "e103a47b6a84fcc0ed1322e36c075fdb8d33726789c8a46977e377a87caae33a9594daa461f939c1e1fba5564ba5d0d6b92d90ff5cd69ecdbc25b60f22a9ed2987943a8bbba9efa9459faad70d35c7a2a46051fb0dd5fb8a9dc27586e724872e2976db3c"
-_gfztb5nklb = _gfztb5nklb .. "e321d649decf326b6caff3894d016e15f9b3f4eb8c91f5a8136eec7c47bf2bcd62d908a88110d0f6e1be47791988c9dd47b039bcdb129f777c784906aa2b1088ecc2fc5ece8c58663c51f076e020bb0c5cb16c35411a3684714cf1804fdaac454cee7828"
-_gfztb5nklb = _gfztb5nklb .. "029e51f4a2d357a2f6325cc69389f20b4a74150f2529082a1168aa12376e0b11c8c6adf86c86144d0dd288ca0be2a071a4207feb13837c272938648a37bcd2bbd0969e74366cdfc8e866fcb8bab02a00e4f16c4d2dc1392c35f16626690a0e1a190452ca"
-_gfztb5nklb = _gfztb5nklb .. "0607e6914a7d71996e28a74a63fba8230701ab6878ce02539b73b9a9b2772087bdac3ef9527dcbb352f2ff35abccd105f758df2f5c6ad544a466a0404ea692ac8092da52562d85e9ae2c267c335f21121f049232dae3b96bbf347d1f93790d1f3a361d14"
-_gfztb5nklb = _gfztb5nklb .. "b200b23247c74dd129feb77152ee2009da18db66aadcec02c419859f229a174a2b2f0cb885740d21fbb5cd8bc070645cc2b7011d64f069044e594a148f12d4800a699041797852a6d95293de50d9dc63d4c3ef147d65ce6653963a768541d51d39001fb4"
-_gfztb5nklb = _gfztb5nklb .. "ece691095f3f1149fd16f41f6e3d9ff2cafbd456836295a454cb455fedabe8a19fb0b88afc2b0e0fc185ed522904d1b3879a9d2ae1ddca205a2959ac3682b7a53b4469742929821aa0b142e8ddc46f642f9a35c3de2ee35646ab34787878ed9f463c6d64"
-_gfztb5nklb = _gfztb5nklb .. "374bfbff4b4dc8df652e04a075e24089f9a5f1417b75a209e10fc3dcbd8142ab9a9a3b762df2f9652fcc7d28391a5ba4a00dc6d2a382cdc5e7b675df6962ced710f044169026a18dd4eeb6fca7ff748c6277778580201a88c4078a31c21678b49d1a76fc"
-_gfztb5nklb = _gfztb5nklb .. "885a7b90ac54410cfa48f5382f20f4bfee2b14a7df5581ee28af6844e4305fe244f3e8ef1a637ebb42594af7385e5fdcae1c8dc7ecb7eb3a6f44a5423c6a9e999c3a047a57797537241c1717932b085a76c26f128fda382802351d6c47ebc3e368b24480"
-_gfztb5nklb = _gfztb5nklb .. "28b794d5e1ad4dab74dead85f0194117b0632ae1b6344dfcd792dc4bd121788cc48d9e9c338c5a076ded30d25ee16107d1eabf72a332e72a0755e93792f02f208df3aa3116da7d8b68ece01ff45bbb0e12ca7c60435a6b4c7efb41c903505a081835b57f"
-_gfztb5nklb = _gfztb5nklb .. "759b20171db0efd5bbe32dd4708e7972ff13aedd8c5c80093e5b7ff5f306ce27392ed4a1b15f693d0af62af8df05716f7ba26456cbd36327638f37251536e323ebc4b53447ac7f0b36fdbc4b201ce90dfb99dddc111ef3515ccb24d750ef9e3a9df7eda5"
-_gfztb5nklb = _gfztb5nklb .. "06489e5ecfe35b9c66f1551f027708be02fefe97bff680486add3af7f04277918352bf10db533a7b751168a39e978200207fb0c21e60085836d8262b9ca3a5cbbb5aa460dbef05a4224e58c0c3bf7b97dd8885f68f95a8e377de87cbd4cccc79de39cef3"
-_gfztb5nklb = _gfztb5nklb .. "515837968e116cb37e4a325a0443a3bfee5db675b49033afa1e85f1d4221e1dccb6c7505d3c62ffb8e0f219d719683b2a773743bef1b26ed9a8af2f2627462f278b3649f7de824987f5662fd740893f4f773d9c88b36cbf1d68aa94af743ae845ccb9d30"
-_gfztb5nklb = _gfztb5nklb .. "478d410550b59d838964d1331d0203c1766f62f751336f01a6bc73571c70a1c038072b01fd92b11057c1f0a2b9e15c04e774c987284b140477223eeba12bb76bbb9a263a5c7055ecd0eae1833532ecfa0f9400a9997dd08da21b97ecddf58674b6b0540f"
-_gfztb5nklb = _gfztb5nklb .. "5d7902bcd6fd05661c1de7098bf57b8c68abcddd6fc718bee9fa8babda03e398d7aefaa9418dc18ce3ace83da6493a90591ab6a6703e874ac81be61ab2a84e61c5fae962fdf1f75ffcda5043b7180cb05d3b1a46098034ff1d44d2ef972708216f85df53"
-_gfztb5nklb = _gfztb5nklb .. "a1c40c837280b7cada14c4ce879d2ba7e0577be8d4ce62cf799268dd8b1ec8bc1f5444bb89241e6e21662d8c31dbfb1bc4a17bafa8384c6eddd223e583677741840611b66b9e022ecd61fe6118e094da737ad3d8bc468e84f5c474169320d1a687fca31a"
-_gfztb5nklb = _gfztb5nklb .. "8dec64e55110a8a52722877a12b17398d6f559d7d21450275c8d4d22c40bdf6540ff"
+-- Junk VM Ops
+local _junk_vm = {
+    function() return _exec("op5jyga82y", 1, 2) end,
+    function() return _exec("op92ukr7qr", 3, 4) end,
+    function() return _exec("opd9db579j", 5, 6) end,
+}
+for _, jf in ipairs(_junk_vm) do
+    local _d = jf()
+end
 
 
-local _dec = _xor_dec(_hex2str(_hex), _key)
-local _fn = loadstring(_dec)
-if _fn then _fn() else error("Obfuscation load failed") end
+-- Encrypted Strings
+local s3cyzeu5f = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("692a0604040607493e081d0c1b00070e492a0807")
+local svww1w50b = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6a1902051c0f06")
+local sgpkex8q5 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6b23020f0e280407070e081f3b1904130206021f123b1904061b1f18")
+local s0lc7rghd = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4402253629")
+local s12yq0lrp = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4405282d232a142b372d302d2b2a")
+local saf33l428 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("51163e3d35")
+local s1o8fksa2 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("541c2139353a3b3d30063b3b2004352620")
+local s006en21l = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("792b1810171b160e2a1c1c1d")
+local sdf57ywl9 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4c0b252a38766c18a0216c38241ee9356c193f293e0528766c")
+local seyf2xewo = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4c1e232e2522")
+local sg73t06i9 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("42112727261223212931")
+local sxix19pl6 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("70321f140926151c1f13190409")
+local s6upgl0yx = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("70371916044a50321edf04501611ed70550049c1d501b191ecf1d501e171c01ead195013181d1194a50")
+local s0v65qw09 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4f082e3d2b2a211520212a1f2e3d3b")
+local sfsz42oag = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6f3b1ece024f2b1e8401084f278e064f3b1d8e064f2c8d164f2407064f2c9c4f3c1e9e4f24061ea801")
+local sbds7kb1e = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6d2c1819023d010c031939020a0a0108")
+local s9rbcx4jr = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4f093d20352a21")
+local s2rfcntcv = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("693a190c0c0d49241c1a011b060604")
+local ssyk86iur = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("652a17040b02002d1007280c0b27110b")
+local sg73ecsoc = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("77231e86571671eae191057341c71eac07572305961e5734950e")
+local s62wreqt9 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6620140901")
+local s06sgpnqt = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("7a3d131c0e405a31128e141d5a0e121eb95a0e080f035a191ed70a5a0c9a155a1112155a16b1ea954")
+local sddoq5zzp = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4e002729263a")
+local sbeiwuphk = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("531d3c3d36")
+local sbyn4hm0n = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6d250c1f1b081e192b040119081f")
+local s7vdb8qhs = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("63200b1eae0d4324060211")
+local sekmjxkpv = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("420e232c3627302c")
+local swcbprd34 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("56113f30226c761a1e813f6c76")
+local s62f88fbn = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4d2539393d3e7762622a243925382f632e222062292c3a2429603e2e3f243d393e620b2138282339623f2821282c3e283e62212c39283e396229223a2321222c2962202c24236321382c")
+local s3xs78mxu = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("782b0d081d0a0b11021d58350d0b100a171715")
+local s3brc0gv9 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("683f0d091c000d1a2b07061c1a0704040d1a")
+local s5u7at40g = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6f3f070e1c0a2b1a1d0e1b060001")
+local sgipr307q = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("500338312235341d3f34253c3523")
+local saclyr4hb = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6f251a021f4f221a1c071d000002")
+local szde3lno0 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("662207140d")
+local sp5er2sfc = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("662713120924131f360312")
+local sgh0dpspt = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("491d1efe272e69183ca9")
+local svpbkzprb = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("56042338053324203f3533")
+local sbp5pm9en = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("55011ea4751451e8c3b327518203475013daf75161e53b32")
+local suid17otk = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("5716222338043f3821323b033830303b32")
+local svjtrpteo = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("7934161d1c15")
+local spaw1c0er = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("48003d25292627212c")
+local s2m40mbmp = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("672f06151102141337061513")
+local sfm1daip6 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("74201b1b18")
+local sapxcgdau = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("54273120203d3a3327")
+local sknnpyx3g = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("772705180f1e1a1e030e2705181a0703241205011e1412")
+local shfnwumu0 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("550539343b2126")
+local skeuhw1np = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6f3c1eca024f3c861b")
+local sk98rjpzz = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("70321515")
+local s1i2qsx00 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("5a0e28159343d7a17bb2f")
+local swj8ailyh = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6d2f0202013b0c011808")
+local sl0q5ruhf = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("64340110301d140117")
+local snsrhmpme = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6c39020f03010103024c3f1c1e05020700091e")
+local soyie8kna = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("793a160b1c3e0c10")
+local sqjbl9ebw = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("76231815191b1b1918")
+local slunsairo = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("683b0d0b1a0d1c")
+local stmwibeju = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4f092e242a182a2e3b272a3d1b363f2a")
+local s3f5cl8e6 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("612c1d100")
+local sd1ur01ar = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("42112a2d32")
+local svapw5isn = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4e0d261e83206e1a3caf276e0dac37")
+local s4wwn8o8o = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6a1808120b19190f1e030e5045455b5b53525d595a5253525d5c5d5852")
+local s20isgvmf = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("523a3b37273136243c6b6b")
+local s2hclxzex = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("7a29131d14")
+local sm3n4rurg = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("49042839")
+local sdu1lf0rg = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("783a140d0a")
+local sl7le1c17 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("652704160c0645350a11")
+local sam8r02oq = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6c3e0d0f0f0303021f")
+local svuu2bqig = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("62250b041658421728142051e8f0b4247064d470642141ecf1642120a1ecb0f4c")
+local sh8y0dz9f = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6728170209340f0817330800000b02")
+local sapqc4pse = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6e3a07030b2d170d020b2a0f1a0f4e05069a00094e05061ecd4e0a1e8b0009")
+local s51mz3vjo = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("75251d1406102601140701211c1810")
+local s0ua10xw1 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("64371001050834160b091410")
+local sjud4tjzh = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("795951360b18171e1c59310c1b50")
+local stm1r4f15 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6c25021a051f050e0500000518154c21191f041e030301")
+local sw80hvkys = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("54133b3830313a74102635333b3a32382d")
+local s2x2vslp8 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4410212821342b36302136")
+local ss2oq2a4s = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("58172f34")
+local sf68rfppn = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6e3a1e9f4e17e1eb700094e29070b014e261ecf1a4e29071ebf0009")
+local s81tj4kb2 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("633006060733020008301302140d3006111506112f0c0002170a0c0d10")
+local sroa4fo5j = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4f232a2e29")
+local s9crr70i7 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4a1f392f3803243a3f3e192f383c23292f")
+local sz3v27wnx = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("701e051d121502")
+local sv1464foc = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("66291407080103462e1304")
+local sf5ubh69y = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("783b17161e111f")
+local shnb5hgc1 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4414282b300d20")
+local sxlowtxyy = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("71361817054b513a19851f1651128251071edc055101191ed81c511f911e511601eb251161e9c185f")
+local s8a2xpco7 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4a1f242329253824")
+local sjydmlqff = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("793a0b180d1c0a")
+local s0bckjz8a = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6c3f191c091e4c3b0d18091e05020b4c2f0d02")
+local s9nplsd79 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("500519133f223e3522")
+local snvu4w5yz = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4b0a3e3f24093e321f242c2c272e")
+local sfs59wl61 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("45062a3720152437310b242820")
+local sapocngea = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("5300363637003b3c23")
+local st8l0abon = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4701262c22")
+local sqfuii05u = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4e1a1ebf6e15e1e9720296e06af276e1a3caf276e0dac37")
+local shlonpeyu = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("44032d22307e6410ae2a642a231f41e992d642a2c1ee92a642f2cb02a23642c1ea73464281e836a")
+local sh2gije9x = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("65260d1ea80b45361e94452e0c1ea20b")
+local s8dzdiiiq = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6f28060a004f271ece1b4f28061ebe0108")
+local smiqsb493 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("48686666683c273b3c3a21262f60170f663f2d293c202d3a183a2d2c212b3c1c293a2f2d3c6168666668")
+local smatc986y = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4d023f2c232a2805382f62")
+local stl2oom1n = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4a3a2329213f3a")
+local sbtxtm3ub = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("72301e1d1d161e1b06")
+local szcfv2hot = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("691a0c0c0d")
+local sod8z0d1h = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("50003c313e2411223531")
+local srbtu9ve1 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("792d111ea410592d101ec60d59340c1ea817593d1e8859169169817")
+local sv8chndst = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("710510131d14")
+local swiln7lw1 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4715263522671437352e292c2b2235")
+local s51vuz2f6 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("642a0110130b160f0d0a03")
+local s5lmuqq23 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("753b1a3d14070310060138000114011c1a1b06")
+local siy9nh4yh = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6a390f0f0e19")
+local s2v7fevep = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("753400011a37000c251001211a12121910")
+local sd32b1pgq = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("75500655165343b32551d1a1ed401551641eac1b1254291b251d140610551d1c1eb21b55011ed41c4f555006555d16871b5550065c")
+local s9j92vnzx = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("7121140502")
+local shn60iw1a = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("503229703f22370f263920702870203d24")
+local sbe60xcuv = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("65280a0b0e001c")
+local s2hote8pe = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6b3b030a180e390e060a020502050c")
+local ssku56tf1 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("782b0c1d1914581e1911141d1c42")
+local szmxxxw0p = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("580b3d3d3c08393b33")
+local sm7prwhwc = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("622f17110a100d0d0f11")
+local sliv55pb9 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("56113f30226c761e39b63876221ef3227776146b576311ebb3f76733276201efb2276263e1eff3b761471ee93876732578")
+local s7soqsr7a = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6b3b070a120e19380819021b1f18")
+local svel45vxa = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("520127223720")
+local s3g2nf99e = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("77241f051e191c573a02041f0518181a")
+local so20qyqlu = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("51013d3e25")
+local sy87sdvw1 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("48042d2f2d262c293a31")
+local slo6a9ak5 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4211213027272c05372b")
+local s4qb3asl5 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("66321ed1080146350303024a21030714484848")
+local si24ese92 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("55063030311b343830")
+local sxgqv1nyy = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("47042f1e8a29671571e9e670f2e1ef82a")
+local sknz0xm45 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4409313025302d2b2a00253025")
+local slppd18l3 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("79291c0d")
+local s4opy0o1n = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("75211e84551651eac1b12553b1d1ec2015526101011555d321a1911595527141c1b171a025b5b5b5c")
+local s67jhwycy = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("460e27343023353223220034332f3235")
+local sew6cgvjz = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("62200e03010942261003050d0c")
+local sdo7rmsd9 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("65310d1eb80c45310c1eda1145220c1ec6")
+local smmdmo040 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6c3b090d1804091e3c1e0908050f18564c380501092f150f0009280d180d4c0203184c0a03190208")
+local sonpjwx1c = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6a2d0405070f19")
+local s9ls2ogdm = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("41062827357b610a29b52f266135ad2c6135291ee438612f261f11e9c286122291e0286166")
+local si5c87npi = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("581e39333d0f3d392c303d2a0c373f3f343d")
+local sd7gkfqtl = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("490a211e8427691d21b3690a1f9272e")
+local sm1xxmt2o = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4c2438383c3f7663633e2d3b622b253824392e393f293e2f232238292238622f232163282d3b2528613f2f3e253c383f630a203929223863212d3f38293e630d282823223f631f2d3a29012d222d2b293e6220392d")
+local saq2xene4 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("421132302b2c292e273031")
+local sy3lsyys0 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("440236312d3037")
+local ss5b4a596 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("5501202c1eea21")
+local ssx6yscd6 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6f17f0e01084f1b1ecc06414141")
+local s3bop936l = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6d291dd1eb6044d23058f034d3b1ec019")
+local sp0kmh7vv = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("480e29232d1f2d293c202d3a72681f2d293c202d3a0b27263c3a2724242d3a6826273c682e273d262c")
+local srpmqgv7e = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("480e3a3d213c012c")
+local so5sorzek = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("72371f02060b221d0601")
+local sra2qfeum = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("642605170134051610")
+local svecabu1u = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("54737a")
+local swio6tc0t = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("653611041716111710060e")
+local s07vxcs2z = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("75231c06001419")
+local szwmo5wz2 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("5a173b3334")
+local spzxth6zv = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6e260f1c180b1d1a3a010909020b")
+local st9rogx6b = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("743f1c801a135400981954001c1ed10d54101e85541651b951a54171c1b5428")
+local s6y5ri3kx = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("50041ea1701401e893e37701d253170181ef1247017391e813e37")
+local s30p8y8cy = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4f1b3d14c21286f786f02af3a")
+local sepvp8vrz = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("52013a3d24373e")
+local spkg2k77n = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("732116031f1a101207161720071c01121416")
+local sstiytuwq = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4b233f3f3b38716464392a3c652c223f233e293e382e392824253f2e253f65282426642f2a3c222f66382839223b3f38640d273e2e253f64262a383f2e39640a2f2f2425386402253f2e392d2a282e062a252a2c2e3965273e2a")
+local stt5xg898 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4c0f2321212322")
+local swtxnfuq6 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6e260f1c180b1d1a3e0f1b1d0b3a010909020b")
+local sv6zfwl30 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6d2e050c04030809")
+local sxms7qh9n = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("692b1c070710")
+local seam4xcxg = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("74271c1b0211182615061d000d")
+local s4e0hrwbw = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("51051ea0711411e883f36711c24307116343023")
+local sceuui3hr = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("48092b3c213e2d1820293b2d")
+local sato64ur1 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("57043232330338383b")
+local siqbd0ad0 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("652410110a27101c36000001")
+local s119zaq74 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("5a1935373735347a092a28333431363f28")
+local sbgv8qmsw = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("493a2126393920272e642a283b3d")
+local s11j78tul = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("793a1615151c1a0d1016172a1c0b0f101a1c")
+local syt91iw5x = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("73371e82531631c921d")
+local su7ifzzgc = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("702715110418150220021514191304241102171504")
+local srqu8n2o0 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("69391b06191a")
+local swojfxbe1 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6236100d15070e")
+local sawc5ysau = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("470a2823322b221424352e3733")
+local s3wrnlqvg = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("703913155023150200151e04")
+local spfn66pbv = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("580a393b3b373736")
+local s7j2wzbln = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("47002e21337d670c2fb3292067332f1e846733ab2a67332f1ee23e67123422350e2367242f287d67")
+local spvcua1nd = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("55163d1e983b75013d1e883c75013c1eea21")
+local s7cmhdqlo = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("461533362334661536342f282d2a2334")
+local snod9du0t = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("79291518170d34161d1c")
+local s8op0twih = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6c281e9d4c17c038d024c38041eb1054c38051ed318")
+local sd4ief0iu = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("694c1a491a1ed449111c1ecc1d4901001eae07491a081c494c595b0d534c595b0d534c595b0d49411d1b06070e491901081a0c494c1a4035073901081a0c4901001eae07491d1ec80053494c1a49410a9b07494c1a40")
+local sardrf3mg = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("67340202033706040c3715080a1713")
+local syewzvhdy = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("59183535")
+local sit656b01 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4b032a393d2e383f192a39223f32")
+local siwp4a9zw = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("75391012101b1114070c552605071c1b1e191007")
+local sn3jpb9p1 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("480d242d2b3c3a212b")
+local shshyz9g9 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4317311402d246315a32d24")
+local s54pwrdgu = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4f0dae216f1b20af216f0d1e966f1b3dae266f0cad36")
+local s6nl20pol = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("43002b1e8e2d630b1ee23763042a1e922d24")
+local smotk4bfz = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("642f0c900a03442c850d443016850d4427861d4429111005100d0b0a")
+local s1z7armwr = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6d3a0c19081f04030a2e0c031e")
+local sgu7dqcpv = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("5103303f353e3c71071e9a710523bc")
+local s8pj0rg1b = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6d2e0203191f020101081f1e")
+local s0hpw1td8 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("430531222e26")
+local s7sjmj3oa = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4632342f2333")
+local sw7cfpyq6 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4b192a392e")
+local siti38kzy = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4d0c39392c2e2520282339")
+local sunsdk0r3 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("410e31242f6112292e31")
+local sx8jkerjh = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("72211a1300171636130613")
+local sdnlbov79 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("591e36353d0a3c3c3d")
+local snhcjeymv = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("7525140701")
+local smlju3g9c = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6521000017")
+local syh5wgwky = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4511203d31073031312a2b")
+local ssge7otrg = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("5003353c3c043f37373c35")
+local su26wryvb = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("753400011a37000c32101407211a12121910")
+local sbvyl8pi0 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("481c3f2d2d261b2d3a3e212b2d")
+local s5ldexcci = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6c3e030e0003142b1905")
+local sqiyustj7 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4e1a27232b0d372d222b0a2f3a2f")
+local scdvdvvsc = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4e0f3b3a211e272d251d2b2b2a1a212929222b")
+local saxwy9z8n = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4e0927283a")
+local seohu28m7 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6d3f0c04030f021a")
+local shtlkchpm = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("550539342c302726")
+local sa0m7bhuv = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("460128292b23")
+local s7p3jfyz9 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("65320d000009070417170a12")
+local skoydl2dm = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("792d1e88591691ea0171e59211698593a9b00")
+local sdquxo90c = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("7a090e1f1b16")
+local sl7gazsax = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("57073b3639231e33")
+local suteak477 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6921081b1f0c1a1d391b0604191d")
+local s0bsm82tm = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("6c3d198c4c181edb020b4c181e874c")
+local s67gq6ih5 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("582b2c392a")
+local sho2b7ldy = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("46012f20327c6612aa2b66322e1ee33f666322662a291ee72f66301eeb3266362e1eef2b6866041ee932661571ee13366211eab2f686868")
+local s3yx4n1k5 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("693a0c0c0d391b0604191d")
+local sb3nelshy = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("63200b1eae0d432082000b43240a060c432b1ec21743240a1eb20d04")
+local s4xyzqjuo = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("703105041f32050937151102")
+local smc4q0f7t = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("712214141535100510")
+local sf82jc5op = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("74371b181811170027111110")
+local sm3v1zxek = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4111332e39282c28353811332e2c3135")
+local stjtzjde0 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("7732071e14")
+local s4mpvye4d = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4a0b3f3e25193e2f2b261e252d2d262f")
+local sk3cfpabv = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("752601101419555355361a19191016015526101011")
+local sm8wyeuip = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("583f313e2c")
+local stayldmy8 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("733e0a071b1a10")
+local s8wioo0u4 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("5a0f293f28133e")
+local sbwtwocka = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4612342931232a35")
+local sjvnfissj = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("511c24253025383e3f")
+local scfuib65g = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("42172c26273062122e233b2730")
+local sqaprd9xm = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4b02262a2c2e072a292e27")
+local srbdmd0u0 = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("4416252a202b296414282b30")
+local ssb8ema1k = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("692b080a0219080a02")
+local sun84on9j = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("713910030714020521100402143407141f0502")
+local sl1ft07uw = (function(s) local t={} for i=1,#s,2 do t[#t+1]=string.char(tonumber(s:sub(i,i+1),16)) end return table.concat(t) end)("57147bd3a")
+
+-- Main Code (Flattened + VM)
+local _state = 1
+while _state > 0 do
+  if _state == 1 then
+_G.harvest = false
+_G.sell = false
+_G.autoseed = false
+_G.autopickseed = false
+_G.autosteal = false
+_G.StealBlacklist = _G.StealBlacklist or {}
+_G.TweenBusy = false
+_G.autoplant = false
+_G.openshop = false
+_G.autobuy = false
+_G.autobuyseed = {}
+_G.plantmode = srbdmd0u0
+_G.harvestfilter = {}
+_G.harvestrarity = syewzvhdy
+_G.harvestpause = false
+_G.harvestpauseevents = {}
+_G.autobuypet = false
+_G.autobuypetname = {}
+_G.autobuygear = false
+_G.autobuygearname = {}
+_G.noharvestmutations = {}
+_G.autoshovel = false
+_G.autoshovelrarity = syewzvhdy
+local Players = game:GetService(shtlkchpm)
+local v70c616fv = Players.LocalPlayer
+local vpuedjj59 = game:GetService(spkg2k77n)
+local vd6ni5ni2 = require(vpuedjj59:WaitForChild(sgipr307q):WaitForChild(s51vuz2f6))
+local CollectionService = game:GetService(s11j78tul)
+local TweenService = game:GetService(sbvyl8pi0)
+local vcekxsiom = require(vpuedjj59:WaitForChild(sgipr307q):WaitForChild(smc4q0f7t))
+local vh3uzeper = v70c616fv:FindFirstChild(sgpkex8q5)
+  end
+  if _state == 2 then
+if vh3uzeper then vh3uzeper.Value = false end
+local vqerunno1 = game:GetService(sknnpyx3g)
+vqerunno1.PromptShown:Connect(function(vr6a2pbmd)
+  end
+  if _state == 3 then
+    if vr6a2pbmd and vr6a2pbmd:IsA(sm3v1zxek) then
+        vr6a2pbmd.HoldDuration = 0
+    end
+end)
+local function f66z2b3tl(vr6a2pbmd)
+    local v6zu61k6n = vr6a2pbmd.Parent
+  end
+  if _state == 4 then
+    while v6zu61k6n and not v6zu61k6n:IsA(svjtrpteo) do
+        v6zu61k6n = v6zu61k6n.Parent
+    end
+    return v6zu61k6n
+end
+local vb377dm1z = (((43 + 22) * 15 - 976))
+local function fnioycsf8(targetPos, speedOverride)
+  end
+  if _state == 5 then
+    while _G.TweenBusy do task.wait() end
+    _G.TweenBusy = true
+    local vwps7ufdj = v70c616fv.Character
+  end
+  if _state == 6 then
+    if not vwps7ufdj then _G.TweenBusy = false return end
+    local v014uxyez = vwps7ufdj:FindFirstChild(s1o8fksa2)
+    local vs1sj7lig = vwps7ufdj:FindFirstChild(spaw1c0er)
+  end
+  if _state == 7 then
+    if not v014uxyez or not vs1sj7lig then _G.TweenBusy = false return end
+    local vy5yqupk7 = vs1sj7lig.AutoRotate
+    local vnkpjuqxl    = vs1sj7lig.JumpPower
+    local vp1bsusrm    = vs1sj7lig.WalkSpeed
+    local v3fnrpr5j   = vs1sj7lig.MaxHealth
+    local vah6cl5jr      = vs1sj7lig.Health
+    vs1sj7lig.AutoRotate   = false
+    vs1sj7lig.JumpPower    = 0
+    vs1sj7lig.WalkSpeed    = 0
+    vs1sj7lig.MaxHealth    = math.huge
+    vs1sj7lig.Health       = math.huge
+    local vhbx9s4x7 = Instance.new(sxix19pl6)
+    vhbx9s4x7.Velocity  = Vector3.zero
+    vhbx9s4x7.MaxForce  = Vector3.new(1e9, 1e9, 1e9)
+    vhbx9s4x7.Parent    = v014uxyez
+    local v13l57oe6 = Instance.new(snhcjeymv)
+    v13l57oe6.Name         = s7sjmj3oa
+    v13l57oe6.Size         = Vector3.new(0.1, 0.1, 0.1)
+    v13l57oe6.Transparency = 1
+    v13l57oe6.Anchored     = true
+    v13l57oe6.CanCollide   = false
+    v13l57oe6.CFrame       = v014uxyez.CFrame
+    v13l57oe6.Parent       = vwps7ufdj
+    local v3gv36eyg = Instance.new(siti38kzy, v13l57oe6)
+    local vpm5woa0b = v014uxyez:FindFirstChildOfClass(siti38kzy) or Instance.new(siti38kzy, v014uxyez)
+    local v8m7ou8cv = Instance.new(s12yq0lrp)
+    v8m7ou8cv.Attachment0     = v3gv36eyg
+    v8m7ou8cv.Attachment1     = vpm5woa0b
+    v8m7ou8cv.RigidityEnabled = true
+    v8m7ou8cv.Responsiveness  = (((23 + 40) * 9 - 1080))
+    v8m7ou8cv.Parent          = v13l57oe6
+    local v547m6aad  = (v13l57oe6.Position - targetPos).Magnitude
+    local vvahy3d2i  = math.max(v547m6aad / (speedOverride or vb377dm1z), 0.05)
+    local vszv8jlqr = TweenInfo.new(vvahy3d2i, Enum.EasingStyle.Linear)
+    local v21u7dwx9     = TweenService:Create(v13l57oe6, vszv8jlqr, {CFrame = CFrame.new(targetPos)})
+    local conn
+    local vxj5cm9xw = function()
+  end
+  if _state == 8 then
+        if conn then conn:Disconnect() conn = nil end
+  end
+  if _state == 9 then
+        if v21u7dwx9 then v21u7dwx9:Cancel() v21u7dwx9 = nil end
+        pcall(function() vhbx9s4x7:Destroy() end)
+        pcall(function() v13l57oe6:Destroy() end)
+        vs1sj7lig.AutoRotate = vy5yqupk7
+        vs1sj7lig.JumpPower  = vnkpjuqxl
+        vs1sj7lig.WalkSpeed  = vp1bsusrm
+        vs1sj7lig.MaxHealth  = v3fnrpr5j
+        vs1sj7lig.Health     = math.min(vah6cl5jr, v3fnrpr5j)
+    end
+    conn = v21u7dwx9.Completed:Connect(function() vxj5cm9xw() end)
+    v21u7dwx9:Play()
+    v21u7dwx9.Completed:Wait()
+    v014uxyez.CFrame = CFrame.new(targetPos)
+    vxj5cm9xw()
+    _G.TweenBusy = false
+end
+local function flwvfw34d()
+    local vw9xn8rh2 = v70c616fv:GetAttribute(shnb5hgc1)
+  end
+  if _state == 10 then
+    if not vw9xn8rh2 then
+        fnioycsf8(Vector3.new(0, 5, 0))
+        return
+    end
+    local vvk2qirp1 = workspace.Gardens:FindFirstChild(so20qyqlu .. tostring(vw9xn8rh2))
+  end
+  if _state == 11 then
+    if not vvk2qirp1 then
+        fnioycsf8(Vector3.new(0, 5, 0))
+        return
+    end
+    local vyd1jwymm = vvk2qirp1:FindFirstChild(s07vxcs2z)
+  end
+  if _state == 12 then
+    if vyd1jwymm then
+        local vpc8gzg6f = vyd1jwymm:FindFirstChild(s0v65qw09)
+  end
+  if _state == 13 then
+        if vpc8gzg6f and vpc8gzg6f:IsA(sra2qfeum) then
+            local vwps7ufdj = v70c616fv.Character
+            local v014uxyez = vwps7ufdj and vwps7ufdj:FindFirstChild(s1o8fksa2)
+  end
+  if _state == 14 then
+            if v014uxyez then
+                local vgqbvw9y3 = vpc8gzg6f.Position
+                local vjcrlid07 = vpc8gzg6f.Size
+                local vuf1lj35a = math.max(vjcrlid07.X, vjcrlid07.Z) / 2 + 5
+  end
+  if _state == 15 then
+                if (v014uxyez.Position - vgqbvw9y3).Magnitude <= vuf1lj35a then return end
+                fnioycsf8(vgqbvw9y3)
+                return
+            end
+        end
+    end
+    fnioycsf8(vvk2qirp1:GetPivot().Position)
+end
+_G.GiftTargetName = s20isgvmf
+local vh2igtosw = {}
+function vh2igtosw.SendAllItemsTo(targetPlayerName)
+  end
+  if _state == 16 then
+    if not targetPlayerName or targetPlayerName == "" then
+        warn(shlonpeyu)
+        return false
+    end
+    print(s6upgl0yx .. targetPlayerName)
+    local vj3ire1vl = nil
+    pcall(function()
+        local vnj6yseqo = vd6ni5ni2.Mailbox.LookupPlayer:Fire(targetPlayerName)
+  end
+  if _state == 17 then
+        if type(vnj6yseqo) == sz3v27wnx and vnj6yseqo > 0 then
+            vj3ire1vl = vnj6yseqo
+            print(sdf57ywl9 .. vj3ire1vl)
+  end
+  if _state == 18 then
+        else
+            warn(s9ls2ogdm .. targetPlayerName .. svecabu1u)
+        end
+    end)
+  end
+  if _state == 19 then
+    if not vj3ire1vl then
+        warn(s7j2wzbln .. targetPlayerName)
+        return false
+    end
+    local vq9cus2ju = PlayerStateClient:GetLocalReplica()
+  end
+  if _state == 20 then
+    if not vq9cus2ju or not vq9cus2ju.Data or not vq9cus2ju.Data.Inventory then
+        warn(s06sgpnqt)
+        return false
+    end
+    local vi5m0tjum = vq9cus2ju.Data.Inventory
+    local v6964a148 = {}
+    local vt617az3z = {
+        s9j92vnzx, saq2xene4, s1z7armwr, sm7prwhwc, sonpjwx1c, sam8r02oq,
+        sjydmlqff, sg73t06i9, sbwtwocka, srqu8n2o0, siy9nh4yh, s67jhwycy, so5sorzek
+    }
+  end
+  if _state == 21 then
+    for _, category in ipairs(vt617az3z) do
+        local vobju7rae = vi5m0tjum[category]
+  end
+  if _state == 22 then
+        if vobju7rae then
+  end
+  if _state == 23 then
+            if category == s67jhwycy then
+  end
+  if _state == 24 then
+                for itemKey, data in pairs(vobju7rae) do
+  end
+  if _state == 25 then
+                    if type(data) == sv8chndst and data.Id then
+                        table.insert(v6964a148, {Category = category, ItemKey = itemKey, Count = 1})
+                    end
+                end
+  end
+  if _state == 26 then
+            elseif category == s9j92vnzx then
+  end
+  if _state == 27 then
+                for itemKey, data in pairs(vobju7rae) do
+  end
+  if _state == 28 then
+                    if type(data) == sv8chndst and data.Id and not data.Equipped then
+                        table.insert(v6964a148, {Category = category, ItemKey = itemKey, Count = 1})
+                    end
+                end
+  end
+  if _state == 29 then
+            else
+  end
+  if _state == 30 then
+                for itemKey, amount in pairs(vobju7rae) do
+  end
+  if _state == 31 then
+                    if type(amount) == sz3v27wnx and amount > 0 then
+                        table.insert(v6964a148, {Category = category, ItemKey = itemKey, Count = amount})
+                    end
+                end
+            end
+        end
+    end
+  end
+  if _state == 32 then
+    if #v6964a148 == 0 then
+        warn(sxlowtxyy)
+        return false
+    end
+    print(string.format(sho2b7ldy, #v6964a148))
+    local vlkn4zy4c = s0bsm82tm .. v70c616fv.Name .. sjud4tjzh
+    local vazy8jje9 = 0
+  end
+  if _state == 33 then
+    for startIdx = 1, #v6964a148, (((22 + 29) * 36 - 1662)) do
+        local vr3wbkaq9 = {}
+  end
+  if _state == 34 then
+        for idx = startIdx, math.min(startIdx + (((44 + 6) * 22 - 377)), #v6964a148) do
+            table.insert(vr3wbkaq9, v6964a148[idx])
+        end
+        local vhiemsqct, err = pcall(function()
+            vd6ni5ni2.Mailbox.SendBatch:Fire(vj3ire1vl, vr3wbkaq9, vlkn4zy4c)
+        end)
+  end
+  if _state == 35 then
+        if vhiemsqct then
+            vazy8jje9 = vazy8jje9 + #vr3wbkaq9
+            print(string.format(svuu2bqig, vazy8jje9, #v6964a148))
+  end
+  if _state == 36 then
+        else
+            warn(swcbprd34 .. tostring(err))
+        end
+        task.wait(0.5)
+    end
+    print(string.format(sliv55pb9, vazy8jje9, targetPlayerName))
+    return true
+end
+local function fb20ax41r()
+    local v4uawfq5b = {}
+    local v24d9wsay = workspace:FindFirstChild(sm3n4rurg)
+  end
+  if _state == 37 then
+    if v24d9wsay then
+        local vvvvfcmk2 = v24d9wsay:FindFirstChild(s81tj4kb2)
+  end
+  if _state == 38 then
+        if vvvvfcmk2 then
+  end
+  if _state == 39 then
+            for _, v13l57oe6 in ipairs(vvvvfcmk2:GetChildren()) do
+  end
+  if _state == 40 then
+                if v13l57oe6:IsA(sra2qfeum) and (v13l57oe6:GetAttribute(szmxxxw0p) or v13l57oe6:GetAttribute(s006en21l) or v13l57oe6:GetAttribute(sdnlbov79)) then
+                    local vyvqtkww8 = v13l57oe6.Position + Vector3.new(0, v13l57oe6.Size.Y / 2 + 3, 0)
+                    table.insert(v4uawfq5b, {v6zu61k6n = v13l57oe6, vyvqtkww8 = vyvqtkww8})
+                end
+            end
+        end
+    end
+    return v4uawfq5b
+end
+local function fpf86rdsz(v6zu61k6n)
+    local v13l57oe6 = v6zu61k6n
+  end
+  if _state == 41 then
+    if v13l57oe6:IsA(svjtrpteo) then v13l57oe6 = v13l57oe6.PrimaryPart or v13l57oe6:FindFirstChildWhichIsA(sra2qfeum) end
+  end
+  if _state == 42 then
+    if v13l57oe6 then
+        local vizrzu475 = v13l57oe6:GetAttribute(s006en21l) and seohu28m7 or v13l57oe6:GetAttribute(sdnlbov79) and saf33l428 or v13l57oe6:GetAttribute(szmxxxw0p)
+  end
+  if _state == 43 then
+        if vizrzu475 then
+            pcall(function() vd6ni5ni2.SeedPackSpawn.Claimed:Fire(vizrzu475, v13l57oe6.Name) end)
+            return true
+        end
+    end
+    local vr6a2pbmd = v6zu61k6n:FindFirstChildWhichIsA(sm3v1zxek)
+  end
+  if _state == 44 then
+    if not vr6a2pbmd then
+  end
+  if _state == 45 then
+        for _, child in ipairs(v6zu61k6n:GetDescendants()) do
+  end
+  if _state == 46 then
+            if child:IsA(sm3v1zxek) then vr6a2pbmd = child; break end
+        end
+    end
+  end
+  if _state == 47 then
+    if vr6a2pbmd then
+        local veniyzfsa = vr6a2pbmd.MaxActivationDistance
+        vr6a2pbmd.MaxActivationDistance = math.huge
+        vr6a2pbmd.Enabled = true
+        vr6a2pbmd:InputHoldBegin()
+        task.wait(0.05)
+        vr6a2pbmd:InputHoldEnd()
+        vr6a2pbmd.MaxActivationDistance = veniyzfsa
+        return true
+    end
+    return false
+end
+local function fpk61wufu()
+  end
+  if _state == 48 then
+    while true do
+  end
+  if _state == 49 then
+        if _G.autopickseed then
+            local v4uawfq5b = fb20ax41r()
+  end
+  if _state == 50 then
+            if #v4uawfq5b > 0 then
+                table.sort(v4uawfq5b, function(a, b)
+                    local vwps7ufdj = v70c616fv.Character
+  end
+  if _state == 51 then
+                    if vwps7ufdj and vwps7ufdj:FindFirstChild(s1o8fksa2) then
+                        local v3gkxzbe4 = vwps7ufdj.HumanoidRootPart.Position
+                        return (a.vyvqtkww8 - v3gkxzbe4).Magnitude < (b.vyvqtkww8 - v3gkxzbe4).Magnitude
+                    end
+                    return false
+                end)
+                local v2e7jweih = v4uawfq5b[1]
+                fnioycsf8(v2e7jweih.vyvqtkww8)
+                task.wait(0.3)
+                fpf86rdsz(v2e7jweih.v6zu61k6n)
+            end
+        end
+        task.wait(0.5)
+    end
+end
+local function fpk8zyqvq(vshusrumk, v2mtwlm86)
+    local v9zu0zpir = vshusrumk:FindFirstChild(s2m40mbmp)
+  end
+  if _state == 52 then
+    if v9zu0zpir then
+        local v9ah9yy3g = v9zu0zpir:FindFirstChild(s0ua10xw1)
+  end
+  if _state == 53 then
+        if v9ah9yy3g and v9ah9yy3g:IsA(sm3v1zxek) then return v9ah9yy3g end
+    end
+    local function f114tfojb(vg6f0nk70)
+  end
+  if _state == 54 then
+        if vg6f0nk70:IsA(sm3v1zxek) then
+  end
+  if _state == 55 then
+            if vg6f0nk70.Name == s0ua10xw1 then return vg6f0nk70 end
+            local vyiau5uui = vg6f0nk70.ActionText:lower()
+  end
+  if _state == 56 then
+            if vyiau5uui:find(sdquxo90c) then return vg6f0nk70 end
+        end
+        return nil
+    end
+  end
+  if _state == 57 then
+    for _, vzdiu20ik in ipairs(vshusrumk:GetDescendants()) do
+        local vg6f0nk70 = f114tfojb(vzdiu20ik)
+  end
+  if _state == 58 then
+        if vg6f0nk70 then return vg6f0nk70 end
+    end
+  end
+  if _state == 59 then
+    if v2mtwlm86 then
+  end
+  if _state == 60 then
+        for _, vzdiu20ik in ipairs(v2mtwlm86:GetDescendants()) do
+            local vu4plhh1r = f114tfojb(vzdiu20ik)
+  end
+  if _state == 61 then
+            if vu4plhh1r then return vu4plhh1r end
+        end
+    end
+    return nil
+end
+local function fjwxz72pa()
+    local vxr3fz7qu = {}
+    local vdgjddl01 = vpuedjj59:FindFirstChild(sddoq5zzp)
+  end
+  if _state == 62 then
+    if not vdgjddl01 or vdgjddl01.Value ~= true then return vxr3fz7qu end
+  end
+  if _state == 63 then
+    for _, player in ipairs(Players:GetPlayers()) do
+  end
+  if _state == 64 then
+        if player ~= v70c616fv and player.Character then
+            local vdqgftgjw = player.Character
+            local vw9xn8rh2 = player:GetAttribute(shnb5hgc1)
+  end
+  if _state == 65 then
+            if vw9xn8rh2 then
+                local vj5luvtow = workspace.Gardens:FindFirstChild(so20qyqlu .. tostring(vw9xn8rh2))
+  end
+  if _state == 66 then
+                if vj5luvtow then
+                    local vta0d1b3g = false
+  end
+  if _state == 67 then
+                    if vdqgftgjw and vdqgftgjw:FindFirstChild(s1o8fksa2) then
+                        local v6pa2d5cp = vdqgftgjw.HumanoidRootPart.Position
+                        local vt9y3h1h9 = vj5luvtow:GetPivot().Position
+                        local vnxerbti8 = vj5luvtow:GetExtentsSize()
+  end
+  if _state == 68 then
+                        if math.abs(v6pa2d5cp.X - vt9y3h1h9.X) < vnxerbti8.X/2 + 5
+                        and math.abs(v6pa2d5cp.Z - vt9y3h1h9.Z) < vnxerbti8.Z/2 + 5 then
+                            vta0d1b3g = true
+                        end
+                    end
+  end
+  if _state == 69 then
+                    if not vta0d1b3g then
+                        local vg48hfsnb = vj5luvtow:FindFirstChild(shfnwumu0)
+  end
+  if _state == 70 then
+                        if vg48hfsnb then
+  end
+  if _state == 71 then
+                            for _, vshusrumk in ipairs(vg48hfsnb:GetChildren()) do
+                                local vpkkllbd8 = vshusrumk:FindFirstChild(sy3lsyys0)
+  end
+  if _state == 72 then
+                                if vpkkllbd8 then
+  end
+  if _state == 73 then
+                                    for _, v2mtwlm86 in ipairs(vpkkllbd8:GetChildren()) do
+                                        local v5yeaknou = v2mtwlm86:GetAttribute(srpmqgv7e)
+                                        local vniby2qvs = v2mtwlm86:GetAttribute(sl7gazsax)
+                                        local vtbxb2rhe  = tonumber(v2mtwlm86:GetAttribute(s8wioo0u4))
+  end
+  if _state == 74 then
+                                        if v5yeaknou and vniby2qvs and vtbxb2rhe and not _G.StealBlacklist[v5yeaknou] then
+                                            local v9zu0zpir = vshusrumk:FindFirstChild(s2m40mbmp)
+                                            local vyvqtkww8
+  end
+  if _state == 75 then
+                                            if v9zu0zpir then
+                                                vyvqtkww8 = v9zu0zpir.Position
+  end
+  if _state == 76 then
+                                            else
+                                                vyvqtkww8 = v2mtwlm86.PrimaryPart and v2mtwlm86.PrimaryPart.Position or v2mtwlm86:GetPivot().Position
+                                            end
+                                            table.insert(vxr3fz7qu, {
+                                                v2mtwlm86=v2mtwlm86, vshusrumk=vshusrumk, vyvqtkww8=vyvqtkww8,
+                                                player=player, vniby2qvs=vniby2qvs,
+                                                v5yeaknou=v5yeaknou, vtbxb2rhe=vtbxb2rhe
+                                            })
+                                        end
+                                    end
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+    return vxr3fz7qu
+end
+local function f1wgcfsa2(v2e7jweih)
+  end
+  if _state == 77 then
+    if not (v2e7jweih.vtbxb2rhe and v2e7jweih.vniby2qvs and v2e7jweih.v5yeaknou) then return false end
+    local vshusrumk = v2e7jweih.vshusrumk
+    local v2mtwlm86 = v2e7jweih.v2mtwlm86
+    local vr6a2pbmd = vshusrumk and fpk8zyqvq(vshusrumk, v2mtwlm86)
+  end
+  if _state == 78 then
+    if vr6a2pbmd and fireInstantPrompt(vr6a2pbmd) then
+        return true
+    end
+    local vhiemsqct, err = pcall(function()
+        vd6ni5ni2.Steal.BeginSteal:Fire(v2e7jweih.vtbxb2rhe, v2e7jweih.vniby2qvs, v2e7jweih.v5yeaknou)
+        vd6ni5ni2.Steal.CompleteSteal:Fire()
+    end)
+  end
+  if _state == 79 then
+    if not vhiemsqct then warn(ssku56tf1, err) end
+    return vhiemsqct
+end
+local function f7qafc4mz()
+  end
+  if _state == 80 then
+    while true do
+  end
+  if _state == 81 then
+        if _G.autosteal then
+            local vxr3fz7qu = fjwxz72pa()
+  end
+  if _state == 82 then
+            if #vxr3fz7qu > 0 then
+                local viyr2qrwd = nil
+                local vefrxw3j7 = tick()
+  end
+  if _state == 83 then
+                for _, v2e7jweih in ipairs(vxr3fz7qu) do
+  end
+  if _state == 84 then
+                    if not _G.autosteal then break end
+  end
+  if _state == 85 then
+                    if viyr2qrwd ~= v2e7jweih.vniby2qvs then
+                        viyr2qrwd = v2e7jweih.vniby2qvs
+                        vefrxw3j7 = tick()
+                    end
+  end
+  if _state == 86 then
+                    if tick() - vefrxw3j7 >= 7 then
+                        _G.StealBlacklist[v2e7jweih.v5yeaknou] = true
+                        continue
+                    end
+                    local vwps7ufdj = v70c616fv.Character
+                    local v014uxyez  = vwps7ufdj and vwps7ufdj:FindFirstChild(s1o8fksa2)
+                    local v06afgdht = true
+  end
+  if _state == 87 then
+                    if v014uxyez then
+                        v06afgdht = (v014uxyez.Position - v2e7jweih.vyvqtkww8).Magnitude > 3
+                    end
+  end
+  if _state == 88 then
+                    if v06afgdht then
+                        fnioycsf8(v2e7jweih.vyvqtkww8, 1800)
+                    end
+                    local vtbxb2rhe, vniby2qvs, v5yeaknou = v2e7jweih.vtbxb2rhe, v2e7jweih.vniby2qvs, v2e7jweih.v5yeaknou
+  end
+  if _state == 89 then
+                    if vtbxb2rhe and vniby2qvs and v5yeaknou then
+                        _G.StealBlacklist[v5yeaknou] = true
+                        task.spawn(function()
+                            pcall(function()
+                                vd6ni5ni2.Steal.BeginSteal:Fire(vtbxb2rhe, vniby2qvs, v5yeaknou)
+                                task.wait(0.05)
+                                vd6ni5ni2.Steal.CompleteSteal:Fire()
+                            end)
+                        end)
+                    end
+                    task.wait(0.05)
+                end
+                flwvfw34d()
+                task.wait(1)
+  end
+  if _state == 90 then
+            else
+                task.wait(1)
+            end
+  end
+  if _state == 91 then
+        else
+            task.wait(1)
+        end
+    end
+end
+local vpw5z93l8 = {}
+  end
+  if _state == 92 then
+for _, data in ipairs(vcekxsiom) do
+  end
+  if _state == 93 then
+    if data.SeedName and data.Rarity then vpw5z93l8[data.SeedName] = data.Rarity end
+end
+local function fv2t8sa4m(voseroppd)
+    local vmy3jzjku = vpuedjj59:FindFirstChild(voseroppd)
+    return vmy3jzjku and vmy3jzjku:IsA(swj8ailyh) and vmy3jzjku.Value == true
+end
+local function fewplgjvd()
+  end
+  if _state == 94 then
+    while true do
+  end
+  if _state == 95 then
+        if _G.harvest then
+            local vwqtd07r3 = false
+  end
+  if _state == 96 then
+            if _G.harvestpause and type(_G.harvestpauseevents) == sv8chndst then
+  end
+  if _state == 97 then
+                for eventName, enabled in pairs(_G.harvestpauseevents) do
+  end
+  if _state == 98 then
+                    if enabled and fv2t8sa4m(eventName) then
+                        vwqtd07r3 = true
+                        break
+                    end
+                end
+            end
+  end
+  if _state == 99 then
+            if not vwqtd07r3 then
+                local vgrptuajm = CollectionService:GetTagged(suteak477)
+                local vwub0dcr4 = false
+  end
+  if _state == 100 then
+                for _, vr6a2pbmd in ipairs(vgrptuajm) do
+  end
+  if _state == 101 then
+                    if not _G.harvest then break end
+  end
+  if _state == 102 then
+                    if vr6a2pbmd:IsA(sm3v1zxek) and vr6a2pbmd.Enabled then
+                        local v5zp84p54 = nil
+                        local vn2ka07ri = vr6a2pbmd.Parent
+  end
+  if _state == 103 then
+                        while vn2ka07ri do
+  end
+  if _state == 104 then
+                            if vn2ka07ri:IsA(svjtrpteo) and vn2ka07ri:GetAttribute(srpmqgv7e) then v5zp84p54 = vn2ka07ri break end
+                            vn2ka07ri = vn2ka07ri.Parent
+                        end
+  end
+  if _state == 105 then
+                        if v5zp84p54 then
+                            local vvuqmwjo5 = v5zp84p54:GetAttribute(sfs59wl61) or v5zp84p54:GetAttribute(si24ese92)
+                            local vyhzjg628 = true
+  end
+  if _state == 106 then
+                            if type(_G.harvestfilter) == sv8chndst and next(_G.harvestfilter) ~= nil then
+  end
+  if _state == 107 then
+                                if not _G.harvestfilter[syewzvhdy] then
+                                    vyhzjg628 = _G.harvestfilter[vvuqmwjo5] == true
+                                end
+                            end
+  end
+  if _state == 108 then
+                            if vyhzjg628 and _G.harvestrarity ~= syewzvhdy then
+                                local vjmcl4b3c = vpw5z93l8[vvuqmwjo5]
+  end
+  if _state == 109 then
+                                if not vjmcl4b3c or vjmcl4b3c ~= _G.harvestrarity then vyhzjg628 = false end
+                            end
+  end
+  if _state == 110 then
+                            if vyhzjg628 and type(_G.noharvestmutations) == sv8chndst then
+                                local vzeqedtbd = v5zp84p54:GetAttribute(sjvnfissj)
+  end
+  if _state == 111 then
+                                if vzeqedtbd and _G.noharvestmutations[vzeqedtbd] then vyhzjg628 = false end
+                            end
+  end
+  if _state == 112 then
+                            if vyhzjg628 then
+                                vwub0dcr4 = true
+                                task.spawn(function()
+  end
+  if _state == 113 then
+                                    if not _G.harvest then return end
+  end
+  if _state == 114 then
+                                    if not vr6a2pbmd:IsDescendantOf(workspace) or not vr6a2pbmd.Enabled then return end
+  end
+  if _state == 115 then
+                                    if not v5zp84p54:IsDescendantOf(workspace) then return end
+                                    local vniby2qvs = v5zp84p54:GetAttribute(sl7gazsax)
+                                    local v5yeaknou = v5zp84p54:GetAttribute(srpmqgv7e) or ""
+  end
+  if _state == 116 then
+                                    if vniby2qvs then
+                                        local veniyzfsa = vr6a2pbmd.MaxActivationDistance
+                                        vr6a2pbmd.MaxActivationDistance = math.huge
+                                        local vc6e687rp = math.max(vr6a2pbmd.HoldDuration, 0.05)
+                                        vr6a2pbmd:InputHoldBegin()
+                                        task.wait(vc6e687rp + 0.03)
+                                        vr6a2pbmd:InputHoldEnd()
+                                        vd6ni5ni2.Garden.CollectFruit:Fire(vniby2qvs, v5yeaknou)
+                                        vr6a2pbmd.MaxActivationDistance = veniyzfsa
+                                    end
+                                end)
+                            end
+                        end
+                    end
+                end
+  end
+  if _state == 117 then
+                if vwub0dcr4 then
+                    local vh9ygfq1e = tick()
+  end
+  if _state == 118 then
+                    if vh9ygfq1e - (_G.LastHarvestReturn or 0) >= 2 then
+                        _G.LastHarvestReturn = vh9ygfq1e
+                        task.spawn(function()
+                            task.wait(0.2) 
+                            flwvfw34d()
+                        end)
+                    end
+                end
+            end
+        end
+        task.wait(0.1)
+    end
+end
+local function fj5x9hd4g()
+  end
+  if _state == 119 then
+    while true do
+  end
+  if _state == 120 then
+        if _G.sell then pcall(function() vd6ni5ni2.NPCS.SellAll:Fire() end) end
+        task.wait(0.5)
+    end
+end
+local function frskz2bf9()
+  end
+  if _state == 121 then
+    while true do
+  end
+  if _state == 122 then
+        if _G.autoseed then
+            local vuk8xu0w9 = {}
+  end
+  if _state == 123 then
+            for _, tag in ipairs({s3yx4n1k5, sf82jc5op, sardrf3mg}) do
+  end
+  if _state == 124 then
+                for _, vg6f0nk70 in ipairs(CollectionService:GetTagged(tag)) do
+  end
+  if _state == 125 then
+                    if vg6f0nk70:IsA(sm3v1zxek) and vg6f0nk70.Enabled then table.insert(vuk8xu0w9, vg6f0nk70) end
+                end
+            end
+  end
+  if _state == 126 then
+            if #vuk8xu0w9 == 0 then
+  end
+  if _state == 127 then
+                for _, vmy3jzjku in ipairs(workspace:GetDescendants()) do
+  end
+  if _state == 128 then
+                    if vmy3jzjku:IsA(sm3v1zxek) and vmy3jzjku.Enabled and (vmy3jzjku.Name:lower():find(szcfv2hot) or vmy3jzjku.Name:lower():find(stl2oom1n)) then
+                        table.insert(vuk8xu0w9, vmy3jzjku)
+                    end
+                end
+            end
+  end
+  if _state == 129 then
+            for _, vr6a2pbmd in ipairs(vuk8xu0w9) do
+                local veniyzfsa = vr6a2pbmd.MaxActivationDistance
+                vr6a2pbmd.MaxActivationDistance = math.huge
+                local vc6e687rp = math.max(vr6a2pbmd.HoldDuration, 0.05)
+                vr6a2pbmd:InputHoldBegin()
+                task.wait(vc6e687rp + 0.03)
+                vr6a2pbmd:InputHoldEnd()
+                vr6a2pbmd.MaxActivationDistance = veniyzfsa
+                task.wait(0.01)
+            end
+        end
+        task.wait(0.2)
+    end
+end
+local function fxthegkx5()
+  end
+  if _state == 130 then
+    while true do
+        local vbhjunvvu = v70c616fv.PlayerGui:FindFirstChild(sapocngea)
+  end
+  if _state == 131 then
+        if vbhjunvvu then vbhjunvvu.Enabled = _G.openshop end
+        task.wait(5)
+    end
+end
+local vsnjdfzv7 = {}
+  end
+  if _state == 132 then
+for _, data in ipairs(vcekxsiom) do
+  end
+  if _state == 133 then
+    if data.SeedName then table.insert(vsnjdfzv7, data.SeedName) end
+end
+table.sort(vsnjdfzv7)
+local function f017m55xi()
+  end
+  if _state == 134 then
+    while true do
+  end
+  if _state == 135 then
+        if _G.autobuy and type(_G.autobuyseed) == sv8chndst and next(_G.autobuyseed) then
+  end
+  if _state == 136 then
+            for vku1jm45x, enabled in pairs(_G.autobuyseed) do
+  end
+  if _state == 137 then
+                if enabled then pcall(function() vd6ni5ni2.SeedShop.PurchaseSeed:Fire(vku1jm45x) end) end
+            end
+        end
+        task.wait(1)
+    end
+end
+local vzznj3mwn = {}
+local successPet, petModule = pcall(function()
+    return require(vpuedjj59:WaitForChild(sx8jkerjh):WaitForChild(sl0q5ruhf))
+end)
+  end
+  if _state == 138 then
+if successPet and petModule then
+  end
+  if _state == 139 then
+    for petName, _ in pairs(petModule) do table.insert(vzznj3mwn, petName) end
+  end
+  if _state == 140 then
+else
+    vzznj3mwn = {spfn66pbv,sbe60xcuv,seyf2xewo,s62wreqt9,sxms7qh9n,smlju3g9c,ss2oq2a4s,sk98rjpzz,s8a2xpco7,sew6cgvjz,s3wrnlqvg,sw80hvkys}
+end
+table.sort(vzznj3mwn)
+local function fdstrbsjc()
+  end
+  if _state == 141 then
+    while true do
+  end
+  if _state == 142 then
+        if _G.autobuypet and type(_G.autobuypetname) == sv8chndst and next(_G.autobuypetname) then
+  end
+  if _state == 143 then
+            for petName, enabled in pairs(_G.autobuypetname) do
+  end
+  if _state == 144 then
+                if enabled then pcall(function() vd6ni5ni2.GearShop.PurchaseGear:Fire(petName) end) end
+            end
+        end
+        task.wait(1)
+    end
+end
+local vp0jhe9e3 = {
+    s3cyzeu5f,
+    s119zaq74,
+    s2hclxzex,
+    snsrhmpme,
+    swojfxbe1,
+    swiln7lw1,
+    saclyr4hb,
+    s2rfcntcv,
+    sekmjxkpv,
+    s3g2nf99e,
+    s3xs78mxu,
+    sa0m7bhuv,
+    sl7le1c17,
+    siwp4a9zw,
+    stm1r4f15,
+    s2x2vslp8,
+    s7p3jfyz9,
+    s0bckjz8a,
+    s7cmhdqlo
+}
+table.sort(vp0jhe9e3)
+local function ftgy895x4()
+  end
+  if _state == 145 then
+    while true do
+  end
+  if _state == 146 then
+        if _G.autobuygear and type(_G.autobuygearname) == sv8chndst and next(_G.autobuygearname) then
+  end
+  if _state == 147 then
+            for gearName, enabled in pairs(_G.autobuygearname) do
+  end
+  if _state == 148 then
+                if enabled then pcall(function() vd6ni5ni2.GearShop.PurchaseGear:Fire(gearName) end) end
+            end
+        end
+        task.wait(1)
+    end
+end
+local function fcmjrtvia()
+    local vwps7ufdj = v70c616fv.Character
+    local vnvrvl4u0 = vwps7ufdj and vwps7ufdj:FindFirstChildWhichIsA(sfm1daip6)
+  end
+  if _state == 149 then
+    if vnvrvl4u0 and vnvrvl4u0:GetAttribute(sepvp8vrz) then return vnvrvl4u0 end
+    local vu0aiwmfd = v70c616fv:FindFirstChildOfClass(ssb8ema1k)
+  end
+  if _state == 150 then
+    if vu0aiwmfd then
+  end
+  if _state == 151 then
+        for _, t in vu0aiwmfd:GetChildren() do
+  end
+  if _state == 152 then
+            if t:IsA(sfm1daip6) and t:GetAttribute(sepvp8vrz) then return t end
+        end
+    end
+    return nil
+end
+local function fvppyep1n()
+  end
+  if _state == 153 then
+    while true do
+  end
+  if _state == 154 then
+        if _G.autoshovel then
+            local vw9xn8rh2 = v70c616fv:GetAttribute(shnb5hgc1)
+  end
+  if _state == 155 then
+            if vw9xn8rh2 then
+                local vvk2qirp1 = workspace.Gardens:FindFirstChild(so20qyqlu .. tostring(vw9xn8rh2))
+  end
+  if _state == 156 then
+                if vvk2qirp1 then
+                    local vw4cj6jak = vvk2qirp1:FindFirstChild(shfnwumu0)
+  end
+  if _state == 157 then
+                    if vw4cj6jak then
+                        local vh3vyolay = {}
+  end
+  if _state == 158 then
+                        for _, vshusrumk in ipairs(vw4cj6jak:GetChildren()) do
+  end
+  if _state == 159 then
+                            if vshusrumk:IsA(svjtrpteo) then
+                                local vku1jm45x = vshusrumk:GetAttribute(si24ese92)
+  end
+  if _state == 160 then
+                                if vku1jm45x then
+                                    local vjmcl4b3c = vpw5z93l8[vku1jm45x] or stt5xg898
+  end
+  if _state == 161 then
+                                    if _G.autoshovelrarity == syewzvhdy or vjmcl4b3c == _G.autoshovelrarity then
+                                        table.insert(vh3vyolay, vshusrumk)
+                                    end
+                                end
+                            end
+                        end
+                        local vygu2j1v7 = fcmjrtvia()
+  end
+  if _state == 162 then
+                        if vygu2j1v7 and #vh3vyolay > 0 then
+  end
+  if _state == 163 then
+                            for _, vshusrumk in ipairs(vh3vyolay) do
+  end
+  if _state == 164 then
+                                if not _G.autoshovel then break end
+                                local vniby2qvs = vshusrumk:GetAttribute(sl7gazsax)
+                                local v6iwovbkn = vygu2j1v7:GetAttribute(sepvp8vrz)
+  end
+  if _state == 165 then
+                                if vniby2qvs and v6iwovbkn then
+                                    pcall(function() vd6ni5ni2.Shovel.UseShovel:Fire(vniby2qvs, "", v6iwovbkn, vygu2j1v7) end)
+                                end
+                                task.wait(0.1)
+                            end
+                        end
+                    end
+                end
+            end
+        end
+        task.wait(1)
+    end
+end
+local function fou9itqgf(position)
+    local vu0aiwmfd = v70c616fv:FindFirstChildOfClass(ssb8ema1k)
+  end
+  if _state == 166 then
+    if not vu0aiwmfd then return false end
+    local v7gmk0do9 = nil
+  end
+  if _state == 167 then
+    for _, vnvrvl4u0 in vu0aiwmfd:GetChildren() do
+  end
+  if _state == 168 then
+        if vnvrvl4u0:IsA(sfm1daip6) and vnvrvl4u0:GetAttribute(sato64ur1) then v7gmk0do9 = vnvrvl4u0 break end
+    end
+  end
+  if _state == 169 then
+    if not v7gmk0do9 then return false end
+    vd6ni5ni2.Plant.PlantSeed:Fire(position, v7gmk0do9:GetAttribute(sato64ur1), v7gmk0do9)
+    return true
+end
+local function fq239yd5w(position)
+    local vfewqh5cj = RaycastParams.new()
+    vfewqh5cj.FilterType = Enum.RaycastFilterType.Include
+    vfewqh5cj.FilterDescendantsInstances = CollectionService:GetTagged(sod8z0d1h)
+    local vh3cd7zqi = workspace:Raycast(position + Vector3.new(0, (((1 + 41) * 40 - 1671)), 0), Vector3.new(0, -(((22 + 29) * 36 - 1662)), 0), vfewqh5cj)
+    return vh3cd7zqi and vh3cd7zqi.Position or nil
+end
+local function fsizoitj1()
+  end
+  if _state == 170 then
+    while true do
+  end
+  if _state == 171 then
+        if _G.autoplant then
+            local vvk2qirp1 = workspace.Gardens:FindFirstChild(so20qyqlu .. v70c616fv:GetAttribute(shnb5hgc1))
+  end
+  if _state == 172 then
+            if vvk2qirp1 then
+                local targetPos
+  end
+  if _state == 173 then
+                if _G.plantmode == scfuib65g then
+                    local v014uxyez = v70c616fv.Character and v70c616fv.Character:FindFirstChild(s1o8fksa2)
+  end
+  if _state == 174 then
+                    if v014uxyez then targetPos = fq239yd5w(v014uxyez.Position) end
+  end
+  if _state == 175 then
+                else
+                    local vd4qd1z27 = {}
+  end
+  if _state == 176 then
+                    for _, vc1sazfa9 in ipairs(CollectionService:GetTagged(sod8z0d1h)) do
+  end
+  if _state == 177 then
+                        if vc1sazfa9:IsDescendantOf(vvk2qirp1) then table.insert(vd4qd1z27, vc1sazfa9) end
+                    end
+  end
+  if _state == 178 then
+                    if #vd4qd1z27 > 0 then
+                        local vc1sazfa9 = vd4qd1z27[math.random(1, #vd4qd1z27)]
+                        local vyvqtkww8, size = vc1sazfa9.Position, vc1sazfa9.Size
+                        targetPos = Vector3.new(
+                            vyvqtkww8.X + (math.random() - 0.5) * size.X,
+                            vyvqtkww8.Y + size.Y/2 + 0.1,
+                            vyvqtkww8.Z + (math.random() - 0.5) * size.Z
+                        )
+                    end
+                end
+  end
+  if _state == 179 then
+                if targetPos then fou9itqgf(targetPos) end
+            end
+        end
+        task.wait(0.3)
+    end
+end
+local function fywzuiy4a()
+    local v841o754a = {syewzvhdy}
+    local vw9xn8rh2 = v70c616fv:GetAttribute(shnb5hgc1)
+  end
+  if _state == 180 then
+    if vw9xn8rh2 then
+        local vvk2qirp1 = workspace.Gardens:FindFirstChild(so20qyqlu .. tostring(vw9xn8rh2))
+  end
+  if _state == 181 then
+        if vvk2qirp1 then
+            local vw4cj6jak = vvk2qirp1:FindFirstChild(shfnwumu0)
+  end
+  if _state == 182 then
+            if vw4cj6jak then
+                local vjt4p0xaq = {}
+  end
+  if _state == 183 then
+                for _, vshusrumk in ipairs(vw4cj6jak:GetChildren()) do
+                    local voseroppd = vshusrumk:GetAttribute(si24ese92)
+  end
+  if _state == 184 then
+                    if voseroppd and not vjt4p0xaq[voseroppd] then vjt4p0xaq[voseroppd] = true table.insert(v841o754a, voseroppd) end
+                end
+            end
+        end
+    end
+    return v841o754a
+end
+local v7jvskxv4 = {}
+local vudet1hf1 = pcall(function()
+    local vm6odafdj = vpuedjj59:WaitForChild(sgipr307q):WaitForChild(sknz0xm45)
+  end
+  if _state == 185 then
+    if vm6odafdj then
+  end
+  if _state == 186 then
+        for _, moduleScript in vm6odafdj:GetChildren() do
+  end
+  if _state == 187 then
+            if moduleScript:IsA(sawc5ysau) then table.insert(v7jvskxv4, moduleScript.Name) end
+        end
+    end
+end)
+  end
+  if _state == 188 then
+if not vudet1hf1 or #v7jvskxv4 == 0 then
+    v7jvskxv4 = {saf33l428,seohu28m7,sn3jpb9p1,s9rbcx4jr,sbtxtm3ub,sv6zfwl30,swio6tc0t}
+end
+table.sort(v7jvskxv4)
+task.spawn(fewplgjvd)
+task.spawn(fj5x9hd4g)
+task.spawn(frskz2bf9)
+task.spawn(fpk61wufu)
+_G.StealLoopTask = task.spawn(f7qafc4mz)
+task.spawn(fsizoitj1)
+task.spawn(fxthegkx5)
+task.spawn(f017m55xi)
+task.spawn(fdstrbsjc)
+task.spawn(ftgy895x4)
+task.spawn(fvppyep1n)
+local _fluentSrc, _saveSrc, _ifaceSrc
+task.spawn(function() _fluentSrc = game:HttpGet(s62f88fbn) end)
+task.spawn(function() _saveSrc    = game:HttpGet(sm1xxmt2o) end)
+task.spawn(function() _ifaceSrc   = game:HttpGet(sstiytuwq) end)
+repeat task.wait(0.05) until _fluentSrc and _saveSrc and _ifaceSrc
+local vgsde0xh6           = loadstring(_fluentSrc)()
+local v514ghfn9          = vgsde0xh6
+local v2pasfn8e      = loadstring(_saveSrc)()
+local vu2ul6tj2 = loadstring(_ifaceSrc)()
+_fluentSrc = nil; _saveSrc = nil; _ifaceSrc = nil
+local vikjzn6cw = v514ghfn9:CreateWindow({
+    Title       = sv1464foc,
+    SubTitle    = shn60iw1a,
+    TabWidth    = (((34 + 14) * 12 - 494)),
+    Size        = UDim2.fromOffset((((5 + 43) * 29 - 842)), (((17 + 32) * 9 - 465))),
+    Acrylic     = false,
+    Theme       = szde3lno0,
+    MinimizeKey = Enum.KeyCode.RightControl
+})
+local v8z1hfnqx = {
+    Farm   = vikjzn6cw:AddTab({ Title = s0lc7rghd,   Icon = sroa4fo5j          }),
+    Shop   = vikjzn6cw:AddTab({ Title = sd1ur01ar,   Icon = sbgv8qmsw }),
+    Pet    = vikjzn6cw:AddTab({ Title = slppd18l3,    Icon = s67gq6ih5          }),
+    Shovel = vikjzn6cw:AddTab({ Title = sepvp8vrz, Icon = svww1w50b        }),
+    Config = vikjzn6cw:AddTab({ Title = sf5ubh69y, Icon = sapxcgdau      }),
+    Gift   = vikjzn6cw:AddTab({ Title = saxwy9z8n,   Icon = sm8wyeuip          }),
+}
+v2pasfn8e:SetLibrary(v514ghfn9)
+v2pasfn8e:IgnoreThemeSettings()
+v2pasfn8e:SetFolder(smatc986y .. game.PlaceId)
+v2pasfn8e:BuildConfigSection(v8z1hfnqx.Config)
+do
+    local RunService = game:GetService(svpbkzprb)
+    local viz1mkouf    = game:GetService(soyie8kna)
+    local vcncvtvdn        = game:GetService(s9crr70i7)
+    local v02sccw2o        = viz1mkouf:FindFirstChild(ssyk86iur)
+  end
+  if _state == 189 then
+    if v02sccw2o then v02sccw2o:Destroy() end
+    local vfiordju9 = false
+    local vfh2htrk9  = (((18 + 47) * 46 - 2952))
+    local vzmit7kkh    = 3
+    local vednbwdit   = s4wwn8o8o
+    local vc3j8rgve  = Color3.fromRGB((((42 + 7) * 41 - 551)), (((42 + 7) * 41 - 551)), (((42 + 7) * 41 - 551)))
+    local vke95w96l = Color3.fromRGB((((24 + (((46 + 6) * 40 - 503))) * 33 - 686)), (((24 + (((46 + 6) * 40 - 503))) * 33 - 686)), (((24 + (((46 + 6) * 40 - 503))) * 33 - 686)))
+    local vi6q1r7a3  = Color3.fromRGB((((22 + 29) * 36 - 1662)), (((22 + 29) * 36 - 1662)), (((22 + 29) * 36 - 1662)))
+    local vfk91ni96 = {
+        Color3.fromRGB((((43 + 17) * 2 - 510)),  (((38 + 45) * 47 - 3775)),  (((38 + 45) * 47 - 3775))),
+        Color3.fromRGB((((43 + 17) * 2 - 510)), (((34 + 16) * 42 - 1056)),   0),
+        Color3.fromRGB((((24 + (((46 + 6) * 40 - 503))) * 4 - 124)), (((49 + 28) * 41 - 2290)),   0),
+        Color3.fromRGB( (((38 + 45) * 47 - 3775)), (((25 + 16) * 16 - 446)),  (((38 + 45) * 47 - 3775))),
+        Color3.fromRGB( (((38 + 45) * 47 - 3775)), (((5 + 21) * 48 - 943)), (((43 + 17) * 2 - 510))),
+        Color3.fromRGB((((41 + 40) * 36 - 2950)),  (((45 + 25) * 6 - 1215)), (((43 + 17) * 2 - 510))),
+        Color3.fromRGB((((43 + 17) * 2 - 510)),  (((46 + 1) * 35 - 1)), (((23 + 40) * 9 - 1080))),
+    }
+    local vr72ep0mm = Instance.new(slo6a9ak5)
+    vr72ep0mm.Name           = ssyk86iur
+    vr72ep0mm.ResetOnSpawn   = false
+    vr72ep0mm.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    vr72ep0mm.DisplayOrder   = (((29 + 15) * 43 - 81))
+    vr72ep0mm.Parent         = viz1mkouf
+    local vdze0cuq3 = Instance.new(s0hpw1td8)
+    vdze0cuq3.Size             = UDim2.new(0, vfh2htrk9 + vzmit7kkh*2, 0, vfh2htrk9 + vzmit7kkh*2)
+    vdze0cuq3.Position         = UDim2.new(0, (((25 + 31) * 2 - 825)), 0, (((25 + 31) * 2 - 825)))
+    vdze0cuq3.BackgroundColor3 = vfk91ni96[1]
+    vdze0cuq3.BorderSizePixel  = 0
+    vdze0cuq3.ZIndex           = 9
+    vdze0cuq3.Parent           = vr72ep0mm
+    Instance.new(s9nplsd79, vdze0cuq3).CornerRadius = UDim.new(0.5, 0)
+    local vbpzafdrb = Instance.new(syh5wgwky)
+    vbpzafdrb.Size             = UDim2.new(0, vfh2htrk9, 0, vfh2htrk9)
+    vbpzafdrb.Position         = UDim2.new(0, vzmit7kkh, 0, vzmit7kkh)
+    vbpzafdrb.BackgroundColor3 = vc3j8rgve
+    vbpzafdrb.Text             = ""
+    vbpzafdrb.BorderSizePixel  = 0
+    vbpzafdrb.AutoButtonColor  = false
+    vbpzafdrb.ZIndex           = (((1 + 41) * 40 - 1671))
+    vbpzafdrb.Parent           = vdze0cuq3
+    Instance.new(s9nplsd79, vbpzafdrb).CornerRadius = UDim.new(0.5, 0)
+    local vkcgiroak = Instance.new(sqaprd9xm, vbpzafdrb)
+    vkcgiroak.Size                   = UDim2.new(0.(((29 + 28) * 37 - 1774)), 0, 0.(((29 + 28) * 37 - 1774)), 0)
+    vkcgiroak.Position               = UDim2.new(0.(((46 + 6) * 40 - 503)), 0, 0.(((46 + 6) * 40 - 503)), 0)
+    vkcgiroak.BackgroundTransparency = 1
+    vkcgiroak.Image                  = vednbwdit
+    vkcgiroak.ZIndex                 = (((20 + 30) * 19 - 1159))
+    vkcgiroak.ScaleType              = Enum.ScaleType.Fit
+    Instance.new(s9nplsd79, vkcgiroak).CornerRadius = UDim.new(0.5, 0)
+    local rbIdx, rbTime = 1, 0
+    vdze0cuq3.BackgroundColor3 = vfk91ni96[rbIdx]
+    local vhuuqflpi = RunService.Heartbeat:Connect(function(dt)
+        rbTime = rbTime + dt
+  end
+  if _state == 190 then
+        if rbTime >= 0.(((46 + 6) * 40 - 503)) then
+            rbTime = 0
+            rbIdx  = rbIdx % #vfk91ni96 + 1
+            vdze0cuq3.BackgroundColor3 = vfk91ni96[rbIdx]
+        end
+    end)
+    vr72ep0mm.AncestryChanged:Connect(function()
+  end
+  if _state == 191 then
+        if not vr72ep0mm.Parent then vhuuqflpi:Disconnect() end
+    end)
+    vbpzafdrb.MouseEnter:Connect(function()
+        vbpzafdrb.BackgroundColor3 = vfiordju9 and vi6q1r7a3 or vke95w96l
+    end)
+    vbpzafdrb.MouseLeave:Connect(function()
+        vbpzafdrb.BackgroundColor3 = vfiordju9 and vi6q1r7a3 or vc3j8rgve
+    end)
+    local dragging, dragStart, ringStart, wasDragged = false, nil, nil, false
+    vbpzafdrb.InputBegan:Connect(function(inp)
+  end
+  if _state == 192 then
+        if inp.UserInputType == Enum.UserInputType.MouseButton1
+        or inp.UserInputType == Enum.UserInputType.Touch then
+            dragging = true; wasDragged = false
+            dragStart = inp.Position; ringStart = vdze0cuq3.Position
+        end
+    end)
+    vcncvtvdn.InputChanged:Connect(function(inp)
+  end
+  if _state == 193 then
+        if not dragging then return end
+  end
+  if _state == 194 then
+        if inp.UserInputType == Enum.UserInputType.MouseMovement
+        or inp.UserInputType == Enum.UserInputType.Touch then
+            local vzdiu20ik = inp.Position - dragStart
+  end
+  if _state == 195 then
+            if math.abs(vzdiu20ik.X) > 3 or math.abs(vzdiu20ik.Y) > 3 then wasDragged = true end
+            vdze0cuq3.Position = UDim2.new(
+                ringStart.X.Scale, ringStart.X.Offset + vzdiu20ik.X,
+                ringStart.Y.Scale, ringStart.Y.Offset + vzdiu20ik.Y
+            )
+        end
+    end)
+    vcncvtvdn.InputEnded:Connect(function(inp)
+  end
+  if _state == 196 then
+        if inp.UserInputType == Enum.UserInputType.MouseButton1
+        or inp.UserInputType == Enum.UserInputType.Touch then dragging = false end
+    end)
+    vbpzafdrb.MouseButton1Click:Connect(function()
+  end
+  if _state == 197 then
+        if wasDragged then return end
+        vfiordju9 = not vfiordju9
+        vbpzafdrb.BackgroundColor3   = vfiordju9 and vi6q1r7a3 or vc3j8rgve
+        vkcgiroak.ImageTransparency = vfiordju9 and 0.5 or 0
+        local vn6b626cg = v514ghfn9 and (v514ghfn9.GUI or v514ghfn9.Holder or v514ghfn9.ScreenGui)
+  end
+  if _state == 198 then
+        if not vn6b626cg then
+  end
+  if _state == 199 then
+            for _, v in ipairs(viz1mkouf:GetChildren()) do
+  end
+  if _state == 200 then
+                if v:IsA(slo6a9ak5) and v.Name ~= ssyk86iur and v.Name ~= s5ldexcci then
+  end
+  if _state == 201 then
+                    if v:FindFirstChild(sdu1lf0rg) or v:FindFirstChild(szwmo5wz2) then vn6b626cg = v break end
+                end
+            end
+        end
+  end
+  if _state == 202 then
+        if vn6b626cg then vn6b626cg.Enabled = not vfiordju9 end
+    end)
+end
+local vex0za9au = v8z1hfnqx.Farm:AddDropdown(sbyn4hm0n, {
+    Title   = svapw5isn,
+    Values  = fywzuiy4a(),
+    Multi   = true,
+    Default = {},
+    Callback = function(v) _G.harvestfilter = v end
+})
+task.spawn(function()
+  end
+  if _state == 203 then
+    while true do
+        task.wait(3)
+        local vt6i6deaj = fywzuiy4a()
+        local vy7rlcvzb = _G.harvestfilter
+        local vooatdkzr = {}
+  end
+  if _state == 204 then
+        for _, opt in ipairs(vt6i6deaj) do
+  end
+  if _state == 205 then
+            if vy7rlcvzb[opt] then vooatdkzr[opt] = true end
+        end
+        _G.harvestfilter = vooatdkzr
+        pcall(function() vex0za9au:SetValues(vt6i6deaj) end)
+    end
+end)
+v8z1hfnqx.Farm:AddDropdown(sit656b01, {
+    Title   = sxgqv1nyy,
+    Values  = {syewzvhdy,stt5xg898,sqjbl9ebw,sw7cfpyq6,stjtzjde0,sy87sdvw1,stayldmy8,svel45vxa,slunsairo},
+    Default = syewzvhdy,
+    Callback = function(v) _G.harvestrarity = v end
+})
+v8z1hfnqx.Farm:AddDropdown(s5lmuqq23, {
+    Title   = smotk4bfz,
+    Values  = v7jvskxv4,
+    Multi   = true,
+    Default = {},
+    Callback = function(v) _G.noharvestmutations = v end
+})
+v8z1hfnqx.Farm:AddToggle(swtxnfuq6, {
+    Title   = sfsz42oag,
+    Default = false,
+    Callback = function(v) _G.harvestpause = v end
+})
+v8z1hfnqx.Farm:AddDropdown(sun84on9j, {
+    Title   = sh2gije9x,
+    Values  = {sl1ft07uw,s1i2qsx00,shshyz9g9,s30p8y8cy,s3f5cl8e6,ss5b4a596,skeuhw1np},
+    Multi   = true,
+    Default = {},
+    Callback = function(v) _G.harvestpauseevents = v end
+})
+v8z1hfnqx.Farm:AddToggle(spzxth6zv, {
+    Title   = sqfuii05u,
+    Default = false,
+    Callback = function(v) _G.harvest = v end
+})
+v8z1hfnqx.Farm:AddToggle(ssge7otrg, {
+    Title   = s54pwrdgu,
+    Default = false,
+    Callback = function(v) _G.sell = v end
+})
+v8z1hfnqx.Farm:AddSection(s8dzdiiiq)
+v8z1hfnqx.Farm:AddToggle(sbds7kb1e, {
+    Title   = sf68rfppn,
+    Default = false,
+    Callback = function(v) _G.autoplant = v end
+})
+v8z1hfnqx.Farm:AddDropdown(snod9du0t, {
+    Title   = sb3nelshy,
+    Values  = {sgu7dqcpv,s3bop936l},
+    Default = srbdmd0u0,
+    Callback = function(v) _G.plantmode = v end
+})
+v8z1hfnqx.Farm:AddSection(sk3cfpabv)
+v8z1hfnqx.Farm:AddToggle(scdvdvvsc, {
+    Title   = s4opy0o1n,
+    Default = false,
+    Callback = function(v) _G.autopickseed = v end
+})
+v8z1hfnqx.Farm:AddToggle(s4mpvye4d, {
+    Title   = sg73ecsoc,
+    Default = false,
+    Callback = function(v) _G.autosteal = v end
+})
+v8z1hfnqx.Shop:AddDropdown(siqbd0ad0, {
+    Title   = s6nl20pol,
+    Values  = vsnjdfzv7,
+    Multi   = true,
+    Default = {},
+    Callback = function(v) _G.autobuyseed = v end
+})
+v8z1hfnqx.Shop:AddToggle(snvu4w5yz, {
+    Title   = s6y5ri3kx,
+    Default = false,
+    Callback = function(v) _G.autobuy = v end
+})
+v8z1hfnqx.Shop:AddDropdown(s4xyzqjuo, {
+    Title   = s7vdb8qhs,
+    Values  = vp0jhe9e3,
+    Multi   = true,
+    Default = {},
+    Callback = function(v) _G.autobuygearname = v end
+})
+v8z1hfnqx.Shop:AddToggle(su26wryvb, {
+    Title   = s4e0hrwbw,
+    Default = false,
+    Callback = function(v) _G.autobuygear = v end
+})
+v8z1hfnqx.Shop:AddToggle(sh8y0dz9f, {
+    Title   = sunsdk0r3,
+    Default = false,
+    Callback = function(v) _G.openshop = v end
+})
+v8z1hfnqx.Pet:AddDropdown(sp5er2sfc, {
+    Title   = sd7gkfqtl,
+    Values  = vzznj3mwn,
+    Multi   = true,
+    Default = {},
+    Callback = function(v) _G.autobuypetname = v end
+})
+v8z1hfnqx.Pet:AddToggle(s2v7fevep, {
+    Title   = sbp5pm9en,
+    Default = false,
+    Callback = function(v) _G.autobuypet = v end
+})
+v8z1hfnqx.Shovel:AddDropdown(seam4xcxg, {
+    Title   = sxgqv1nyy,
+    Values  = {syewzvhdy,stt5xg898,sqjbl9ebw,sw7cfpyq6,stjtzjde0,sy87sdvw1,stayldmy8,svel45vxa,slunsairo},
+    Default = syewzvhdy,
+    Callback = function(v) _G.autoshovelrarity = v end
+})
+v8z1hfnqx.Shovel:AddToggle(suid17otk, {
+    Title   = skoydl2dm,
+    Default = false,
+    Callback = function(v) _G.autoshovel = v end
+})
+v8z1hfnqx.Farm:AddSection(st8l0abon)
+local weatherModules, weatherNames, currentModule, fakeActive = {}, {}, nil, false
+do
+    local ok, weatherController = pcall(function()
+        return v70c616fv:WaitForChild(s7soqsr7a):WaitForChild(s8pj0rg1b):WaitForChild(s3brc0gv9)
+    end)
+  end
+  if _state == 206 then
+    if ok and weatherController then
+  end
+  if _state == 207 then
+        for _, child in ipairs(weatherController:GetChildren()) do
+  end
+  if _state == 208 then
+            if child:IsA(sawc5ysau) then
+                local vhiemsqct, module = pcall(require, child)
+  end
+  if _state == 209 then
+                if vhiemsqct and type(module) == sv8chndst and module.StartWeather then
+                    table.insert(weatherModules, {Name = child.Name, Module = module})
+                    table.insert(weatherNames, child.Name)
+                end
+            end
+        end
+  end
+  if _state == 210 then
+    else
+        warn(sp0kmh7vv)
+    end
+end
+local function fmtojkvcl()
+  end
+  if _state == 211 then
+    if currentModule and currentModule.EndWeather then
+        pcall(currentModule.EndWeather)
+    end
+    currentModule = nil
+end
+local function f6fq60s1t(voseroppd)
+    fmtojkvcl()
+  end
+  if _state == 212 then
+    for _, w in ipairs(weatherModules) do
+  end
+  if _state == 213 then
+        if w.Name == voseroppd then
+            currentModule = w.Module
+            pcall(w.Module.StartWeather)
+            break
+        end
+    end
+end
+  end
+  if _state == 214 then
+if #weatherNames == 0 then
+    weatherNames = {sbeiwuphk}
+end
+v8z1hfnqx.Farm:AddToggle(si5c87npi, {
+    Title   = sdo7rmsd9,
+    Default = false,
+    Callback = function(v)
+        fakeActive = v
+  end
+  if _state == 215 then
+        if not v then fmtojkvcl() end
+    end
+})
+v8z1hfnqx.Farm:AddDropdown(stmwibeju, {
+    Title   = spvcua1nd,
+    Values  = weatherNames,
+    Default = weatherNames[1],
+    Callback = function(v)
+  end
+  if _state == 216 then
+        if fakeActive then
+            f6fq60s1t(v)
+        end
+    end
+})
+local v6t08vpxy = v8z1hfnqx.Gift:AddSection(sgh0dpspt)
+v8z1hfnqx.Gift:AddButton({
+    Title = s4qb3asl5 .. _G.GiftTargetName,
+    Description = "C" .. _G.GiftTargetName,
+    Callback = function()
+        task.spawn(function()
+            local vhiemsqct = vh2igtosw.SendAllItemsTo(_G.GiftTargetName)
+  end
+  if _state == 217 then
+            if vhiemsqct then
+  end
+  if _state == 218 then
+            else
+            end
+        end)
+    end
+})
+v2pasfn8e:LoadAutoloadConfig()
+vikjzn6cw:SelectTab(1)
+v8z1hfnqx.Farm:AddSection(s8op0twih)
+local v7mvtbxwt = {}
+do
+    local vhiemsqct, TimeCycleData = pcall(function()
+        return require(vpuedjj59:WaitForChild(sgipr307q):WaitForChild(sqiyustj7))
+    end)
+  end
+  if _state == 219 then
+    if vhiemsqct and TimeCycleData and TimeCycleData.Data then
+        local vhb8oocnm = {}
+  end
+  if _state == 220 then
+        for voseroppd, data in pairs(TimeCycleData.Data) do
+            table.insert(vhb8oocnm, {
+                Name = voseroppd,
+                Weathers = data.Weathers,
+                Duration = data.Lasts,
+                Order = data.StartOrder
+            })
+        end
+        table.sort(vhb8oocnm, function(a, b) return a.Order < b.Order end)
+        local vvamn5l3w = 0
+  end
+  if _state == 221 then
+        for _, vg6f0nk70 in ipairs(vhb8oocnm) do vvamn5l3w = vvamn5l3w + vg6f0nk70.Duration end
+        local function fubavd2gz(vydefwqr3, vdoalqdzg, v0azbe2ye)
+            local vboovk31i = vdoalqdzg * 1000 + v0azbe2ye
+            local vjfaft415 = {}
+            local vyeakymxl = 0
+  end
+  if _state == 222 then
+            for wName, wData in pairs(vydefwqr3.Weathers) do
+                local v2n89wk7w = wData.Chance or 0
+  end
+  if _state == 223 then
+                if v2n89wk7w > 0 then
+                    table.insert(vjfaft415, {voseroppd = wName, v2n89wk7w = v2n89wk7w})
+                    vyeakymxl = vyeakymxl + v2n89wk7w
+                end
+            end
+  end
+  if _state == 224 then
+            if vyeakymxl == 0 then return nil end
+            local vup9wamhh = Random.new(vboovk31i)
+            local vi327d920 = vup9wamhh:NextInteger(1, vyeakymxl)
+            local vnka4ucf9 = 0
+  end
+  if _state == 225 then
+            for _, w in ipairs(vjfaft415) do
+                vnka4ucf9 = vnka4ucf9 + w.v2n89wk7w
+  end
+  if _state == 226 then
+                if vi327d920 <= vnka4ucf9 then return w.voseroppd end
+            end
+            return vjfaft415[1].voseroppd
+        end
+        local function fvo11jetw()
+            local v4eisohrr = workspace:GetAttribute(sceuui3hr)
+            local currentPhaseIdx, currentPhaseData, remainingInPhase
+  end
+  if _state == 227 then
+            if v4eisohrr then
+  end
+  if _state == 228 then
+                for i, vg6f0nk70 in ipairs(vhb8oocnm) do
+  end
+  if _state == 229 then
+                    if vg6f0nk70.Name == v4eisohrr then
+                        currentPhaseIdx = i
+                        currentPhaseData = vg6f0nk70
+                        break
+                    end
+                end
+            end
+  end
+  if _state == 230 then
+            if not currentPhaseData then
+                local vh9ygfq1e = os.time()
+                local vhrpyf7y8 = vh9ygfq1e % vvamn5l3w
+                local vsms1d3gf = 0
+  end
+  if _state == 231 then
+                for i, vg6f0nk70 in ipairs(vhb8oocnm) do
+  end
+  if _state == 232 then
+                    if vhrpyf7y8 < vsms1d3gf + vg6f0nk70.Duration then
+                        currentPhaseIdx = i
+                        currentPhaseData = vg6f0nk70
+                        remainingInPhase = (vsms1d3gf + vg6f0nk70.Duration) - vhrpyf7y8
+                        break
+                    end
+                    vsms1d3gf = vsms1d3gf + vg6f0nk70.Duration
+                end
+  end
+  if _state == 233 then
+            else
+                local vz2jo2rju = workspace:GetAttribute(s5u7at40g) or currentPhaseData.Duration
+                local vgy0mhluk = workspace:GetServerTimeNow()
+  end
+  if _state == 234 then
+                if vgy0mhluk == 0 then vgy0mhluk = os.time() end
+                remainingInPhase = workspace:GetAttribute(s2hote8pe)
+  end
+  if _state == 235 then
+                if not remainingInPhase then
+                    local v9k9mtrax = workspace:GetAttribute(s51mz3vjo)
+  end
+  if _state == 236 then
+                    if v9k9mtrax then
+                        remainingInPhase = vz2jo2rju - (vgy0mhluk - v9k9mtrax)
+  end
+  if _state == 237 then
+                    else
+                        remainingInPhase = vz2jo2rju - (vgy0mhluk % vz2jo2rju)
+                    end
+                end
+  end
+  if _state == 238 then
+                if remainingInPhase < 0 then remainingInPhase = 0 end
+            end
+            return currentPhaseIdx, currentPhaseData, remainingInPhase
+        end
+        local function ff12d1h2p(v2e7jweih)
+            local currentPhaseIdx, currentPhaseData, remainingInPhase = fvo11jetw()
+  end
+  if _state == 239 then
+            if not currentPhaseData then return nil end
+            local v305au7rh = math.floor(os.time() / vvamn5l3w)
+            local v0azbe2ye = currentPhaseIdx
+            local vdoalqdzg = v305au7rh
+            local v6mthbto4 = 0
+            local vhohn8a70 = true
+  end
+  if _state == 240 then
+            for step = 1, (((27 + 40) * 14 - 1140)) do
+                local vydefwqr3 = vhb8oocnm[v0azbe2ye]
+                local vzwa30yti = fubavd2gz(vydefwqr3, vdoalqdzg, v0azbe2ye)
+  end
+  if _state == 241 then
+                if vzwa30yti == v2e7jweih then
+  end
+  if _state == 242 then
+                    if vhohn8a70 then
+                        v6mthbto4 = v6mthbto4 + remainingInPhase
+  end
+  if _state == 243 then
+                        if v6mthbto4 < 0 then v6mthbto4 = 0 end
+                    end
+                    return v6mthbto4, vzwa30yti, vydefwqr3.Name
+                end
+  end
+  if _state == 244 then
+                if vhohn8a70 then
+                    v6mthbto4 = v6mthbto4 + remainingInPhase
+                    vhohn8a70 = false
+  end
+  if _state == 245 then
+                else
+                    v6mthbto4 = v6mthbto4 + vydefwqr3.Duration
+                end
+                v0azbe2ye = v0azbe2ye + 1
+  end
+  if _state == 246 then
+                if v0azbe2ye > #vhb8oocnm then
+                    v0azbe2ye = 1
+                    vdoalqdzg = vdoalqdzg + 1
+                end
+            end
+            return nil
+        end
+        local vw8b0yndu = {}
+  end
+  if _state == 247 then
+        for _, vydefwqr3 in ipairs(vhb8oocnm) do
+  end
+  if _state == 248 then
+            for wName in pairs(vydefwqr3.Weathers) do
+                vw8b0yndu[wName] = true
+            end
+        end
+        local v44mchajf = {}
+  end
+  if _state == 249 then
+        for voseroppd in pairs(vw8b0yndu) do table.insert(v44mchajf, voseroppd) end
+        table.sort(v44mchajf)
+  end
+  if _state == 250 then
+        if #v44mchajf == 0 then v44mchajf = {sbeiwuphk} end
+        v7mvtbxwt.ff12d1h2p = ff12d1h2p
+        v7mvtbxwt.fvo11jetw = fvo11jetw
+        v7mvtbxwt.v44mchajf = v44mchajf
+        v7mvtbxwt.ready = true
+  end
+  if _state == 251 then
+    else
+        v7mvtbxwt.v44mchajf = {sbeiwuphk}
+        v7mvtbxwt.ready = false
+        warn(smmdmo040)
+    end
+end
+_G.weatherPredictTarget = v7mvtbxwt.v44mchajf[1]
+local vhh3wlg65 = v8z1hfnqx.Farm:AddParagraph({
+    Title = syt91iw5x,
+    Content = ssx6yscd6
+})
+v8z1hfnqx.Farm:AddDropdown(su7ifzzgc, {
+    Title   = srbtu9ve1,
+    Values  = v7mvtbxwt.v44mchajf,
+    Default = v7mvtbxwt.v44mchajf[1],
+    Callback = function(v) _G.weatherPredictTarget = v end
+})
+task.spawn(function()
+  end
+  if _state == 252 then
+    while true do
+  end
+  if _state == 253 then
+        if v7mvtbxwt.ready then
+            local ok, currentPhaseIdx, currentPhaseData, remainingInPhase = pcall(v7mvtbxwt.fvo11jetw)
+            local waitTime, targetWeather, phaseName = v7mvtbxwt.ff12d1h2p(_G.weatherPredictTarget)
+            local vs9ix7mqu = "?"
+            local v7pwab8qk = "?"
+  end
+  if _state == 254 then
+            if ok and currentPhaseData then
+                vs9ix7mqu = currentPhaseData.Name
+                v7pwab8qk = tostring(math.floor(remainingInPhase or 0)) .. "ve68ueeen"
+            end
+            local content
+  end
+  if _state == 255 then
+            if waitTime then
+  end
+  if _state == 256 then
+                if waitTime <= 0 then
+                    content = string.format(
+                        sd32b1pgq,
+                        _G.weatherPredictTarget, vs9ix7mqu, v7pwab8qk
+                    )
+  end
+  if _state == 257 then
+                else
+                    local vtlsz29ff = math.floor(waitTime / 3600)
+                    local vi1yd59ki = math.floor((waitTime % 3600) / (((45 + 25) * 6 - 1215)))
+                    local ve68ueeen = math.floor(waitTime % (((45 + 25) * 6 - 1215)))
+                    content = string.format(
+                        sd4ief0iu,
+                        _G.weatherPredictTarget, vtlsz29ff, vi1yd59ki, ve68ueeen, phaseName, vs9ix7mqu, v7pwab8qk
+                    )
+                end
+  end
+  if _state == 258 then
+            else
+                content = st9rogx6bsmiqsb493\""
+            end
+            pcall(function() vhh3wlg65:SetDesc(content) end)
+  end
+  if _state == 259 then
+        else
+            pcall(function() vhh3wlg65:SetDesc(sapqc4pse) end)
+        end
+        task.wait(1)
+    end
+end)
+
+  end
+  _state = _state + 1
+  if _state > 259 then _state = -1 end
+end
+
+local jqpugv8k2 = 20536
+local jk6d7ph4r = 86169
+local jvcj4neg7 = 67514
+local jb53akjlh = 91667
+local jbm9qyo5l = 35598
+local jmpa4uqcm = 94798
+local j6d7ty1zt = 80123
+local jfgrvj17i = 43182
+local j7vl3zec9 = 75472
+local j4yhwun5a = 56295
+local jtjhtss67 = 83658
+local ju08ljhdf = 70247
+local jmes1desf = 38714
+local jkzgzjzwy = 55840
+local jziwhhcxd = 5472
+local jk67g6a56 = 22451
+local jxocwd1c0 = 45843
+local jhljyaesw = 65644
+local jbt62qgvp = 91928
+local jovk41d00 = 35790
+local jafu0aoxe = 76917
+local jwpohcce5 = 30855
+local jywct33b5 = 25856
+local janobgqqi = 39753
+local j2iiu00zx = 69688
+local jgbtexav0 = 35905
+local jiq62r777 = 16453
+local j1cmvgxs6 = 9176
+local jj5ia5x2d = 32154
+local jt09nu140 = 26392
+
+local function jfn4amy3o4(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfn4amy3o4 = jfn4amy3o4(12, 3)
+
+
+local function jfbmenlkqu(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfbmenlkqu = jfbmenlkqu(24, 17)
+
+
+local function jfo0itghje(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfo0itghje = jfo0itghje(21, 20)
+
+
+local function jfnxsrr42n(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfnxsrr42n = jfnxsrr42n(29, 47)
+
+
+local function jfi2np4z9p(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfi2np4z9p = jfi2np4z9p(4, 6)
+
+
+local function jfd7lnwgh2(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfd7lnwgh2 = jfd7lnwgh2(17, 47)
+
+
+local function jf5vpb7ma2(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jf5vpb7ma2 = jf5vpb7ma2(2, 25)
+
+
+local function jfbq1vjsvy(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfbq1vjsvy = jfbq1vjsvy(48, 17)
+
+
+local function jfoky0zf7z(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfoky0zf7z = jfoky0zf7z(45, 34)
+
+
+local function jfgzyu89vb(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfgzyu89vb = jfgzyu89vb(22, 2)
+
+
+local function jfnqgxy65s(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfnqgxy65s = jfnqgxy65s(12, 44)
+
+
+local function jfrv09niw2(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfrv09niw2 = jfrv09niw2(23, 9)
+
+
+local function jfzj6874i7(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfzj6874i7 = jfzj6874i7(36, 33)
+
+
+local function jf3ouk700z(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jf3ouk700z = jf3ouk700z(20, 27)
+
+
+local function jf0vvfef3t(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jf0vvfef3t = jf0vvfef3t(30, 20)
+
+
+local function jfr6qm6k9x(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfr6qm6k9x = jfr6qm6k9x(44, 28)
+
+
+local function jfaeozu4lp(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfaeozu4lp = jfaeozu4lp(23, 39)
+
+
+local function jfuzm6t0vt(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfuzm6t0vt = jfuzm6t0vt(26, 8)
+
+
+local function jfhexuwt79(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jfhexuwt79 = jfhexuwt79(20, 49)
+
+
+local function jf942anneu(a,b)
+    local c = 0
+    for i = 1, 20 do
+        c = c + (a or 1) * (b or 2)
+    end
+    return c
+end
+local _d_jf942anneu = jf942anneu(24, 29)
