@@ -1,185 +1,173 @@
--- [O00O0OIiI0Oo] Protected by AdvancedObfuscator v5 (Roblox)
+-- [oOliIo0liOoI] Protected by AdvancedObfuscator v5 (Roblox)
 
-local function OO0lOililOlO(lio0l0io0Oil)
-  local o00loilooiOO = 0
-  for _i = 1, 16 do o00loilooiOO = o00loilooiOO + (_i * (lio0l0io0Oil or 1)) end
-  return o00loilooiOO
+if (4*4 + 53*53) >= 0 then
+  local IlI0IOl0iloI = 7208
 end
-local lio0l0io0Oil = OO0lOililOlO(29)
-local oOlOlIl0II0o = 77872 * 71
-local function lIoIiIoiIloo(oioIO0o0IOlI)
-  local ll0OOIIlOI0O = 0
-  for _i = 1, 16 do ll0OOIIlOI0O = ll0OOIIlOI0O + (_i * (oioIO0o0IOlI or 1)) end
-  return ll0OOIIlOI0O
+if 24 * 24 < 0 then
+  local Iool0lIOli0I = "IOOoi0IIooi0"
+  error(Iool0lIOli0I)
 end
-local oioIO0o0IOlI = lIoIiIoiIloo(11)
-local oIOllOiOio0o = 70577 * 82
-local lloIloo0lI00 = 90934 * 66
-local Il0OilOlOiOo = 700 * 20
-if (89*89 + 28*28) >= 0 then
-  local loiil0I0I0oi = 4503
+if 7 * 7 < 0 then
+  local ilolIOlIioii = "OIl0OoiOIiIi"
+  error(ilolIOlIioii)
 end
-if 88 * 88 < 0 then
-  local loIoO0oliII0 = "o0oIIIloIllo"
-  error(loIoO0oliII0)
+local ioIi0llOIOII = 69920 * 92
+if 8 * 8 < 0 then
+  local OOIlllOiOIlO = "I0IoOOoolO0l"
+  error(OOIlllOiOIlO)
 end
-local oio0Iolil0II = 44195 * 76
-local function IlIoI0OOOi0l(lO0ollO0iOli)
-  local oi0oOlIiOlIl = 0
-  for _i = 1, 20 do oi0oOlIiOlIl = oi0oOlIiOlIl + (_i * (lO0ollO0iOli or 1)) end
-  return oi0oOlIiOlIl
+local IoliIlO0lol0 = 93853 * 63
+if 56 * 56 < 0 then
+  local oolIio0IoiOi = "OIiio0Oilioo"
+  error(oolIio0IoiOi)
 end
-local lO0ollO0iOli = IlIoI0OOOi0l(10)
-if (29 * (29 + 1)) % 2 == 0 then
-  local Ilo0olliioIi = 4447
+local looo0lo0l0Ii = 57637 * 43
+local O0IO0o0iol0l = 5332 * 44
+if 96 * 96 < 0 then
+  local iOIIo0Iliioi = "IllIiiIIllIo"
+  error(iOIIo0Iliioi)
 end
-if (37 * (37 + 1)) % 2 == 0 then
-  local IOi0iiO00IIl = 9037
+local function ooIi00OIIIoo(o0OIiio0iOi0)
+  local iOloOOiiIl0o = 0
+  for _i = 1, 12 do iOloOOiiIl0o = iOloOOiiIl0o + (_i * (o0OIiio0iOi0 or 1)) end
+  return iOloOOiiIl0o
 end
-if 98 * 98 < 0 then
-  local OoIiiOIlOilo = "IlI0oOIilool"
-  error(OoIiiOIlOilo)
+local o0OIiio0iOi0 = ooIi00OIIIoo(47)
+if (51*51 + 58*58) >= 0 then
+  local lioiO0oiilo0 = 3972
 end
-if 13 * 13 < 0 then
-  local Iol0II0OolOo = "OiOooI0Il0Il"
-  error(Iol0II0OolOo)
+local function oIolIo0IIooI(liIOilOOIooI)
+  local OiOooOOoo0I0 = 0
+  for _i = 1, 13 do OiOooOOoo0I0 = OiOooOOoo0I0 + (_i * (liIOilOOIooI or 1)) end
+  return OiOooOOoo0I0
 end
-local ooOioIOloooI = 28648 * 95
-if 29 * 29 < 0 then
-  local llIOIilI0Oii = "iiOoi0oO0oIo"
-  error(llIOIilI0Oii)
+local liIOilOOIooI = oIolIo0IIooI(13)
+if 63 * 63 < 0 then
+  local iiilo0loIliI = "O0iOIilloIl0"
+  error(iiilo0loIliI)
 end
-if 58 * 58 < 0 then
-  local ill0ll0iiOlo = "oioI0IloIlII"
-  error(ill0ll0iiOlo)
+if (71*71 + 61*61) >= 0 then
+  local IIOlio0O0Ioi = 9893
 end
-if 45 * 45 < 0 then
-  local OlIOO0iiioOo = "lliOIoiO0olo"
-  error(OlIOO0iiioOo)
+local Iiil0Oi000oI = 77130 * 26
+if 23 * 23 < 0 then
+  local iIiOiioio0l0 = "i000IO0ioOlO"
+  error(iIiOiioio0l0)
 end
-if 50 * 50 < 0 then
-  local iiIIoOooilIl = "oilIo0lOo0Il"
-  error(iiIIoOooilIl)
+if (25 * (25 + 1)) % 2 == 0 then
+  local lololii00OlI = 2670
 end
-if (30*30 + 7*7) >= 0 then
-  local o00lio0llliI = 5921
+if (26*26 + 68*68) >= 0 then
+  local o0olIIlIlOoo = 7099
 end
-if 21 * 21 < 0 then
-  local I0l0Oi00Ollo = "lioi0l0oi000"
-  error(I0l0Oi00Ollo)
+if 61 * 61 < 0 then
+  local llOlIlo0OIio = "OOilIlIloilI"
+  error(llOlIlo0OIio)
 end
-if (23*23 + 58*58) >= 0 then
-  local o0loooiOI0O0 = 5235
+if 31 * 31 < 0 then
+  local IoOl0Ol0lliO = "o00I0lo00oIO"
+  error(IoOl0Ol0lliO)
 end
-if 58 * 58 < 0 then
-  local ililIiiIo0ll = "O0oilIiilIIO"
-  error(ililIiiIo0ll)
+local function Oo0looio0Ill(iiil0ll0oOlI)
+  local iIlOiI0oIoII = 0
+  for _i = 1, 5 do iIlOiI0oIoII = iIlOiI0oIoII + (_i * (iiil0ll0oOlI or 1)) end
+  return iIlOiI0oIoII
 end
-if 37 * 37 < 0 then
-  local llo0IlOllOl0 = "ioiiIi0o00Oo"
-  error(llo0IlOllOl0)
+local iiil0ll0oOlI = Oo0looio0Ill(12)
+local function oli0oIoOiiO0(oOllloiollOO)
+  local oi0olool0IOo = 0
+  for _i = 1, 15 do oi0olool0IOo = oi0olool0IOo + (_i * (oOllloiollOO or 1)) end
+  return oi0olool0IOo
 end
-if 12 * 12 < 0 then
-  local ioIiOoiooO0i = "oIIl0IolOOl0"
-  error(ioIiOoiooO0i)
+local oOllloiollOO = oli0oIoOiiO0(19)
+local Olo00IIOil0i = 40347 * 2
+local IOlIOOOlliIO = 63037 * 41
+local OOl0IO0liiO0 = 89665 * 4
+local iIooOl00oO0I = 62608 * 38
+if (69 + 94) == 163 then
+  local iiOlIOlIloIi = 9151
 end
-local lOIOOI0oIOil = 85216 * 69
-if (69*69 + 11*11) >= 0 then
-  local oOoiI000O0o0 = 2407
+local function I00Ii0oii0ll(o0l0OliioOoI)
+  local llili0iIo0II = 0
+  for _i = 1, 14 do llili0iIo0II = llili0iIo0II + (_i * (o0l0OliioOoI or 1)) end
+  return llili0iIo0II
 end
-local ioI0olOiOilO = 12003 * 41
-if (34*34 + 3*3) >= 0 then
-  local ioio0oOilIil = 8385
+local o0l0OliioOoI = I00Ii0oii0ll(19)
+if 54 * 54 < 0 then
+  local olIlIOioIill = "o0oOOiIOOIii"
+  error(olIlIOioIill)
 end
-if 25 * 25 < 0 then
-  local IoIOIIli0lol = "IllilOllli0i"
-  error(IoIOIIli0lol)
+if (9*9 + 79*79) >= 0 then
+  local olIl00Ioo0oi = 2893
 end
-local IIO0oOiioool = 71847 * 43
-local function iil0OlO0Iolo(oOI0oiOOiIoO)
-  local o0iO00OIl0Io = 0
-  for _i = 1, 18 do o0iO00OIl0Io = o0iO00OIl0Io + (_i * (oOI0oiOOiIoO or 1)) end
-  return o0iO00OIl0Io
+local iOlO0loloiii = 11617 * 65
+if (6 * (6 + 1)) % 2 == 0 then
+  local lOOIOol00iii = 1160
 end
-local oOI0oiOOiIoO = iil0OlO0Iolo(8)
-if (55*55 + 18*18) >= 0 then
-  local iOiIIIi0Ilol = 7138
+local Iilli0OO0IO0 = 8784 * 41
+if 82 * 82 < 0 then
+  local IloIiIIII0lO = "OoI0olilIlI0"
+  error(IloIiIIII0lO)
 end
-local ioIlo0IOO0ll = 14727 * 65
-local function i0OoIIi0OiI0(lO0II00oliio)
-  local li0IlOioiIiI = 0
-  for _i = 1, 20 do li0IlOioiIiI = li0IlOioiIiI + (_i * (lO0II00oliio or 1)) end
-  return li0IlOioiIiI
+local function IlOoIilo0iIi(iO0oOlo0OIoi)
+  local Oli000oIlOl0 = 0
+  for _i = 1, 20 do Oli000oIlOl0 = Oli000oIlOl0 + (_i * (iO0oOlo0OIoi or 1)) end
+  return Oli000oIlOl0
 end
-local lO0II00oliio = i0OoIIi0OiI0(48)
-local function OI0000000olI(IooiO0IIiO0i)
-  local oOo0iOoolIil = 0
-  for _i = 1, 15 do oOo0iOoolIil = oOo0iOoolIil + (_i * (IooiO0IIiO0i or 1)) end
-  return oOo0iOoolIil
+local iO0oOlo0OIoi = IlOoIilo0iIi(21)
+local iOIOIoioiol0 = 11256 * 69
+if 33 * 33 < 0 then
+  local ooloi0lIIOi0 = "l0loloolOlOl"
+  error(ooloi0lIIOi0)
 end
-local IooiO0IIiO0i = OI0000000olI(44)
-local IiiOl0il0OOO = 8528 * 72
-local function Il0iOOlloOOO(o0OOIliOIIoo)
-  local lOlOiOIIOl0O = 0
-  for _i = 1, 5 do lOlOiOIIOl0O = lOlOiOIIOl0O + (_i * (o0OOIliOIIoo or 1)) end
-  return lOlOiOIIOl0O
+local function iioIolilOliI(IOOilliilIlO)
+  local O0o0IIOIOlOi = 0
+  for _i = 1, 20 do O0o0IIOIOlOi = O0o0IIOIOlOi + (_i * (IOOilliilIlO or 1)) end
+  return O0o0IIOIOlOi
 end
-local o0OOIliOIIoo = Il0iOOlloOOO(46)
-local function ooOOIIIIIlI0(ilioOOl00io0)
-  local IlIiOiiloiil = 0
-  for _i = 1, 14 do IlIiOiiloiil = IlIiOiiloiil + (_i * (ilioOOl00io0 or 1)) end
-  return IlIiOiiloiil
+local IOOilliilIlO = iioIolilOliI(40)
+local IiIIooIOiIoo = 47569 * 85
+local function lolOOO0iliio(I0OoIOOii0ol)
+  local O0Oi0llIOOi0 = 0
+  for _i = 1, 14 do O0Oi0llIOOi0 = O0Oi0llIOOi0 + (_i * (I0OoIOOii0ol or 1)) end
+  return O0Oi0llIOOi0
 end
-local ilioOOl00io0 = ooOOIIIIIlI0(36)
-if (9 * (9 + 1)) % 2 == 0 then
-  local IIIo0Ii0OOlO = 1830
+local I0OoIOOii0ol = lolOOO0iliio(45)
+local function iOIliOlll0ll(o0liIllOiIIi)
+  local iIIolio0ilO0 = 0
+  for _i = 1, 7 do iIIolio0ilO0 = iIIolio0ilO0 + (_i * (o0liIllOiIIi or 1)) end
+  return iIIolio0ilO0
 end
-if 88 * 88 < 0 then
-  local IoIliliiliIo = "oo0o0OO0I0ol"
-  error(IoIliliiliIo)
+local o0liIllOiIIi = iOIliOlll0ll(49)
+if (91*91 + 97*97) >= 0 then
+  local oI0oIooiIiil = 1383
 end
-if (9 + 69) == 78 then
-  local oI0I0OOiiIoI = 3408
+local l0O0OOoIoolI = 17919 * 21
+local function lIlOollo0I0o(O0lIOilOO00i)
+  local o0oOlO0IilIl = 0
+  for _i = 1, 8 do o0oOlO0IilIl = o0oOlO0IilIl + (_i * (O0lIOilOO00i or 1)) end
+  return o0oOlO0IilIl
 end
-local OOioIOollOll = 57762 * 28
-local function lli0000ilOlo(OIIoOilIoI0O)
-  local OIi00olOOiiO = 0
-  for _i = 1, 8 do OIi00olOOiiO = OIi00olOOiiO + (_i * (OIIoOilIoI0O or 1)) end
-  return OIi00olOOiiO
+local O0lIOilOO00i = lIlOollo0I0o(46)
+local IliIlolOiiil = 43277 * 30
+local liOOOIIOOlio = 74223 * 10
+local function iII0OOOOll0O(iilOOlOl00io)
+  local oOii0iOo0I0O = 0
+  for _i = 1, 7 do oOii0iOo0I0O = oOii0iOo0I0O + (_i * (iilOOlOl00io or 1)) end
+  return oOii0iOo0I0O
 end
-local OIIoOilIoI0O = lli0000ilOlo(37)
-local function lli0ioI0o0il(lIlOiioiIiIl)
-  local ilolO0Ilo0IO = 0
-  for _i = 1, 7 do ilolO0Ilo0IO = ilolO0Ilo0IO + (_i * (lIlOiioiIiIl or 1)) end
-  return ilolO0Ilo0IO
+local iilOOlOl00io = iII0OOOOll0O(34)
+if 69 * 69 < 0 then
+  local OOIi0IlI0iO0 = "OiiloilIioOI"
+  error(OOIi0IlI0iO0)
 end
-local lIlOiioiIiIl = lli0ioI0o0il(17)
-local function OIi0liooi0Oo(ooOllooIioll)
-  local OiIilo0Il0oo = 0
-  for _i = 1, 8 do OiIilo0Il0oo = OiIilo0Il0oo + (_i * (ooOllooIioll or 1)) end
-  return OiIilo0Il0oo
+if (34 + 5) == 39 then
+  local i0IIiIOIlllI = 8097
 end
-local ooOllooIioll = OIi0liooi0Oo(31)
-if (15 * (15 + 1)) % 2 == 0 then
-  local o0IOoIoOl00I = 736
-end
-local o00oiIlooiiI = 30407 * 7
-local function lI0OIiO0OlO0(lOlol0OiolO0)
-  local lIlIioIl0o0O = 0
-  for _i = 1, 13 do lIlIioIl0o0O = lIlIioIl0o0O + (_i * (lOlol0OiolO0 or 1)) end
-  return lIlIioIl0o0O
-end
-local lOlol0OiolO0 = lI0OIiO0OlO0(28)
-local function OOoloIOIiolO(llOliiOii0Oi)
-  local iOoOOolOooio = 0
-  for _i = 1, 9 do iOoOOolOooio = iOoOOolOooio + (_i * (llOliiOii0Oi or 1)) end
-  return iOoOOolOooio
-end
-local llOliiOii0Oi = OOoloIOIiolO(4)
 
-local oOllIIlOOlli = 99
-local O00l0OllOoio = 14
-local function oililIl0lli0(d)
+local OIlOIOiIiOIi = 95
+local lOolliO0oIli = 7
+local function IO0ooOoo0iOo(d)
     local b = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
     d = d:gsub('%s','')
     local r = {}
@@ -192,447 +180,468 @@ local function oililIl0lli0(d)
             else t = t*64 + (b:find(c,1,true)-1) end
         end
         for j = 2, 0, -1 do
-            if j*8 < 24 - pad*8 then
+            if j >= pad then
                 r[#r+1] = string.char(bit32.band(bit32.rshift(t, j*8), 0xFF))
             end
         end
     end
     return table.concat(r)
 end
-local function o000llolllOo(s)
-    local raw = oililIl0lli0(s)
+local function I0OOIi0lIli0(s)
+    local raw = IO0ooOoo0iOo(s)
     local n = #raw
     local r = {}
     for i = 1, n do
         local byte = string.byte(raw,i)
-        r[i] = (byte - ((i-1)*O00l0OllOoio) % 256 + 256) % 256
+        r[i] = (byte - ((i-1)*lOolliO0oIli) % 256 + 256) % 256
     end
     local rev = {}
     for i = 1, n do rev[i] = r[n - i + 1] end
     local out = {}
     for i = 1, n do
-        out[i] = string.char(bit32.bxor(rev[i], oOllIIlOOlli))
+        out[i] = string.char(bit32.bxor(rev[i], OIlOIOiIiOIi))
     end
     return table.concat(out)
 end
 
-local iI0llIo0ollI = {
-  [1] = o000llolllOo("FxorXXtU".."YGl9gL0="),
-  [2] = o000llolllOo("D".."x".."0".."+"),
-  [3] = o000llolllOo("EB8".."iRD".."pVh".."w=="),
-  [4] = o000llolllOo("BhIeO0Rd".."hGl2lY6a".."ssXX2BE="),
-  [5] = o000llolllOo("EBQrQD".."9Sgml2".."j46l2A".."=="),
-  [6] = o000llolllOo("BBsmMklS".."aHl2qw=="),
-  [7] = o000llolllOo("Bg4mP0".."lMhG98".."iKOars".."XT3gA="),
-  [8] = o000llolllOo("Bg4m".."P0lM".."hG92".."hKDR"),
-  [9] = o000llolllOo("AiU".."eUT".."9MW".."pI="),
-  [10] = o000llolllOo("ECUvOERXh3yH".."iJqkw8LVBffu".."AhknMlRIV2iX"),
-  [11] = o000llolllOo("Bg4mP0lMhH".."mDjJir29Db".."3O74FxYpWQ".."=="),
-  [12] = o000llolllOo("FyEqNkl5bn".."l6jJa1tMf3"),
-  [13] = o000llolllOo("Dx".."Qj".."Nm".."Y="),
-  [14] = o000llolllOo("Fx8eXU".."9SYJN3".."iJinqs".."Ta/Q=="),
-  [15] = o000llolllOo("BxgoNz".."pUao0="),
-  [16] = o000llolllOo("GiUm".."KkRV".."WpeK".."hZi7"),
-  [17] = o000llolllOo("Fx".."8e".."XQ".."=="),
-  [18] = o000llolllOo("FhQm".."O08="),
-  [19] = o000llolllOo("FxsiO".."ENGVn".."mHoA=".."="),
-  [20] = o000llolllOo("DRomQUJWYJ".."V9gpapyg=="),
-  [21] = o000llolllOo("Bz".."gz".."Nk".."d5"),
-  [22] = o000llolllOo("Fx".."or".."XQ".."=="),
-  [23] = o000llolllOo("DxAy".."OkJ7"),
-  [24] = o000llolllOo("Fx8eXT".."5TYJt9".."hJOrqt".."o="),
-  [25] = o000llolllOo("Fx8eXT".."5WVoM="),
-  [26] = o000llolllOo("Wmgp".."Pz9G".."amh6".."iQ=="),
-  [27] = o000llolllOo("TfL0rEeJZyJIAJf".."drMObcuv2Pxfm/7".."ZNXaF2eGAYd1fE2".."x/3waZLZYlVUWSM"),
-  [28] = o000llolllOo("Q2cm7N1RVKV6fGQc".."e1vI3yP82OOaMDyF".."Xi0MkcusaItCwIMt".."D9LtpFGBpXFtgKg="),
-  [29] = o000llolllOo("ER".."Qd".."OE".."5T"),
-  [30] = o000llolllOo("Q2cjVElMZ".."JizmFJzKs".."HbFe69nEF".."bf0tHWoI="),
-  [31] = o000llolllOo("RFEm7N1RVKV6fG".."Qce1vI3yMIwuOa".."MUuFXi0MkcuasY".."lg2QQtUR0ZLFQ="),
-  [32] = o000llolllOo("TV".."I="),
-  [33] = o000llolllOo("Q2coNTiJW4yBhJzQ69CK".."q2L5E00m9dRZkz5E/JOt".."57bNpXz1IEltOTVIcA=="),
-  [34] = o000llolllOo("Tf70rCrtl257hs+ma1bZ".."FfO81YwYaU5YYXWvWmAY".."r8kD0unBmBE8ZYlVUWSM"),
-  [35] = o000llolllOo("EC".."Ui".."XQ".."=="),
-  [36] = o000llolllOo("EB8iO".."UBTXn".."ODrg=".."="),
-  [37] = o000llolllOo("EBse".."SjxT".."XnN2".."lY7O"),
-  [38] = o000llolllOo("EBwoNk".."lRZHie"),
-  [39] = o000llolllOo("EBQq".."NkVq"),
-  [40] = o000llolllOo("EBs".."oNj".."hGV".."pM="),
-  [41] = o000llolllOo("EBQz".."LElm"),
-  [42] = o000llolllOo("EBY".."cLG".."tNW".."mig"),
-  [43] = o000llolllOo("EB0".."iPk".."RXi".."w=="),
-  [44] = o000llolllOo("EC".."Eo".."O2".."s="),
-  [45] = o000llolllOo("EB".."Ui".."MG".."g="),
-  [46] = o000llolllOo("ECUmQElrW2".."iHjpKvubjv"),
-  [47] = o000llolllOo("ECUoXV".."JdZ3CW"),
-  [48] = o000llolllOo("Bh".."0d".."LE".."8="),
-  [49] = o000llolllOo("TRjqArpKl0JIAH5B".."68KHcu0xCtTxqD9V".."k3U6Uwqr54Jgzh/u".."Bd20LViBpXFtgKg="),
-  [50] = o000llolllOo("TVtpNAYe1mazlFBzKqhrFfe61Yw5aYFQGjfuhZvZu4".."CZUPEtAsjtpDxNj2GuuZ5YeTDH4Rv0w6JHYYVRTWCI"),
-  [51] = o000llolllOo("Q9b0rE+JWG9E".."Vw6x63lk6BI="),
-  [52] = o000llolllOo("Sg8yV".."XtMWG".."9yj7j".."l6w=="),
-  [53] = o000llolllOo("TRzmA7pRZ6WH".."TGUcvfnLGCz1".."Qk0i9AzEVKEs".."Gns95wvX0+YO"),
-  [54] = o000llolllOo("Q2cmH".."hDIg6".."XJlZG".."kzA=="),
-  [55] = o000llolllOo("TR5ibUUiLeRiJc+oco9G3fMxE9jxqEmFV6SvhF".."ZuJrYDjnzdn0lWOfYXznGrg0cyrNn/I+/r/iY="),
-  [56] = o000llolllOo("E".."x".."B".."K"),
-  [57] = o000llolllOo("EBsoNE9IVG6fj".."5Kvubz03/TwDz".."ogJjZ1V2Ryqg=".."="),
-  [58] = o000llolllOo("CA4".."eXT".."9MW".."pI="),
-  [59] = o000llolllOo("BxQiWkxS".."VW96gL0="),
-  [60] = o000llolllOo("BxQi".."Wj9V".."YIY="),
-  [61] = o000llolllOo("FBo".."dN0".."JIh".."Q=="),
-  [62] = o000llolllOo("Bx".."0o".."Tg".."=="),
-  [63] = o000llolllOo("Fx8e".."XU9W".."WneB".."gLc="),
-  [64] = o000llolllOo("FyEqN".."kl5Y2".."R2lbw".."="),
-  [65] = o000llolllOo("Dx".."Ai".."QU".."g="),
-  [66] = o000llolllOo("Fxkg".."NGU="),
-  [67] = o000llolllOo("ECUp".."LEd5"),
-  [68] = o000llolllOo("EC".."Um".."QE".."lr"),
-  [69] = o000llolllOo("Bzgz".."NE5X".."eQ=="),
-  [70] = o000llolllOo("Bzg".."zNz".."pVh".."w=="),
-  [71] = o000llolllOo("Bz".."gt".."ME".."h8"),
-  [72] = o000llolllOo("WRUiOUJIWa".."V/gJKx2A=="),
-  [73] = o000llolllOo("BiQrLG".."1VYG6R"),
-  [74] = o000llolllOo("FyEqN".."kl5a3".."J2k52".."c0w=="),
-  [75] = o000llolllOo("BhweV09X".."VpV2j5i6"),
-  [76] = o000llolllOo("Bhw".."eVz".."9MW".."pI="),
-  [77] = o000llolllOo("DRom".."QTpd".."apA="),
-  [78] = o000llolllOo("FyEq".."Nkl5".."W2h2".."rg=="),
-  [79] = o000llolllOo("BxQiW".."k9GWn".."F/iqw".."="),
-  [80] = o000llolllOo("FyEqN".."kl5XG".."JysZO".."gruY="),
-  [81] = o000llolllOo("Bx".."Qi".."Og".."=="),
-  [82] = o000llolllOo("EyQk".."KkJZ"),
-  [83] = o000llolllOo("ExonWj".."9MWpI="),
-  [84] = o000llolllOo("AiUe".."UT9M".."ZWR7".."rg=="),
-  [85] = o000llolllOo("EBQ".."vRG".."9dW".."pU="),
-  [86] = o000llolllOo("DRo".."oKj".."hIh".."Q=="),
-  [87] = o000llolllOo("Gh".."Qk".."N0".."R0"),
-  [88] = o000llolllOo("DRgd".."Nmk="),
-  [89] = o000llolllOo("BB".."ot".."Tw".."=="),
-  [90] = o000llolllOo("Gh".."sp".."QF".."k="),
-  [91] = o000llolllOo("ERQi".."UQ=="),
-  [92] = o000llolllOo("Dy".."JI"),
-  [93] = o000llolllOo("Bh".."Q9"),
-  [94] = o000llolllOo("DR8oKk".."JTig=="),
-  [95] = o000llolllOo("DRogL".."Eltl2".."pwgJu".."7"),
-  [96] = o000llolllOo("FxsiP".."UlMhK".."V2frY".."="),
-  [97] = o000llolllOo("Gh0hN0RKVnOX".."wZmgr8XQ9g=="),
-  [98] = o000llolllOo("DRA8bTx".."TXnN2lY".."7O68PQ4".."O76HA=="),
-  [99] = o000llolllOo("ERQrMkVQZXWg".."wZmmtsTQ8g=="),
-  [100] = o000llolllOo("DR".."Im".."Wg".."=="),
-  [101] = o000llolllOo("ERQrMk".."VQZXWg".."wZmmts".."TQ0u0k"),
-  [102] = o000llolllOo("Dx".."Qw".."Nk".."l9"),
-  [103] = o000llolllOo("ERQrMk".."VQZXWg".."wZKrqu".."c="),
-  [104] = o000llolllOo("DhooO0NWap".."CzkZqw0Q=="),
-  [105] = o000llolllOo("DhooO0".."NWapCz".."hZKgu+".."Y="),
-  [106] = o000llolllOo("DR8i".."QUVI".."gw=="),
-  [107] = o000llolllOo("DhooO0NWap".."CzhpmkucH0"),
-  [108] = o000llolllOo("DhooO0".."NWapCz".."hKWkuM".."fK5fYe"),
-  [109] = o000llolllOo("Bh".."wo".."N1".."w="),
-  [110] = o000llolllOo("Fxp".."PbT".."hQZ".."GSR"),
-  [111] = o000llolllOo("ERQrMkV".."QZXWgwa".."arqr3R2".."OT0Kw=="),
-  [112] = o000llolllOo("DhooO0NWap".."CzmKOkt8XO".."0+r+Bh8lUA".."=="),
-  [113] = o000llolllOo("ERQzO".."0RZWn".."F2tQ=".."="),
-  [114] = o000llolllOo("FBotOzpH".."Y2h2icA="),
-  [115] = o000llolllOo("DRA8bTxT".."XnN2lY7O".."68fK5fYe"),
-  [116] = o000llolllOo("ERQrMkVQZX".."WgwZ2gu8z0"),
-  [117] = o000llolllOo("Dx".."oo".."YQ".."=="),
-  [118] = o000llolllOo("DxQx".."NkN2"),
-  [119] = o000llolllOo("CA4ePU".."BGVoM="),
-  [120] = o000llolllOo("DRoq".."OERm"),
-  [121] = o000llolllOo("Dxoo".."YT9M".."WpI="),
-  [122] = o000llolllOo("AhQ".."tTE".."9TV".."nGj"),
-  [123] = o000llolllOo("ERQ2LEd5".."l3N2hZnQ"),
-  [124] = o000llolllOo("AiUeUUVS".."XnlylaLI"),
-  [125] = o000llolllOo("FyEmO".."zh2Wn".."GGhZj".."I"),
-  [126] = o000llolllOo("ABg".."tQT".."hMY".."4g="),
-  [127] = o000llolllOo("DR".."Q1".."Nk".."lr"),
-  [128] = o000llolllOo("Fxgr".."MURS".."Y4M="),
-  [129] = o000llolllOo("BxQ".."pND".."pRd".."A=="),
-  [130] = o000llolllOo("CA4yO09W".."ZWSHrg=="),
-  [131] = o000llolllOo("AiQrd0VQVnC8hY6mt8PY3uc6ExoePTZRn".."G5yioqcs7jRGvP3/hwjR3xOY21yh4Si7r".."XG3trtQBAcHnk7XmF7fITa6API2ev5+w=".."="),
-  [132] = o000llolllOo("AiQrd0lMWGR9gLqgvbj0HvD7CBEfSIBTVnV8f".."Jbiu7/G5OsPRBYrNTpPTGq2fY6morUI2OTmQR".."kdJENHVFZ1eJCkncDD3d7mPRIOK3SCnWJzhZO".."V"),
-  [133] = o000llolllOo("AiQrd0lMWGR9gLqgqLjJ4+YFCTRkNkFOV2WOxpmc".."u8LC3CgBBQwqMVWKXHF7gJWSsPzD1Ozo+04eKiyH".."X2NqiY2anLu+1urjBgkjJCyDWFRxusjjqLnL2ds="),
-  [134] = o000llolllOo("ASRH".."bT5K".."YWSB".."qg=="),
-  [135] = o000llolllOo("FxwvbVOJZ2yF".."upCrtPne0w=="),
-  [136] = o000llolllOo("CB".."8e".."UQ".."=="),
-  [137] = o000llolllOo("Dh".."8e".."Tw".."=="),
-  [138] = o000llolllOo("BR".."Ai".."OQ".."=="),
-  [139] = o000llolllOo("Ex".."on".."Wg".."=="),
-  [140] = o000llolllOo("Fx8eK".."oZKYW".."yDkZi".."luA=="),
-  [141] = o000llolllOo("F".."x".."R".."P"),
-  [142] = o000llolllOo("ER".."Az".."Og".."=="),
-  [143] = o000llolllOo("Dx".."Qx".."Nk".."NW"),
-  [144] = o000llolllOo("BB".."gh".."N0".."Rm"),
-  [145] = o000llolllOo("EBIpNE".."9dWnI="),
-  [146] = o000llolllOo("FxMm".."Tg=="),
-  [147] = o000llolllOo("Fx".."Mm".."Lg".."=="),
-  [148] = o000llolllOo("TA8y".."VT5K".."YWSB".."qg=="),
-  [149] = o000llolllOo("Bg4mP".."0lMhG".."+Grw=".."="),
-  [150] = o000llolllOo("CiR".."AME".."lSd".."A=="),
-  [151] = o000llolllOo("Bg4mP0lMhHmG".."kZnEubzUCA=="),
-  [152] = o000llolllOo("DSU9N0".."J0VXib".."hJCnqs".."fw"),
-  [153] = o000llolllOo("W19wf4yhrr".."3DzuD1AggW".."HixHAxQvLE".."RSUnltiw=="),
-  [154] = o000llolllOo("CiR".."ANz".."5MZ".."WKg"),
-  [155] = o000llolllOo("Bh".."we".."O1".."0="),
-  [156] = o000llolllOo("ERQp".."O0Rm".."fpg="),
-  [157] = o000llolllOo("DRoz".."QU5n".."a312".."tQ=="),
-  [158] = o000llolllOo("DxQdL".."GdMWG".."R+qA=".."="),
-  [159] = o000llolllOo("CiRA".."RURV".."VW6h"),
-  [160] = o000llolllOo("ES".."Qr".."Sw".."=="),
-  [161] = o000llolllOo("DRge".."WA=="),
-  [162] = o000llolllOo("ERQzOUJra3".."J2k52c0w=="),
-  [163] = o000llolllOo("Gs+8Sn".."tQFgKB".."tc+nlo".."5G3QA="),
-  [164] = o000llolllOo("GiUmO".."zp3a3".."J2k52".."c0w=="),
-  [165] = o000llolllOo("Dur1rEJxl".."1xIAH9B68".."OyqmL5HA=".."="),
-  [166] = o000llolllOo("DRoq".."OERG".."YZg="),
-  [167] = o000llolllOo("Bh".."8e".."Ww".."=="),
-  [168] = o000llolllOo("ABgv".."UA=="),
-  [169] = o000llolllOo("Gh8e".."MUVM".."WGif"),
-  [170] = o000llolllOo("ABgn".."QVJ0"),
-  [171] = o000llolllOo("ER".."Qv".."QG".."g="),
-  [172] = o000llolllOo("Fx".."Qt".."Kj".."52"),
-  [173] = o000llolllOo("EBsoNE".."9Ia3ie".."lZygvc".."fG/ewb"),
-  [174] = o000llolllOo("DRomQTpdapC".."zmE06yPnOlI".."D/M00i6NRtk".."2J5USihzA=="),
-  [175] = o000llolllOo("Bh0gLkR9WnKG".."gL+xuLzZ4+IZ"),
-  [176] = o000llolllOo("DfL0rEJulzRIALzd".."eFbkFer5JE0y59Ri".."k2guGpnN57yCbgct".."/BPc+rJlj2gqTwbJ"),
-  [177] = o000llolllOo("ECUpME1sWnKG".."gL+xuLzZ4+IZ"),
-  [178] = o000llolllOo("DfL0rEJulzRI".."ALzdtaScVOsO"),
-  [179] = o000llolllOo("Dte8".."Hd8="),
-  [180] = o000llolllOo("FtC8WHtK".."YUIXj8M="),
-  [181] = o000llolllOo("BBvfym2J".."WG9QJZ3R"),
-  [182] = o000llolllOo("FtG8WH".."ual2Z9".."XjOr3w".."=="),
-  [183] = o000llolllOo("Au".."HB".."WA".."=="),
-  [184] = o000llolllOo("F+r".."1rF".."Jci".."w=="),
-  [185] = o000llolllOo("F9i8W".."ntUGj".."vyrg=".."="),
-  [186] = o000llolllOo("Bh0gL".."kR9a3".."J2k52".."c0w=="),
-  [187] = o000llolllOo("Gs+8SntQFgKBt".."c+kalbvFeT79u".."KaGduFIjbusQ=".."="),
-  [188] = o000llolllOo("Bh0gL".."kR9Y3".."F2rg=".."="),
-  [189] = o000llolllOo("Gs+8SntQFgKB".."tc+UgDjlFe2x".."nBZPaUEE8H8="),
-  [190] = o000llolllOo("BBsOArpQeKWH".."QGUc0/nQ2OoS"),
-  [191] = o000llolllOo("Bh0gL".."kR9a2".."9yjb+".."mv8zm"),
-  [192] = o000llolllOo("BBsOArpQeKWHQG".."Uc0/nQ2OoSPw4l".."IAzEQwWvTGAY2w".."=="),
-  [193] = o000llolllOo("BhUo".."WE9T".."VnGj"),
-  [194] = o000llolllOo("BBsOArpQeKW".."HQGUc0/nQ2O".."oSPxUY6NRik".."2taUgqhxA=="),
-  [195] = o000llolllOo("zq4tYXsuLOSl".."wZqmr8PGAw=="),
-  [196] = o000llolllOo("F9z1rG2".."JYSMQib".."ndsq6cV".."LOTIw=="),
-  [197] = o000llolllOo("BxQiWntdVGh/jZ".."i66/sH4eL0Ezo="),
-  [198] = o000llolllOo("Bh0gLkR9".."W2h2rpSa".."sunQ6fYQ"),
-  [199] = o000llolllOo("Sltpd0xSVW96gL3d973T3gQ5PxEeLG".."SFZzJF/JPD57bNyLRs661X9AjAgw=="),
-  [200] = o000llolllOo("Bh0gLk".."R9Y2R2".."lbymv8".."zm"),
-  [201] = o000llolllOo("Gs+8SntQFgK".."Btc+toI5GpY".."UOPw4lIAzEQ".."wWvTGAY2w=="),
-  [202] = o000llolllOo("BxQi".."WlJc".."dW6H".."lK4="),
-  [203] = o000llolllOo("BBsOArpQe".."KWHQGUc0/".."nRwLhwByo".."="),
-  [204] = o000llolllOo("Bh0gLkR9bn".."iRiqOwyg=="),
-  [205] = o000llolllOo("BBsOArpQeK".."WHQGUc0/nG".."6A4xABcS/r".."Y196E+UgrN"),
-  [206] = o000llolllOo("ERAi".."TlJc".."dW6H".."lK4="),
-  [207] = o000llolllOo("ERAi".."TntT".."Qjry".."iaw="),
-  [208] = o000llolllOo("Bh0gLkR9".."ZWR2oqaw".."ycLb6AI="),
-  [209] = o000llolllOo("ERAiTnt".."IapCzgp".."mUgDi3e".."SPA1IxP"),
-  [210] = o000llolllOo("Bh0gLkR9Z2".."57rpmgu+I="),
-  [211] = o000llolllOo("Exon".."WntT".."WnWc"),
-  [212] = o000llolllOo("FxRPRE5n".."YHmGoA=="),
-  [213] = o000llolllOo("BBvvz1iJ".."LQJ7tc+n".."lo5G3QA="),
-  [214] = o000llolllOo("Bh0gLk".."R9a2ij".."mKK7tM".."3a9A=="),
-  [215] = o000llolllOo("BBvvz1iJLQJ7".."tc+cvuQH1u3o".."1IwLzXcUKOCj"),
-  [216] = o000llolllOo("GiUmO".."zp3Y2".."iFipf".."K"),
-  [217] = o000llolllOo("Bh0gLkR9".."Y2iFipfK".."tM3a9A=="),
-  [218] = o000llolllOo("Gs+8SnsI9G".."6rwZCnoo5G".."xYcxzuKaXQ".."=="),
-  [219] = o000llolllOo("Bh".."Ye".."Tw".."=="),
-  [220] = o000llolllOo("ECUvNE".."lGhHN2".."mI6p2w".."=="),
-  [221] = o000llolllOo("EB8iOUdS".."ZXl9iqw="),
-  [222] = o000llolllOo("ERQrOURX".."a298np2g".."s83G2BQ="),
-  [223] = o000llolllOo("BxsyNj2Ja259wZ2gt8XQ4/f7CCop".."LD9ZUmSgveGnqr3X0OIe/g4WRw=="),
-  [224] = o000llolllOo("Bh".."so".."Vw".."=="),
-  [225] = o000llolllOo("Bh0gLkR9".."ZWh7lY6g".."3LzM1AU="),
-  [226] = o000llolllOo("wOeeNFy".."Jaz5JAJ".."bR68DCq".."mL5Mw=="),
-  [227] = o000llolllOo("BiE2YUlMX3".."lyhMCgsLjp"),
-  [228] = o000llolllOo("F+r1rEJ9l".."2xuVg6l3/".."nRwLhwByo".."="),
-  [229] = o000llolllOo("w64yX".."HtKYT".."ZJAMM".."="),
-  [230] = o000llolllOo("TVtpOzpMe".."LF3hJLK67".."rRprlwMw=".."="),
-  [231] = o000llolllOo("F+r1rEJ9l2xuVg6l3/".."nRlID677Fb+AzEdw=="),
-  [232] = o000llolllOo("AiUeU".."T5VVH".."yQhJq".."k3w=="),
-  [233] = o000llolllOo("Bh4e".."NWtM".."aWyH".."fq4="),
-  [234] = o000llolllOo("DRomQTpXao".."l2jo6l2w=="),
-  [235] = o000llolllOo("BBsmN0".."JIYmih".."hJycs+".."k="),
-  [236] = o000llolllOo("BhwmY".."U9XVn".."mghJy".."cs+k="),
-  [237] = o000llolllOo("BxsyNj2Ja259wY6xq".."t3K4eAIHBAmMGuFqX".."VshI+cteXR1OcB+gx".."I"),
-  [238] = o000llolllOo("DdC8N".."ivtlz".."RIALM".."="),
-  [239] = o000llolllOo("TVtpNPgf1n".."mzgpmcm10="),
-  [240] = o000llolllOo("FxQgOzp9a".."2J6hZKr28".."fK3ffwAj4".."="),
-  [241] = o000llolllOo("DdC8NivtlzRIAL".."PdtaicVPYcPyH0".."/7ZMh6F2eGAYr+".."k="),
-  [242] = o000llolllOo("Sh5ibUUX9GK7wZzg6w/OlLlwE00lCgzEWmmvgJiY".."r+XNDR7uBQDspCLlj3EqTwaeq/Hg9/rZm0UgZA=="),
-  [243] = o000llolllOo("Sh5ibUUX9GK7wZzg6w/OlLlwE00lCgz".."EWmmvgJiYr+XNDSb6PkkaMjJJX51sg5".."Cjt/n/0Sk5OlsXb3+AoV21xcbRsqzIC".."eHGyIAWJWtNCivihJfNdn820hPuMg=="),
-  [244] = o000llolllOo("QU1fNkNGl28yHpiMT/mWqmL1Py".."Te/7ZNZ6F6SSit57bNpXz1IA=="),
-  [245] = o000llolllOo("Q".."U".."0".."="),
-  [246] = o000llolllOo("BBviArpNlyJJAJ".."ei67rRqYD5BE0a".."PTZpVm1slKicsr".."z3")
+local oIil00il0IOo = {
+  [1] = I0OOIi0lIli0("KzdB".."JJtV".."Wmxp".."fVM="),
+  [2] = I0OOIi0lIli0("M".."z".."o".."s"),
+  [3] = I0OOIi0lIli0("LDRIO1".."pWOQ=="),
+  [4] = I0OOIi0lIli0("Oj9MQk".."xONmxy".."aoSJio".."6Ro30="),
+  [5] = I0OOIi0lIli0("LEFBP1".."dTPGxy".."bISEYA".."=="),
+  [6] = I0OOIi0lIli0("ODhE".."SUlT".."Ulxy".."UA=="),
+  [7] = I0OOIi0lIli0("OkNEPkldNmJo".."dXGJjo6VmYw="),
+  [8] = I0OOIi0lIli0("OkNEPkld".."NmJyeW5Y"),
+  [9] = I0OOIi0lIli0("PjJ".."MMF".."ddZ".."D0="),
+  [10] = I0OOIi0lIli0("LDI9R0xQO".."VdjdXiDe4".."uPeJuzuLi".."/w7bb4+XN"),
+  [11] = I0OOIi0lIli0("OkNEPkldNlxncXZ6".."Y4GNn6KtpbW5og=="),
+  [12] = I0OOIi0lIli0("KzZARU".."kyUFxu".."cXx0hI".."hx"),
+  [13] = I0OOIi0lIli0("M0FJ".."RS4="),
+  [14] = I0OOIi0lIli0("KzRMJEdTWj5z".."dXZ+ko2MgA=="),
+  [15] = I0OOIi0lIli0("Oz0".."+Rl".."pVV".."Eg="),
+  [16] = I0OOIi0lIli0("JjJE".."UUxW".."ZDpe".."enZq"),
+  [17] = I0OOIi0lIli0("Kz".."RM".."JA".."=="),
+  [18] = I0OOIi0lIli0("Kk".."FE".."Qk".."c="),
+  [19] = I0OOIi0lIli0("KzhI".."R1Nf".."aFxj".."XQ=="),
+  [20] = I0OOIi0lIli0("MTdEQ".."FJPWk".."Bpd3y".."Acg=="),
+  [21] = I0OOIi0lIli0("Ox05".."RU8y"),
+  [22] = I0OOIi0lIli0("KzdB".."JA=="),
+  [23] = I0OOIi0lIli0("M0U4".."QVIs"),
+  [24] = I0OOIi0lIli0("KzRMJFZUWj".."ZpeYF6knM="),
+  [25] = I0OOIi0lIli0("KzRMJF".."ZPaE4="),
+  [26] = I0OOIi0lIli0("Zm0/".."Pldf".."VGtu".."dg=="),
+  [27] = I0OOIi0lIli0("cd/y00+iWS0c/X3".."MjIxNBaer/bZ+eF".."jY2S7sf6iJwXIYG".."G0m8Z8VkH1KX2NM"),
+  [28] = I0OOIi0lIli0("f2xEE7VaZrBuASoLQ/Samu+pXmpKyc4g".."2qJS6EP1yr6etYl0J/PvzzWei1htcVo="),
+  [29] = I0OOIi0lIli0("LUFL".."R0ZU"),
+  [30] = I0OOIi0lIli0("f2xJK0ldVju3ZUAyEp".."KN6KJqGpAL+MXa3sc="),
+  [31] = I0OOIi0lIli0("eIZEE7VaZrBuAS".."oLQ/Samu+deGpK".."ysUg2qJS6EMDA8".."R8HgJ0YS5DRzA="),
+  [32] = I0OOIi0lIli0("c".."X".."8".."="),
+  [33] = I0OOIi0lIli0("f2w+TFiiZUdleXJX04FcTi6uqQS+hj".."bMJ4uae/v2URER0oosEIJvPFFVPg=="),
+  [34] = I0OOIi0lIli0("cdPy0+q+qWFvc8V9U/eL".."6J9pY0PIEsDL1do1maiJ".."CQRfHx/gmDoekH1KX2NM"),
+  [35] = I0OOIi0lIli0("LDJI".."JA=="),
+  [36] = I0OOIi0lIli0("LDRISFBU".."YF5nSw=="),
+  [37] = I0OOIi0lIli0("LDhMMVRU".."YF5yaoRV"),
+  [38] = I0OOIi0lIli0("LDk+RU".."laVltK"),
+  [39] = I0OOIi0lIli0("LEFA".."RU07"),
+  [40] = I0OOIi0lIli0("LDg".."+RV".."hfa".."D4="),
+  [41] = I0OOIi0lIli0("LE".."E5".."U0".."k/"),
+  [42] = I0OOIi0lIli0("LDt".."KUy".."teZ".."GtE"),
+  [43] = I0OOIi0lIli0("LDpIPU".."xQNQ=="),
+  [44] = I0OOIi0lIli0("LDY+".."Qis="),
+  [45] = I0OOIi0lIli0("LEJI".."Tyg="),
+  [46] = I0OOIi0lIli0("LDJEP".."0k8ZW".."tja4B".."2gZl5"),
+  [47] = I0OOIi0lIli0("LDI".."+JE".."JOW".."WNS"),
+  [48] = I0OOIi0lIli0("OjpL".."U0c="),
+  [49] = I0OOIi0lIli0("cT0A+dpbqQ0c/RTo04thB".."aH2sHtxUdHQJ9qoooL0Uc".."V8I20tLe6mSCyei1htcVo".."="),
+  [50] = I0OOIi0lIli0("cXh/Sw4H6Gm3aT4yEin96".."JtnY0OpEgvTnpR09PNK/c".."vFpRd0MgHvz0hSpWiuumh".."DNRWVkOulbR2TDvvI3eHK"),
+  [51] = I0OOIi0lIli0("f/vy00eiYmIg".."JAR401r+k34="),
+  [52] = I0OOIi0lIli0("dkQ4L".."JtdYm".."J2bFb".."E0w=="),
+  [53] = I0OOIi0lIli0("cTkE+tpaWbBj".."MSsLfdqd4+Cy".."+ATChX5f4C6y".."WZNmUT4LICQN"),
+  [54] = I0OOIi0lIli0("f2xE3".."QDhPb".."Cdan+".."DbA=="),
+  [55] = I0OOIi0lIli0("cTOIlE0DD+8G2sV/SkAgoJ/2qXdxUcMg4yk187".."avkBFf44rEl4KIPBIE5FizbEHlgG7dypessJk="),
+  [56] = I0OOIi0lIli0("L".."0".."U".."g"),
+  [57] = I0OOIi0lIli0("LDg+S0dhZmFLb".."IB2gZVumpi1rZ".."HAz9iw4+nwyQ=".."="),
+  [58] = I0OOIi0lIli0("NENM".."JFdd".."ZD0="),
+  [59] = I0OOIi0lIli0("O0FI".."IURT".."Z2Ju".."fVM="),
+  [60] = I0OOIi0lIli0("O0FI".."IVdW".."Wkk="),
+  [61] = I0OOIi0lIli0("KDdLRl".."JhNw=="),
+  [62] = I0OOIi0lIli0("Oz".."o+".."LQ".."=="),
+  [63] = I0OOIi0lIli0("KzRMJEdP".."ZFplfV0="),
+  [64] = I0OOIi0lIli0("KzZA".."RUky".."XW9y".."alI="),
+  [65] = I0OOIi0lIli0("M0".."VI".."QE".."g="),
+  [66] = I0OOIi0lIli0("Kz5G".."Sy0="),
+  [67] = I0OOIi0lIli0("LD".."I/".."U0".."8y"),
+  [68] = I0OOIi0lIli0("LDJE".."P0k8"),
+  [69] = I0OOIi0lIli0("Ox05S0".."ZQQw=="),
+  [70] = I0OOIi0lIli0("Ox0".."5Rl".."pWO".."Q=="),
+  [71] = I0OOIi0lIli0("Ox07".."T0gt"),
+  [72] = I0OOIi0lIli0("ZUJISFJhY7".."BrfYB4YA=="),
+  [73] = I0OOIi0lIli0("OjF".."BUy".."VWW".."mFV"),
+  [74] = I0OOIi0lIli0("KzZARUkyVV".."1yaHOLaw=="),
+  [75] = I0OOIi0lIli0("OjlMJ".."kdQaE".."BybHZ".."p"),
+  [76] = I0OOIi0lIli0("OjlM".."Jldd".."ZD0="),
+  [77] = I0OOIi0lIli0("MTdEQF".."pOVEM="),
+  [78] = I0OOIi0lIli0("KzZA".."RUky".."ZWty".."Sw=="),
+  [79] = I0OOIi0lIli0("O0FIIUdf".."ZGRrb2I="),
+  [80] = I0OOIi0lIli0("KzZARU".."kyXm12".."ToGHjm".."c="),
+  [81] = I0OOIi0lIli0("O0".."FI".."QQ".."=="),
+  [82] = I0OOIi0lIli0("Lz".."FC".."UV".."JS"),
+  [83] = I0OOIi0lIli0("Lzd".."FIV".."ddZ".."D0="),
+  [84] = I0OOIi0lIli0("PjJM".."MFdd".."V29v".."Sw=="),
+  [85] = I0OOIi0lIli0("LEE9".."OydO".."ZEA="),
+  [86] = I0OOIi0lIli0("MTc".."+UV".."hhN".."w=="),
+  [87] = I0OOIi0lIli0("Jk".."FC".."Rk".."w1"),
+  [88] = I0OOIi0lIli0("MT".."1L".."RS".."k="),
+  [89] = I0OOIi0lIli0("OD".."c7".."Lg".."=="),
+  [90] = I0OOIi0lIli0("Jjg/".."Pzk="),
+  [91] = I0OOIi0lIli0("LU".."FI".."MA".."=="),
+  [92] = I0OOIi0lIli0("M".."y".."8".."e"),
+  [93] = I0OOIi0lIli0("O".."k".."E".."r"),
+  [94] = I0OOIi0lIli0("MTQ".."+UV".."JUN".."A=="),
+  [95] = I0OOIi0lIli0("MTdG".."U0k+".."qWV0".."fXlq"),
+  [96] = I0OOIi0lIli0("KzhIREld".."NrBye1w="),
+  [97] = I0OOIi0lIli0("JjpHRkxb".."aF5TvneH".."j46SgQ=="),
+  [98] = I0OOIi0lIli0("MUUqlFRUY".."F5yaoRV04".."ySm6Knmg=".."="),
+  [99] = I0OOIi0lIli0("LUFBSU".."1ZV2BE".."vnd9ho".."2ShQ=="),
+  [100] = I0OOIi0lIli0("MT".."9E".."IQ".."=="),
+  [101] = I0OOIi0lIli0("LUFBSU1Z".."V2BEvnd9".."ho2SpaGB"),
+  [102] = I0OOIi0lIli0("M0".."E2".."RU".."ku"),
+  [103] = I0OOIi0lIli0("LUFBSU1ZV2".."BEvoB6kmg="),
+  [104] = I0OOIi0lIli0("Mjc+QlNPVE".."O3bnh3aQ=="),
+  [105] = I0OOIi0lIli0("Mjc+Q".."lNPVE".."O3eoC".."Hg2c="),
+  [106] = I0OOIi0lIli0("MTRI".."QE1h".."PQ=="),
+  [107] = I0OOIi0lIli0("Mjc+QlNPVE".."O3c3eDgZJu"),
+  [108] = I0OOIi0lIli0("Mjc+Ql".."NPVEO3".."eWuDgI".."icmJqD"),
+  [109] = I0OOIi0lIli0("Oj".."k+".."Rj".."Q="),
+  [110] = I0OOIi0lIli0("KzcdlF".."hZVm9V"),
+  [111] = I0OOIi0lIli0("LUFBSU1ZV2BEvm".."x6kpaTo6ixkQ=="),
+  [112] = I0OOIi0lIli0("Mjc+QlNP".."VEO3ZXGD".."h46Ypqaj".."tK69qQ=="),
+  [113] = I0OOIi0lIli0("LUE5Q".."kxSZG".."RySg=".."="),
+  [114] = I0OOIi0lIli0("KDc7".."Qlpg".."XWty".."dk4="),
+  [115] = I0OOIi0lIli0("MUUqlFRU".."YF5yaoRV".."04icmJqD"),
+  [116] = I0OOIi0lIli0("LUFBSU1ZV2".."BEvnOHg4Vu"),
+  [117] = I0OOIi0lIli0("Mz".."c+".."IA".."=="),
+  [118] = I0OOIi0lIli0("M0E3".."RVMv"),
+  [119] = I0OOIi0lIli0("NEN".."MRF".."Bfa".."E4="),
+  [120] = I0OOIi0lIli0("MT".."dA".."R0".."w/"),
+  [121] = I0OOIi0lIli0("Mzc".."+IF".."ddZ".."D0="),
+  [122] = I0OOIi0lIli0("PkE7".."M0dU".."aGRH"),
+  [123] = I0OOIi0lIli0("LUE0U08y".."qV5yendX"),
+  [124] = I0OOIi0lIli0("PjJMME1T".."YFx2anBf"),
+  [125] = I0OOIi0lIli0("KzZEQ".."lgvZG".."RienZ".."f"),
+  [126] = I0OOIi0lIli0("PD0".."7QF".."hdX".."Us="),
+  [127] = I0OOIi0lIli0("MU".."Ez".."RU".."k8"),
+  [128] = I0OOIi0lIli0("Kz1".."BUE".."xTX".."U4="),
+  [129] = I0OOIi0lIli0("O0E".."/S1".."paR".."g=="),
+  [130] = I0OOIi0lIli0("NEM4".."QkdP".."V29j".."Sw=="),
+  [131] = I0OOIi0lIli0("PjFBhk1ZaGOoeoR9h4yKmavnq".."bHGvtjUGNvw6QIFBRMNVxkmNi".."09KohLUVxqaH51wpKUjaqu6rO".."4ywfazuLd7/g3PjoIEhUcLw=="),
+  [132] = I0OOIi0lIli0("PjFBhkldYm9pfViHfZlu2ZyorsDHsQrO4tri+/Y7/QoaESEObC81QE5M".."YlmmdnhxjpLOl5yv66y5ycHO1Off8+zxC/8TDiApaSdEOoSLh1VfYml8"),
+  [133] = I0OOIi0lIli0("PjFBhkldYm9pfViHkJmblqqir5v8v8vR4+rULfEF".."/QUeGV4gLT00RDGPUlhjcW+FfMmZm5SxtfG6v9IO".."z9zs5PH3CgIWDxQuIjYxQ0yMSmddp66qeIKFjJ8="),
+  [134] = I0OOIi0lIli0("PTEllFZb".."W29lTw=="),
+  [135] = I0OOIi0lIli0("Kzk9lEOi".."WWdhP356".."hNqIpg=="),
+  [136] = I0OOIi0lIli0("ND".."RM".."MA".."=="),
+  [137] = I0OOIi0lIli0("Mj".."RM".."Lg".."=="),
+  [138] = I0OOIi0lIli0("OU".."VI".."SA".."=="),
+  [139] = I0OOIi0lIli0("Lz".."dF".."IQ".."=="),
+  [140] = I0OOIi0lIli0("KzRMUY".."5bW2dn".."bnaEgA".."=="),
+  [141] = I0OOIi0lIli0("K".."0".."E".."d"),
+  [142] = I0OOIi0lIli0("LU".."U5".."QQ".."=="),
+  [143] = I0OOIi0lIli0("M0E3".."RVNP"),
+  [144] = I0OOIi0lIli0("OD".."1H".."Rk".."w/"),
+  [145] = I0OOIi0lIli0("LD8".."/S0".."dOZ".."F0="),
+  [146] = I0OOIi0lIli0("K0".."BE".."LQ".."=="),
+  [147] = I0OOIi0lIli0("K0".."BE".."TQ".."=="),
+  [148] = I0OOIi0lIli0("cEQ4".."LFZb".."W29l".."Tw=="),
+  [149] = I0OOIi0lIli0("OkNEP".."kldNm".."JiTA=".."="),
+  [150] = I0OOIi0lIli0("NjEmT0".."lTRg=="),
+  [151] = I0OOIi0lIli0("OkNEPkldNlxi".."bndjgZWOcw=="),
+  [152] = I0OOIi0lIli0("MTIrRlI1Z1".."tPeX5+kohy"),
+  [153] = I0OOIi0lIli0("Z3R2foSKkJ".."inq660usnQ".."2eDcubu3zc".."bN5tbz6g=="),
+  [154] = I0OOIi0lIli0("NjEm".."RlZd".."V21E"),
+  [155] = I0OOIi0lIli0("OjlM".."QjU="),
+  [156] = I0OOIi0lIli0("LUE".."/Qk".."w/Q".."Ds="),
+  [157] = I0OOIi0lIli0("MTc5QEZA".."VVhySg=="),
+  [158] = I0OOIi0lIli0("M0FLUy9d".."Ym9qVQ=="),
+  [159] = I0OOIi0lIli0("NjEm".."PExW".."Z2FF"),
+  [160] = I0OOIi0lIli0("LT".."FB".."Mg".."=="),
+  [161] = I0OOIi0lIli0("MT".."1M".."Jw".."=="),
+  [162] = I0OOIi0lIli0("LUE5SF".."I8VV1y".."aHOLaw".."=="),
+  [163] = I0OOIi0lIli0("JgSqMZ".."tZKM1l".."SsV+Jj".."8goIw="),
+  [164] = I0OOIi0lIli0("JjJEQl".."owVV1y".."aHOLaw".."=="),
+  [165] = I0OOIi0lIli0("Mufz01I".."6qfcc/R".."Xo04w0T".."S6umg=="),
+  [166] = I0OOIi0lIli0("MTd".."AR0".."xfW".."zs="),
+  [167] = I0OOIi0lIli0("OjRM".."Ig=="),
+  [168] = I0OOIi0lIli0("PD09".."Lw=="),
+  [169] = I0OOIi0lIli0("JjR".."MUE".."1dY".."mtL"),
+  [170] = I0OOIi0lIli0("PD".."1F".."QE".."I1"),
+  [171] = I0OOIi0lIli0("LU".."E9".."Py".."g="),
+  [172] = I0OOIi0lIli0("K0".."E7".."UV".."Yv"),
+  [173] = I0OOIi0lIli0("LDg+S0dhVVtK".."anKHfYiggKCI"),
+  [174] = I0OOIi0lIli0("MTdEQFpOVEO".."3ZUPpcNqYZw".."ykiQTCkTa4J".."+fnqGAC5g=="),
+  [175] = I0OOIi0lIli0("OjpGTUwu".."ZF1ifVV4".."gJWLlq6O"),
+  [176] = I0OOIi0lIli0("Md/y01I3qR8c/VLMQPd+6KaukgSykDa9".."J+W0WfHWUQ/egwV0NDT+9dY6pV8yIABU"),
+  [177] = I0OOIi0lIli0("LDI/T0U9".."ZF1ifVV4".."gJWLlq6O"),
+  [178] = I0OOIi0lIli0("Md/y01I3".."qR8c/VLM".."hS1GJ6eT"),
+  [179] = I0OOIi0lIli0("Mv".."yq".."5L".."c="),
+  [180] = I0OOIi0lIli0("KgWqJ5tb".."Ww3TbFE="),
+  [181] = I0OOIi0lIli0("ODgN".."sSWi".."YmIU".."2nNY"),
+  [182] = I0OOIi0lIli0("KgaqJ5".."uLqWlp".."G+F6Xw".."=="),
+  [183] = I0OOIi0lIli0("Pv".."an".."Jw".."=="),
+  [184] = I0OOIi0lIli0("K+fz00".."JNNQ=="),
+  [185] = I0OOIi0lIli0("K/2q".."IZtV".."JBb2".."Sw=="),
+  [186] = I0OOIi0lIli0("OjpGT".."UwuVV".."1yaHO".."Law=="),
+  [187] = I0OOIi0lIli0("JgSqMZtZKM".."1lSsWDUvd5".."6KioRGlKYj".."UglpN0yA=="),
+  [188] = I0OOIi0lIli0("OjpGTUwu".."XWRySw=="),
+  [189] = I0OOIi0lIli0("JgSqMZtZKM1l".."SsUTOBl/6KF2".."GrWXEsufRMw="),
+  [190] = I0OOIi0lIli0("ODjc+dpZQrBj".."PSsLa9qSo6aP"),
+  [191] = I0OOIi0lIli0("OjpGT".."UwuVW".."J2clV".."9f4WA"),
+  [192] = I0OOIi0lIli0("ODjc+dpZQrBjPS".."sLa9qSo6aP/b29".."WX5fd0o1q6iJ3Q".."=="),
+  [193] = I0OOIi0lIli0("OkI".."+J0".."dUa".."GRH"),
+  [194] = I0OOIi0lIli0("ODjc+dpZQrBjPS".."sLa9qSo6aP/bzI".."kTa9J+CIoYIC7g".."=="),
+  [195] = I0OOIi0lIli0("8qM7IJv3".."Du9Bvnh9".."j4ygdg=="),
+  [196] = I0OOIi0lIli0("K/nz0yWiW".."y7UdlfMih".."9GJ18QmQ=".."="),
+  [197] = I0OOIi0lIli0("O0FIIZt".."OZmtrcn".."Zp09Thn".."K6xqZE="),
+  [198] = I0OOIi0lIli0("OjpGTU".."wuZWty".."S3qJim".."qSlJqV"),
+  [199] = I0OOIi0lIli0("dnh/hkRTZ2JufVPMx5aVmYju/cDGza".."Yg05ebe/vcURERrdKzy56J//zdMQ=="),
+  [200] = I0OOIi0lIli0("OjpGTUwuXW".."9yalJ9f4WA"),
+  [201] = I0OOIi0lIli0("JgSqMZtZKM1".."lSsV8GD8gWA".."mT/b29WX5fd".."0o1q6iJ3Q=="),
+  [202] = I0OOIi0lIli0("O0FI".."IUJN".."R2Fj".."aWQ="),
+  [203] = I0OOIi0lIli0("ODjc+dpZQrBjPS".."sLa9qTO1Q1taE="),
+  [204] = I0OOIi0lIli0("OjpGTUwuUF".."tVb3F3cg=="),
+  [205] = I0OOIi0lIli0("ODjc+dpZQr".."BjPSsLa9qg".."k4L2trZSd1".."hwQy6koYLW"),
+  [206] = I0OOIi0lIli0("LUVI".."LUJN".."R2Fj".."aWQ="),
+  [207] = I0OOIi0lIli0("LUVI".."LZtU".."/BX2".."dmI="),
+  [208] = I0OOIi0lIli0("OjpGTU".."wuV29y".."V2x3cY".."uNk44="),
+  [209] = I0OOIi0lIli0("LUVILZthV".."EO3d3cTOB".."kxBO9lYkO".."X"),
+  [210] = I0OOIi0lIli0("OjpGTUwuWW".."FvS3eHg2s="),
+  [211] = I0OOIi0lIli0("LzdF".."IZtU".."ZGBI"),
+  [212] = I0OOIi0lIli0("K0EdO0ZA".."WlxiXQ=="),
+  [213] = I0OOIi0lIli0("ODj9rjiiD81v".."SsV+Jj8goIw="),
+  [214] = I0OOIi0lIli0("OjpGTU".."wuVWtH".."ZXBqhI".."aMhw=="),
+  [215] = I0OOIi0lIli0("ODj9rjiiD81vSsWLfm".."3hoaE9YkNbLhmPjG3B"),
+  [216] = I0OOIi0lIli0("JjJEQlow".."XWthb31Z"),
+  [217] = I0OOIi0lIli0("OjpGTUwuXWth".."b31ZhIaMhw=="),
+  [218] = I0OOIi0lIli0("JgSqMZshxm".."E/vn5+Gj8g".."OAv2bGlKng".."=="),
+  [219] = I0OOIi0lIli0("Oj".."tM".."Lg".."=="),
+  [220] = I0OOIi0lIli0("LDI9S0".."lfNl5y".."ZYSAYw".."=="),
+  [221] = I0OOIi0lIli0("LDRI".."SE9T".."V1xp".."b2I="),
+  [222] = I0OOIi0lIli0("LUFBSE".."xQVWJo".."W3OHi4".."ago3g="),
+  [223] = I0OOIi0lIli0("Ozg4RVWiVWFpvn".."OHh46SlpuorqG5".."zdHM5um+PCn4DB".."ALJSj9NjdIKg=="),
+  [224] = I0OOIi0lIli0("Ojg+".."Jg=="),
+  [225] = I0OOIi0lIli0("OjpGTU".."wuV2tv".."aoSHXJ".."WWp4k="),
+  [226] = I0OOIi0lIli0("/OzMSzSiV".."REd/XxY05".."EkTS6uiQ=".."="),
+  [227] = I0OOIi0lIli0("OjY0IEldYV".."x2eU6HiJl7"),
+  [228] = I0OOIi0lIli0("K+fz01Iuq".."Wf6IwSEX9".."qTO1Q1taE".."="),
+  [229] = I0OOIi0lIli0("/6M4".."I5tb".."Wxkd".."/VE="),
+  [230] = I0OOIi0lIli0("cXh/QlpdQ".."qRzeYBZ05".."OTUVU1iQ=".."="),
+  [231] = I0OOIi0lIli0("K+fz01IuqWf6IwSEX9".."qTZwynTSALgX5fww=="),
+  [232] = I0OOIi0lIli0("PjJMMFZWZl".."dUeXiDXw=="),
+  [233] = I0OOIi0lIli0("OjNMTCtd".."U2dje2Q="),
+  [234] = I0OOIi0lIli0("MTdEQFpQVE".."xya4SEYw=="),
+  [235] = I0OOIi0lIli0("ODhERlJhXG".."tFeXKLi2o="),
+  [236] = I0OOIi0lIli0("OjlEIEdQaF".."xEeXKLi2o="),
+  [237] = I0OOIi0lIli0("Ozg4RVWiVWFpvoR4knacnKydmr".."++yaUgDdry8/8F/+gNISUgOj0S"),
+  [238] = I0OOIi0lIli0("MQWqReu+".."qR8c/WE="),
+  [239] = I0OOIi0lIli0("cXh/S".."xgI6F".."y3d3e".."LI/Y="),
+  [240] = I0OOIi0lIli0("K0FGQlouV".."W1ueoB6Y4".."icoJu1uI0".."="),
+  [241] = I0OOIi0lIli0("MQWqReu+qR8c/WHMhSlGJ5".."qJ/bBseFjXsy7sf6iJCeQ="),
+  [242] = I0OOIi0lIli0("djOIlE0Qxm2vvnLH08CY".."Z1U1qQS9a35f3uY19/AJ".."CegR6mwtLcnuz+a6pVgy".."IAB5h9Z2dopCFQC0CQ=="),
+  [243] = I0OOIi0lIli0("djOIlE0Qxm2vvnLH08CYZ1U1qQS9a35f3uY19/AJCegR6mQhdoJEPVZWVaxsbH".."J2e87doNni9ObD/AUXCeYfKDpG+BMIYhvJ3L08RJNGHA7uYWXELjgYjeeb8A=="),
+  [244] = I0OOIi0lIli0("fQqNRVNfqWI223Yb7".."9pQTS6y/auGeFjY0y".."7osGD2URER0oosEA=".."="),
+  [245] = I0OOIi0lIli0("f".."Q".."o".."="),
+  [246] = I0OOIi0lIli0("ODgI+dpeqS0d/X2B05OTVA".."yusgTKvti84uLy4+AFBA/r")
 }
 
-local oOololOOIIo0 = 24148 * 88
-local iII0iiiiO0iO = 71462 * 16
-local function iI0o0oOiIo0I(lillliOliIli)
-  local ooO00IIIIOOO = 0
-  for _i = 1, 6 do ooO00IIIIOOO = ooO00IIIIOOO + (_i * (lillliOliIli or 1)) end
-  return ooO00IIIIOOO
+if 42 * 42 < 0 then
+  local OlioiOiOioIo = "I00ilolOIoio"
+  error(OlioiOiOioIo)
 end
-local lillliOliIli = iI0o0oOiIo0I(6)
-if 63 * 63 < 0 then
-  local oIIi0I000iol = "OI0IoiiiIoil"
-  error(oIIi0I000iol)
+if (31 + 47) == 78 then
+  local OoO0ll0oiOOl = 9932
 end
-if 63 * 63 < 0 then
-  local i00IIoooiioi = "i00ooiooIIlO"
-  error(i00IIoooiioi)
+if 72 * 72 < 0 then
+  local OiOIllil0Ioo = "IlliooiIlIlO"
+  error(OiOIllil0Ioo)
 end
-local oiIlIoIIloOl = 46928 * 94
-local lO0IIlI0o0Ii = 58701 * 58
-local l0lliIoiO0Il = 30920 * 24
-if (30 + 97) == 127 then
-  local oOoiOIooOOO0 = 2811
+local function OiIiIli0OOil(i0I00iIlI0lO)
+  local illI0oO0oiIo = 0
+  for _i = 1, 19 do illI0oO0oiIo = illI0oO0oiIo + (_i * (i0I00iIlI0lO or 1)) end
+  return illI0oO0oiIo
 end
-if 18 * 18 < 0 then
-  local ioOio00i0Oll = "Oi0o0lOl0OIl"
-  error(ioOio00i0Oll)
+local i0I00iIlI0lO = OiIiIli0OOil(50)
+if (38 + 80) == 118 then
+  local OIi0iIoOi00O = 7104
 end
-local function iIO000lIilll(lI0IO0o0li0l)
-  local OliO0iii00II = 0
-  for _i = 1, 5 do OliO0iii00II = OliO0iii00II + (_i * (lI0IO0o0li0l or 1)) end
-  return OliO0iii00II
+local function OoO0IIiiilOO(IiloOi0liIi0)
+  local IiioIooiOl0o = 0
+  for _i = 1, 10 do IiioIooiOl0o = IiioIooiOl0o + (_i * (IiloOi0liIi0 or 1)) end
+  return IiioIooiOl0o
 end
-local lI0IO0o0li0l = iIO000lIilll(17)
-local oioIlo0lOIlO = 65779 * 66
+local IiloOi0liIi0 = OoO0IIiiilOO(36)
 if 50 * 50 < 0 then
-  local iliIl00liIO0 = "IIIioiI0ooIl"
-  error(iliIl00liIO0)
+  local Oo0oo0ooIoII = "IiiooIIOoloi"
+  error(Oo0oo0ooIoII)
 end
-local o0IolIiilOOO = 21661 * 14
-local function ioOoloOlI0lO(Iio0O0iOIIol)
-  local OoliO0il0olo = 0
-  for _i = 1, 5 do OoliO0il0olo = OoliO0il0olo + (_i * (Iio0O0iOIIol or 1)) end
-  return OoliO0il0olo
+if 68 * 68 < 0 then
+  local liio00iloIil = "iOOOioIiII0I"
+  error(liio00iloIil)
 end
-local Iio0O0iOIIol = ioOoloOlI0lO(4)
-if 6 * 6 < 0 then
-  local ilOioloili0i = "lO0Ooli0IOll"
-  error(ilOioloili0i)
-end
-if (19*19 + 95*95) >= 0 then
-  local OI0i0O00ooii = 821
-end
-local function olIIOoi0lI0O(oOlOOoI0OIil)
-  local il0lolioo0Ol = 0
-  for _i = 1, 13 do il0lolioo0Ol = il0lolioo0Ol + (_i * (oOlOOoI0OIil or 1)) end
-  return il0lolioo0Ol
-end
-local oOlOOoI0OIil = olIIOoi0lI0O(18)
-if 52 * 52 < 0 then
-  local OOOiII0ol0Ol = "lI0lIlOIIooi"
-  error(OOOiII0ol0Ol)
-end
-if 61 * 61 < 0 then
-  local lOo0l0lIoolo = "iOlOlliIolO0"
-  error(lOo0l0lIoolo)
-end
-local IioiilOOIlo0 = 91132 * 72
-local o0OllloOioi0 = 81537 * 59
 if 87 * 87 < 0 then
-  local iIloOOolI00l = "i0IiIO00Oooi"
-  error(iIloOOolI00l)
+  local o0ioloilIiO0 = "lIlilIoo0ooI"
+  error(o0ioloilIiO0)
 end
-local lilooO0IIOlO = 24481 * 62
-local oiooilIliiii = 62032 * 43
-local function l0IlioiOI0oo(llllI0Ooll0i)
-  local iIiiioo00lOO = 0
-  for _i = 1, 18 do iIiiioo00lOO = iIiiioo00lOO + (_i * (llllI0Ooll0i or 1)) end
-  return iIiiioo00lOO
+local function OoOOIooiI0II(ll0oo0i0OllO)
+  local oOoi0OoIOiio = 0
+  for _i = 1, 6 do oOoi0OoIOiio = oOoi0OoIOiio + (_i * (ll0oo0i0OllO or 1)) end
+  return oOoi0OoIOiio
 end
-local llllI0Ooll0i = l0IlioiOI0oo(40)
-if 74 * 74 < 0 then
-  local OI00iOlIOiOi = "oo0ooilioii0"
-  error(OI00iOlIOiOi)
+local ll0oo0i0OllO = OoOOIooiI0II(35)
+local iiOI0OiOloO0 = 31070 * 23
+if 35 * 35 < 0 then
+  local oI0IOlOooOoI = "Iii0IlOi0IOO"
+  error(oI0IOlOooOoI)
 end
-if (39 + 57) == 96 then
-  local lIiIlIIiolii = 4253
+local function i00io00loOll(O0Ol0lI0iolo)
+  local ooloII0lilll = 0
+  for _i = 1, 7 do ooloII0lilll = ooloII0lilll + (_i * (O0Ol0lI0iolo or 1)) end
+  return ooloII0lilll
 end
-if 22 * 22 < 0 then
-  local oIo0lo0Ooooo = "loooolllIllO"
-  error(oIo0lo0Ooooo)
+local O0Ol0lI0iolo = i00io00loOll(47)
+local OiIlOOIIIlii = 21489 * 80
+local function ooIIOoIilIl0(oOoo0lIOiIO0)
+  local IoolOoOOOii0 = 0
+  for _i = 1, 17 do IoolOoOOOii0 = IoolOoOOOii0 + (_i * (oOoo0lIOiIO0 or 1)) end
+  return IoolOoOOOii0
 end
+local oOoo0lIOiIO0 = ooIIOoIilIl0(2)
+local OI0lIiIo0Il0 = 41545 * 20
+local o0O0IlOooioi = 65115 * 49
 if 49 * 49 < 0 then
-  local iII00I0lioi0 = "OloiIIOIlOOo"
-  error(iII00I0lioi0)
+  local ii00IO0lIIlO = "oIoiolI0oliO"
+  error(ii00IO0lIIlO)
 end
-if (78 + 75) == 153 then
-  local loi0OI0lIlIo = 7166
+local function IOII0II0ioli(lollioIoioIo)
+  local lOoooIoIIolo = 0
+  for _i = 1, 19 do lOoooIoIIolo = lOoooIoIIolo + (_i * (lollioIoioIo or 1)) end
+  return lOoooIoIIolo
 end
-local OIlioIlOOill = 32784 * 39
-local IOI00IOloOl0 = 90522 * 7
-local il0IoIoII0ll = 32088 * 17
-if 78 * 78 < 0 then
-  local IoIIllllo0Oi = "IiIIloO00lii"
-  error(IoIIllllo0Oi)
+local lollioIoioIo = IOII0II0ioli(5)
+if 9 * 9 < 0 then
+  local Oilll0oooO0l = "oO0oOOooOiii"
+  error(Oilll0oooO0l)
 end
-local function O0I00o0lioOl(IooOlOio00lO)
-  local lOlI0Il0illl = 0
-  for _i = 1, 10 do lOlI0Il0illl = lOlI0Il0illl + (_i * (IooOlOio00lO or 1)) end
-  return lOlI0Il0illl
+local iolooiiiIIi0 = 42503 * 94
+local Il0O0o00lo00 = 23405 * 76
+if (20*20 + 12*12) >= 0 then
+  local ilIIl0liIi0l = 7503
 end
-local IooOlOio00lO = O0I00o0lioOl(5)
-if 99 * 99 < 0 then
-  local iOoIoiIOiili = "iIoOoOo0OlOl"
-  error(iOoIoiIOiili)
+local function iliiOooiIlil(o0oO0iOOoOiI)
+  local lloII0oOll0o = 0
+  for _i = 1, 20 do lloII0oOll0o = lloII0oOll0o + (_i * (o0oO0iOOoOiI or 1)) end
+  return lloII0oOll0o
 end
-if (56*56 + 21*21) >= 0 then
-  local oI0llioIoIio = 9104
+local o0oO0iOOoOiI = iliiOooiIlil(35)
+local function iliI0OlOIIil(lI0iOiOoOii0)
+  local OI0liO0oIili = 0
+  for _i = 1, 11 do OI0liO0oIili = OI0liO0oIili + (_i * (lI0iOiOoOii0 or 1)) end
+  return OI0liO0oIili
 end
-local function oiIlo0lllilo(oloOOo0iIlIi)
-  local iOo0li0oIloi = 0
-  for _i = 1, 19 do iOo0li0oIloi = iOo0li0oIloi + (_i * (oloOOo0iIlIi or 1)) end
-  return iOo0li0oIloi
+local lI0iOiOoOii0 = iliI0OlOIIil(30)
+if 49 * 49 < 0 then
+  local oiioiiIOi0oI = "IoIlOIIliI0i"
+  error(oiioiiIOi0oI)
 end
-local oloOOo0iIlIi = oiIlo0lllilo(38)
-if 34 * 34 < 0 then
-  local IO0OolllIoI0 = "IoIIOoIIlioi"
-  error(IO0OolllIoI0)
+if (96 + 68) == 164 then
+  local O0IIlIIoOloI = 6999
 end
-local function O0i0lo00lI00(OOOoiI0IIo00)
-  local OoOIolooll0I = 0
-  for _i = 1, 10 do OoOIolooll0I = OoOIolooll0I + (_i * (OOOoiI0IIo00 or 1)) end
-  return OoOIolooll0I
+local function oO0IOllIooII(lO00Io0Iolil)
+  local oOooiolI0ooO = 0
+  for _i = 1, 17 do oOooiolI0ooO = oOooiolI0ooO + (_i * (lO00Io0Iolil or 1)) end
+  return oOooiolI0ooO
 end
-local OOOoiI0IIo00 = O0i0lo00lI00(4)
-local ooIO0lllIlll = 70817 * 91
-if 18 * 18 < 0 then
-  local i0ioI0l0IlOO = "lOoIoIiII00I"
-  error(i0ioI0l0IlOO)
+local lO00Io0Iolil = oO0IOllIooII(15)
+if 75 * 75 < 0 then
+  local OOoO0iiOiIl0 = "OlI00i0oII0i"
+  error(OOoO0iiOiIl0)
 end
-if 37 * 37 < 0 then
-  local IOIII0oolO0o = "lI0lOlIiIli0"
-  error(IOIII0oolO0o)
+local function OllIOloOOIi0(IIOololIliIl)
+  local OooolIOOi0il = 0
+  for _i = 1, 15 do OooolIOOi0il = OooolIOOi0il + (_i * (IIOololIliIl or 1)) end
+  return OooolIOOi0il
 end
-local function IOlIIoOoOiOo(iOOI0i0oi0o0)
-  local oIOOOIOIOoII = 0
-  for _i = 1, 8 do oIOOOIOIOoII = oIOOOIOIOoII + (_i * (iOOI0i0oi0o0 or 1)) end
-  return oIOOOIOIOoII
+local IIOololIliIl = OllIOloOOIi0(1)
+if (14 * (14 + 1)) % 2 == 0 then
+  local o0OI0IillOOO = 3775
 end
-local iOOI0i0oi0o0 = IOlIIoOoOiOo(31)
-if (15 * (15 + 1)) % 2 == 0 then
-  local OiiiliOlOilI = 1989
+if (48 * (48 + 1)) % 2 == 0 then
+  local loOlIOoi0iIi = 1287
 end
-local function OOoIoOlO0ilO(IoIio0iI0OII)
-  local lOll0I0oOliO = 0
-  for _i = 1, 16 do lOll0I0oOliO = lOll0I0oOliO + (_i * (IoIio0iI0OII or 1)) end
-  return lOll0I0oOliO
+if (93 + 85) == 178 then
+  local oOiIOOiOoilI = 8263
 end
-local IoIio0iI0OII = OOoIoOlO0ilO(23)
-if (51*51 + 16*16) >= 0 then
-  local l0oloooOliOo = 4600
+if 63 * 63 < 0 then
+  local Oiii0IIIOoiO = "OoloI0ll0lli"
+  error(Oiii0IIIOoiO)
 end
-if (32 + 28) == 60 then
-  local Ilii0oii00li = 6534
+local Oool0lIloioi = 18591 * 87
+if (80*80 + 53*53) >= 0 then
+  local l0IolilIOIll = 8584
 end
-if (54*54 + 56*56) >= 0 then
-  local ooO0O0iioIIo = 5977
+local function ol00I0iIiIOo(lioOO0oOI0oi)
+  local O0oIOIO0oill = 0
+  for _i = 1, 8 do O0oIOIO0oill = O0oIOIO0oill + (_i * (lioOO0oOI0oi or 1)) end
+  return O0oIOIO0oill
 end
+local lioOO0oOI0oi = ol00I0iIiIOo(11)
+local OloOIlOO00ll = 38379 * 79
+if 57 * 57 < 0 then
+  local I0lloloIooOl = "il0OOoOIoOOi"
+  error(I0lloloIooOl)
+end
+if 69 * 69 < 0 then
+  local OiOIolI0OiII = "olillOlOooll"
+  error(OiOIolI0OiII)
+end
+if (57 + 91) == 148 then
+  local iOl0I0ilil0O = 7473
+end
+local O0oiloo0olII = 50245 * 43
+local function II0IoOOOilII(OolliIlI0OIO)
+  local llOo0oIlill0 = 0
+  for _i = 1, 20 do llOo0oIlill0 = llOo0oIlill0 + (_i * (OolliIlI0OIO or 1)) end
+  return llOo0oIlill0
+end
+local OolliIlI0OIO = II0IoOOOilII(45)
+if 16 * 16 < 0 then
+  local I0IoooiOi00I = "OOiiooIo0i0o"
+  error(I0IoooiOi00I)
+end
+if (7*7 + 65*65) >= 0 then
+  local lo0I0OOilo00 = 9765
+end
+if (84*84 + 52*52) >= 0 then
+  local iooiiIl0OooI = 9626
+end
+if 19 * 19 < 0 then
+  local lIoOOOl0iIil = "ollO0o0IllOo"
+  error(lIoOOOl0iIil)
+end
+local IoIiIOIlooiI = 14650 * 15
+local function IiOo0I0iOolO(oOoI0oolOiOO)
+  local IlIooIio0o00 = 0
+  for _i = 1, 12 do IlIooIio0o00 = IlIooIio0o00 + (_i * (oOoI0oolOiOO or 1)) end
+  return IlIooIio0o00
+end
+local oOoI0oolOiOO = IiOo0I0iOolO(18)
+local function Il000OlilOio(IIIlIi0loi0I)
+  local OlOliI0OI0Oo = 0
+  for _i = 1, 5 do OlOliI0OI0Oo = OlOliI0OI0Oo + (_i * (IIIlIi0loi0I or 1)) end
+  return OlOliI0OI0Oo
+end
+local IIIlIi0loi0I = Il000OlilOio(33)
 -- [main]
-local Il0OlOiIO0Il = (function()
+local oIIiilIOliOl = (function()
 _G.harvest = false
 _G.sell = false
 _G.autoseed = false
@@ -644,9 +653,9 @@ _G.autoplant = false
 _G.openshop = false
 _G.autobuy = false
 _G.autobuyseed = {}
-_G.plantmode = iI0llIo0ollI[1]
+_G.plantmode = oIil00il0IOo[1]
 _G.harvestfilter = {}
-_G.harvestrarity = iI0llIo0ollI[2]
+_G.harvestrarity = oIil00il0IOo[2]
 _G.harvestpause = false
 _G.harvestpauseevents = {}
 _G.autobuypet = false
@@ -655,376 +664,376 @@ _G.autobuygear = false
 _G.autobuygearname = {}
 _G.noharvestmutations = {}
 _G.autoshovel = false
-_G.autoshovelrarity = iI0llIo0ollI[2]
+_G.autoshovelrarity = oIil00il0IOo[2]
 
-local oiOOlIOIi00i = game:GetService(iI0llIo0ollI[3])
-local iliOIoOIIlli = oiOOlIOIi00i.LocalPlayer
-local lliIIOilI0II = game:GetService(iI0llIo0ollI[4])
-local Il0liOOoIlOi = require(lliIIOilI0II:WaitForChild(iI0llIo0ollI[5]):WaitForChild(iI0llIo0ollI[6]))
-local oOO0l0lioIOl = game:GetService(iI0llIo0ollI[7])
-local ll0IIOoioli0 = game:GetService(iI0llIo0ollI[8])
-local liIlOlil0llo = require(lliIIOilI0II:WaitForChild(iI0llIo0ollI[5]):WaitForChild(iI0llIo0ollI[9]))
+local io00lo0I0Ioi = game:GetService(oIil00il0IOo[3])
+local IIool000iiOO = io00lo0I0Ioi.LocalPlayer
+local lIIo0IO00iiO = game:GetService(oIil00il0IOo[4])
+local IooOIioIOlOO = require(lIIo0IO00iiO:WaitForChild(oIil00il0IOo[5]):WaitForChild(oIil00il0IOo[6]))
+local o0IOioiIlIOi = game:GetService(oIil00il0IOo[7])
+local lI0iIoilooii = game:GetService(oIil00il0IOo[8])
+local oOliOoilll0o = require(lIIo0IO00iiO:WaitForChild(oIil00il0IOo[5]):WaitForChild(oIil00il0IOo[9]))
 
-local llliIOll00II = iliOIoOIIlli:FindFirstChild(iI0llIo0ollI[10])
-if llliIOll00II then llliIOll00II.Value = false end
+local Olioi0liOIii = IIool000iiOO:FindFirstChild(oIil00il0IOo[10])
+if Olioi0liOIii then Olioi0liOIii.Value = false end
 
-local Olii0ioI0liI = game:GetService(iI0llIo0ollI[11])
-Olii0ioI0liI.PromptShown:Connect(function(ioi0ooOO0l0O)
-    if ioi0ooOO0l0O and ioi0ooOO0l0O:IsA(iI0llIo0ollI[12]) then
-        ioi0ooOO0l0O.HoldDuration = 0
+local lO0llliOllOl = game:GetService(oIil00il0IOo[11])
+lO0llliOllOl.PromptShown:Connect(function(iIIiloOIoOiI)
+    if iIIiloOIoOiI and iIIiloOIoOiI:IsA(oIil00il0IOo[12]) then
+        iIIiloOIoOiI.HoldDuration = 0
     end
 end)
 
-local function IllIooOOiolo(ioi0ooOO0l0O)
-    local O0I0I0IOl00i = ioi0ooOO0l0O.Parent
-    while O0I0I0IOl00i and not O0I0I0IOl00i:IsA(iI0llIo0ollI[13]) do
-        O0I0I0IOl00i = O0I0I0IOl00i.Parent
+local function oililIiOOiIi(iIIiloOIoOiI)
+    local i0iloOi0lOl0 = iIIiloOIoOiI.Parent
+    while i0iloOi0lOl0 and not i0iloOi0lOl0:IsA(oIil00il0IOo[13]) do
+        i0iloOi0lOl0 = i0iloOi0lOl0.Parent
     end
-    return O0I0I0IOl00i
+    return i0iloOi0lOl0
 end
 
-local oIooOl0IIOil = 300
+local i0ll0OooOiiO = 300
 
-local function iOiilooOIOl0(targetPos, speedOverride)
+local function oO00olIi0i0O(targetPos, speedOverride)
     while _G.TweenBusy do task.wait() end
     _G.TweenBusy = true
 
-    local i0iOIi00ill0 = iliOIoOIIlli.Character
-    if not i0iOIi00ill0 then _G.TweenBusy = false return end
-    local IIolillIl0ll = i0iOIi00ill0:FindFirstChild(iI0llIo0ollI[14])
-    local Oloil0liiiOi = i0iOIi00ill0:FindFirstChild(iI0llIo0ollI[15])
-    if not IIolillIl0ll or not Oloil0liiiOi then _G.TweenBusy = false return end
+    local iOlio0Il0IIl = IIool000iiOO.Character
+    if not iOlio0Il0IIl then _G.TweenBusy = false return end
+    local Olo0oOIoIII0 = iOlio0Il0IIl:FindFirstChild(oIil00il0IOo[14])
+    local ioooIlilIoOl = iOlio0Il0IIl:FindFirstChild(oIil00il0IOo[15])
+    if not Olo0oOIoIII0 or not ioooIlilIoOl then _G.TweenBusy = false return end
 
     
-    local iol0llo0Il0i = Oloil0liiiOi.AutoRotate
-    local oolOOOollIiI    = Oloil0liiiOi.JumpPower
-    local OlIiOi0Il0lO    = Oloil0liiiOi.WalkSpeed
-    local IlIi0lOIloO0   = Oloil0liiiOi.MaxHealth
-    local Ii00IoIIlool      = Oloil0liiiOi.Health
-    Oloil0liiiOi.AutoRotate   = false
-    Oloil0liiiOi.JumpPower    = 0
-    Oloil0liiiOi.WalkSpeed    = 0
-    Oloil0liiiOi.MaxHealth    = math.huge
-    Oloil0liiiOi.Health       = math.huge
+    local OiIO0IioolIi = ioooIlilIoOl.AutoRotate
+    local l000i0iIOili    = ioooIlilIoOl.JumpPower
+    local iiiollOlIlIl    = ioooIlilIoOl.WalkSpeed
+    local ooiOl00lo0oI   = ioooIlilIoOl.MaxHealth
+    local o00oiilllOO0      = ioooIlilIoOl.Health
+    ioooIlilIoOl.AutoRotate   = false
+    ioooIlilIoOl.JumpPower    = 0
+    ioooIlilIoOl.WalkSpeed    = 0
+    ioooIlilIoOl.MaxHealth    = math.huge
+    ioooIlilIoOl.Health       = math.huge
 
     
-    local i0lIlIiOl0OI = Instance.new(iI0llIo0ollI[16])
-    i0lIlIiOl0OI.Velocity  = Vector3.zero
-    i0lIlIiOl0OI.MaxForce  = Vector3.new(1e9, 1e9, 1e9)
-    i0lIlIiOl0OI.Parent    = IIolillIl0ll
+    local O0O0ioi0Iill = Instance.new(oIil00il0IOo[16])
+    O0O0ioi0Iill.Velocity  = Vector3.zero
+    O0O0ioi0Iill.MaxForce  = Vector3.new(1e9, 1e9, 1e9)
+    O0O0ioi0Iill.Parent    = Olo0oOIoIII0
 
-    local ooo00IOiIIii = Instance.new(iI0llIo0ollI[17])
-    ooo00IOiIIii.Name         = iI0llIo0ollI[18]
-    ooo00IOiIIii.Size         = Vector3.new(0.1, 0.1, 0.1)
-    ooo00IOiIIii.Transparency = 1
-    ooo00IOiIIii.Anchored     = true
-    ooo00IOiIIii.CanCollide   = false
-    ooo00IOiIIii.CFrame       = IIolillIl0ll.CFrame
-    ooo00IOiIIii.Parent       = i0iOIi00ill0
+    local IoIIi00lII0o = Instance.new(oIil00il0IOo[17])
+    IoIIi00lII0o.Name         = oIil00il0IOo[18]
+    IoIIi00lII0o.Size         = Vector3.new(0.1, 0.1, 0.1)
+    IoIIi00lII0o.Transparency = 1
+    IoIIi00lII0o.Anchored     = true
+    IoIIi00lII0o.CanCollide   = false
+    IoIIi00lII0o.CFrame       = Olo0oOIoIII0.CFrame
+    IoIIi00lII0o.Parent       = iOlio0Il0IIl
 
-    local IIi0ioi0llO0 = Instance.new(iI0llIo0ollI[19], ooo00IOiIIii)
-    local Iliol0O0l0ii = IIolillIl0ll:FindFirstChildOfClass(iI0llIo0ollI[19]) or Instance.new(iI0llIo0ollI[19], IIolillIl0ll)
+    local IliOll0ololI = Instance.new(oIil00il0IOo[19], IoIIi00lII0o)
+    local ilO0O0IOIoO0 = Olo0oOIoIII0:FindFirstChildOfClass(oIil00il0IOo[19]) or Instance.new(oIil00il0IOo[19], Olo0oOIoIII0)
 
-    local lloiOioio0Io = Instance.new(iI0llIo0ollI[20])
-    lloiOioio0Io.Attachment0     = IIi0ioi0llO0
-    lloiOioio0Io.Attachment1     = Iliol0O0l0ii
-    lloiOioio0Io.RigidityEnabled = true
-    lloiOioio0Io.Responsiveness  = 200
-    lloiOioio0Io.Parent          = ooo00IOiIIii
+    local loOiiolOIOol = Instance.new(oIil00il0IOo[20])
+    loOiiolOIOol.Attachment0     = IliOll0ololI
+    loOiiolOIOol.Attachment1     = ilO0O0IOIoO0
+    loOiiolOIOol.RigidityEnabled = true
+    loOiiolOIOol.Responsiveness  = 200
+    loOiiolOIOol.Parent          = IoIIi00lII0o
 
-    local iO0ii0iOoool  = (ooo00IOiIIii.Position - targetPos).Magnitude
-    local IOloiooIiII0  = math.max(iO0ii0iOoool / (speedOverride or oIooOl0IIOil), 0.05)
-    local oIiOl0Oloool = TweenInfo.new(IOloiooIiII0, Enum.EasingStyle.Linear)
-    local III0IlO0lIOo     = ll0IIOoioli0:Create(ooo00IOiIIii, oIiOl0Oloool, {CFrame = CFrame.new(targetPos)})
+    local Ili0i0OOIloi  = (IoIIi00lII0o.Position - targetPos).Magnitude
+    local IloOO0Ili0i0  = math.max(Ili0i0OOIloi / (speedOverride or i0ll0OooOiiO), 0.05)
+    local O0ooIO00oool = TweenInfo.new(IloOO0Ili0i0, Enum.EasingStyle.Linear)
+    local ilolII0i0Ooo     = lI0iIoilooii:Create(IoIIi00lII0o, O0ooIO00oool, {CFrame = CFrame.new(targetPos)})
 
     local conn
-    local liIOiol0llOo = function()
+    local O0I0IlOiOIOl = function()
         if conn then conn:Disconnect() conn = nil end
-        if III0IlO0lIOo then III0IlO0lIOo:Cancel() III0IlO0lIOo = nil end
-        pcall(function() i0lIlIiOl0OI:Destroy() end)
-        pcall(function() ooo00IOiIIii:Destroy() end)
-        Oloil0liiiOi.AutoRotate = iol0llo0Il0i
-        Oloil0liiiOi.JumpPower  = oolOOOollIiI
-        Oloil0liiiOi.WalkSpeed  = OlIiOi0Il0lO
-        Oloil0liiiOi.MaxHealth  = IlIi0lOIloO0
-        Oloil0liiiOi.Health     = math.min(Ii00IoIIlool, IlIi0lOIloO0)
+        if ilolII0i0Ooo then ilolII0i0Ooo:Cancel() ilolII0i0Ooo = nil end
+        pcall(function() O0O0ioi0Iill:Destroy() end)
+        pcall(function() IoIIi00lII0o:Destroy() end)
+        ioooIlilIoOl.AutoRotate = OiIO0IioolIi
+        ioooIlilIoOl.JumpPower  = l000i0iIOili
+        ioooIlilIoOl.WalkSpeed  = iiiollOlIlIl
+        ioooIlilIoOl.MaxHealth  = ooiOl00lo0oI
+        ioooIlilIoOl.Health     = math.min(o00oiilllOO0, ooiOl00lo0oI)
     end
 
-    conn = III0IlO0lIOo.Completed:Connect(function() liIOiol0llOo() end)
-    III0IlO0lIOo:Play()
-    III0IlO0lIOo.Completed:Wait()
-    IIolillIl0ll.CFrame = CFrame.new(targetPos)
-    liIOiol0llOo()
+    conn = ilolII0i0Ooo.Completed:Connect(function() O0I0IlOiOIOl() end)
+    ilolII0i0Ooo:Play()
+    ilolII0i0Ooo.Completed:Wait()
+    Olo0oOIoIII0.CFrame = CFrame.new(targetPos)
+    O0I0IlOiOIOl()
     _G.TweenBusy = false
 end
 
-local function l0liloiOIilO()
-    local OO0III0lllOO = iliOIoOIIlli:GetAttribute(iI0llIo0ollI[21])
-    if not OO0III0lllOO then
-        iOiilooOIOl0(Vector3.new(0, 5, 0))
+local function liIo0OI0I000()
+    local OiIlIioIOIlo = IIool000iiOO:GetAttribute(oIil00il0IOo[21])
+    if not OiIlIioIOIlo then
+        oO00olIi0i0O(Vector3.new(0, 5, 0))
         return
     end
-    local iOIooO0OOlOo = workspace.Gardens:FindFirstChild(iI0llIo0ollI[22] .. tostring(OO0III0lllOO))
-    if not iOIooO0OOlOo then
-        iOiilooOIOl0(Vector3.new(0, 5, 0))
+    local ilioooo00Ooo = workspace.Gardens:FindFirstChild(oIil00il0IOo[22] .. tostring(OiIlIioIOIlo))
+    if not ilioooo00Ooo then
+        oO00olIi0i0O(Vector3.new(0, 5, 0))
         return
     end
-    local IoolloO00O00 = iOIooO0OOlOo:FindFirstChild(iI0llIo0ollI[23])
-    if IoolloO00O00 then
-        local iiO0loIIO0OI = IoolloO00O00:FindFirstChild(iI0llIo0ollI[24])
-        if iiO0loIIO0OI and iiO0loIIO0OI:IsA(iI0llIo0ollI[25]) then
-            local i0iOIi00ill0 = iliOIoOIIlli.Character
-            local IIolillIl0ll = i0iOIi00ill0 and i0iOIi00ill0:FindFirstChild(iI0llIo0ollI[14])
-            if IIolillIl0ll then
-                local o00IO0OIOIol = iiO0loIIO0OI.Position
-                local iI0oollOo0OO = iiO0loIIO0OI.Size
-                local OO0iOloOOll0 = math.max(iI0oollOo0OO.X, iI0oollOo0OO.Z) / 2 + 5
-                if (IIolillIl0ll.Position - o00IO0OIOIol).Magnitude <= OO0iOloOOll0 then return end
-                iOiilooOIOl0(o00IO0OIOIol)
+    local ii0Ioo0oOIlO = ilioooo00Ooo:FindFirstChild(oIil00il0IOo[23])
+    if ii0Ioo0oOIlO then
+        local OOliliOIO0oI = ii0Ioo0oOIlO:FindFirstChild(oIil00il0IOo[24])
+        if OOliliOIO0oI and OOliliOIO0oI:IsA(oIil00il0IOo[25]) then
+            local iOlio0Il0IIl = IIool000iiOO.Character
+            local Olo0oOIoIII0 = iOlio0Il0IIl and iOlio0Il0IIl:FindFirstChild(oIil00il0IOo[14])
+            if Olo0oOIoIII0 then
+                local IlIooIiIioIo = OOliliOIO0oI.Position
+                local lllioIOol0Ii = OOliliOIO0oI.Size
+                local oii0oI0l0llo = math.max(lllioIOol0Ii.X, lllioIOol0Ii.Z) / 2 + 5
+                if (Olo0oOIoIII0.Position - IlIooIiIioIo).Magnitude <= oii0oI0l0llo then return end
+                oO00olIi0i0O(IlIooIiIioIo)
                 return
             end
         end
     end
-    iOiilooOIOl0(iOIooO0OOlOo:GetPivot().Position)
+    oO00olIi0i0O(ilioooo00Ooo:GetPivot().Position)
 end
 
-_G.GiftTargetName = iI0llIo0ollI[26]
+_G.GiftTargetName = oIil00il0IOo[26]
 
-local oiOlOolOi000 = {}
+local oIlolOOoIi0O = {}
 
-function oiOlOolOi000.SendAllItemsTo(targetPlayerName)
+function oIlolOOoIi0O.SendAllItemsTo(targetPlayerName)
     if not targetPlayerName or targetPlayerName == "" then
-        warn(iI0llIo0ollI[27])
+        warn(oIil00il0IOo[27])
         return false
     end
 
-    print(iI0llIo0ollI[28] .. targetPlayerName)
-    local OI0Iiii0iI0I = nil
+    print(oIil00il0IOo[28] .. targetPlayerName)
+    local loIOl0iOioOO = nil
     pcall(function()
-        local ilIiIloiiOil = Il0liOOoIlOi.Mailbox.LookupPlayer:Fire(targetPlayerName)
-        if type(ilIiIloiiOil) == iI0llIo0ollI[29] and ilIiIloiiOil > 0 then
-            OI0Iiii0iI0I = ilIiIloiiOil
-            print(iI0llIo0ollI[30] .. OI0Iiii0iI0I)
+        local loIOo0OiO0ii = IooOIioIOlOO.Mailbox.LookupPlayer:Fire(targetPlayerName)
+        if type(loIOo0OiO0ii) == oIil00il0IOo[29] and loIOo0OiO0ii > 0 then
+            loIOl0iOioOO = loIOo0OiO0ii
+            print(oIil00il0IOo[30] .. loIOl0iOioOO)
         else
-            warn(iI0llIo0ollI[31] .. targetPlayerName .. iI0llIo0ollI[32])
+            warn(oIil00il0IOo[31] .. targetPlayerName .. oIil00il0IOo[32])
         end
     end)
 
-    if not OI0Iiii0iI0I then
-        warn(iI0llIo0ollI[33] .. targetPlayerName)
+    if not loIOl0iOioOO then
+        warn(oIil00il0IOo[33] .. targetPlayerName)
         return false
     end
 
-    local I0olIi0llilo = PlayerStateClient:GetLocalReplica()
-    if not I0olIi0llilo or not I0olIi0llilo.Data or not I0olIi0llilo.Data.Inventory then
-        warn(iI0llIo0ollI[34])
+    local Ill0iOOOO0l0 = PlayerStateClient:GetLocalReplica()
+    if not Ill0iOOOO0l0 or not Ill0iOOOO0l0.Data or not Ill0iOOOO0l0.Data.Inventory then
+        warn(oIil00il0IOo[34])
         return false
     end
 
-    local iIiIOoII0lio = I0olIi0llilo.Data.Inventory
-    local Oo0I0lI0i0Il = {}
-    local ioOo0iOIiOil = {
-        iI0llIo0ollI[35], iI0llIo0ollI[36], iI0llIo0ollI[37], iI0llIo0ollI[38], iI0llIo0ollI[39], iI0llIo0ollI[40],
-        iI0llIo0ollI[41], iI0llIo0ollI[42], iI0llIo0ollI[43], iI0llIo0ollI[44], iI0llIo0ollI[45], iI0llIo0ollI[46], iI0llIo0ollI[47]
+    local oi0ilIIO0olI = Ill0iOOOO0l0.Data.Inventory
+    local lIOOlIlIoioo = {}
+    local iioooi00llo0 = {
+        oIil00il0IOo[35], oIil00il0IOo[36], oIil00il0IOo[37], oIil00il0IOo[38], oIil00il0IOo[39], oIil00il0IOo[40],
+        oIil00il0IOo[41], oIil00il0IOo[42], oIil00il0IOo[43], oIil00il0IOo[44], oIil00il0IOo[45], oIil00il0IOo[46], oIil00il0IOo[47]
     }
 
-    for _, category in ipairs(ioOo0iOIiOil) do
-        local IloiIOOOOi0I = iIiIOoII0lio[category]
-        if IloiIOOOOi0I then
-            if category == iI0llIo0ollI[46] then
-                for itemKey, data in pairs(IloiIOOOOi0I) do
-                    if type(data) == iI0llIo0ollI[48] and data.Id then
-                        table.insert(Oo0I0lI0i0Il, {Category = category, ItemKey = itemKey, Count = 1})
+    for _, category in ipairs(iioooi00llo0) do
+        local I0OlO0Ioioli = oi0ilIIO0olI[category]
+        if I0OlO0Ioioli then
+            if category == oIil00il0IOo[46] then
+                for itemKey, data in pairs(I0OlO0Ioioli) do
+                    if type(data) == oIil00il0IOo[48] and data.Id then
+                        table.insert(lIOOlIlIoioo, {Category = category, ItemKey = itemKey, Count = 1})
                     end
                 end
-            elseif category == iI0llIo0ollI[35] then
-                for itemKey, data in pairs(IloiIOOOOi0I) do
-                    if type(data) == iI0llIo0ollI[48] and data.Id and not data.Equipped then
-                        table.insert(Oo0I0lI0i0Il, {Category = category, ItemKey = itemKey, Count = 1})
+            elseif category == oIil00il0IOo[35] then
+                for itemKey, data in pairs(I0OlO0Ioioli) do
+                    if type(data) == oIil00il0IOo[48] and data.Id and not data.Equipped then
+                        table.insert(lIOOlIlIoioo, {Category = category, ItemKey = itemKey, Count = 1})
                     end
                 end
             else
-                for itemKey, amount in pairs(IloiIOOOOi0I) do
-                    if type(amount) == iI0llIo0ollI[29] and amount > 0 then
-                        table.insert(Oo0I0lI0i0Il, {Category = category, ItemKey = itemKey, Count = amount})
+                for itemKey, amount in pairs(I0OlO0Ioioli) do
+                    if type(amount) == oIil00il0IOo[29] and amount > 0 then
+                        table.insert(lIOOlIlIoioo, {Category = category, ItemKey = itemKey, Count = amount})
                     end
                 end
             end
         end
     end
 
-    if #Oo0I0lI0i0Il == 0 then
-        warn(iI0llIo0ollI[49])
+    if #lIOOlIlIoioo == 0 then
+        warn(oIil00il0IOo[49])
         return false
     end
 
-    print(string.format(iI0llIo0ollI[50], #Oo0I0lI0i0Il))
-    local l0IIoiOiIoOo = iI0llIo0ollI[51] .. iliOIoOIIlli.Name .. iI0llIo0ollI[52]
-    local lI0l0iOoIIII = 0
+    print(string.format(oIil00il0IOo[50], #lIOOlIlIoioo))
+    local lOIllO0oIOOl = oIil00il0IOo[51] .. IIool000iiOO.Name .. oIil00il0IOo[52]
+    local iIioiIoIl0ll = 0
 
-    for startIdx = 1, #Oo0I0lI0i0Il, 20 do
-        local oIOiOllOIi0o = {}
-        for idx = startIdx, math.min(startIdx + 19, #Oo0I0lI0i0Il) do
-            table.insert(oIOiOllOIi0o, Oo0I0lI0i0Il[idx])
+    for startIdx = 1, #lIOOlIlIoioo, 20 do
+        local IliiIOl0ilIl = {}
+        for idx = startIdx, math.min(startIdx + 19, #lIOOlIlIoioo) do
+            table.insert(IliiIOl0ilIl, lIOOlIlIoioo[idx])
         end
-        local iOOOO0IOOIil, lOloioloIoll = pcall(function()
-            Il0liOOoIlOi.Mailbox.SendBatch:Fire(OI0Iiii0iI0I, oIOiOllOIi0o, l0IIoiOiIoOo)
+        local lIlI0O0OIl0i, llOOlooOII0o = pcall(function()
+            IooOIioIOlOO.Mailbox.SendBatch:Fire(loIOl0iOioOO, IliiIOl0ilIl, lOIllO0oIOOl)
         end)
-        if iOOOO0IOOIil then
-            lI0l0iOoIIII = lI0l0iOoIIII + #oIOiOllOIi0o
-            print(string.format(iI0llIo0ollI[53], lI0l0iOoIIII, #Oo0I0lI0i0Il))
+        if lIlI0O0OIl0i then
+            iIioiIoIl0ll = iIioiIoIl0ll + #IliiIOl0ilIl
+            print(string.format(oIil00il0IOo[53], iIioiIoIl0ll, #lIOOlIlIoioo))
         else
-            warn(iI0llIo0ollI[54] .. tostring(lOloioloIoll))
+            warn(oIil00il0IOo[54] .. tostring(llOOlooOII0o))
         end
         task.wait(0.5)
     end
 
-    print(string.format(iI0llIo0ollI[55], lI0l0iOoIIII, targetPlayerName))
+    print(string.format(oIil00il0IOo[55], iIioiIoIl0ll, targetPlayerName))
     return true
 end
-local function OilI0llOOlIo()
-    local loiIloOooI0l = {}
-    local oi0O000olII0 = workspace:FindFirstChild(iI0llIo0ollI[56])
-    if oi0O000olII0 then
-        local IIIIil0lIiII = oi0O000olII0:FindFirstChild(iI0llIo0ollI[57])
-        if IIIIil0lIiII then
-            for _, ooo00IOiIIii in ipairs(IIIIil0lIiII:GetChildren()) do
-                if ooo00IOiIIii:IsA(iI0llIo0ollI[25]) and (ooo00IOiIIii:GetAttribute(iI0llIo0ollI[58]) or ooo00IOiIIii:GetAttribute(iI0llIo0ollI[59]) or ooo00IOiIIii:GetAttribute(iI0llIo0ollI[60])) then
-                    local ii0oOo0ooIOl = ooo00IOiIIii.Position + Vector3.new(0, ooo00IOiIIii.Size.Y / 2 + 3, 0)
-                    table.insert(loiIloOooI0l, {O0I0I0IOl00i = ooo00IOiIIii, ii0oOo0ooIOl = ii0oOo0ooIOl})
+local function IilIiIOOiIIO()
+    local oollOl00ooII = {}
+    local lIIoi00iIlOI = workspace:FindFirstChild(oIil00il0IOo[56])
+    if lIIoi00iIlOI then
+        local li0OoOi0io00 = lIIoi00iIlOI:FindFirstChild(oIil00il0IOo[57])
+        if li0OoOi0io00 then
+            for _, IoIIi00lII0o in ipairs(li0OoOi0io00:GetChildren()) do
+                if IoIIi00lII0o:IsA(oIil00il0IOo[25]) and (IoIIi00lII0o:GetAttribute(oIil00il0IOo[58]) or IoIIi00lII0o:GetAttribute(oIil00il0IOo[59]) or IoIIi00lII0o:GetAttribute(oIil00il0IOo[60])) then
+                    local lioooiooO00I = IoIIi00lII0o.Position + Vector3.new(0, IoIIi00lII0o.Size.Y / 2 + 3, 0)
+                    table.insert(oollOl00ooII, {i0iloOi0lOl0 = IoIIi00lII0o, lioooiooO00I = lioooiooO00I})
                 end
             end
         end
     end
-    return loiIloOooI0l
+    return oollOl00ooII
 end
 
-local function IIill0O0oiOI(O0I0I0IOl00i)
-    local ooo00IOiIIii = O0I0I0IOl00i
-    if ooo00IOiIIii:IsA(iI0llIo0ollI[13]) then ooo00IOiIIii = ooo00IOiIIii.PrimaryPart or ooo00IOiIIii:FindFirstChildWhichIsA(iI0llIo0ollI[25]) end
-    if ooo00IOiIIii then
-        local i0ol0Oi0IIIl = ooo00IOiIIii:GetAttribute(iI0llIo0ollI[59]) and iI0llIo0ollI[61] or ooo00IOiIIii:GetAttribute(iI0llIo0ollI[60]) and iI0llIo0ollI[62] or ooo00IOiIIii:GetAttribute(iI0llIo0ollI[58])
-        if i0ol0Oi0IIIl then
-            pcall(function() Il0liOOoIlOi.SeedPackSpawn.Claimed:Fire(i0ol0Oi0IIIl, ooo00IOiIIii.Name) end)
+local function iIioIiioI00o(i0iloOi0lOl0)
+    local IoIIi00lII0o = i0iloOi0lOl0
+    if IoIIi00lII0o:IsA(oIil00il0IOo[13]) then IoIIi00lII0o = IoIIi00lII0o.PrimaryPart or IoIIi00lII0o:FindFirstChildWhichIsA(oIil00il0IOo[25]) end
+    if IoIIi00lII0o then
+        local iOiii0oilliI = IoIIi00lII0o:GetAttribute(oIil00il0IOo[59]) and oIil00il0IOo[61] or IoIIi00lII0o:GetAttribute(oIil00il0IOo[60]) and oIil00il0IOo[62] or IoIIi00lII0o:GetAttribute(oIil00il0IOo[58])
+        if iOiii0oilliI then
+            pcall(function() IooOIioIOlOO.SeedPackSpawn.Claimed:Fire(iOiii0oilliI, IoIIi00lII0o.Name) end)
             return true
         end
     end
-    local ioi0ooOO0l0O = O0I0I0IOl00i:FindFirstChildWhichIsA(iI0llIo0ollI[12])
-    if not ioi0ooOO0l0O then
-        for _, child in ipairs(O0I0I0IOl00i:GetDescendants()) do
-            if child:IsA(iI0llIo0ollI[12]) then ioi0ooOO0l0O = child; break end
+    local iIIiloOIoOiI = i0iloOi0lOl0:FindFirstChildWhichIsA(oIil00il0IOo[12])
+    if not iIIiloOIoOiI then
+        for _, child in ipairs(i0iloOi0lOl0:GetDescendants()) do
+            if child:IsA(oIil00il0IOo[12]) then iIIiloOIoOiI = child; break end
         end
     end
-    if ioi0ooOO0l0O then
-        local lOlili0iiOIo = ioi0ooOO0l0O.MaxActivationDistance
-        ioi0ooOO0l0O.MaxActivationDistance = math.huge
-        ioi0ooOO0l0O.Enabled = true
-        ioi0ooOO0l0O:InputHoldBegin()
+    if iIIiloOIoOiI then
+        local IilOliOO0loO = iIIiloOIoOiI.MaxActivationDistance
+        iIIiloOIoOiI.MaxActivationDistance = math.huge
+        iIIiloOIoOiI.Enabled = true
+        iIIiloOIoOiI:InputHoldBegin()
         task.wait(0.05)
-        ioi0ooOO0l0O:InputHoldEnd()
-        ioi0ooOO0l0O.MaxActivationDistance = lOlili0iiOIo
+        iIIiloOIoOiI:InputHoldEnd()
+        iIIiloOIoOiI.MaxActivationDistance = IilOliOO0loO
         return true
     end
     return false
 end
 
-local function O0IlIlIIo0io()
+local function iI0i000lllOo()
     while true do
         if _G.autopickseed then
-            local loiIloOooI0l = OilI0llOOlIo()
-            if #loiIloOooI0l > 0 then
-                table.sort(loiIloOooI0l, function(a, b)
-                    local i0iOIi00ill0 = iliOIoOIIlli.Character
-                    if i0iOIi00ill0 and i0iOIi00ill0:FindFirstChild(iI0llIo0ollI[14]) then
-                        local ii0lOIliOlil = i0iOIi00ill0.HumanoidRootPart.Position
-                        return (a.pos - ii0lOIliOlil).Magnitude < (b.pos - ii0lOIliOlil).Magnitude
+            local oollOl00ooII = IilIiIOOiIIO()
+            if #oollOl00ooII > 0 then
+                table.sort(oollOl00ooII, function(a, b)
+                    local iOlio0Il0IIl = IIool000iiOO.Character
+                    if iOlio0Il0IIl and iOlio0Il0IIl:FindFirstChild(oIil00il0IOo[14]) then
+                        local IlIIl0OI0lll = iOlio0Il0IIl.HumanoidRootPart.Position
+                        return (a.pos - IlIIl0OI0lll).Magnitude < (b.pos - IlIIl0OI0lll).Magnitude
                     end
                     return false
                 end)
-                local IO0ll0iooli0 = loiIloOooI0l[1]
-                iOiilooOIOl0(IO0ll0iooli0.pos)
+                local OliolI0OillO = oollOl00ooII[1]
+                oO00olIi0i0O(OliolI0OillO.pos)
                 task.wait(0.3)
-                IIill0O0oiOI(IO0ll0iooli0.model)
+                iIioIiioI00o(OliolI0OillO.model)
             end
         end
         task.wait(0.5)
     end
 end
 
-local function lioOIliIIIoo(oOoiIOo0OIio, o0ooOo00iOOi)
-    local o0iOlIl0oilo = oOoiIOo0OIio:FindFirstChild(iI0llIo0ollI[63])
-    if o0iOlIl0oilo then
-        local IIiI0iiiO0lO = o0iOlIl0oilo:FindFirstChild(iI0llIo0ollI[64])
-        if IIiI0iiiO0lO and IIiI0iiiO0lO:IsA(iI0llIo0ollI[12]) then return IIiI0iiiO0lO end
+local function ooI00iO0liiI(l00IIIIO0oO0, il0IoO0Ooooo)
+    local IOIIlOoIlOli = l00IIIIO0oO0:FindFirstChild(oIil00il0IOo[63])
+    if IOIIlOoIlOli then
+        local Oll00oooIOol = IOIIlOoIlOli:FindFirstChild(oIil00il0IOo[64])
+        if Oll00oooIOol and Oll00oooIOol:IsA(oIil00il0IOo[12]) then return Oll00oooIOol end
     end
 
     
-    local function oiiOoloI0Ili(p)
-        if p:IsA(iI0llIo0ollI[12]) then
-            if p.Name == iI0llIo0ollI[64] then return p end
-            local lIlI0oi00lI0 = p.ActionText:lower()
-            if lIlI0oi00lI0:find(iI0llIo0ollI[65]) then return p end
+    local function Iolliooo0iIO(p)
+        if p:IsA(oIil00il0IOo[12]) then
+            if p.Name == oIil00il0IOo[64] then return p end
+            local io0iii0OIoO0 = p.ActionText:lower()
+            if io0iii0OIoO0:find(oIil00il0IOo[65]) then return p end
         end
         return nil
     end
-    for _, d in ipairs(oOoiIOo0OIio:GetDescendants()) do
-        local p = oiiOoloI0Ili(d)
+    for _, d in ipairs(l00IIIIO0oO0:GetDescendants()) do
+        local p = Iolliooo0iIO(d)
         if p then return p end
     end
-    if o0ooOo00iOOi then
-        for _, d in ipairs(o0ooOo00iOOi:GetDescendants()) do
-            local OlIoI0Il0Oll = oiiOoloI0Ili(d)
-            if OlIoI0Il0Oll then return OlIoI0Il0Oll end
+    if il0IoO0Ooooo then
+        for _, d in ipairs(il0IoO0Ooooo:GetDescendants()) do
+            local oliiIiIOO000 = Iolliooo0iIO(d)
+            if oliiIiIOO000 then return oliiIiIOO000 end
         end
     end
     return nil
 end
 
-local function oIO0I0iO0oll()
-    local llOlllllloOO = {}
-    local ililIioI0iIi = lliIIOilI0II:FindFirstChild(iI0llIo0ollI[66])
-    if not ililIioI0iIi or ililIioI0iIi.Value ~= true then return llOlllllloOO end
-    for _, player in ipairs(oiOOlIOIi00i:GetPlayers()) do
-        if player ~= iliOIoOIIlli and player.Character then
+local function o0ioOiilOloI()
+    local OIoiiI0lOlOi = {}
+    local o0l0lIII0o0i = lIIo0IO00iiO:FindFirstChild(oIil00il0IOo[66])
+    if not o0l0lIII0o0i or o0l0lIII0o0i.Value ~= true then return OIoiiI0lOlOi end
+    for _, player in ipairs(io00lo0I0Ioi:GetPlayers()) do
+        if player ~= IIool000iiOO and player.Character then
             
-            local i0loioIl0OoO = player.Character
-            local OO0III0lllOO = player:GetAttribute(iI0llIo0ollI[21])
-            if OO0III0lllOO then
-                local IliloOOiiOO0 = workspace.Gardens:FindFirstChild(iI0llIo0ollI[22] .. tostring(OO0III0lllOO))
-                if IliloOOiiOO0 then
+            local oOIO0IoIli0o = player.Character
+            local OiIlIioIOIlo = player:GetAttribute(oIil00il0IOo[21])
+            if OiIlIioIOIlo then
+                local oi0OIlO0oO0I = workspace.Gardens:FindFirstChild(oIil00il0IOo[22] .. tostring(OiIlIioIOIlo))
+                if oi0OIlO0oO0I then
                     
-                    local ooII0II0o0li = false
-                    if i0loioIl0OoO and i0loioIl0OoO:FindFirstChild(iI0llIo0ollI[14]) then
-                        local ilolIlIIOolI = i0loioIl0OoO.HumanoidRootPart.Position
-                        local oIIl0OoIoi0I = IliloOOiiOO0:GetPivot().Position
-                        local O0lOlolilOlo = IliloOOiiOO0:GetExtentsSize()
-                        if math.abs(ilolIlIIOolI.X - oIIl0OoIoi0I.X) < O0lOlolilOlo.X/2 + 5
-                        and math.abs(ilolIlIIOolI.Z - oIIl0OoIoi0I.Z) < O0lOlolilOlo.Z/2 + 5 then
-                            ooII0II0o0li = true
+                    local I0oiIOoll00l = false
+                    if oOIO0IoIli0o and oOIO0IoIli0o:FindFirstChild(oIil00il0IOo[14]) then
+                        local I0iO0IlO0Iil = oOIO0IoIli0o.HumanoidRootPart.Position
+                        local oIlIliIlO0OO = oi0OIlO0oO0I:GetPivot().Position
+                        local IiIoiIloOI0O = oi0OIlO0oO0I:GetExtentsSize()
+                        if math.abs(I0iO0IlO0Iil.X - oIlIliIlO0OO.X) < IiIoiIloOI0O.X/2 + 5
+                        and math.abs(I0iO0IlO0Iil.Z - oIlIliIlO0OO.Z) < IiIoiIloOI0O.Z/2 + 5 then
+                            I0oiIOoll00l = true
                         end
                     end
-                    if not ooII0II0o0li then
-                        local IiIIIoIIl0Ol = IliloOOiiOO0:FindFirstChild(iI0llIo0ollI[67])
-                        if IiIIIoIIl0Ol then
-                            for _, oOoiIOo0OIio in ipairs(IiIIIoIIl0Ol:GetChildren()) do
-                                local OililIIOi0li = oOoiIOo0OIio:FindFirstChild(iI0llIo0ollI[68])
-                                if OililIIOi0li then
-                                    for _, o0ooOo00iOOi in ipairs(OililIIOi0li:GetChildren()) do
-                                        local iioli0Oollol = o0ooOo00iOOi:GetAttribute(iI0llIo0ollI[69])
-                                        local O0loOOIoooOi = o0ooOo00iOOi:GetAttribute(iI0llIo0ollI[70])
-                                        local lOi000oioIoo  = tonumber(o0ooOo00iOOi:GetAttribute(iI0llIo0ollI[71]))
-                                        if iioli0Oollol and O0loOOIoooOi and lOi000oioIoo and not _G.StealBlacklist[iioli0Oollol] then
-                                            local o0iOlIl0oilo = oOoiIOo0OIio:FindFirstChild(iI0llIo0ollI[63])
-                                            local ii0oOo0ooIOl
-                                            if o0iOlIl0oilo then
-                                                ii0oOo0ooIOl = o0iOlIl0oilo.Position
+                    if not I0oiIOoll00l then
+                        local iIOIllO0ooOi = oi0OIlO0oO0I:FindFirstChild(oIil00il0IOo[67])
+                        if iIOIllO0ooOi then
+                            for _, l00IIIIO0oO0 in ipairs(iIOIllO0ooOi:GetChildren()) do
+                                local IloliIilOOil = l00IIIIO0oO0:FindFirstChild(oIil00il0IOo[68])
+                                if IloliIilOOil then
+                                    for _, il0IoO0Ooooo in ipairs(IloliIilOOil:GetChildren()) do
+                                        local Ol00ioOIoiO0 = il0IoO0Ooooo:GetAttribute(oIil00il0IOo[69])
+                                        local I0OIilIioOIo = il0IoO0Ooooo:GetAttribute(oIil00il0IOo[70])
+                                        local iOi00il0o0l0  = tonumber(il0IoO0Ooooo:GetAttribute(oIil00il0IOo[71]))
+                                        if Ol00ioOIoiO0 and I0OIilIioOIo and iOi00il0o0l0 and not _G.StealBlacklist[Ol00ioOIoiO0] then
+                                            local IOIIlOoIlOli = l00IIIIO0oO0:FindFirstChild(oIil00il0IOo[63])
+                                            local lioooiooO00I
+                                            if IOIIlOoIlOli then
+                                                lioooiooO00I = IOIIlOoIlOli.Position
                                             else
-                                                ii0oOo0ooIOl = o0ooOo00iOOi.PrimaryPart and o0ooOo00iOOi.PrimaryPart.Position or o0ooOo00iOOi:GetPivot().Position
+                                                lioooiooO00I = il0IoO0Ooooo.PrimaryPart and il0IoO0Ooooo.PrimaryPart.Position or il0IoO0Ooooo:GetPivot().Position
                                             end
-                                            table.insert(llOlllllloOO, {
-                                                o0ooOo00iOOi=o0ooOo00iOOi, oOoiIOo0OIio=oOoiIOo0OIio, ii0oOo0ooIOl=ii0oOo0ooIOl,
-                                                player=player, O0loOOIoooOi=O0loOOIoooOi,
-                                                iioli0Oollol=iioli0Oollol, lOi000oioIoo=lOi000oioIoo
+                                            table.insert(OIoiiI0lOlOi, {
+                                                il0IoO0Ooooo=il0IoO0Ooooo, l00IIIIO0oO0=l00IIIIO0oO0, lioooiooO00I=lioooiooO00I,
+                                                player=player, I0OIilIioOIo=I0OIilIioOIo,
+                                                Ol00ioOIoiO0=Ol00ioOIoiO0, iOi00il0o0l0=iOi00il0o0l0
                                             })
                                         end
                                     end
@@ -1036,79 +1045,79 @@ local function oIO0I0iO0oll()
             end
         end
     end
-    return llOlllllloOO
+    return OIoiiI0lOlOi
 end
 
-local function Oo0o0IOiIloo(IO0ll0iooli0)
-    if not (IO0ll0iooli0.userId and IO0ll0iooli0.plantId and IO0ll0iooli0.fruitId) then return false end
+local function iiOIlloIIoli(OliolI0OillO)
+    if not (OliolI0OillO.userId and OliolI0OillO.plantId and OliolI0OillO.fruitId) then return false end
 
-    local oOoiIOo0OIio = IO0ll0iooli0.plant
-    local o0ooOo00iOOi = IO0ll0iooli0.fruit
+    local l00IIIIO0oO0 = OliolI0OillO.plant
+    local il0IoO0Ooooo = OliolI0OillO.fruit
 
     
-    local ioi0ooOO0l0O = oOoiIOo0OIio and lioOIliIIIoo(oOoiIOo0OIio, o0ooOo00iOOi)
+    local iIIiloOIoOiI = l00IIIIO0oO0 and ooI00iO0liiI(l00IIIIO0oO0, il0IoO0Ooooo)
 
-    if ioi0ooOO0l0O and fireInstantPrompt(ioi0ooOO0l0O) then
+    if iIIiloOIoOiI and fireInstantPrompt(iIIiloOIoOiI) then
         return true
     end
 
     
-    local iOOOO0IOOIil, lOloioloIoll = pcall(function()
-        Il0liOOoIlOi.Steal.BeginSteal:Fire(IO0ll0iooli0.userId, IO0ll0iooli0.plantId, IO0ll0iooli0.fruitId)
-        Il0liOOoIlOi.Steal.CompleteSteal:Fire()
+    local lIlI0O0OIl0i, llOOlooOII0o = pcall(function()
+        IooOIioIOlOO.Steal.BeginSteal:Fire(OliolI0OillO.userId, OliolI0OillO.plantId, OliolI0OillO.fruitId)
+        IooOIioIOlOO.Steal.CompleteSteal:Fire()
     end)
-    if not iOOOO0IOOIil then warn(iI0llIo0ollI[72], lOloioloIoll) end
-    return iOOOO0IOOIil
+    if not lIlI0O0OIl0i then warn(oIil00il0IOo[72], llOOlooOII0o) end
+    return lIlI0O0OIl0i
 end
 
-local function looIlOloOoOI()
+local function iIIIIIiIoIoI()
     while true do
         if _G.autosteal then
-            local llOlllllloOO = oIO0I0iO0oll()
-            if #llOlllllloOO > 0 then
-                local OollIO0O0iiI = nil
-                local lolIIo0OOoIl = tick()
+            local OIoiiI0lOlOi = o0ioOiilOloI()
+            if #OIoiiI0lOlOi > 0 then
+                local liolll00OOiI = nil
+                local lliOO00ioIoO = tick()
 
-                for _, IO0ll0iooli0 in ipairs(llOlllllloOO) do
+                for _, OliolI0OillO in ipairs(OIoiiI0lOlOi) do
                     if not _G.autosteal then break end
 
-                    if OollIO0O0iiI ~= IO0ll0iooli0.plantId then
-                        OollIO0O0iiI = IO0ll0iooli0.plantId
-                        lolIIo0OOoIl = tick()
+                    if liolll00OOiI ~= OliolI0OillO.plantId then
+                        liolll00OOiI = OliolI0OillO.plantId
+                        lliOO00ioIoO = tick()
                     end
 
-                    if tick() - lolIIo0OOoIl >= 7 then
-                        _G.StealBlacklist[IO0ll0iooli0.fruitId] = true
+                    if tick() - lliOO00ioIoO >= 7 then
+                        _G.StealBlacklist[OliolI0OillO.fruitId] = true
                         continue
                     end
 
-                    local i0iOIi00ill0 = iliOIoOIIlli.Character
-                    local IIolillIl0ll  = i0iOIi00ill0 and i0iOIi00ill0:FindFirstChild(iI0llIo0ollI[14])
-                    local IIi0II0OiIII = true
-                    if IIolillIl0ll then
-                        IIi0II0OiIII = (IIolillIl0ll.Position - IO0ll0iooli0.pos).Magnitude > 3
+                    local iOlio0Il0IIl = IIool000iiOO.Character
+                    local Olo0oOIoIII0  = iOlio0Il0IIl and iOlio0Il0IIl:FindFirstChild(oIil00il0IOo[14])
+                    local oO00oiOIOIlo = true
+                    if Olo0oOIoIII0 then
+                        oO00oiOIOIlo = (Olo0oOIoIII0.Position - OliolI0OillO.pos).Magnitude > 3
                     end
-                    if IIi0II0OiIII then
-                        iOiilooOIOl0(IO0ll0iooli0.pos, 1800)
+                    if oO00oiOIOIlo then
+                        oO00olIi0i0O(OliolI0OillO.pos, 1800)
                     end
 
-                    local lOi000oioIoo, O0loOOIoooOi, iioli0Oollol = IO0ll0iooli0.userId, IO0ll0iooli0.plantId, IO0ll0iooli0.fruitId
-                    if lOi000oioIoo and O0loOOIoooOi and iioli0Oollol then
+                    local iOi00il0o0l0, I0OIilIioOIo, Ol00ioOIoiO0 = OliolI0OillO.userId, OliolI0OillO.plantId, OliolI0OillO.fruitId
+                    if iOi00il0o0l0 and I0OIilIioOIo and Ol00ioOIoiO0 then
 
-                        _G.StealBlacklist[iioli0Oollol] = true
+                        _G.StealBlacklist[Ol00ioOIoiO0] = true
 
                         task.spawn(function()
                             pcall(function()
-                                Il0liOOoIlOi.Steal.BeginSteal:Fire(lOi000oioIoo, O0loOOIoooOi, iioli0Oollol)
+                                IooOIioIOlOO.Steal.BeginSteal:Fire(iOi00il0o0l0, I0OIilIioOIo, Ol00ioOIoiO0)
                                 task.wait(0.05)
-                                Il0liOOoIlOi.Steal.CompleteSteal:Fire()
+                                IooOIioIOlOO.Steal.CompleteSteal:Fire()
                             end)
                         end)
                     end
                     task.wait(0.05)
                 end
 
-                l0liloiOIilO()
+                liIo0OI0I000()
                 task.wait(1)
             else
                 task.wait(1)
@@ -1119,86 +1128,86 @@ local function looIlOloOoOI()
     end
 end
 
-local llilOolO0loo = {}
-for _, data in ipairs(liIlOlil0llo) do
-    if data.SeedName and data.Rarity then llilOolO0loo[data.SeedName] = data.Rarity end
+local iliO0o0llOo0 = {}
+for _, data in ipairs(oOliOoilll0o) do
+    if data.SeedName and data.Rarity then iliO0o0llOo0[data.SeedName] = data.Rarity end
 end
 
-local function oolllIoIIooI(o0oIOIIoIoll)
-    local Ii0iiIio0iOl = lliIIOilI0II:FindFirstChild(o0oIOIIoIoll)
-    return Ii0iiIio0iOl and Ii0iiIio0iOl:IsA(iI0llIo0ollI[73]) and Ii0iiIio0iOl.Value == true
+local function loIOiIioolIi(ioIOioII0oIi)
+    local IiiIiiIOOlIl = lIIo0IO00iiO:FindFirstChild(ioIOioII0oIi)
+    return IiiIiiIOOlIl and IiiIiiIOOlIl:IsA(oIil00il0IOo[73]) and IiiIiiIOOlIl.Value == true
 end
 
-local function oloiOoOIo0ll()
+local function OoIolO0iOl0l()
     while true do
         if _G.harvest then
-            local li0OOoIoIIi0 = false
-            if _G.harvestpause and type(_G.harvestpauseevents) == iI0llIo0ollI[48] then
+            local O0oliioIiIio = false
+            if _G.harvestpause and type(_G.harvestpauseevents) == oIil00il0IOo[48] then
                 for eventName, enabled in pairs(_G.harvestpauseevents) do
-                    if enabled and oolllIoIIooI(eventName) then
-                        li0OOoIoIIi0 = true
+                    if enabled and loIOiIioolIi(eventName) then
+                        O0oliioIiIio = true
                         break
                     end
                 end
             end
-            if not li0OOoIoIIi0 then
-                local iOlOOoOololO = oOO0l0lioIOl:GetTagged(iI0llIo0ollI[74])
-                local i0ilOIoli0Oi = false
-                for _, ioi0ooOO0l0O in ipairs(iOlOOoOololO) do
+            if not O0oliioIiIio then
+                local oo0OIi0l0I0l = o0IOioiIlIOi:GetTagged(oIil00il0IOo[74])
+                local ooiilIllllli = false
+                for _, iIIiloOIoOiI in ipairs(oo0OIi0l0I0l) do
                     if not _G.harvest then break end
-                    if ioi0ooOO0l0O:IsA(iI0llIo0ollI[12]) and ioi0ooOO0l0O.Enabled then
-                        local Iii0ol0l0Oio = nil
-                        local OllOO0llil00 = ioi0ooOO0l0O.Parent
-                        while OllOO0llil00 do
-                            if OllOO0llil00:IsA(iI0llIo0ollI[13]) and OllOO0llil00:GetAttribute(iI0llIo0ollI[69]) then Iii0ol0l0Oio = OllOO0llil00 break end
-                            OllOO0llil00 = OllOO0llil00.Parent
+                    if iIIiloOIoOiI:IsA(oIil00il0IOo[12]) and iIIiloOIoOiI.Enabled then
+                        local Oi0IIOIoi000 = nil
+                        local o0lIoIillOol = iIIiloOIoOiI.Parent
+                        while o0lIoIillOol do
+                            if o0lIoIillOol:IsA(oIil00il0IOo[13]) and o0lIoIillOol:GetAttribute(oIil00il0IOo[69]) then Oi0IIOIoi000 = o0lIoIillOol break end
+                            o0lIoIillOol = o0lIoIillOol.Parent
                         end
-                        if Iii0ol0l0Oio then
-                            local liOIIiiO0loo = Iii0ol0l0Oio:GetAttribute(iI0llIo0ollI[75]) or Iii0ol0l0Oio:GetAttribute(iI0llIo0ollI[76])
-                            local iOioOO0oolli = true
-                            if type(_G.harvestfilter) == iI0llIo0ollI[48] and next(_G.harvestfilter) ~= nil then
-                                if not _G.harvestfilter[iI0llIo0ollI[2]] then
-                                    iOioOO0oolli = _G.harvestfilter[liOIIiiO0loo] == true
+                        if Oi0IIOIoi000 then
+                            local I0iiliOliOIO = Oi0IIOIoi000:GetAttribute(oIil00il0IOo[75]) or Oi0IIOIoi000:GetAttribute(oIil00il0IOo[76])
+                            local iI0i0ioliIiO = true
+                            if type(_G.harvestfilter) == oIil00il0IOo[48] and next(_G.harvestfilter) ~= nil then
+                                if not _G.harvestfilter[oIil00il0IOo[2]] then
+                                    iI0i0ioliIiO = _G.harvestfilter[I0iiliOliOIO] == true
                                 end
                             end
-                            if iOioOO0oolli and _G.harvestrarity ~= iI0llIo0ollI[2] then
-                                local iOl0iol0IiOI = llilOolO0loo[liOIIiiO0loo]
-                                if not iOl0iol0IiOI or iOl0iol0IiOI ~= _G.harvestrarity then iOioOO0oolli = false end
+                            if iI0i0ioliIiO and _G.harvestrarity ~= oIil00il0IOo[2] then
+                                local oOoolliolOiO = iliO0o0llOo0[I0iiliOliOIO]
+                                if not oOoolliolOiO or oOoolliolOiO ~= _G.harvestrarity then iI0i0ioliIiO = false end
                             end
-                            if iOioOO0oolli and type(_G.noharvestmutations) == iI0llIo0ollI[48] then
-                                local lloiIloio00o = Iii0ol0l0Oio:GetAttribute(iI0llIo0ollI[77])
-                                if lloiIloio00o and _G.noharvestmutations[lloiIloio00o] then iOioOO0oolli = false end
+                            if iI0i0ioliIiO and type(_G.noharvestmutations) == oIil00il0IOo[48] then
+                                local oo0IIIlOloOo = Oi0IIOIoi000:GetAttribute(oIil00il0IOo[77])
+                                if oo0IIIlOloOo and _G.noharvestmutations[oo0IIIlOloOo] then iI0i0ioliIiO = false end
                             end
-                            if iOioOO0oolli then
-                                i0ilOIoli0Oi = true
+                            if iI0i0ioliIiO then
+                                ooiilIllllli = true
                                 task.spawn(function()
                                     if not _G.harvest then return end
-                                    if not ioi0ooOO0l0O:IsDescendantOf(workspace) or not ioi0ooOO0l0O.Enabled then return end
-                                    if not Iii0ol0l0Oio:IsDescendantOf(workspace) then return end
-                                    local O0loOOIoooOi = Iii0ol0l0Oio:GetAttribute(iI0llIo0ollI[70])
-                                    local iioli0Oollol = Iii0ol0l0Oio:GetAttribute(iI0llIo0ollI[69]) or ""
-                                    if O0loOOIoooOi then
-                                        local lOlili0iiOIo = ioi0ooOO0l0O.MaxActivationDistance
-                                        ioi0ooOO0l0O.MaxActivationDistance = math.huge
-                                        local IlioOo0i0Oio = math.max(ioi0ooOO0l0O.HoldDuration, 0.05)
-                                        ioi0ooOO0l0O:InputHoldBegin()
-                                        task.wait(IlioOo0i0Oio + 0.03)
-                                        ioi0ooOO0l0O:InputHoldEnd()
-                                        Il0liOOoIlOi.Garden.CollectFruit:Fire(O0loOOIoooOi, iioli0Oollol)
-                                        ioi0ooOO0l0O.MaxActivationDistance = lOlili0iiOIo
+                                    if not iIIiloOIoOiI:IsDescendantOf(workspace) or not iIIiloOIoOiI.Enabled then return end
+                                    if not Oi0IIOIoi000:IsDescendantOf(workspace) then return end
+                                    local I0OIilIioOIo = Oi0IIOIoi000:GetAttribute(oIil00il0IOo[70])
+                                    local Ol00ioOIoiO0 = Oi0IIOIoi000:GetAttribute(oIil00il0IOo[69]) or ""
+                                    if I0OIilIioOIo then
+                                        local IilOliOO0loO = iIIiloOIoOiI.MaxActivationDistance
+                                        iIIiloOIoOiI.MaxActivationDistance = math.huge
+                                        local l0oilOO0ooIO = math.max(iIIiloOIoOiI.HoldDuration, 0.05)
+                                        iIIiloOIoOiI:InputHoldBegin()
+                                        task.wait(l0oilOO0ooIO + 0.03)
+                                        iIIiloOIoOiI:InputHoldEnd()
+                                        IooOIioIOlOO.Garden.CollectFruit:Fire(I0OIilIioOIo, Ol00ioOIoiO0)
+                                        iIIiloOIoOiI.MaxActivationDistance = IilOliOO0loO
                                     end
                                 end)
                             end
                         end
                     end
                 end
-                if i0ilOIoli0Oi then
-                    local I0OoIiOIiOlI = tick()
-                    if I0OoIiOIiOlI - (_G.LastHarvestReturn or 0) >= 2 then
-                        _G.LastHarvestReturn = I0OoIiOIiOlI
+                if ooiilIllllli then
+                    local lOIoo0O00I00 = tick()
+                    if lOIoo0O00I00 - (_G.LastHarvestReturn or 0) >= 2 then
+                        _G.LastHarvestReturn = lOIoo0O00I00
                         task.spawn(function()
                             task.wait(0.2) 
-                            l0liloiOIilO()
+                            liIo0OI0I000()
                         end)
                     end
                 end
@@ -1208,37 +1217,37 @@ local function oloiOoOIo0ll()
     end
 end
 
-local function iiOlioi0oO0l()
+local function IliOiolIoIil()
     while true do
-        if _G.sell then pcall(function() Il0liOOoIlOi.NPCS.SellAll:Fire() end) end
+        if _G.sell then pcall(function() IooOIioIOlOO.NPCS.SellAll:Fire() end) end
         task.wait(0.5)
     end
 end
 
-local function IiOlO0iO0oiI()
+local function oioOol0IIOO0()
     while true do
         if _G.autoseed then
-            local Olo0oool0iIO = {}
-            for _, tag in ipairs({iI0llIo0ollI[78], iI0llIo0ollI[79], iI0llIo0ollI[80]}) do
-                for _, p in ipairs(oOO0l0lioIOl:GetTagged(tag)) do
-                    if p:IsA(iI0llIo0ollI[12]) and p.Enabled then table.insert(Olo0oool0iIO, p) end
+            local IilIIlOo0OO0 = {}
+            for _, tag in ipairs({oIil00il0IOo[78], oIil00il0IOo[79], oIil00il0IOo[80]}) do
+                for _, p in ipairs(o0IOioiIlIOi:GetTagged(tag)) do
+                    if p:IsA(oIil00il0IOo[12]) and p.Enabled then table.insert(IilIIlOo0OO0, p) end
                 end
             end
-            if #Olo0oool0iIO == 0 then
-                for _, Ii0iiIio0iOl in ipairs(workspace:GetDescendants()) do
-                    if Ii0iiIio0iOl:IsA(iI0llIo0ollI[12]) and Ii0iiIio0iOl.Enabled and (Ii0iiIio0iOl.Name:lower():find(iI0llIo0ollI[81]) or Ii0iiIio0iOl.Name:lower():find(iI0llIo0ollI[82])) then
-                        table.insert(Olo0oool0iIO, Ii0iiIio0iOl)
+            if #IilIIlOo0OO0 == 0 then
+                for _, IiiIiiIOOlIl in ipairs(workspace:GetDescendants()) do
+                    if IiiIiiIOOlIl:IsA(oIil00il0IOo[12]) and IiiIiiIOOlIl.Enabled and (IiiIiiIOOlIl.Name:lower():find(oIil00il0IOo[81]) or IiiIiiIOOlIl.Name:lower():find(oIil00il0IOo[82])) then
+                        table.insert(IilIIlOo0OO0, IiiIiiIOOlIl)
                     end
                 end
             end
-            for _, ioi0ooOO0l0O in ipairs(Olo0oool0iIO) do
-                local lOlili0iiOIo = ioi0ooOO0l0O.MaxActivationDistance
-                ioi0ooOO0l0O.MaxActivationDistance = math.huge
-                local IlioOo0i0Oio = math.max(ioi0ooOO0l0O.HoldDuration, 0.05)
-                ioi0ooOO0l0O:InputHoldBegin()
-                task.wait(IlioOo0i0Oio + 0.03)
-                ioi0ooOO0l0O:InputHoldEnd()
-                ioi0ooOO0l0O.MaxActivationDistance = lOlili0iiOIo
+            for _, iIIiloOIoOiI in ipairs(IilIIlOo0OO0) do
+                local IilOliOO0loO = iIIiloOIoOiI.MaxActivationDistance
+                iIIiloOIoOiI.MaxActivationDistance = math.huge
+                local l0oilOO0ooIO = math.max(iIIiloOIoOiI.HoldDuration, 0.05)
+                iIIiloOIoOiI:InputHoldBegin()
+                task.wait(l0oilOO0ooIO + 0.03)
+                iIIiloOIoOiI:InputHoldEnd()
+                iIIiloOIoOiI.MaxActivationDistance = IilOliOO0loO
                 task.wait(0.01)
             end
         end
@@ -1246,129 +1255,129 @@ local function IiOlO0iO0oiI()
     end
 end
 
-local function oIIloiOOl0iI()
+local function oOOOoloIooII()
     while true do
-        local ooilIllilill = iliOIoOIIlli.PlayerGui:FindFirstChild(iI0llIo0ollI[83])
-        if ooilIllilill then ooilIllilill.Enabled = _G.openshop end
+        local IlOiOii0O0lI = IIool000iiOO.PlayerGui:FindFirstChild(oIil00il0IOo[83])
+        if IlOiOii0O0lI then IlOiOii0O0lI.Enabled = _G.openshop end
         task.wait(5)
     end
 end
 
-local ioIOililOlI0 = {}
-for _, data in ipairs(liIlOlil0llo) do
-    if data.SeedName then table.insert(ioIOililOlI0, data.SeedName) end
+local IlOlloiOlOi0 = {}
+for _, data in ipairs(oOliOoilll0o) do
+    if data.SeedName then table.insert(IlOlloiOlOi0, data.SeedName) end
 end
-table.sort(ioIOililOlI0)
+table.sort(IlOlloiOlOi0)
 
-local function i0olO0lOo0iI()
+local function oliiIIllIli0()
     while true do
-        if _G.autobuy and type(_G.autobuyseed) == iI0llIo0ollI[48] and next(_G.autobuyseed) then
-            for O0iilo0iOil0, enabled in pairs(_G.autobuyseed) do
-                if enabled then pcall(function() Il0liOOoIlOi.SeedShop.PurchaseSeed:Fire(O0iilo0iOil0) end) end
+        if _G.autobuy and type(_G.autobuyseed) == oIil00il0IOo[48] and next(_G.autobuyseed) then
+            for ll0oIoOiOIIl, enabled in pairs(_G.autobuyseed) do
+                if enabled then pcall(function() IooOIioIOlOO.SeedShop.PurchaseSeed:Fire(ll0oIoOiOIIl) end) end
             end
         end
         task.wait(1)
     end
 end
 
-local I0lilOoilolo = {}
-local IlOiollilOOi, iiloi0o00olo = pcall(function()
-    return require(lliIIOilI0II:WaitForChild(iI0llIo0ollI[84]):WaitForChild(iI0llIo0ollI[85]))
+local OiO0iooI0iO0 = {}
+local IlIoIll0Ilio, l0OI0Ooii00o = pcall(function()
+    return require(lIIo0IO00iiO:WaitForChild(oIil00il0IOo[84]):WaitForChild(oIil00il0IOo[85]))
 end)
-if IlOiollilOOi and iiloi0o00olo then
-    for petName, _ in pairs(iiloi0o00olo) do table.insert(I0lilOoilolo, petName) end
+if IlIoIll0Ilio and l0OI0Ooii00o then
+    for petName, _ in pairs(l0OI0Ooii00o) do table.insert(OiO0iooI0iO0, petName) end
 else
-    I0lilOoilolo = {iI0llIo0ollI[86],iI0llIo0ollI[87],iI0llIo0ollI[88],iI0llIo0ollI[89],iI0llIo0ollI[90],iI0llIo0ollI[91],iI0llIo0ollI[92],iI0llIo0ollI[93],iI0llIo0ollI[94],iI0llIo0ollI[95],iI0llIo0ollI[96],iI0llIo0ollI[97]}
+    OiO0iooI0iO0 = {oIil00il0IOo[86],oIil00il0IOo[87],oIil00il0IOo[88],oIil00il0IOo[89],oIil00il0IOo[90],oIil00il0IOo[91],oIil00il0IOo[92],oIil00il0IOo[93],oIil00il0IOo[94],oIil00il0IOo[95],oIil00il0IOo[96],oIil00il0IOo[97]}
 end
-table.sort(I0lilOoilolo)
+table.sort(OiO0iooI0iO0)
 
-local function OiOI00o000Io()
+local function OoO0Iiil00l0()
     while true do
-        if _G.autobuypet and type(_G.autobuypetname) == iI0llIo0ollI[48] and next(_G.autobuypetname) then
+        if _G.autobuypet and type(_G.autobuypetname) == oIil00il0IOo[48] and next(_G.autobuypetname) then
             for petName, enabled in pairs(_G.autobuypetname) do
-                if enabled then pcall(function() Il0liOOoIlOi.GearShop.PurchaseGear:Fire(petName) end) end
+                if enabled then pcall(function() IooOIioIOlOO.GearShop.PurchaseGear:Fire(petName) end) end
             end
         end
         task.wait(1)
     end
 end
 
-local IIlOiliiol0l = {
-    iI0llIo0ollI[98],
-    iI0llIo0ollI[99],
-    iI0llIo0ollI[100],
-    iI0llIo0ollI[101],
-    iI0llIo0ollI[102],
-    iI0llIo0ollI[103],
-    iI0llIo0ollI[104],
-    iI0llIo0ollI[105],
-    iI0llIo0ollI[106],
-    iI0llIo0ollI[107],
-    iI0llIo0ollI[108],
-    iI0llIo0ollI[109],
-    iI0llIo0ollI[110],
-    iI0llIo0ollI[111],
-    iI0llIo0ollI[112],
-    iI0llIo0ollI[113],
-    iI0llIo0ollI[114],
-    iI0llIo0ollI[115],
-    iI0llIo0ollI[116]
+local O0iIOlI0IoI0 = {
+    oIil00il0IOo[98],
+    oIil00il0IOo[99],
+    oIil00il0IOo[100],
+    oIil00il0IOo[101],
+    oIil00il0IOo[102],
+    oIil00il0IOo[103],
+    oIil00il0IOo[104],
+    oIil00il0IOo[105],
+    oIil00il0IOo[106],
+    oIil00il0IOo[107],
+    oIil00il0IOo[108],
+    oIil00il0IOo[109],
+    oIil00il0IOo[110],
+    oIil00il0IOo[111],
+    oIil00il0IOo[112],
+    oIil00il0IOo[113],
+    oIil00il0IOo[114],
+    oIil00il0IOo[115],
+    oIil00il0IOo[116]
 }
-table.sort(IIlOiliiol0l)
+table.sort(O0iIOlI0IoI0)
 
-local function o0ioiOOIllii()
+local function OiiOil0llolO()
     while true do
-        if _G.autobuygear and type(_G.autobuygearname) == iI0llIo0ollI[48] and next(_G.autobuygearname) then
+        if _G.autobuygear and type(_G.autobuygearname) == oIil00il0IOo[48] and next(_G.autobuygearname) then
             for gearName, enabled in pairs(_G.autobuygearname) do
-                if enabled then pcall(function() Il0liOOoIlOi.GearShop.PurchaseGear:Fire(gearName) end) end
+                if enabled then pcall(function() IooOIioIOlOO.GearShop.PurchaseGear:Fire(gearName) end) end
             end
         end
         task.wait(1)
     end
 end
 
-local function oi0lO0il00li()
-    local i0iOIi00ill0 = iliOIoOIIlli.Character
-    local ooIIlOii0oi0 = i0iOIi00ill0 and i0iOIi00ill0:FindFirstChildWhichIsA(iI0llIo0ollI[117])
-    if ooIIlOii0oi0 and ooIIlOii0oi0:GetAttribute(iI0llIo0ollI[118]) then return ooIIlOii0oi0 end
-    local o0iiOioiO0Ii = iliOIoOIIlli:FindFirstChildOfClass(iI0llIo0ollI[119])
-    if o0iiOioiO0Ii then
-        for _, t in o0iiOioiO0Ii:GetChildren() do
-            if t:IsA(iI0llIo0ollI[117]) and t:GetAttribute(iI0llIo0ollI[118]) then return t end
+local function iOOil0llOoI0()
+    local iOlio0Il0IIl = IIool000iiOO.Character
+    local ll0iolIiO0l0 = iOlio0Il0IIl and iOlio0Il0IIl:FindFirstChildWhichIsA(oIil00il0IOo[117])
+    if ll0iolIiO0l0 and ll0iolIiO0l0:GetAttribute(oIil00il0IOo[118]) then return ll0iolIiO0l0 end
+    local Il0oioOol0ii = IIool000iiOO:FindFirstChildOfClass(oIil00il0IOo[119])
+    if Il0oioOol0ii then
+        for _, t in Il0oioOol0ii:GetChildren() do
+            if t:IsA(oIil00il0IOo[117]) and t:GetAttribute(oIil00il0IOo[118]) then return t end
         end
     end
     return nil
 end
 
-local function IIOio00IiiII()
+local function oili0O0oooi0()
     while true do
         if _G.autoshovel then
-            local OO0III0lllOO = iliOIoOIIlli:GetAttribute(iI0llIo0ollI[21])
-            if OO0III0lllOO then
-                local iOIooO0OOlOo = workspace.Gardens:FindFirstChild(iI0llIo0ollI[22] .. tostring(OO0III0lllOO))
-                if iOIooO0OOlOo then
-                    local Io0OoilIoI0o = iOIooO0OOlOo:FindFirstChild(iI0llIo0ollI[67])
-                    if Io0OoilIoI0o then
-                        local I0oOOl0oiloI = {}
-                        for _, oOoiIOo0OIio in ipairs(Io0OoilIoI0o:GetChildren()) do
-                            if oOoiIOo0OIio:IsA(iI0llIo0ollI[13]) then
-                                local O0iilo0iOil0 = oOoiIOo0OIio:GetAttribute(iI0llIo0ollI[76])
-                                if O0iilo0iOil0 then
-                                    local iOl0iol0IiOI = llilOolO0loo[O0iilo0iOil0] or iI0llIo0ollI[120]
-                                    if _G.autoshovelrarity == iI0llIo0ollI[2] or iOl0iol0IiOI == _G.autoshovelrarity then
-                                        table.insert(I0oOOl0oiloI, oOoiIOo0OIio)
+            local OiIlIioIOIlo = IIool000iiOO:GetAttribute(oIil00il0IOo[21])
+            if OiIlIioIOIlo then
+                local ilioooo00Ooo = workspace.Gardens:FindFirstChild(oIil00il0IOo[22] .. tostring(OiIlIioIOIlo))
+                if ilioooo00Ooo then
+                    local lIoll0lioiiO = ilioooo00Ooo:FindFirstChild(oIil00il0IOo[67])
+                    if lIoll0lioiiO then
+                        local ioo0liIil0ll = {}
+                        for _, l00IIIIO0oO0 in ipairs(lIoll0lioiiO:GetChildren()) do
+                            if l00IIIIO0oO0:IsA(oIil00il0IOo[13]) then
+                                local ll0oIoOiOIIl = l00IIIIO0oO0:GetAttribute(oIil00il0IOo[76])
+                                if ll0oIoOiOIIl then
+                                    local oOoolliolOiO = iliO0o0llOo0[ll0oIoOiOIIl] or oIil00il0IOo[120]
+                                    if _G.autoshovelrarity == oIil00il0IOo[2] or oOoolliolOiO == _G.autoshovelrarity then
+                                        table.insert(ioo0liIil0ll, l00IIIIO0oO0)
                                     end
                                 end
                             end
                         end
-                        local liooioOI0oiO = oi0lO0il00li()
-                        if liooioOI0oiO and #I0oOOl0oiloI > 0 then
-                            for _, oOoiIOo0OIio in ipairs(I0oOOl0oiloI) do
+                        local loloi0IooioO = iOOil0llOoI0()
+                        if loloi0IooioO and #ioo0liIil0ll > 0 then
+                            for _, l00IIIIO0oO0 in ipairs(ioo0liIil0ll) do
                                 if not _G.autoshovel then break end
-                                local O0loOOIoooOi = oOoiIOo0OIio:GetAttribute(iI0llIo0ollI[70])
-                                local I0Ooili0iOIl = liooioOI0oiO:GetAttribute(iI0llIo0ollI[118])
-                                if O0loOOIoooOi and I0Ooili0iOIl then
-                                    pcall(function() Il0liOOoIlOi.Shovel.UseShovel:Fire(O0loOOIoooOi, "", I0Ooili0iOIl, liooioOI0oiO) end)
+                                local I0OIilIioOIo = l00IIIIO0oO0:GetAttribute(oIil00il0IOo[70])
+                                local IOOIII0lOlOO = loloi0IooioO:GetAttribute(oIil00il0IOo[118])
+                                if I0OIilIioOIo and IOOIII0lOlOO then
+                                    pcall(function() IooOIioIOlOO.Shovel.UseShovel:Fire(I0OIilIioOIo, "", IOOIII0lOlOO, loloi0IooioO) end)
                                 end
                                 task.wait(0.1)
                             end
@@ -1381,155 +1390,155 @@ local function IIOio00IiiII()
     end
 end
 
-local function IlIolollOIIo(position)
-    local o0iiOioiO0Ii = iliOIoOIIlli:FindFirstChildOfClass(iI0llIo0ollI[119])
-    if not o0iiOioiO0Ii then return false end
-    local OIolIi0Oi0OI = nil
-    for _, ooIIlOii0oi0 in o0iiOioiO0Ii:GetChildren() do
-        if ooIIlOii0oi0:IsA(iI0llIo0ollI[117]) and ooIIlOii0oi0:GetAttribute(iI0llIo0ollI[121]) then OIolIi0Oi0OI = ooIIlOii0oi0 break end
+local function lIlio00OOOOo(position)
+    local Il0oioOol0ii = IIool000iiOO:FindFirstChildOfClass(oIil00il0IOo[119])
+    if not Il0oioOol0ii then return false end
+    local OIiOoll0Ilol = nil
+    for _, ll0iolIiO0l0 in Il0oioOol0ii:GetChildren() do
+        if ll0iolIiO0l0:IsA(oIil00il0IOo[117]) and ll0iolIiO0l0:GetAttribute(oIil00il0IOo[121]) then OIiOoll0Ilol = ll0iolIiO0l0 break end
     end
-    if not OIolIi0Oi0OI then return false end
-    Il0liOOoIlOi.Plant.PlantSeed:Fire(position, OIolIi0Oi0OI:GetAttribute(iI0llIo0ollI[121]), OIolIi0Oi0OI)
+    if not OIiOoll0Ilol then return false end
+    IooOIioIOlOO.Plant.PlantSeed:Fire(position, OIiOoll0Ilol:GetAttribute(oIil00il0IOo[121]), OIiOoll0Ilol)
     return true
 end
 
-local function liIiO0iOOliI(position)
-    local l0oolOIolOii = RaycastParams.new()
-    l0oolOIolOii.FilterType = Enum.RaycastFilterType.Include
-    l0oolOIolOii.FilterDescendantsInstances = oOO0l0lioIOl:GetTagged(iI0llIo0ollI[122])
-    local o00IIOl0lOiI = workspace:Raycast(position + Vector3.new(0, 10, 0), Vector3.new(0, -20, 0), l0oolOIolOii)
-    return o00IIOl0lOiI and o00IIOl0lOiI.Position or nil
+local function OiOOloO0OIoo(position)
+    local oOoI0iIlio0i = RaycastParams.new()
+    oOoI0iIlio0i.FilterType = Enum.RaycastFilterType.Include
+    oOoI0iIlio0i.FilterDescendantsInstances = o0IOioiIlIOi:GetTagged(oIil00il0IOo[122])
+    local l0OlOOlO0i00 = workspace:Raycast(position + Vector3.new(0, 10, 0), Vector3.new(0, -20, 0), oOoI0iIlio0i)
+    return l0OlOOlO0i00 and l0OlOOlO0i00.Position or nil
 end
 
-local function Oi0IIoloIoIi()
+local function l0ollol0i0il()
     while true do
         if _G.autoplant then
-            local iOIooO0OOlOo = workspace.Gardens:FindFirstChild(iI0llIo0ollI[22] .. iliOIoOIIlli:GetAttribute(iI0llIo0ollI[21]))
-            if iOIooO0OOlOo then
+            local ilioooo00Ooo = workspace.Gardens:FindFirstChild(oIil00il0IOo[22] .. IIool000iiOO:GetAttribute(oIil00il0IOo[21]))
+            if ilioooo00Ooo then
                 local targetPos
-                if _G.plantmode == iI0llIo0ollI[123] then
-                    local IIolillIl0ll = iliOIoOIIlli.Character and iliOIoOIIlli.Character:FindFirstChild(iI0llIo0ollI[14])
-                    if IIolillIl0ll then targetPos = liIiO0iOOliI(IIolillIl0ll.Position) end
+                if _G.plantmode == oIil00il0IOo[123] then
+                    local Olo0oOIoIII0 = IIool000iiOO.Character and IIool000iiOO.Character:FindFirstChild(oIil00il0IOo[14])
+                    if Olo0oOIoIII0 then targetPos = OiOOloO0OIoo(Olo0oOIoIII0.Position) end
                 else
-                    local iIO00lI0oiI0 = {}
-                    for _, IloIoIOli0oo in ipairs(oOO0l0lioIOl:GetTagged(iI0llIo0ollI[122])) do
-                        if IloIoIOli0oo:IsDescendantOf(iOIooO0OOlOo) then table.insert(iIO00lI0oiI0, IloIoIOli0oo) end
+                    local ii0IiiioioOo = {}
+                    for _, OOOoOOlloO0I in ipairs(o0IOioiIlIOi:GetTagged(oIil00il0IOo[122])) do
+                        if OOOoOOlloO0I:IsDescendantOf(ilioooo00Ooo) then table.insert(ii0IiiioioOo, OOOoOOlloO0I) end
                     end
-                    if #iIO00lI0oiI0 > 0 then
-                        local IloIoIOli0oo = iIO00lI0oiI0[math.random(1, #iIO00lI0oiI0)]
-                        local ii0oOo0ooIOl, iOOiI0Oi0oIi = IloIoIOli0oo.Position, IloIoIOli0oo.Size
+                    if #ii0IiiioioOo > 0 then
+                        local OOOoOOlloO0I = ii0IiiioioOo[math.random(1, #ii0IiiioioOo)]
+                        local lioooiooO00I, lo0iooolio0O = OOOoOOlloO0I.Position, OOOoOOlloO0I.Size
                         targetPos = Vector3.new(
-                            ii0oOo0ooIOl.X + (math.random() - 0.5) * iOOiI0Oi0oIi.X,
-                            ii0oOo0ooIOl.Y + iOOiI0Oi0oIi.Y/2 + 0.1,
-                            ii0oOo0ooIOl.Z + (math.random() - 0.5) * iOOiI0Oi0oIi.Z
+                            lioooiooO00I.X + (math.random() - 0.5) * lo0iooolio0O.X,
+                            lioooiooO00I.Y + lo0iooolio0O.Y/2 + 0.1,
+                            lioooiooO00I.Z + (math.random() - 0.5) * lo0iooolio0O.Z
                         )
                     end
                 end
-                if targetPos then IlIolollOIIo(targetPos) end
+                if targetPos then lIlio00OOOOo(targetPos) end
             end
         end
         task.wait(0.3)
     end
 end
 
-local function IlIOO0oOlOll()
-    local oolooolilOIo = {iI0llIo0ollI[2]}
-    local OO0III0lllOO = iliOIoOIIlli:GetAttribute(iI0llIo0ollI[21])
-    if OO0III0lllOO then
-        local iOIooO0OOlOo = workspace.Gardens:FindFirstChild(iI0llIo0ollI[22] .. tostring(OO0III0lllOO))
-        if iOIooO0OOlOo then
-            local Io0OoilIoI0o = iOIooO0OOlOo:FindFirstChild(iI0llIo0ollI[67])
-            if Io0OoilIoI0o then
-                local iiII0Il0iO00 = {}
-                for _, oOoiIOo0OIio in ipairs(Io0OoilIoI0o:GetChildren()) do
-                    local o0oIOIIoIoll = oOoiIOo0OIio:GetAttribute(iI0llIo0ollI[76])
-                    if o0oIOIIoIoll and not iiII0Il0iO00[o0oIOIIoIoll] then iiII0Il0iO00[o0oIOIIoIoll] = true table.insert(oolooolilOIo, o0oIOIIoIoll) end
+local function lOiooOIoIIOl()
+    local lo0liOOIOOI0 = {oIil00il0IOo[2]}
+    local OiIlIioIOIlo = IIool000iiOO:GetAttribute(oIil00il0IOo[21])
+    if OiIlIioIOIlo then
+        local ilioooo00Ooo = workspace.Gardens:FindFirstChild(oIil00il0IOo[22] .. tostring(OiIlIioIOIlo))
+        if ilioooo00Ooo then
+            local lIoll0lioiiO = ilioooo00Ooo:FindFirstChild(oIil00il0IOo[67])
+            if lIoll0lioiiO then
+                local OlI0OiO0iIiI = {}
+                for _, l00IIIIO0oO0 in ipairs(lIoll0lioiiO:GetChildren()) do
+                    local ioIOioII0oIi = l00IIIIO0oO0:GetAttribute(oIil00il0IOo[76])
+                    if ioIOioII0oIi and not OlI0OiO0iIiI[ioIOioII0oIi] then OlI0OiO0iIiI[ioIOioII0oIi] = true table.insert(lo0liOOIOOI0, ioIOioII0oIi) end
                 end
             end
         end
     end
-    return oolooolilOIo
+    return lo0liOOIOOI0
 end
 
-local oIOioooI0OlO = {}
-local oIoI00o0iiOl = pcall(function()
-    local i0ioOi0Iio0i = lliIIOilI0II:WaitForChild(iI0llIo0ollI[5]):WaitForChild(iI0llIo0ollI[124])
-    if i0ioOi0Iio0i then
-        for _, moduleScript in i0ioOi0Iio0i:GetChildren() do
-            if moduleScript:IsA(iI0llIo0ollI[125]) then table.insert(oIOioooI0OlO, moduleScript.Name) end
+local IolilIillIOo = {}
+local iiloil0il0o0 = pcall(function()
+    local lIOIoIlO0l0i = lIIo0IO00iiO:WaitForChild(oIil00il0IOo[5]):WaitForChild(oIil00il0IOo[124])
+    if lIOIoIlO0l0i then
+        for _, moduleScript in lIOIoIlO0l0i:GetChildren() do
+            if moduleScript:IsA(oIil00il0IOo[125]) then table.insert(IolilIillIOo, moduleScript.Name) end
         end
     end
 end)
-if not oIoI00o0iiOl or #oIOioooI0OlO == 0 then
-    oIOioooI0OlO = {iI0llIo0ollI[62],iI0llIo0ollI[61],iI0llIo0ollI[126],iI0llIo0ollI[127],iI0llIo0ollI[128],iI0llIo0ollI[129],iI0llIo0ollI[130]}
+if not iiloil0il0o0 or #IolilIillIOo == 0 then
+    IolilIillIOo = {oIil00il0IOo[62],oIil00il0IOo[61],oIil00il0IOo[126],oIil00il0IOo[127],oIil00il0IOo[128],oIil00il0IOo[129],oIil00il0IOo[130]}
 end
-table.sort(oIOioooI0OlO)
+table.sort(IolilIillIOo)
 
-task.spawn(oloiOoOIo0ll)
-task.spawn(iiOlioi0oO0l)
-task.spawn(IiOlO0iO0oiI)
-task.spawn(O0IlIlIIo0io)
-_G.StealLoopTask = task.spawn(looIlOloOoOI)
-task.spawn(Oi0IIoloIoIi)
-task.spawn(oIIloiOOl0iI)
-task.spawn(i0olO0lOo0iI)
-task.spawn(OiOI00o000Io)
-task.spawn(o0ioiOOIllii)
-task.spawn(IIOio00IiiII)
+task.spawn(OoIolO0iOl0l)
+task.spawn(IliOiolIoIil)
+task.spawn(oioOol0IIOO0)
+task.spawn(iI0i000lllOo)
+_G.StealLoopTask = task.spawn(iIIIIIiIoIoI)
+task.spawn(l0ollol0i0il)
+task.spawn(oOOOoloIooII)
+task.spawn(oliiIIllIli0)
+task.spawn(OoO0Iiil00l0)
+task.spawn(OiiOil0llolO)
+task.spawn(oili0O0oooi0)
 
 
 
 local _fluentSrc, _saveSrc, _ifaceSrc
-task.spawn(function() _fluentSrc = game:HttpGet(iI0llIo0ollI[131]) end)
-task.spawn(function() _saveSrc    = game:HttpGet(iI0llIo0ollI[132]) end)
-task.spawn(function() _ifaceSrc   = game:HttpGet(iI0llIo0ollI[133]) end)
+task.spawn(function() _fluentSrc = game:HttpGet(oIil00il0IOo[131]) end)
+task.spawn(function() _saveSrc    = game:HttpGet(oIil00il0IOo[132]) end)
+task.spawn(function() _ifaceSrc   = game:HttpGet(oIil00il0IOo[133]) end)
 repeat task.wait(0.05) until _fluentSrc and _saveSrc and _ifaceSrc
 
-local IlIOilIioIOl           = loadstring(_fluentSrc)()
-local IIoI0illO0II          = IlIOilIioIOl
-local IlIOIOI0il0O      = loadstring(_saveSrc)()
-local ii0iilIIli0I = loadstring(_ifaceSrc)()
+local oo00lOiIiOoi           = loadstring(_fluentSrc)()
+local iioioIOo0lOo          = oo00lOiIiOoi
+local oiOloO0IOoOo      = loadstring(_saveSrc)()
+local I0Iol0ol0iIi = loadstring(_ifaceSrc)()
 _fluentSrc = nil; _saveSrc = nil; _ifaceSrc = nil
 
-local llilo0Olio0i = IIoI0illO0II:CreateWindow({
-    Title       = iI0llIo0ollI[134],
-    SubTitle    = iI0llIo0ollI[135],
+local Oo0iooOl0oio = iioioIOo0lOo:CreateWindow({
+    Title       = oIil00il0IOo[134],
+    SubTitle    = oIil00il0IOo[135],
     TabWidth    = 150,
     Size        = UDim2.fromOffset(620, 367),
     Acrylic     = false,
-    Theme       = iI0llIo0ollI[136],
+    Theme       = oIil00il0IOo[136],
     MinimizeKey = Enum.KeyCode.RightControl
 })
 
-local OoOliIO0loo0 = {
-    Farm   = llilo0Olio0i:AddTab({ Title = iI0llIo0ollI[137],   Icon = iI0llIo0ollI[138]          }),
-    Shop   = llilo0Olio0i:AddTab({ Title = iI0llIo0ollI[139],   Icon = iI0llIo0ollI[140] }),
-    Pet    = llilo0Olio0i:AddTab({ Title = iI0llIo0ollI[141],    Icon = iI0llIo0ollI[142]          }),
-    Shovel = llilo0Olio0i:AddTab({ Title = iI0llIo0ollI[118], Icon = iI0llIo0ollI[143]        }),
-    Config = llilo0Olio0i:AddTab({ Title = iI0llIo0ollI[144], Icon = iI0llIo0ollI[145]      }),
-    Gift   = llilo0Olio0i:AddTab({ Title = iI0llIo0ollI[146],   Icon = iI0llIo0ollI[147]          }),
+local ioIlOoilOOoi = {
+    Farm   = Oo0iooOl0oio:AddTab({ Title = oIil00il0IOo[137],   Icon = oIil00il0IOo[138]          }),
+    Shop   = Oo0iooOl0oio:AddTab({ Title = oIil00il0IOo[139],   Icon = oIil00il0IOo[140] }),
+    Pet    = Oo0iooOl0oio:AddTab({ Title = oIil00il0IOo[141],    Icon = oIil00il0IOo[142]          }),
+    Shovel = Oo0iooOl0oio:AddTab({ Title = oIil00il0IOo[118], Icon = oIil00il0IOo[143]        }),
+    Config = Oo0iooOl0oio:AddTab({ Title = oIil00il0IOo[144], Icon = oIil00il0IOo[145]      }),
+    Gift   = Oo0iooOl0oio:AddTab({ Title = oIil00il0IOo[146],   Icon = oIil00il0IOo[147]          }),
 }
-IlIOIOI0il0O:SetLibrary(IIoI0illO0II)
-IlIOIOI0il0O:IgnoreThemeSettings()
-IlIOIOI0il0O:SetFolder(iI0llIo0ollI[148] .. game.PlaceId)
-IlIOIOI0il0O:BuildConfigSection(OoOliIO0loo0.Config)
+oiOloO0IOoOo:SetLibrary(iioioIOo0lOo)
+oiOloO0IOoOo:IgnoreThemeSettings()
+oiOloO0IOoOo:SetFolder(oIil00il0IOo[148] .. game.PlaceId)
+oiOloO0IOoOo:BuildConfigSection(ioIlOoilOOoi.Config)
 
 
 do
-    local llilooIIIoiO = game:GetService(iI0llIo0ollI[149])
-    local illOO0olI0Io    = game:GetService(iI0llIo0ollI[150])
-    local lOoI0OoOooOO        = game:GetService(iI0llIo0ollI[151])
-    local lI0OoIlOlIoi        = illOO0olI0Io:FindFirstChild(iI0llIo0ollI[152])
-    if lI0OoIlOlIoi then lI0OoIlOlIoi:Destroy() end
+    local iOOlOoo0oiIl = game:GetService(oIil00il0IOo[149])
+    local liIoiOoOOiol    = game:GetService(oIil00il0IOo[150])
+    local oOOlIiOolIOl        = game:GetService(oIil00il0IOo[151])
+    local Oi0OiiOll0IO        = liIoiOoOOiol:FindFirstChild(oIil00il0IOo[152])
+    if Oi0OiiOll0IO then Oi0OiiOll0IO:Destroy() end
 
-    local lO0l0olO0iOO = false
-    local ol0iIoO0o0il  = 56
-    local loilOlIOlOIl    = 3
-    local ooI0l0IiiooI   = iI0llIo0ollI[153]
-    local oiiIO00o0li0  = Color3.fromRGB(30, 30, 30)
-    local OllollOliilO = Color3.fromRGB(55, 55, 55)
-    local IOIoli00i0Ii  = Color3.fromRGB(20, 20, 20)
-    local lOi0l0lIOol0 = {
+    local iiiiIolOoOll = false
+    local iloIlllOiOl0  = 56
+    local OioI000iI0oO    = 3
+    local II0OlIoIIoIl   = oIil00il0IOo[153]
+    local iI00i0ooIo0I  = Color3.fromRGB(30, 30, 30)
+    local IIiooiOIOoII = Color3.fromRGB(55, 55, 55)
+    local II00I0l0ooI0  = Color3.fromRGB(20, 20, 20)
+    local ilooIIoIOlOI = {
         Color3.fromRGB(255,  50,  50),
         Color3.fromRGB(255, 160,   0),
         Color3.fromRGB(240, 230,   0),
@@ -1539,109 +1548,109 @@ do
         Color3.fromRGB(255,  80, 200),
     }
 
-    local iOO00OlO0ooI = Instance.new(iI0llIo0ollI[154])
-    iOO00OlO0ooI.Name           = iI0llIo0ollI[152]
-    iOO00OlO0ooI.ResetOnSpawn   = false
-    iOO00OlO0ooI.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-    iOO00OlO0ooI.DisplayOrder   = 999
-    iOO00OlO0ooI.Parent         = illOO0olI0Io
+    local Ii00lo0O00oi = Instance.new(oIil00il0IOo[154])
+    Ii00lo0O00oi.Name           = oIil00il0IOo[152]
+    Ii00lo0O00oi.ResetOnSpawn   = false
+    Ii00lo0O00oi.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    Ii00lo0O00oi.DisplayOrder   = 999
+    Ii00lo0O00oi.Parent         = liIoiOoOOiol
 
-    local OlO0I0IiIlo0 = Instance.new(iI0llIo0ollI[155])
-    OlO0I0IiIlo0.Size             = UDim2.new(0, ol0iIoO0o0il + loilOlIOlOIl*2, 0, ol0iIoO0o0il + loilOlIOlOIl*2)
-    OlO0I0IiIlo0.Position         = UDim2.new(0, 12, 0, 12)
-    OlO0I0IiIlo0.BackgroundColor3 = lOi0l0lIOol0[1]
-    OlO0I0IiIlo0.BorderSizePixel  = 0
-    OlO0I0IiIlo0.ZIndex           = 9
-    OlO0I0IiIlo0.Parent           = iOO00OlO0ooI
-    Instance.new(iI0llIo0ollI[156], OlO0I0IiIlo0).CornerRadius = UDim.new(0.5, 0)
+    local lioioooOl0iO = Instance.new(oIil00il0IOo[155])
+    lioioooOl0iO.Size             = UDim2.new(0, iloIlllOiOl0 + OioI000iI0oO*2, 0, iloIlllOiOl0 + OioI000iI0oO*2)
+    lioioooOl0iO.Position         = UDim2.new(0, 12, 0, 12)
+    lioioooOl0iO.BackgroundColor3 = ilooIIoIOlOI[1]
+    lioioooOl0iO.BorderSizePixel  = 0
+    lioioooOl0iO.ZIndex           = 9
+    lioioooOl0iO.Parent           = Ii00lo0O00oi
+    Instance.new(oIil00il0IOo[156], lioioooOl0iO).CornerRadius = UDim.new(0.5, 0)
 
-    local OoOlIoiOll0l = Instance.new(iI0llIo0ollI[157])
-    OoOlIoiOll0l.Size             = UDim2.new(0, ol0iIoO0o0il, 0, ol0iIoO0o0il)
-    OoOlIoiOll0l.Position         = UDim2.new(0, loilOlIOlOIl, 0, loilOlIOlOIl)
-    OoOlIoiOll0l.BackgroundColor3 = oiiIO00o0li0
-    OoOlIoiOll0l.Text             = ""
-    OoOlIoiOll0l.BorderSizePixel  = 0
-    OoOlIoiOll0l.AutoButtonColor  = false
-    OoOlIoiOll0l.ZIndex           = 10
-    OoOlIoiOll0l.Parent           = OlO0I0IiIlo0
-    Instance.new(iI0llIo0ollI[156], OoOlIoiOll0l).CornerRadius = UDim.new(0.5, 0)
+    local liOOO00O00Io = Instance.new(oIil00il0IOo[157])
+    liOOO00O00Io.Size             = UDim2.new(0, iloIlllOiOl0, 0, iloIlllOiOl0)
+    liOOO00O00Io.Position         = UDim2.new(0, OioI000iI0oO, 0, OioI000iI0oO)
+    liOOO00O00Io.BackgroundColor3 = iI00i0ooIo0I
+    liOOO00O00Io.Text             = ""
+    liOOO00O00Io.BorderSizePixel  = 0
+    liOOO00O00Io.AutoButtonColor  = false
+    liOOO00O00Io.ZIndex           = 10
+    liOOO00O00Io.Parent           = lioioooOl0iO
+    Instance.new(oIil00il0IOo[156], liOOO00O00Io).CornerRadius = UDim.new(0.5, 0)
 
-    local Oli0iIoOoO0l = Instance.new(iI0llIo0ollI[158], OoOlIoiOll0l)
-    Oli0iIoOoO0l.Size                   = UDim2.new(0.74, 0, 0.74, 0)
-    Oli0iIoOoO0l.Position               = UDim2.new(0.13, 0, 0.13, 0)
-    Oli0iIoOoO0l.BackgroundTransparency = 1
-    Oli0iIoOoO0l.Image                  = ooI0l0IiiooI
-    Oli0iIoOoO0l.ZIndex                 = 11
-    Oli0iIoOoO0l.ScaleType              = Enum.ScaleType.Fit
-    Instance.new(iI0llIo0ollI[156], Oli0iIoOoO0l).CornerRadius = UDim.new(0.5, 0)
+    local IIo00ol0iool = Instance.new(oIil00il0IOo[158], liOOO00O00Io)
+    IIo00ol0iool.Size                   = UDim2.new(0.74, 0, 0.74, 0)
+    IIo00ol0iool.Position               = UDim2.new(0.13, 0, 0.13, 0)
+    IIo00ol0iool.BackgroundTransparency = 1
+    IIo00ol0iool.Image                  = II0OlIoIIoIl
+    IIo00ol0iool.ZIndex                 = 11
+    IIo00ol0iool.ScaleType              = Enum.ScaleType.Fit
+    Instance.new(oIil00il0IOo[156], IIo00ol0iool).CornerRadius = UDim.new(0.5, 0)
 
-    local oIi0IlOIOllI, lililIIoii0i = 1, 0
-    OlO0I0IiIlo0.BackgroundColor3 = lOi0l0lIOol0[oIi0IlOIOllI]
-    local oI00IlIil0io = llilooIIIoiO.Heartbeat:Connect(function(dt)
-        lililIIoii0i = lililIIoii0i + dt
-        if lililIIoii0i >= 0.13 then
-            lililIIoii0i = 0
-            oIi0IlOIOllI  = oIi0IlOIOllI % #lOi0l0lIOol0 + 1
-            OlO0I0IiIlo0.BackgroundColor3 = lOi0l0lIOol0[oIi0IlOIOllI]
+    local ol0IiOiiiilo, OlOIiliooolO = 1, 0
+    lioioooOl0iO.BackgroundColor3 = ilooIIoIOlOI[ol0IiOiiiilo]
+    local oliIiOlliIIO = iOOlOoo0oiIl.Heartbeat:Connect(function(dt)
+        OlOIiliooolO = OlOIiliooolO + dt
+        if OlOIiliooolO >= 0.13 then
+            OlOIiliooolO = 0
+            ol0IiOiiiilo  = ol0IiOiiiilo % #ilooIIoIOlOI + 1
+            lioioooOl0iO.BackgroundColor3 = ilooIIoIOlOI[ol0IiOiiiilo]
         end
     end)
-    iOO00OlO0ooI.AncestryChanged:Connect(function()
-        if not iOO00OlO0ooI.Parent then oI00IlIil0io:Disconnect() end
+    Ii00lo0O00oi.AncestryChanged:Connect(function()
+        if not Ii00lo0O00oi.Parent then oliIiOlliIIO:Disconnect() end
     end)
 
-    OoOlIoiOll0l.MouseEnter:Connect(function()
-        OoOlIoiOll0l.BackgroundColor3 = lO0l0olO0iOO and IOIoli00i0Ii or OllollOliilO
+    liOOO00O00Io.MouseEnter:Connect(function()
+        liOOO00O00Io.BackgroundColor3 = iiiiIolOoOll and II00I0l0ooI0 or IIiooiOIOoII
     end)
-    OoOlIoiOll0l.MouseLeave:Connect(function()
-        OoOlIoiOll0l.BackgroundColor3 = lO0l0olO0iOO and IOIoli00i0Ii or oiiIO00o0li0
+    liOOO00O00Io.MouseLeave:Connect(function()
+        liOOO00O00Io.BackgroundColor3 = iiiiIolOoOll and II00I0l0ooI0 or iI00i0ooIo0I
     end)
 
-    local oII0OoiIO0o0, OIoIoloOlIII, IOoOlill0IlO, I0lOoI0OiOOl = false, nil, nil, false
-    OoOlIoiOll0l.InputBegan:Connect(function(inp)
+    local OIiiooOlIIol, IoO0oOIO0i00, ioIiO00llOol, Oi0iI0OOIi0O = false, nil, nil, false
+    liOOO00O00Io.InputBegan:Connect(function(inp)
         if inp.UserInputType == Enum.UserInputType.MouseButton1
         or inp.UserInputType == Enum.UserInputType.Touch then
-            oII0OoiIO0o0 = true; I0lOoI0OiOOl = false
-            OIoIoloOlIII = inp.Position; IOoOlill0IlO = OlO0I0IiIlo0.Position
+            OIiiooOlIIol = true; Oi0iI0OOIi0O = false
+            IoO0oOIO0i00 = inp.Position; ioIiO00llOol = lioioooOl0iO.Position
         end
     end)
-    lOoI0OoOooOO.InputChanged:Connect(function(inp)
-        if not oII0OoiIO0o0 then return end
+    oOOlIiOolIOl.InputChanged:Connect(function(inp)
+        if not OIiiooOlIIol then return end
         if inp.UserInputType == Enum.UserInputType.MouseMovement
         or inp.UserInputType == Enum.UserInputType.Touch then
-            local d = inp.Position - OIoIoloOlIII
-            if math.abs(d.X) > 3 or math.abs(d.Y) > 3 then I0lOoI0OiOOl = true end
-            OlO0I0IiIlo0.Position = UDim2.new(
-                IOoOlill0IlO.X.Scale, IOoOlill0IlO.X.Offset + d.X,
-                IOoOlill0IlO.Y.Scale, IOoOlill0IlO.Y.Offset + d.Y
+            local d = inp.Position - IoO0oOIO0i00
+            if math.abs(d.X) > 3 or math.abs(d.Y) > 3 then Oi0iI0OOIi0O = true end
+            lioioooOl0iO.Position = UDim2.new(
+                ioIiO00llOol.X.Scale, ioIiO00llOol.X.Offset + d.X,
+                ioIiO00llOol.Y.Scale, ioIiO00llOol.Y.Offset + d.Y
             )
         end
     end)
-    lOoI0OoOooOO.InputEnded:Connect(function(inp)
+    oOOlIiOolIOl.InputEnded:Connect(function(inp)
         if inp.UserInputType == Enum.UserInputType.MouseButton1
-        or inp.UserInputType == Enum.UserInputType.Touch then oII0OoiIO0o0 = false end
+        or inp.UserInputType == Enum.UserInputType.Touch then OIiiooOlIIol = false end
     end)
 
-    OoOlIoiOll0l.MouseButton1Click:Connect(function()
-        if I0lOoI0OiOOl then return end
-        lO0l0olO0iOO = not lO0l0olO0iOO
-        OoOlIoiOll0l.BackgroundColor3   = lO0l0olO0iOO and IOIoli00i0Ii or oiiIO00o0li0
-        Oli0iIoOoO0l.ImageTransparency = lO0l0olO0iOO and 0.5 or 0
-        local lloi00l0Ill0 = IIoI0illO0II and (IIoI0illO0II.GUI or IIoI0illO0II.Holder or IIoI0illO0II.ScreenGui)
-        if not lloi00l0Ill0 then
-            for _, v in ipairs(illOO0olI0Io:GetChildren()) do
-                if v:IsA(iI0llIo0ollI[154]) and v.Name ~= iI0llIo0ollI[152] and v.Name ~= iI0llIo0ollI[159] then
-                    if v:FindFirstChild(iI0llIo0ollI[160]) or v:FindFirstChild(iI0llIo0ollI[161]) then lloi00l0Ill0 = v break end
+    liOOO00O00Io.MouseButton1Click:Connect(function()
+        if Oi0iI0OOIi0O then return end
+        iiiiIolOoOll = not iiiiIolOoOll
+        liOOO00O00Io.BackgroundColor3   = iiiiIolOoOll and II00I0l0ooI0 or iI00i0ooIo0I
+        IIo00ol0iool.ImageTransparency = iiiiIolOoOll and 0.5 or 0
+        local o0o0IiliIoOO = iioioIOo0lOo and (iioioIOo0lOo.GUI or iioioIOo0lOo.Holder or iioioIOo0lOo.ScreenGui)
+        if not o0o0IiliIoOO then
+            for _, v in ipairs(liIoiOoOOiol:GetChildren()) do
+                if v:IsA(oIil00il0IOo[154]) and v.Name ~= oIil00il0IOo[152] and v.Name ~= oIil00il0IOo[159] then
+                    if v:FindFirstChild(oIil00il0IOo[160]) or v:FindFirstChild(oIil00il0IOo[161]) then o0o0IiliIoOO = v break end
                 end
             end
         end
-        if lloi00l0Ill0 then lloi00l0Ill0.Enabled = not lO0l0olO0iOO end
+        if o0o0IiliIoOO then o0o0IiliIoOO.Enabled = not iiiiIolOoOll end
     end)
 end
 
 
-local iIlOO0oIoioi = OoOliIO0loo0.Farm:AddDropdown(iI0llIo0ollI[162], {
-    Title   = iI0llIo0ollI[163],
-    Values  = IlIOO0oOlOll(),
+local oiilOi00iii0 = ioIlOoilOOoi.Farm:AddDropdown(oIil00il0IOo[162], {
+    Title   = oIil00il0IOo[163],
+    Values  = lOiooOIoIIOl(),
     Multi   = true,
     Default = {},
     Callback = function(v) _G.harvestfilter = v end
@@ -1649,433 +1658,433 @@ local iIlOO0oIoioi = OoOliIO0loo0.Farm:AddDropdown(iI0llIo0ollI[162], {
 task.spawn(function()
     while true do
         task.wait(3)
-        local oi00OolOOIII = IlIOO0oOlOll()
-        local oiOIIooIOOOo = _G.harvestfilter
-        local OoIiOoIO0lOI = {}
-        for _, opt in ipairs(oi00OolOOIII) do
-            if oiOIIooIOOOo[opt] then OoIiOoIO0lOI[opt] = true end
+        local oo0ol0Il0I0I = lOiooOIoIIOl()
+        local I0iol0I0llIO = _G.harvestfilter
+        local lillOl0l000l = {}
+        for _, opt in ipairs(oo0ol0Il0I0I) do
+            if I0iol0I0llIO[opt] then lillOl0l000l[opt] = true end
         end
-        _G.harvestfilter = OoIiOoIO0lOI
-        pcall(function() iIlOO0oIoioi:SetValues(oi00OolOOIII) end)
+        _G.harvestfilter = lillOl0l000l
+        pcall(function() oiilOi00iii0:SetValues(oo0ol0Il0I0I) end)
     end
 end)
 
-OoOliIO0loo0.Farm:AddDropdown(iI0llIo0ollI[164], {
-    Title   = iI0llIo0ollI[165],
-    Values  = {iI0llIo0ollI[2],iI0llIo0ollI[120],iI0llIo0ollI[166],iI0llIo0ollI[167],iI0llIo0ollI[168],iI0llIo0ollI[169],iI0llIo0ollI[170],iI0llIo0ollI[171],iI0llIo0ollI[172]},
-    Default = iI0llIo0ollI[2],
+ioIlOoilOOoi.Farm:AddDropdown(oIil00il0IOo[164], {
+    Title   = oIil00il0IOo[165],
+    Values  = {oIil00il0IOo[2],oIil00il0IOo[120],oIil00il0IOo[166],oIil00il0IOo[167],oIil00il0IOo[168],oIil00il0IOo[169],oIil00il0IOo[170],oIil00il0IOo[171],oIil00il0IOo[172]},
+    Default = oIil00il0IOo[2],
     Callback = function(v) _G.harvestrarity = v end
 })
 
-OoOliIO0loo0.Farm:AddDropdown(iI0llIo0ollI[173], {
-    Title   = iI0llIo0ollI[174],
-    Values  = oIOioooI0OlO,
+ioIlOoilOOoi.Farm:AddDropdown(oIil00il0IOo[173], {
+    Title   = oIil00il0IOo[174],
+    Values  = IolilIillIOo,
     Multi   = true,
     Default = {},
     Callback = function(v) _G.noharvestmutations = v end
 })
 
-OoOliIO0loo0.Farm:AddToggle(iI0llIo0ollI[175], {
-    Title   = iI0llIo0ollI[176],
+ioIlOoilOOoi.Farm:AddToggle(oIil00il0IOo[175], {
+    Title   = oIil00il0IOo[176],
     Default = false,
     Callback = function(v) _G.harvestpause = v end
 })
 
-OoOliIO0loo0.Farm:AddDropdown(iI0llIo0ollI[177], {
-    Title   = iI0llIo0ollI[178],
-    Values  = {iI0llIo0ollI[179],iI0llIo0ollI[180],iI0llIo0ollI[181],iI0llIo0ollI[182],iI0llIo0ollI[183],iI0llIo0ollI[184],iI0llIo0ollI[185]},
+ioIlOoilOOoi.Farm:AddDropdown(oIil00il0IOo[177], {
+    Title   = oIil00il0IOo[178],
+    Values  = {oIil00il0IOo[179],oIil00il0IOo[180],oIil00il0IOo[181],oIil00il0IOo[182],oIil00il0IOo[183],oIil00il0IOo[184],oIil00il0IOo[185]},
     Multi   = true,
     Default = {},
     Callback = function(v) _G.harvestpauseevents = v end
 })
 
-OoOliIO0loo0.Farm:AddToggle(iI0llIo0ollI[186], {
-    Title   = iI0llIo0ollI[187],
+ioIlOoilOOoi.Farm:AddToggle(oIil00il0IOo[186], {
+    Title   = oIil00il0IOo[187],
     Default = false,
     Callback = function(v) _G.harvest = v end
 })
 
-OoOliIO0loo0.Farm:AddToggle(iI0llIo0ollI[188], {
-    Title   = iI0llIo0ollI[189],
+ioIlOoilOOoi.Farm:AddToggle(oIil00il0IOo[188], {
+    Title   = oIil00il0IOo[189],
     Default = false,
     Callback = function(v) _G.sell = v end
 })
-OoOliIO0loo0.Farm:AddSection(iI0llIo0ollI[190])
-OoOliIO0loo0.Farm:AddToggle(iI0llIo0ollI[191], {
-    Title   = iI0llIo0ollI[192],
+ioIlOoilOOoi.Farm:AddSection(oIil00il0IOo[190])
+ioIlOoilOOoi.Farm:AddToggle(oIil00il0IOo[191], {
+    Title   = oIil00il0IOo[192],
     Default = false,
     Callback = function(v) _G.autoplant = v end
 })
 
-OoOliIO0loo0.Farm:AddDropdown(iI0llIo0ollI[193], {
-    Title   = iI0llIo0ollI[194],
-    Values  = {iI0llIo0ollI[195],iI0llIo0ollI[196]},
-    Default = iI0llIo0ollI[1],
+ioIlOoilOOoi.Farm:AddDropdown(oIil00il0IOo[193], {
+    Title   = oIil00il0IOo[194],
+    Values  = {oIil00il0IOo[195],oIil00il0IOo[196]},
+    Default = oIil00il0IOo[1],
     Callback = function(v) _G.plantmode = v end
 })
-OoOliIO0loo0.Farm:AddSection(iI0llIo0ollI[197])
-OoOliIO0loo0.Farm:AddToggle(iI0llIo0ollI[198], {
-    Title   = iI0llIo0ollI[199],
+ioIlOoilOOoi.Farm:AddSection(oIil00il0IOo[197])
+ioIlOoilOOoi.Farm:AddToggle(oIil00il0IOo[198], {
+    Title   = oIil00il0IOo[199],
     Default = false,
     Callback = function(v) _G.autopickseed = v end
 })
 
-OoOliIO0loo0.Farm:AddToggle(iI0llIo0ollI[200], {
-    Title   = iI0llIo0ollI[201],
+ioIlOoilOOoi.Farm:AddToggle(oIil00il0IOo[200], {
+    Title   = oIil00il0IOo[201],
     Default = false,
     Callback = function(v) _G.autosteal = v end
 })
 
 
 
-OoOliIO0loo0.Shop:AddDropdown(iI0llIo0ollI[202], {
-    Title   = iI0llIo0ollI[203],
-    Values  = ioIOililOlI0,
+ioIlOoilOOoi.Shop:AddDropdown(oIil00il0IOo[202], {
+    Title   = oIil00il0IOo[203],
+    Values  = IlOlloiOlOi0,
     Multi   = true,
     Default = {},
     Callback = function(v) _G.autobuyseed = v end
 })
 
-OoOliIO0loo0.Shop:AddToggle(iI0llIo0ollI[204], {
-    Title   = iI0llIo0ollI[205],
+ioIlOoilOOoi.Shop:AddToggle(oIil00il0IOo[204], {
+    Title   = oIil00il0IOo[205],
     Default = false,
     Callback = function(v) _G.autobuy = v end
 })
 
-OoOliIO0loo0.Shop:AddDropdown(iI0llIo0ollI[206], {
-    Title   = iI0llIo0ollI[207],
-    Values  = IIlOiliiol0l,
+ioIlOoilOOoi.Shop:AddDropdown(oIil00il0IOo[206], {
+    Title   = oIil00il0IOo[207],
+    Values  = O0iIOlI0IoI0,
     Multi   = true,
     Default = {},
     Callback = function(v) _G.autobuygearname = v end
 })
 
-OoOliIO0loo0.Shop:AddToggle(iI0llIo0ollI[208], {
-    Title   = iI0llIo0ollI[209],
+ioIlOoilOOoi.Shop:AddToggle(oIil00il0IOo[208], {
+    Title   = oIil00il0IOo[209],
     Default = false,
     Callback = function(v) _G.autobuygear = v end
 })
 
-OoOliIO0loo0.Shop:AddToggle(iI0llIo0ollI[210], {
-    Title   = iI0llIo0ollI[211],
+ioIlOoilOOoi.Shop:AddToggle(oIil00il0IOo[210], {
+    Title   = oIil00il0IOo[211],
     Default = false,
     Callback = function(v) _G.openshop = v end
 })
 
 
 
-OoOliIO0loo0.Pet:AddDropdown(iI0llIo0ollI[212], {
-    Title   = iI0llIo0ollI[213],
-    Values  = I0lilOoilolo,
+ioIlOoilOOoi.Pet:AddDropdown(oIil00il0IOo[212], {
+    Title   = oIil00il0IOo[213],
+    Values  = OiO0iooI0iO0,
     Multi   = true,
     Default = {},
     Callback = function(v) _G.autobuypetname = v end
 })
 
-OoOliIO0loo0.Pet:AddToggle(iI0llIo0ollI[214], {
-    Title   = iI0llIo0ollI[215],
+ioIlOoilOOoi.Pet:AddToggle(oIil00il0IOo[214], {
+    Title   = oIil00il0IOo[215],
     Default = false,
     Callback = function(v) _G.autobuypet = v end
 })
 
 
 
-OoOliIO0loo0.Shovel:AddDropdown(iI0llIo0ollI[216], {
-    Title   = iI0llIo0ollI[165],
-    Values  = {iI0llIo0ollI[2],iI0llIo0ollI[120],iI0llIo0ollI[166],iI0llIo0ollI[167],iI0llIo0ollI[168],iI0llIo0ollI[169],iI0llIo0ollI[170],iI0llIo0ollI[171],iI0llIo0ollI[172]},
-    Default = iI0llIo0ollI[2],
+ioIlOoilOOoi.Shovel:AddDropdown(oIil00il0IOo[216], {
+    Title   = oIil00il0IOo[165],
+    Values  = {oIil00il0IOo[2],oIil00il0IOo[120],oIil00il0IOo[166],oIil00il0IOo[167],oIil00il0IOo[168],oIil00il0IOo[169],oIil00il0IOo[170],oIil00il0IOo[171],oIil00il0IOo[172]},
+    Default = oIil00il0IOo[2],
     Callback = function(v) _G.autoshovelrarity = v end
 })
 
-OoOliIO0loo0.Shovel:AddToggle(iI0llIo0ollI[217], {
-    Title   = iI0llIo0ollI[218],
+ioIlOoilOOoi.Shovel:AddToggle(oIil00il0IOo[217], {
+    Title   = oIil00il0IOo[218],
     Default = false,
     Callback = function(v) _G.autoshovel = v end
 })
-OoOliIO0loo0.Farm:AddSection(iI0llIo0ollI[219])
+ioIlOoilOOoi.Farm:AddSection(oIil00il0IOo[219])
 
 
-local IIlo0OiiiiOI, iOioi0iO0iIo, o0IiiOoOI0OO, lIOIIIoOlllO = {}, {}, nil, false
+local oil0IliIiiil, IiOiOilI0Ii0, li0iiiIIlIIi, ii0ilO0lIloI = {}, {}, nil, false
 
 do
-    local IoOOi0OiiOIo, oI0iiiiOli00 = pcall(function()
-        return iliOIoOIIlli:WaitForChild(iI0llIo0ollI[220]):WaitForChild(iI0llIo0ollI[221]):WaitForChild(iI0llIo0ollI[222])
+    local oOO0llioiolO, lIollIoIiolI = pcall(function()
+        return IIool000iiOO:WaitForChild(oIil00il0IOo[220]):WaitForChild(oIil00il0IOo[221]):WaitForChild(oIil00il0IOo[222])
     end)
-    if IoOOi0OiiOIo and oI0iiiiOli00 then
-        for _, child in ipairs(oI0iiiiOli00:GetChildren()) do
-            if child:IsA(iI0llIo0ollI[125]) then
-                local iOOOO0IOOIil, IO0OiOIOlOol = pcall(require, child)
-                if iOOOO0IOOIil and type(IO0OiOIOlOol) == iI0llIo0ollI[48] and IO0OiOIOlOol.StartWeather then
-                    table.insert(IIlo0OiiiiOI, {Name = child.Name, Module = IO0OiOIOlOol})
-                    table.insert(iOioi0iO0iIo, child.Name)
+    if oOO0llioiolO and lIollIoIiolI then
+        for _, child in ipairs(lIollIoIiolI:GetChildren()) do
+            if child:IsA(oIil00il0IOo[125]) then
+                local lIlI0O0OIl0i, ilio0IIOIi0l = pcall(require, child)
+                if lIlI0O0OIl0i and type(ilio0IIOIi0l) == oIil00il0IOo[48] and ilio0IIOIi0l.StartWeather then
+                    table.insert(oil0IliIiiil, {Name = child.Name, Module = ilio0IIOIi0l})
+                    table.insert(IiOiOilI0Ii0, child.Name)
                 end
             end
         end
     else
-        warn(iI0llIo0ollI[223])
+        warn(oIil00il0IOo[223])
     end
 end
 
-local function llO0IiIoll0O()
-    if o0IiiOoOI0OO and o0IiiOoOI0OO.EndWeather then
-        pcall(o0IiiOoOI0OO.EndWeather)
+local function OiilOliiol0o()
+    if li0iiiIIlIIi and li0iiiIIlIIi.EndWeather then
+        pcall(li0iiiIIlIIi.EndWeather)
     end
-    o0IiiOoOI0OO = nil
+    li0iiiIIlIIi = nil
 end
 
-local function lOO0OOOiiiio(o0oIOIIoIoll)
-    llO0IiIoll0O()
-    for _, w in ipairs(IIlo0OiiiiOI) do
-        if w.Name == o0oIOIIoIoll then
-            o0IiiOoOI0OO = w.Module
+local function liooO0iIoOoO(ioIOioII0oIi)
+    OiilOliiol0o()
+    for _, w in ipairs(oil0IliIiiil) do
+        if w.Name == ioIOioII0oIi then
+            li0iiiIIlIIi = w.Module
             pcall(w.Module.StartWeather)
             break
         end
     end
 end
 
-if #iOioi0iO0iIo == 0 then
-    iOioi0iO0iIo = {iI0llIo0ollI[224]}
+if #IiOiOilI0Ii0 == 0 then
+    IiOiOilI0Ii0 = {oIil00il0IOo[224]}
 end
 
-OoOliIO0loo0.Farm:AddToggle(iI0llIo0ollI[225], {
-    Title   = iI0llIo0ollI[226],
+ioIlOoilOOoi.Farm:AddToggle(oIil00il0IOo[225], {
+    Title   = oIil00il0IOo[226],
     Default = false,
     Callback = function(v)
-        lIOIIIoOlllO = v
-        if not v then llO0IiIoll0O() end
+        ii0ilO0lIloI = v
+        if not v then OiilOliiol0o() end
     end
 })
 
-OoOliIO0loo0.Farm:AddDropdown(iI0llIo0ollI[227], {
-    Title   = iI0llIo0ollI[228],
-    Values  = iOioi0iO0iIo,
-    Default = iOioi0iO0iIo[1],
+ioIlOoilOOoi.Farm:AddDropdown(oIil00il0IOo[227], {
+    Title   = oIil00il0IOo[228],
+    Values  = IiOiOilI0Ii0,
+    Default = IiOiOilI0Ii0[1],
     Callback = function(v)
-        if lIOIIIoOlllO then
-            lOO0OOOiiiio(v)
+        if ii0ilO0lIloI then
+            liooO0iIoOoO(v)
         end
     end
 })
-local IoIil00l0loO = OoOliIO0loo0.Gift:AddSection(iI0llIo0ollI[229])
+local lOOI0iiIoiIl = ioIlOoilOOoi.Gift:AddSection(oIil00il0IOo[229])
 
-OoOliIO0loo0.Gift:AddButton({
-    Title = iI0llIo0ollI[230] .. _G.GiftTargetName,
+ioIlOoilOOoi.Gift:AddButton({
+    Title = oIil00il0IOo[230] .. _G.GiftTargetName,
     Description = "C" .. _G.GiftTargetName,
     Callback = function()
         task.spawn(function()
-            local iOOOO0IOOIil = oiOlOolOi000.SendAllItemsTo(_G.GiftTargetName)
-            if iOOOO0IOOIil then
+            local lIlI0O0OIl0i = oIlolOOoIi0O.SendAllItemsTo(_G.GiftTargetName)
+            if lIlI0O0OIl0i then
             else
             end
         end)
     end
 })
-IlIOIOI0il0O:LoadAutoloadConfig()
+oiOloO0IOoOo:LoadAutoloadConfig()
 
-llilo0Olio0i:SelectTab(1)
+Oo0iooOl0oio:SelectTab(1)
 
 
 
-OoOliIO0loo0.Farm:AddSection(iI0llIo0ollI[231])
+ioIlOoilOOoi.Farm:AddSection(oIil00il0IOo[231])
 
-local Oi0o0IIiOIlO = {}
+local IOo0i0IilIol = {}
 
 do
-    local iOOOO0IOOIil, OIiiOIO0OOlI = pcall(function()
-        return require(lliIIOilI0II:WaitForChild(iI0llIo0ollI[5]):WaitForChild(iI0llIo0ollI[232]))
+    local lIlI0O0OIl0i, iIil0oiio0l0 = pcall(function()
+        return require(lIIo0IO00iiO:WaitForChild(oIil00il0IOo[5]):WaitForChild(oIil00il0IOo[232]))
     end)
 
-    if iOOOO0IOOIil and OIiiOIO0OOlI and OIiiOIO0OOlI.Data then
-        local lOoI0Ii0loOl = {}
-        for o0oIOIIoIoll, data in pairs(OIiiOIO0OOlI.Data) do
-            table.insert(lOoI0Ii0loOl, {
-                Name = o0oIOIIoIoll,
+    if lIlI0O0OIl0i and iIil0oiio0l0 and iIil0oiio0l0.Data then
+        local lolllIOio0Io = {}
+        for ioIOioII0oIi, data in pairs(iIil0oiio0l0.Data) do
+            table.insert(lolllIOio0Io, {
+                Name = ioIOioII0oIi,
                 Weathers = data.Weathers,
                 Duration = data.Lasts,
                 Order = data.StartOrder
             })
         end
-        table.sort(lOoI0Ii0loOl, function(a, b) return a.Order < b.Order end)
+        table.sort(lolllIOio0Io, function(a, b) return a.Order < b.Order end)
 
-        local l00IIOO0o0oO = 0
-        for _, p in ipairs(lOoI0Ii0loOl) do l00IIOO0o0oO = l00IIOO0o0oO + p.Duration end
+        local ii0OiIoi0ll0 = 0
+        for _, p in ipairs(lolllIOio0Io) do ii0OiIoi0ll0 = ii0OiIoi0ll0 + p.Duration end
 
-        local function oli00lOOOIil(Ol00OliOOli0, oIoolIIIilol, II0ioO0IiiiI)
-            local Ii0IoolOolOO = oIoolIIIilol * 1000 + II0ioO0IiiiI
-            local olllOIl00IOo = {}
-            local iiIII000lOiO = 0
-            for wName, wData in pairs(Ol00OliOOli0.Weathers) do
-                local IoIoiioOIoOi = wData.Chance or 0
-                if IoIoiioOIoOi > 0 then
-                    table.insert(olllOIl00IOo, {o0oIOIIoIoll = wName, IoIoiioOIoOi = IoIoiioOIoOi})
-                    iiIII000lOiO = iiIII000lOiO + IoIoiioOIoOi
+        local function il0lllliiIl0(iO0oiIoll0ii, OlOoiiio0olO, IOliiiollIlO)
+            local iiII0IoO0ioi = OlOoiiio0olO * 1000 + IOliiiollIlO
+            local iIoooolI0Ilo = {}
+            local Oi00lOiIIoo0 = 0
+            for wName, wData in pairs(iO0oiIoll0ii.Weathers) do
+                local llll0iIOliiI = wData.Chance or 0
+                if llll0iIOliiI > 0 then
+                    table.insert(iIoooolI0Ilo, {ioIOioII0oIi = wName, llll0iIOliiI = llll0iIOliiI})
+                    Oi00lOiIIoo0 = Oi00lOiIIoo0 + llll0iIOliiI
                 end
             end
-            if iiIII000lOiO == 0 then return nil end
-            local ooOlIo0iioI0 = Random.new(Ii0IoolOolOO)
-            local oIOioO0liIi0 = ooOlIo0iioI0:NextInteger(1, iiIII000lOiO)
-            local lIIiO0ooillo = 0
-            for _, w in ipairs(olllOIl00IOo) do
-                lIIiO0ooillo = lIIiO0ooillo + w.chance
-                if oIOioO0liIi0 <= lIIiO0ooillo then return w.name end
+            if Oi00lOiIIoo0 == 0 then return nil end
+            local OIoi0IO0lIi0 = Random.new(iiII0IoO0ioi)
+            local IlIOOIOi0iil = OIoi0IO0lIi0:NextInteger(1, Oi00lOiIIoo0)
+            local OiiOIllOiolO = 0
+            for _, w in ipairs(iIoooolI0Ilo) do
+                OiiOIllOiolO = OiiOIllOiolO + w.chance
+                if IlIOOIOi0iil <= OiiOIllOiolO then return w.name end
             end
-            return olllOIl00IOo[1].name
+            return iIoooolI0Ilo[1].name
         end
 
-        local function IloiIioOloIO()
-            local OoilooiIoiIl = workspace:GetAttribute(iI0llIo0ollI[233])
-            local ooIilOilO0Ol, ololIIIiO0oO, li0lIii00lOo
+        local function i0lOOlIooIio()
+            local II0oO0l0iO0O = workspace:GetAttribute(oIil00il0IOo[233])
+            local Io0iOIo0II00, Ii0Io0IlIOoo, IlOoo0Iilo0i
 
-            if OoilooiIoiIl then
-                for i, p in ipairs(lOoI0Ii0loOl) do
-                    if p.Name == OoilooiIoiIl then
-                        ooIilOilO0Ol = i
-                        ololIIIiO0oO = p
+            if II0oO0l0iO0O then
+                for i, p in ipairs(lolllIOio0Io) do
+                    if p.Name == II0oO0l0iO0O then
+                        Io0iOIo0II00 = i
+                        Ii0Io0IlIOoo = p
                         break
                     end
                 end
             end
 
-            if not ololIIIiO0oO then
-                local I0OoIiOIiOlI = os.time()
-                local IIO0II00Il0I = I0OoIiOIiOlI % l00IIOO0o0oO
-                local iOoiii0Oiio0 = 0
-                for i, p in ipairs(lOoI0Ii0loOl) do
-                    if IIO0II00Il0I < iOoiii0Oiio0 + p.Duration then
-                        ooIilOilO0Ol = i
-                        ololIIIiO0oO = p
-                        li0lIii00lOo = (iOoiii0Oiio0 + p.Duration) - IIO0II00Il0I
+            if not Ii0Io0IlIOoo then
+                local lOIoo0O00I00 = os.time()
+                local OOOlIIlliI0O = lOIoo0O00I00 % ii0OiIoi0ll0
+                local Ol0ooiI00iio = 0
+                for i, p in ipairs(lolllIOio0Io) do
+                    if OOOlIIlliI0O < Ol0ooiI00iio + p.Duration then
+                        Io0iOIo0II00 = i
+                        Ii0Io0IlIOoo = p
+                        IlOoo0Iilo0i = (Ol0ooiI00iio + p.Duration) - OOOlIIlliI0O
                         break
                     end
-                    iOoiii0Oiio0 = iOoiii0Oiio0 + p.Duration
+                    Ol0ooiI00iio = Ol0ooiI00iio + p.Duration
                 end
             else
-                local IooiIl0iOI0I = workspace:GetAttribute(iI0llIo0ollI[234]) or ololIIIiO0oO.Duration
-                local llo00IIiiOII = workspace:GetServerTimeNow()
-                if llo00IIiiOII == 0 then llo00IIiiOII = os.time() end
-                li0lIii00lOo = workspace:GetAttribute(iI0llIo0ollI[235])
-                if not li0lIii00lOo then
-                    local loOiIooo0iOi = workspace:GetAttribute(iI0llIo0ollI[236])
-                    if loOiIooo0iOi then
-                        li0lIii00lOo = IooiIl0iOI0I - (llo00IIiiOII - loOiIooo0iOi)
+                local OIO0lllo0loo = workspace:GetAttribute(oIil00il0IOo[234]) or Ii0Io0IlIOoo.Duration
+                local iliIOI0IoiOi = workspace:GetServerTimeNow()
+                if iliIOI0IoiOi == 0 then iliIOI0IoiOi = os.time() end
+                IlOoo0Iilo0i = workspace:GetAttribute(oIil00il0IOo[235])
+                if not IlOoo0Iilo0i then
+                    local lIIoO0oiO0Ol = workspace:GetAttribute(oIil00il0IOo[236])
+                    if lIIoO0oiO0Ol then
+                        IlOoo0Iilo0i = OIO0lllo0loo - (iliIOI0IoiOi - lIIoO0oiO0Ol)
                     else
-                        li0lIii00lOo = IooiIl0iOI0I - (llo00IIiiOII % IooiIl0iOI0I)
+                        IlOoo0Iilo0i = OIO0lllo0loo - (iliIOI0IoiOi % OIO0lllo0loo)
                     end
                 end
-                if li0lIii00lOo < 0 then li0lIii00lOo = 0 end
+                if IlOoo0Iilo0i < 0 then IlOoo0Iilo0i = 0 end
             end
 
-            return ooIilOilO0Ol, ololIIIiO0oO, li0lIii00lOo
+            return Io0iOIo0II00, Ii0Io0IlIOoo, IlOoo0Iilo0i
         end
 
-        local function o0OoIoIIolOO(IO0ll0iooli0)
-            local ooIilOilO0Ol, ololIIIiO0oO, li0lIii00lOo = IloiIioOloIO()
-            if not ololIIIiO0oO then return nil end
+        local function IOoollO00lOI(OliolI0OillO)
+            local Io0iOIo0II00, Ii0Io0IlIOoo, IlOoo0Iilo0i = i0lOOlIooIio()
+            if not Ii0Io0IlIOoo then return nil end
 
-            local iO0oiIIIo00l = math.floor(os.time() / l00IIOO0o0oO)
-            local II0ioO0IiiiI = ooIilOilO0Ol
-            local oIoolIIIilol = iO0oiIIIo00l
-            local OO0OIIIoIlIo = 0
-            local OoOOooloOiOI = true
+            local OiollOlIioO0 = math.floor(os.time() / ii0OiIoi0ll0)
+            local IOliiiollIlO = Io0iOIo0II00
+            local OlOoiiio0olO = OiollOlIioO0
+            local OI0OlIiolloo = 0
+            local loooil0loolO = true
             for step = 1, 500 do
-                local Ol00OliOOli0 = lOoI0Ii0loOl[II0ioO0IiiiI]
-                local IlilOoI0o0lO = oli00lOOOIil(Ol00OliOOli0, oIoolIIIilol, II0ioO0IiiiI)
-                if IlilOoI0o0lO == IO0ll0iooli0 then
-                    if OoOOooloOiOI then
-                        OO0OIIIoIlIo = OO0OIIIoIlIo + li0lIii00lOo
-                        if OO0OIIIoIlIo < 0 then OO0OIIIoIlIo = 0 end
+                local iO0oiIoll0ii = lolllIOio0Io[IOliiiollIlO]
+                local OOIl0loioOil = il0lllliiIl0(iO0oiIoll0ii, OlOoiiio0olO, IOliiiollIlO)
+                if OOIl0loioOil == OliolI0OillO then
+                    if loooil0loolO then
+                        OI0OlIiolloo = OI0OlIiolloo + IlOoo0Iilo0i
+                        if OI0OlIiolloo < 0 then OI0OlIiolloo = 0 end
                     end
-                    return OO0OIIIoIlIo, IlilOoI0o0lO, Ol00OliOOli0.Name
+                    return OI0OlIiolloo, OOIl0loioOil, iO0oiIoll0ii.Name
                 end
-                if OoOOooloOiOI then
-                    OO0OIIIoIlIo = OO0OIIIoIlIo + li0lIii00lOo
-                    OoOOooloOiOI = false
+                if loooil0loolO then
+                    OI0OlIiolloo = OI0OlIiolloo + IlOoo0Iilo0i
+                    loooil0loolO = false
                 else
-                    OO0OIIIoIlIo = OO0OIIIoIlIo + Ol00OliOOli0.Duration
+                    OI0OlIiolloo = OI0OlIiolloo + iO0oiIoll0ii.Duration
                 end
-                II0ioO0IiiiI = II0ioO0IiiiI + 1
-                if II0ioO0IiiiI > #lOoI0Ii0loOl then
-                    II0ioO0IiiiI = 1
-                    oIoolIIIilol = oIoolIIIilol + 1
+                IOliiiollIlO = IOliiiollIlO + 1
+                if IOliiiollIlO > #lolllIOio0Io then
+                    IOliiiollIlO = 1
+                    OlOoiiio0olO = OlOoiiio0olO + 1
                 end
             end
             return nil
         end
 
         
-        local iO0lIoO0iOOI = {}
-        for _, Ol00OliOOli0 in ipairs(lOoI0Ii0loOl) do
-            for wName in pairs(Ol00OliOOli0.Weathers) do
-                iO0lIoO0iOOI[wName] = true
+        local llIOIIi0l0II = {}
+        for _, iO0oiIoll0ii in ipairs(lolllIOio0Io) do
+            for wName in pairs(iO0oiIoll0ii.Weathers) do
+                llIOIIi0l0II[wName] = true
             end
         end
-        local OOi0iIoilI0o = {}
-        for o0oIOIIoIoll in pairs(iO0lIoO0iOOI) do table.insert(OOi0iIoilI0o, o0oIOIIoIoll) end
-        table.sort(OOi0iIoilI0o)
-        if #OOi0iIoilI0o == 0 then OOi0iIoilI0o = {iI0llIo0ollI[224]} end
+        local lIlio0lliIoi = {}
+        for ioIOioII0oIi in pairs(llIOIIi0l0II) do table.insert(lIlio0lliIoi, ioIOioII0oIi) end
+        table.sort(lIlio0lliIoi)
+        if #lIlio0lliIoi == 0 then lIlio0lliIoi = {oIil00il0IOo[224]} end
 
-        Oi0o0IIiOIlO.findTimeToTarget = o0OoIoIIolOO
-        Oi0o0IIiOIlO.getCurrentPhaseInfo = IloiIioOloIO
-        Oi0o0IIiOIlO.weatherTargetList = OOi0iIoilI0o
-        Oi0o0IIiOIlO.ready = true
+        IOo0i0IilIol.findTimeToTarget = IOoollO00lOI
+        IOo0i0IilIol.getCurrentPhaseInfo = i0lOOlIooIio
+        IOo0i0IilIol.weatherTargetList = lIlio0lliIoi
+        IOo0i0IilIol.ready = true
     else
-        Oi0o0IIiOIlO.weatherTargetList = {iI0llIo0ollI[224]}
-        Oi0o0IIiOIlO.ready = false
-        warn(iI0llIo0ollI[237])
+        IOo0i0IilIol.weatherTargetList = {oIil00il0IOo[224]}
+        IOo0i0IilIol.ready = false
+        warn(oIil00il0IOo[237])
     end
 end
 
-_G.weatherPredictTarget = Oi0o0IIiOIlO.weatherTargetList[1]
+_G.weatherPredictTarget = IOo0i0IilIol.weatherTargetList[1]
 
-local oiilI0loIoOO = OoOliIO0loo0.Farm:AddParagraph({
-    Title = iI0llIo0ollI[238],
-    Content = iI0llIo0ollI[239]
+local iOI0IiliOiIi = ioIlOoilOOoi.Farm:AddParagraph({
+    Title = oIil00il0IOo[238],
+    Content = oIil00il0IOo[239]
 })
 
-OoOliIO0loo0.Farm:AddDropdown(iI0llIo0ollI[240], {
-    Title   = iI0llIo0ollI[241],
-    Values  = Oi0o0IIiOIlO.weatherTargetList,
-    Default = Oi0o0IIiOIlO.weatherTargetList[1],
+ioIlOoilOOoi.Farm:AddDropdown(oIil00il0IOo[240], {
+    Title   = oIil00il0IOo[241],
+    Values  = IOo0i0IilIol.weatherTargetList,
+    Default = IOo0i0IilIol.weatherTargetList[1],
     Callback = function(v) _G.weatherPredictTarget = v end
 })
 
 task.spawn(function()
     while true do
-        if Oi0o0IIiOIlO.ready then
-            local IoOOi0OiiOIo, ooIilOilO0Ol, ololIIIiO0oO, li0lIii00lOo = pcall(Oi0o0IIiOIlO.getCurrentPhaseInfo)
-            local ioOOOIiIoo00, iioIoiIOOIl0, iOooiOloIoIO = Oi0o0IIiOIlO.findTimeToTarget(_G.weatherPredictTarget)
+        if IOo0i0IilIol.ready then
+            local oOO0llioiolO, Io0iOIo0II00, Ii0Io0IlIOoo, IlOoo0Iilo0i = pcall(IOo0i0IilIol.getCurrentPhaseInfo)
+            local i00l0OIo0iO0, IlI00iI00o0I, oiOoOl00iOIo = IOo0i0IilIol.findTimeToTarget(_G.weatherPredictTarget)
 
-            local oillIOoIlill = "?"
-            local lOioiOloOIii = "?"
-            if IoOOi0OiiOIo and ololIIIiO0oO then
-                oillIOoIlill = ololIIIiO0oO.Name
-                lOioiOloOIii = tostring(math.floor(li0lIii00lOo or 0)) .. "s"
+            local iiOlIli0olII = "?"
+            local Oi00O00i0llo = "?"
+            if oOO0llioiolO and Ii0Io0IlIOoo then
+                iiOlIli0olII = Ii0Io0IlIOoo.Name
+                Oi00O00i0llo = tostring(math.floor(IlOoo0Iilo0i or 0)) .. "s"
             end
 
             local content
-            if ioOOOIiIoo00 then
-                if ioOOOIiIoo00 <= 0 then
+            if i00l0OIo0iO0 then
+                if i00l0OIo0iO0 <= 0 then
                     content = string.format(
-                        iI0llIo0ollI[242],
-                        _G.weatherPredictTarget, oillIOoIlill, lOioiOloOIii
+                        oIil00il0IOo[242],
+                        _G.weatherPredictTarget, iiOlIli0olII, Oi00O00i0llo
                     )
                 else
-                    local h = math.floor(ioOOOIiIoo00 / 3600)
-                    local m = math.floor((ioOOOIiIoo00 % 3600) / 60)
-                    local s = math.floor(ioOOOIiIoo00 % 60)
+                    local h = math.floor(i00l0OIo0iO0 / 3600)
+                    local m = math.floor((i00l0OIo0iO0 % 3600) / 60)
+                    local s = math.floor(i00l0OIo0iO0 % 60)
                     content = string.format(
-                        iI0llIo0ollI[243],
-                        _G.weatherPredictTarget, h, m, s, iOooiOloIoIO, oillIOoIlill, lOioiOloOIii
+                        oIil00il0IOo[243],
+                        _G.weatherPredictTarget, h, m, s, oiOoOl00iOIo, iiOlIli0olII, Oi00O00i0llo
                     )
                 end
             else
-                content = iI0llIo0ollI[244] .. tostring(_G.weatherPredictTarget) .. iI0llIo0ollI[245]
+                content = oIil00il0IOo[244] .. tostring(_G.weatherPredictTarget) .. oIil00il0IOo[245]
             end
 
-            pcall(function() oiilI0loIoOO:SetDesc(content) end)
+            pcall(function() iOI0IiliOiIi:SetDesc(content) end)
         else
-            pcall(function() oiilI0loIoOO:SetDesc(iI0llIo0ollI[246]) end)
+            pcall(function() iOI0IiliOiIi:SetDesc(oIil00il0IOo[246]) end)
         end
         task.wait(1)
     end
@@ -2083,199 +2092,180 @@ end)
 
 end)()
 
-local oI00i0OoOi0l = 17163 * 58
-if 10 * 10 < 0 then
-  local liIO0o000iio = "o0IiilII0Ool"
-  error(liIO0o000iio)
+local lIi0iOIIO0oo = 98930 * 65
+local liI0liIiOOlO = 23330 * 9
+local function OOOiIOlOiI0O(O0OIliiloIil)
+  local looIi0ilOooI = 0
+  for _i = 1, 20 do looIi0ilOooI = looIi0ilOooI + (_i * (O0OIliiloIil or 1)) end
+  return looIi0ilOooI
 end
-local lIOi0OiIilII = 6717 * 2
-local function olOi0oOIoOI0(IlloO0oloi0i)
-  local IIiI00IoOloi = 0
-  for _i = 1, 5 do IIiI00IoOloi = IIiI00IoOloi + (_i * (IlloO0oloi0i or 1)) end
-  return IIiI00IoOloi
+local O0OIliiloIil = OOOiIOlOiI0O(45)
+if 46 * 46 < 0 then
+  local ooOollooOIlI = "oiiOoIO0Ol0I"
+  error(ooOollooOIlI)
 end
-local IlloO0oloi0i = olOi0oOIoOI0(15)
-local lI0o0iiI0Iii = 21798 * 23
-if 40 * 40 < 0 then
-  local Oil0oiOoOooI = "lIiIl0lIo0O0"
-  error(Oil0oiOoOooI)
+local function ollioiIio0oI(iOoIOooOooOI)
+  local lloOoliIioli = 0
+  for _i = 1, 10 do lloOoliIioli = lloOoliIioli + (_i * (iOoIOooOooOI or 1)) end
+  return lloOoliIioli
 end
-local function IIlIllOI0loo(Oli0iio00i0o)
-  local Iooi0oo0IIII = 0
-  for _i = 1, 14 do Iooi0oo0IIII = Iooi0oo0IIII + (_i * (Oli0iio00i0o or 1)) end
-  return Iooi0oo0IIII
+local iOoIOooOooOI = ollioiIio0oI(2)
+local function OiOiIOIo0oIl(i0OI0IiIOoll)
+  local l0iiIiOOollo = 0
+  for _i = 1, 13 do l0iiIiOOollo = l0iiIiOOollo + (_i * (i0OI0IiIOoll or 1)) end
+  return l0iiIiOOollo
 end
-local Oli0iio00i0o = IIlIllOI0loo(40)
-local function oI00oloI0OlO(IooiI0Oo0III)
-  local O00ioOililOl = 0
-  for _i = 1, 16 do O00ioOililOl = O00ioOililOl + (_i * (IooiI0Oo0III or 1)) end
-  return O00ioOililOl
+local i0OI0IiIOoll = OiOiIOIo0oIl(28)
+local function I00l0i0liooi(oOIOiOIlOiOo)
+  local iIIoIl0IooIi = 0
+  for _i = 1, 12 do iIIoIl0IooIi = iIIoIl0IooIi + (_i * (oOIOiOIlOiOo or 1)) end
+  return iIIoIl0IooIi
 end
-local IooiI0Oo0III = oI00oloI0OlO(42)
-if 88 * 88 < 0 then
-  local l0IO00ii0Oii = "o0iOOIooOoI0"
-  error(l0IO00ii0Oii)
+local oOIOiOIlOiOo = I00l0i0liooi(25)
+if (77*77 + 77*77) >= 0 then
+  local lIlliolIO0II = 9976
 end
-if 69 * 69 < 0 then
-  local IIoIIlliIli0 = "lOiloOllIOoO"
-  error(IIoIIlliIli0)
+if (18*18 + 13*13) >= 0 then
+  local Olooil00lIOl = 3673
+end
+local IIioIoOOiiOi = 23521 * 25
+if (21 * (21 + 1)) % 2 == 0 then
+  local IolIOoi0liio = 9663
+end
+if (9 * (9 + 1)) % 2 == 0 then
+  local oI0llllol0Il = 5657
+end
+local lO0iiiIiOlll = 95680 * 6
+if 11 * 11 < 0 then
+  local IoilllIiilIl = "ooIIIOiO0lii"
+  error(IoilllIiilIl)
+end
+local l0OOO0Ol0OOl = 91657 * 72
+local OioOl0ol000I = 99582 * 13
+if (46 + 3) == 49 then
+  local l0oIolIiOOl0 = 8778
+end
+local iiO0IlliI0OI = 36924 * 31
+if (24 * (24 + 1)) % 2 == 0 then
+  local ioo0OlIOiIil = 6190
+end
+if (82*82 + 27*27) >= 0 then
+  local IiolO0lIiilO = 4772
+end
+if 11 * 11 < 0 then
+  local IIiliioooOil = "OI0Oioool0ii"
+  error(IIiliioooOil)
+end
+local OoI0il0iil0i = 48198 * 87
+if 70 * 70 < 0 then
+  local iloOiio0oo0l = "io0O0Illo0li"
+  error(iloOiio0oo0l)
+end
+local IiOoIOoiOloi = 46500 * 67
+local function IIIO0iIOOoll(IOIo00I0iIO0)
+  local oOOiOilloiii = 0
+  for _i = 1, 19 do oOOiOilloiii = oOOiOilloiii + (_i * (IOIo00I0iIO0 or 1)) end
+  return oOOiOilloiii
+end
+local IOIo00I0iIO0 = IIIO0iIOOoll(20)
+if 59 * 59 < 0 then
+  local ioiOlIOOOIOI = "o0o0l0oI0Oio"
+  error(ioiOlIOOOIOI)
+end
+if 85 * 85 < 0 then
+  local oIo0iOOOOIIi = "illlIIoI0IiO"
+  error(oIo0iOOOOIIi)
+end
+local function OlIoiOilO0io(OooOOliillli)
+  local iOOiIOoOIiIO = 0
+  for _i = 1, 12 do iOOiIOoOIiIO = iOOiIOoOIiIO + (_i * (OooOOliillli or 1)) end
+  return iOOiIOoOIiIO
+end
+local OooOOliillli = OlIoiOilO0io(39)
+if (45 * (45 + 1)) % 2 == 0 then
+  local iol0lIoOOI00 = 9622
+end
+if 13 * 13 < 0 then
+  local OOll0io0iOiI = "o0lil0iliIlO"
+  error(OOll0io0iOiI)
+end
+local OliIooliiOIi = 71260 * 91
+if 50 * 50 < 0 then
+  local lloilio00IIi = "O0OOOIoO000O"
+  error(lloilio00IIi)
+end
+if 24 * 24 < 0 then
+  local IolllOl00o0O = "lIOOil0Ii0II"
+  error(IolllOl00o0O)
+end
+local ol0lOi0IIOiI = 57470 * 31
+if 61 * 61 < 0 then
+  local OooloOOiIiil = "iOol0olOoli0"
+  error(OooloOOiIiil)
+end
+local iooOollllOoI = 15361 * 70
+local function iIi0iIoll0OI(olooIlOO0oO0)
+  local I00li0iollIO = 0
+  for _i = 1, 18 do I00li0iollIO = I00li0iollIO + (_i * (olooIlOO0oO0 or 1)) end
+  return I00li0iollIO
+end
+local olooIlOO0oO0 = iIi0iIoll0OI(48)
+if (36 * (36 + 1)) % 2 == 0 then
+  local O0oill0OiIiO = 9817
+end
+if 98 * 98 < 0 then
+  local iIIlil0000ll = "llii0liiiOli"
+  error(iIIlil0000ll)
+end
+local function OOllll0IOIli(OOiIoO0I0IIi)
+  local IiOI00lOOoIO = 0
+  for _i = 1, 12 do IiOI00lOOoIO = IiOI00lOOoIO + (_i * (OOiIoO0I0IIi or 1)) end
+  return IiOI00lOOoIO
+end
+local OOiIoO0I0IIi = OOllll0IOIli(18)
+local function o0IIIIiilIOi(loOilOi0lO0I)
+  local O0liIilIOIOI = 0
+  for _i = 1, 17 do O0liIilIOIOI = O0liIilIOIOI + (_i * (loOilOi0lO0I or 1)) end
+  return O0liIilIOIOI
+end
+local loOilOi0lO0I = o0IIIIiilIOi(1)
+local function liiIOoo0Ioo0(liOI0lOI000i)
+  local lOoooI0Io0iO = 0
+  for _i = 1, 19 do lOoooI0Io0iO = lOoooI0Io0iO + (_i * (liOI0lOI000i or 1)) end
+  return lOoooI0Io0iO
+end
+local liOI0lOI000i = liiIOoo0Ioo0(31)
+local function lliOIOo0lloI(lloIio0I0I0l)
+  local ilOloiiOlOlO = 0
+  for _i = 1, 11 do ilOloiiOlOlO = ilOloiiOlOlO + (_i * (lloIio0I0I0l or 1)) end
+  return ilOloiiOlOlO
+end
+local lloIio0I0I0l = lliOIOo0lloI(39)
+if 83 * 83 < 0 then
+  local IO0lo0o0O0ll = "O00IIoIOOOli"
+  error(IO0lo0o0O0ll)
 end
 if 32 * 32 < 0 then
-  local OlloOIo0O0lO = "IliI0li0O0oo"
-  error(OlloOIo0O0lO)
+  local l0O0iIoilolO = "IloooiIliiO0"
+  error(l0O0iIoilolO)
 end
-if (43 + 69) == 112 then
-  local IIl0Ol0o0Oio = 9143
+local function ol0IIOoioooI(Ioli00ooIli0)
+  local i00OiiOIOool = 0
+  for _i = 1, 20 do i00OiiOIOool = i00OiiOIOool + (_i * (Ioli00ooIli0 or 1)) end
+  return i00OiiOIOool
 end
-if (16*16 + 94*94) >= 0 then
-  local lloi0OoOIOol = 8169
+local Ioli00ooIli0 = ol0IIOoioooI(39)
+local iI0ii0O0OIiO = 7459 * 60
+if (69*69 + 54*54) >= 0 then
+  local OII0l0oli0iI = 6432
 end
-if 94 * 94 < 0 then
-  local oiO0oI0OIlIi = "iiIlOliIioII"
-  error(oiO0oI0OIlIi)
+local function Ill0Io0iooll(oIo00iolloli)
+  local IiooIioOoIi0 = 0
+  for _i = 1, 15 do IiooIioOoIi0 = IiooIioOoIi0 + (_i * (oIo00iolloli or 1)) end
+  return IiooIioOoIi0
 end
-local loo0O0illIOo = 51068 * 25
-local function oIIlIOliliii(iiio0iOIoOoo)
-  local o00Oo0Ii0I00 = 0
-  for _i = 1, 7 do o00Oo0Ii0I00 = o00Oo0Ii0I00 + (_i * (iiio0iOIoOoo or 1)) end
-  return o00Oo0Ii0I00
-end
-local iiio0iOIoOoo = oIIlIOliliii(47)
-local function IlO0OOoIi0li(I0ilo0ooI0Il)
-  local oOOOil0oOo0I = 0
-  for _i = 1, 12 do oOOOil0oOo0I = oOOOil0oOo0I + (_i * (I0ilo0ooI0Il or 1)) end
-  return oOOOil0oOo0I
-end
-local I0ilo0ooI0Il = IlO0OOoIi0li(30)
-if 43 * 43 < 0 then
-  local lillO0lo0oO0 = "OIOliiloiioO"
-  error(lillO0lo0oO0)
-end
-local function lo0iOlO0oIIO(lIIlOoIlOl0l)
-  local o0IiIIOiiOiI = 0
-  for _i = 1, 9 do o0IiIIOiiOiI = o0IiIIOiiOiI + (_i * (lIIlOoIlOl0l or 1)) end
-  return o0IiIIOiiOiI
-end
-local lIIlOoIlOl0l = lo0iOlO0oIIO(33)
-if 25 * 25 < 0 then
-  local o0i0iiOiIoli = "IlIOioIoo0ll"
-  error(o0i0iiOiIoli)
-end
-local function Io0ooOOI000i(loi0IOilooOI)
-  local oIOliOO0i0Io = 0
-  for _i = 1, 19 do oIOliOO0i0Io = oIOliOO0i0Io + (_i * (loi0IOilooOI or 1)) end
-  return oIOliOO0i0Io
-end
-local loi0IOilooOI = Io0ooOOI000i(13)
-if 56 * 56 < 0 then
-  local iioOOI000oOi = "iiOlIoliOooo"
-  error(iioOOI000oOi)
-end
-local iIiOIoilIoOO = 47612 * 28
-if 68 * 68 < 0 then
-  local llOOOlOOOiOO = "IOooiillIlOo"
-  error(llOOOlOOOiOO)
-end
-local lOlOoIIoilo0 = 16911 * 22
-local function ii0i000olOii(OlIOllllilii)
-  local lOIOIOiiiioo = 0
-  for _i = 1, 10 do lOIOIOiiiioo = lOIOIOiiiioo + (_i * (OlIOllllilii or 1)) end
-  return lOIOIOiiiioo
-end
-local OlIOllllilii = ii0i000olOii(31)
-if 18 * 18 < 0 then
-  local iiOlIoilIlio = "iiIOI0oI0ol0"
-  error(iiOlIoilIlio)
-end
-if 15 * 15 < 0 then
-  local lI0iolIoioil = "oIi00o0iIill"
-  error(lI0iolIoioil)
-end
-if (20 * (20 + 1)) % 2 == 0 then
-  local l0oOoioo0IIl = 1691
-end
-if (75*75 + 7*7) >= 0 then
-  local IoOolIiilO0I = 8866
-end
-local function ooOo000IIoI0(lli0iiOiOlol)
-  local OO0I0IooII0i = 0
-  for _i = 1, 5 do OO0I0IooII0i = OO0I0IooII0i + (_i * (lli0iiOiOlol or 1)) end
-  return OO0I0IooII0i
-end
-local lli0iiOiOlol = ooOo000IIoI0(45)
-if (74 + 26) == 100 then
-  local OlloiO0IiilI = 8448
-end
-local function IooolOIo0OoI(oliloOOlii0o)
-  local iOooIloi0OO0 = 0
-  for _i = 1, 12 do iOooIloi0OO0 = iOooIloi0OO0 + (_i * (oliloOOlii0o or 1)) end
-  return iOooIloi0OO0
-end
-local oliloOOlii0o = IooolOIo0OoI(33)
-if 8 * 8 < 0 then
-  local iilIoIll0O0I = "looOI0Oio0IO"
-  error(iilIoIll0O0I)
-end
-local oo0llliiiolO = 97326 * 62
-if 9 * 9 < 0 then
-  local iOoo000Ii0lI = "Iii0ioI0iiOI"
-  error(iOoo000Ii0lI)
-end
-if 46 * 46 < 0 then
-  local IIOooIoilI0i = "i0iIooIolliO"
-  error(IIOooIoilI0i)
-end
-if 80 * 80 < 0 then
-  local iOOO00l0iOOO = "I0loiIiOlOli"
-  error(iOOO00l0iOOO)
-end
-if 53 * 53 < 0 then
-  local OlollI0OIIOo = "ololilIIOiOi"
-  error(OlollI0OIIOo)
-end
-local function l00liiliol0O(oOooiliIiOOI)
-  local oI0oIloiiiol = 0
-  for _i = 1, 13 do oI0oIloiiiol = oI0oIloiiiol + (_i * (oOooiliIiOOI or 1)) end
-  return oI0oIloiiiol
-end
-local oOooiliIiOOI = l00liiliol0O(41)
-if (61*61 + 63*63) >= 0 then
-  local oi0iOoOI00II = 4310
-end
-if 92 * 92 < 0 then
-  local lilIO00Iolii = "IO00lIiIOolo"
-  error(lilIO00Iolii)
-end
-local function olOoI00lI0oo(IIo0lI0illol)
-  local ill0O00oI0oo = 0
-  for _i = 1, 16 do ill0O00oI0oo = ill0O00oI0oo + (_i * (IIo0lI0illol or 1)) end
-  return ill0O00oI0oo
-end
-local IIo0lI0illol = olOoI00lI0oo(21)
-local function liOOOIOi0iIl(IOlIlII00l0I)
-  local olI0OiioIliO = 0
-  for _i = 1, 8 do olI0OiioIliO = olI0OiioIliO + (_i * (IOlIlII00l0I or 1)) end
-  return olI0OiioIliO
-end
-local IOlIlII00l0I = liOOOIOi0iIl(17)
-local oIIIlIO0iIlo = 5773 * 30
-local function olIOloOOoOio(I0o0iOIi0oi0)
-  local o0ll00Oo00oo = 0
-  for _i = 1, 6 do o0ll00Oo00oo = o0ll00Oo00oo + (_i * (I0o0iOIi0oi0 or 1)) end
-  return o0ll00Oo00oo
-end
-local I0o0iOIi0oi0 = olIOloOOoOio(13)
-local Oo0I0illIloo = 33462 * 92
-if (66 + 32) == 98 then
-  local O0ol0oiIl0oI = 1402
-end
-local function OioliIliI00l(l0OOI0OilI0l)
-  local OlOOoOlI000O = 0
-  for _i = 1, 18 do OlOOoOlI000O = OlOOoOlI000O + (_i * (l0OOI0OilI0l or 1)) end
-  return OlOOoOlI000O
-end
-local l0OOI0OilI0l = OioliIliI00l(37)
-if 60 * 60 < 0 then
-  local lIlIi0OIOioo = "lO0Il0lOIIII"
-  error(lIlIi0OIOioo)
+local oIo00iolloli = Ill0Io0iooll(31)
+if 65 * 65 < 0 then
+  local lIii0Ol0ioiO = "lOlooIOOO0lO"
+  error(lIii0Ol0ioiO)
 end
