@@ -1,1039 +1,1001 @@
--- [oOliIo0liOoI] Protected by AdvancedObfuscator v5 (Roblox)
+-- Protected by AlimeObfuscator v8.7
+do
+local i0OoOo0lIlIlll​‌ = { 126 }
+local OOi0OioIO0loIO‌​ = { {235,167,189,132,130,151,39,68,77,65,79},
+{181,109,98},
+{127,80,40,47,6,2,14},
+{56,18,244,253,247,200,217,177,183,187,191,141,105,97,65,74,95},
+{246,218,222,190,188,130,190,111,105,111,75,81,50},
+{174,136,142,112,123,83,69,82,38,50},
+{88,71,89,46,42,63,29,31,236,254,206,207,197,178,184,189,142},
+{2,20,21,24,228,196,193,195,200,162,187,128},
+{194,251,206,220,129,179,171,141},
+{132,176,130,150,67,98,118,75,81,34,58,11,26,26,250,230,241,192,194,186,128,175,133,154,116,101,109},
+{87,102,78,86,82,37,60,22,22,44,251,249,206,192,201,153,178,150,135,151,104,125},
+{18,61,51,17,31,238,249,233,211,231,182,190,179,155,140},
+{48,229,243,193,221},
+{240,176,191,190,130,150,111,119,114,66,85,51,4,0,28,15},
+{187,117,96,123,73,91,40,42},
+{108,84,44,44,52,10,16,230,245,202,196,196},
+{57,23,241,228},
+{208,195,215,174,173},
+{158,152,141,103,112,72,64,95,41,32},
+{91,75,93,38,32,11,7,6,235,251,245,198,216},
+{5,14,0,8,192,242},
+{192,241,197,195},
+{157,177,150,135,158,96},
+{65,114,82,73,95,41,14,14,0,30,216,244,208,219},
+{3,47,40,13,37,227,253,232},
+{20,224,243,214,211,217,188,185,221,200},
+{240,173,183,170,209,216,81,248,113,12,87,33,483,7869,4,90,233,252,7692,192,155,163,189,22,129,155,41,126,7872,64,29,38,7824,74},
+{181,150,106,109,28,19,2,7906,46,71,357,7718,251,187,220,89,175,239,183,128,7753,110,48,115,77,391,7833,56,126,8,16,292,251,165,140},
+{67,79,42,54,4,28},
+{47,28,228,251,166,137,226,47,189,253,158,159,7841,104,62,126,75,32,32,22,8,67,166},
+{228,217,219,190,237,196,186,150,255,118,66,18,75,160,52,70,7,232,7720,227,135,218,166,382,7686,129,213,97,103,445,64,22,100},
+{249,197},
+{94,79,85,52,119,122,44,28,117,224,252,136,193,170,7692,252,157,26,110,48,105,66,7826,61,113,11,24,29,247,219,251,140,218,174,188,218,205},
+{19,8,8,15,178,181,233,199,72,167,177,195,132,149,7881,55,80,67,75,50,120,6,7903,15,172,239,70,220,224,166,178,136,212,272,7901,53},
+{223,249,221,197},
+{153,167,150,152,144,96,116,64,64,76},
+{82,115,107,73,75,47,61,7,46,27,233,231},
+{13,56,41,15,6,238,225,246,219},
+{60,230,250,207,202,207},
+{228,162,179,190,133,152,106,98},
+{178,140,106,108,64,65},
+{127,92,35,55,48,12,25,236,231},
+{51,6,238,249,254,196,198},
+{242,221,211,185,165},
+{142,143,146,96,98},
+{80,68,64,73,41,42,18,22,228,203,232,210,221,181,189},
+{22,13,29,14,254,196,206,218,200},
+{250,250,202,217,167},
+{142,191,133,132,199,42,92,76,197,80,44,120,6,129,95,250,7732,210,147,176,165,7795,138,212,111,238,116,8,292,7809,111,59,7812,31,173},
+{67,120,120,95,2,101,6,179,1,89,242,251,7685,212,154,226,176,193,130,148,7849,124,2,89,7825,61,118,19,24,7892,231,185,132,243,7697,191,248,500,7765,138,44,126,7883,90,110,99,116},
+{110,57,185,70,7,7735,227,253,135,192,7722,238},
+{90,175,219,211,207,213,175,176,194,167,137,107,63},
+{242,171,169,168,211,214,275,243,61,77,7898,45,113,123,15,87,160,246,191,218,7700,178,243,144,133,7763,106,58},
+{183,148,108,99,30,17,114,7836,49,95,82},
+{108,81,35,38,101,76,49,233,115,206,141,206,7778,160,192,206,491,235,53,69,7874,85,105,115,7,80,11,7719,227,132,193,214,7778,181,197,483,7744,98,57,3,64,110},
+{43,18,240},
+{242,203,222,172,133,131,140,151,90,102,66,71,83,25,50,22,7,27,249,212,202,209,222,184,176,137,157,115},
+{143,140,147,103,64,124,73,92},
+{69,69,88,80,41,55,18,33,26,233,253},
+{21,48,0,29,213,246,197,201},
+{223,251,206,218,163,161,172},
+{143,186,142,139},
+{75,113,111,92,82,55,37,14,10,10,241},
+{109,63,61,4,30,47,254,246,203,195,180},
+{10,242,246,193,193},
+{250,168,169,179,156},
+{191,144,104,120,87,67},
+{108,69,49,56,42,24},
+{35,0,10,229,237,239,215},
+{240,193,219,169,160,168,138},
+{142,155,144,112,70,120},
+{69,87,85,92,38,119,2,16,23,231,253,193,136},
+{19,49,4,20,211,243,243,217,220},
+{196,248,212,197,165,190,174,183,134,110,99,107,92},
+{132,187,147,139,171,105,103,86,97,93,36,51},
+{81,106,121,77,120,34,61,56},
+{112,63,35,5,5,23,228,246},
+{43,224,247,251,252,203,169,190,144,153},
+{240,175,161,182,130,151,117,93,126,77,81},
+{189,158,109,113,114,78,95,34,6,17,31,16,250,227},
+{90,83,38,52},
+{20,24,29,224,237,213},
+{204,201,220,162,128,136,130,138},
+{137,143,149,115,107,127,108,84,54,46},
+{69,71,91,104,48,38,6,3},
+{2,60,9,20,235,254,240},
+{198,247,203,217,218,181},
+{148,188,130,132,148},
+{71,124,116,79},
+{126,60,56,13,9},
+{51,225,244,236},
+{253,200,160},
+{175,159,98},
+{125,91,43,44,51,27,24},
+{33,28,28,233,252,132,245,204,170,191,138,156},
+{215,200,221,229,129,186,158,137,99,125,84},
+{158,137,159,100,104,116,7,112,51,47,60,7,27,228,227,229},
+{87,78,67,86,39,59,66,56,29,253,243,209,217,211,173,247,167,144,144},
+{12,51,4,27,236,254,189,249,199,182,184,176,128,148,96,96},
+{217,254,195,223},
+{144,188,188,131,148,107,124,78,13,105,55,38,8,0,16,228,240,208},
+{84,127,117,80,81,45},
+{105,41,39,7,79,47,249,228,202,222,214,166,178,150},
+{60,246,253,237,138,250,177,162,182,153,151,106,127},
+{226,206,174,189,129,210,178,121,106,78,65,47,34,55},
+{160,152,104,103,69,95,84},
+{116,92,51,39,53,3,85,207,250,239,193,196,172,191,176},
+{49,26,12,236,228,208,217,199,175,247,169,132,141,99,106,74,93,82},
+{218,196,216,169,180},
+{154,132,129,150,111,57,118,92,52},
+{95,69,74,95,41,48,0,28,2,168,198,210,221,213,167,189,143,149,143},
+{7,53,30,28,241,230,254,192,218,175,185,169,147,215,73,100,109,67,74,42,61,50},
+{221,243,207,213,205,165,165,144,148,140},
+{147,185,187,142,148,103,115,109,94,86,49},
+{172,121,105,67,65,96,26,59,19,17,243,231,245,207,149,129,174,178},
+{105,50,36,4,28,91,219,229,208,198,210,162,186,134,130},
+{33,237,224,240},
+{227,213,165,161,129,157},
+{169,153,102,121,111,77,90,45},
+{101,92,45,32,53,9},
+{50,11,30,236,193,205,192,208},
+{204,197,215,173,164,156,152,146,101},
+{130,138,149,155,121,56,117,94,94,53,60,20},
+{95,106,88,88,50,58,15,3,62,230,224,192},
+{0,53,3,1,237,235,200,203,199,171,191,168},
+{205,249,199,204,200,187,191,128},
+{133,162,178,144,146,106},
+{188,103,119,74,86,83,37,45},
+{122,46,50,9,3,31,227},
+{39,245,239,233,219,193,176,186,191,130},
+{199,200,189,166,144,202,210,37,112,77,69,86,62,58,75,17,16,225,182,194,210,183,164,190,202,135,98,124,114,88,65,49,96,26,5,3,230,254,233,133,197,161,189,187,138,139,96,97,48,64,88,50,54,19,25,85,227,251,214,192,215,167,180,134,192,145,104,127,77,30,81,63,54},
+{130,131,112,97,109,17,23,106,32,62,27,87,225,250,212,197,207,165,161,146,139,137,107,122,76,91,89,39,34,77,19,18,231,184,192,208,201,162,188,200,129,156,126,112,86,71,51,98,28,11,1,228,224,239,135,216,163,188,168,140,132,44,81,121,78,88,42,34,113,56,25,243,247,210,205,215,167,180,133,159,212,107,97,64},
+{77,70,75,60,42,92,92,175,255,251,208,154,166,167,175,128,128,96,122,111,76,68,32,63,51,30,18,234,229,176,200,215,168,253,187,141,142,111,119,13,94,89,53,61,17,26,8,167,211,206,218,217,167,162,204,157,156,121,99,65,67,17,10,60,1,29,17,255,182,239,221,180,168,168,129,149,98,107,86,73,91,35,40,57,27,88,239,229,252},
+{47,31,27,233,243,196,142,243,189,183},
+{249,209,149,173,189,187,182,128,106,96,61,82,23,52,60,42},
+{146,130,130,150},
+{87,127,89,85},
+{32,60,7,21},
+{212,252,206,222},
+{177,167,179,153,134,106,126,122,7,84,37,35,42},
+{173,111,99},
+{75,49,51,45},
+{0,232,226,236,194,216},
+{237,212,166,179,139,136},
+{154,147,119,100,116,68,80,55},
+{99,88,88,63},
+{56,5,31,242},
+{213,213,213,175,169,190,160,128,96,32},
+{135,151,129,175,108,100,85,89,94,47},
+{83,114,88,82,3,36,55},
+{30,43,0,0,54,226,233,211,199,147,168,168,145,157,98,107},
+{201,225,193,195,221,162,156,148,140,182,97,123,96,91,82},
+{179,172,163,137,134,113,106,104,64,82,121,127,114,91,70,189,169,169,152,136,253,235,231,219,207,49,33,24},
+{175,106,100,70,85,83,13,34,13},
+{113,54,48,51,14},
+{39,54,207,246,212,221,165,191},
+{249,223,191,160,163,155,143,124,122,76},
+{161,152,99,104,121,101,87,33,53,49},
+{113,95,95,38,56,28,54,11,226},
+{28,7,13,247},
+{212,199,218,174},
+{156,128,156,141,109,102,86,105,85,37,34,6,2},
+{76,116,7908,88,99,4,47,139,30,164,210,124,210},
+{2,54,22,7,27,248,236,247,211,205,165,173,159},
+{198,250,7762,194,153,470,7690,192,165,147,7864,121},
+{149,163,185,136,153,108,97,117},
+{169,105,103,71},
+{115,51,57,62},
+{61,27,236,253,203,214,222,190,160},
+{225,192,178,187,137,142},
+{180,129,113,107,105},
+{113,74,95,59,51,23},
+{19,5,63,229,227,232,206,203,177,159,170,152,152,114,122,79,67,73},
+{211,205,70,209,171,249,174,18,105,45,78,85,213,40,110,24,138,12,162,194,233,221,215,183,185,178,132},
+{155,129,159,140,98,103,85,126,90,61,38,7,59,19,238,241,207,213},
+{90,7866,69,21,6,7844,50,14,86,203,113,244,138,227,182,48,183,203,187,231,107,63,103,81,47,115,35,158,90,212,7781,129,229,210,7695,187},
+{1,55,17,6,24,249,227,244,208,203,184,189,160,132,154,98,109,85},
+{199,249,7763,197,152,150,7715,255,167,144,7873,125},
+{431,38,180},
+{174,117,279,79,73,27,5,180,23},
+{97,48,332,50,14,86,213,112,243,205},
+{36,15,393,249,195,145,137,235,149,5,135},
+{230,264,164},
+{178,134,121,7858,110},
+{114,7819,86,104,6,139,27},
+{20,8,4,245,245,238,222,227,171,182,185,135,157},
+{195,7765,145,430,7698,182,130,210,183,237,112,6,103,50,172,51,71,55,99,247},
+{129,186,128,149,82,124,71,74,86,34},
+{79,251,73,20,21,33,187,6,85,192,7766,188,253,196,34,185,253,169,21,125},
+{15,60,7,0,92,193,7735,215,144,250,163,7686,138,150},
+{194,229,233,197,231,168,176,176,159,172,106,117,120,64,92},
+{234,7738,248,501,7723,145,107,57,97,90,37,34,122,47,7893,245,174,220,193,7780,172,168},
+{169,106,114,78,89,119,40,48,4},
+{119,41,7811,53,72,54,99,236,244,137,241,170,181,178,202,191,7845,101,62,108,81,7828,60,56},
+{61,29,231,242,204,221,157,156,7708,196,165,140,230},
+{238,263,7711,184,254,165,144,231,124,63,122,7828,50},
+{182,134,154,109,117,6,21,96,14,53,11,24,228,237,239,136,230,167,170,184},
+{97,88,78,40,4,8,13,16,219,240,199,203,232,166,177,132,156,152},
+{15,7833,85,402,7766,242,206,150,141,184,7786,158,215,87,116,123,79,24,109,21,48,0,29,170,179,242,204,211,169,182,142,153,213,38,59,11},
+{215,214,196,210,153,163,129,144,146,95,119,66,85,83,41},
+{133,7727,203,488,7900,124,120,12,122,502,7816,16,77,46,245,117,200,142,248,42,172},
+{77,108,82,92,2,56,35,52,17,228,234},
+{4,60,7852,0,91,192,7732,214,143,251,160,7687,141,151},
+{195,250,232,198,244,182,169,137,133,144,99,125,123},
+{233,7739,247,500,7720,144,108,56,104,71,94,108,17,7879,7,160,202,243,7798,218,166},
+{185,112,102,112,110,76,63,20,5,12,8},
+{112,40,7808,52,71,51,228,239,233},
+{47,14,252,250,224,218,197,142,179,130,130,169,101,112,67,93,91},
+{253,7751,227,448,7684,132,144,36,92,107,74,24,2,55,62,30},
+{171,129,155,101,75,77,93,79,24,54,1,20,236,232},
+{80,92,92,40,115,51,5,21,247},
+{27,18,0,238,204,238,209,229,167,187},
+{214,202,7778,210,233,130,139,10,221,73,423,74,86},
+{145,168,158,152,70,100,103,123,93,49,6,48,11,30,234,246},
+{95,7913,5,290,7910,34,62,70,62,245,236,186,243,220,59,238,152,344,155,101},
+{21,59,15,27,31,235,198,192,220,210,188,172},
+{192,251,239,199,230,170,160,170,140,154,87,127,122,77,91,33},
+{232,7736,246,499,7721,147,109,55,124,94,223,107,27,135,11},
+{177,101,122,123},
+{98,83,45,32,3,1,211,238,232,206,196,181,189},
+{46,21,233,224,211,193,215,164,176,144,156},
+{255,208,163,187,180,140,132,64,127,115,94,69,43,61,50,14,10},
+{165,145,150,111,64,65,80,74,35,61,23,72,95,219,252,199,199,168,168,168,164,155,111,122,105,71,89,46,42,46,73,24,236,228,189,204,216,177,191,186},
+{80,68,86,32},
+{31,7,24,229,218,255,198,192,169,171,169,188,154,101,104,112,76},
+{192,201,7795,210,232,129,139,7760,136,41,81,74,7827},
+{137,189,130,147,84,117,124,94,95,33,35,10,18,8,224},
+{73,127,7913,95,30,31,48,7864,27,95,216,240,7705,199},
+{17,7909,49,11,89,215,230,64},
+{212,7738,244,192,148,146,171,190,140,217,69,106,125,91,24,109,126},
+{248},
+{178,7922,48,269,69,214,42,113,10,3,7845,236,178,203,197,7686,178},
+{101,87,38,61,38,11,28,224,252,226,210,180,172},
+{45,26,242,250,214,200,234,175,181,146,139},
+{247,220,160,189,190,172,128,112,110,104,64,89,45},
+{178,135,157,122,115,113,85,80,43,62,10,24,16,236},
+{77,66,86,55,52,13,31,25,247,230,203,197,212,163},
+{15,0,19,11,228,252,212,227,178,168,190,142,151,117,52,59,124,92,47,42,31,16,21,239,245,217,203,195,165,241,176,132,140,37,116,112,89,87,34},
+{215,7761,141,426,168,53,143},
+{478,186,134,146,34,123,7871,64,24,109,126},
+{94,115,66,68,85,47,37,52,3,27,239,241,198,198,235,173,171,129,150,116},
+{16,57,7811,2,88,209,251,7712,216,153,139,166,7729,131,218,67,7909,1,318,84,169,59},
+{64},
+{201},
+{208,113,47,268,104,120,4,112,53,5,7894,240,177,399,7794,214,162,243,131,130,169,110,114,83,72,26,47,61,7846,0,91,252,7732,203,149,156,236,165,195,216,158,248,121,4,20,77,98},
+{21,78,106,36,7897,81,6,254,7741,209,146,215,165,7710,136,211,115,108,111,7,17,113,124,63,82,80,178,189,248,147,147,243,226,185,202,223,112,99,113,69,95,101,34,55,13,10,227,179,133,222,147,155,186,177,134,154,123,112,2,71,85,7822,56,67,4,7900,227,173,132,148,205,235,240,134,0,145,44,60,85,26},
+{32,16,113,252,248,140,205,42,190,192,153,146,7842,109,1,74,7882,104,324,13,142,18,169,245,203,223,157,150,245},
+{250,145},
+{181,135,150,109,86,91,76,80,44,18,2,4,28,170,252,204,69,208,172,248,142,154,7772,44,125,7875,93,39} }
+local lloOO0OlIll0lO​ = true
+local Oo0IiIooliilOo​ = os.clock()
 
-if (4*4 + 53*53) >= 0 then
-  local IlI0IOl0iloI = 7208
-end
-if 24 * 24 < 0 then
-  local Iool0lIOli0I = "IOOoi0IIooi0"
-  error(Iool0lIOli0I)
-end
-if 7 * 7 < 0 then
-  local ilolIOlIioii = "OIl0OoiOIiIi"
-  error(ilolIOlIioii)
-end
-local ioIi0llOIOII = 69920 * 92
-if 8 * 8 < 0 then
-  local OOIlllOiOIlO = "I0IoOOoolO0l"
-  error(OOIlllOiOIlO)
-end
-local IoliIlO0lol0 = 93853 * 63
-if 56 * 56 < 0 then
-  local oolIio0IoiOi = "OIiio0Oilioo"
-  error(oolIio0IoiOi)
-end
-local looo0lo0l0Ii = 57637 * 43
-local O0IO0o0iol0l = 5332 * 44
-if 96 * 96 < 0 then
-  local iOIIo0Iliioi = "IllIiiIIllIo"
-  error(iOIIo0Iliioi)
-end
-local function ooIi00OIIIoo(o0OIiio0iOi0)
-  local iOloOOiiIl0o = 0
-  for _i = 1, 12 do iOloOOiiIl0o = iOloOOiiIl0o + (_i * (o0OIiio0iOi0 or 1)) end
-  return iOloOOiiIl0o
-end
-local o0OIiio0iOi0 = ooIi00OIIIoo(47)
-if (51*51 + 58*58) >= 0 then
-  local lioiO0oiilo0 = 3972
-end
-local function oIolIo0IIooI(liIOilOOIooI)
-  local OiOooOOoo0I0 = 0
-  for _i = 1, 13 do OiOooOOoo0I0 = OiOooOOoo0I0 + (_i * (liIOilOOIooI or 1)) end
-  return OiOooOOoo0I0
-end
-local liIOilOOIooI = oIolIo0IIooI(13)
-if 63 * 63 < 0 then
-  local iiilo0loIliI = "O0iOIilloIl0"
-  error(iiilo0loIliI)
-end
-if (71*71 + 61*61) >= 0 then
-  local IIOlio0O0Ioi = 9893
-end
-local Iiil0Oi000oI = 77130 * 26
-if 23 * 23 < 0 then
-  local iIiOiioio0l0 = "i000IO0ioOlO"
-  error(iIiOiioio0l0)
-end
-if (25 * (25 + 1)) % 2 == 0 then
-  local lololii00OlI = 2670
-end
-if (26*26 + 68*68) >= 0 then
-  local o0olIIlIlOoo = 7099
-end
-if 61 * 61 < 0 then
-  local llOlIlo0OIio = "OOilIlIloilI"
-  error(llOlIlo0OIio)
-end
-if 31 * 31 < 0 then
-  local IoOl0Ol0lliO = "o00I0lo00oIO"
-  error(IoOl0Ol0lliO)
-end
-local function Oo0looio0Ill(iiil0ll0oOlI)
-  local iIlOiI0oIoII = 0
-  for _i = 1, 5 do iIlOiI0oIoII = iIlOiI0oIoII + (_i * (iiil0ll0oOlI or 1)) end
-  return iIlOiI0oIoII
-end
-local iiil0ll0oOlI = Oo0looio0Ill(12)
-local function oli0oIoOiiO0(oOllloiollOO)
-  local oi0olool0IOo = 0
-  for _i = 1, 15 do oi0olool0IOo = oi0olool0IOo + (_i * (oOllloiollOO or 1)) end
-  return oi0olool0IOo
-end
-local oOllloiollOO = oli0oIoOiiO0(19)
-local Olo00IIOil0i = 40347 * 2
-local IOlIOOOlliIO = 63037 * 41
-local OOl0IO0liiO0 = 89665 * 4
-local iIooOl00oO0I = 62608 * 38
-if (69 + 94) == 163 then
-  local iiOlIOlIloIi = 9151
-end
-local function I00Ii0oii0ll(o0l0OliioOoI)
-  local llili0iIo0II = 0
-  for _i = 1, 14 do llili0iIo0II = llili0iIo0II + (_i * (o0l0OliioOoI or 1)) end
-  return llili0iIo0II
-end
-local o0l0OliioOoI = I00Ii0oii0ll(19)
-if 54 * 54 < 0 then
-  local olIlIOioIill = "o0oOOiIOOIii"
-  error(olIlIOioIill)
-end
-if (9*9 + 79*79) >= 0 then
-  local olIl00Ioo0oi = 2893
-end
-local iOlO0loloiii = 11617 * 65
-if (6 * (6 + 1)) % 2 == 0 then
-  local lOOIOol00iii = 1160
-end
-local Iilli0OO0IO0 = 8784 * 41
-if 82 * 82 < 0 then
-  local IloIiIIII0lO = "OoI0olilIlI0"
-  error(IloIiIIII0lO)
-end
-local function IlOoIilo0iIi(iO0oOlo0OIoi)
-  local Oli000oIlOl0 = 0
-  for _i = 1, 20 do Oli000oIlOl0 = Oli000oIlOl0 + (_i * (iO0oOlo0OIoi or 1)) end
-  return Oli000oIlOl0
-end
-local iO0oOlo0OIoi = IlOoIilo0iIi(21)
-local iOIOIoioiol0 = 11256 * 69
-if 33 * 33 < 0 then
-  local ooloi0lIIOi0 = "l0loloolOlOl"
-  error(ooloi0lIIOi0)
-end
-local function iioIolilOliI(IOOilliilIlO)
-  local O0o0IIOIOlOi = 0
-  for _i = 1, 20 do O0o0IIOIOlOi = O0o0IIOIOlOi + (_i * (IOOilliilIlO or 1)) end
-  return O0o0IIOIOlOi
-end
-local IOOilliilIlO = iioIolilOliI(40)
-local IiIIooIOiIoo = 47569 * 85
-local function lolOOO0iliio(I0OoIOOii0ol)
-  local O0Oi0llIOOi0 = 0
-  for _i = 1, 14 do O0Oi0llIOOi0 = O0Oi0llIOOi0 + (_i * (I0OoIOOii0ol or 1)) end
-  return O0Oi0llIOOi0
-end
-local I0OoIOOii0ol = lolOOO0iliio(45)
-local function iOIliOlll0ll(o0liIllOiIIi)
-  local iIIolio0ilO0 = 0
-  for _i = 1, 7 do iIIolio0ilO0 = iIIolio0ilO0 + (_i * (o0liIllOiIIi or 1)) end
-  return iIIolio0ilO0
-end
-local o0liIllOiIIi = iOIliOlll0ll(49)
-if (91*91 + 97*97) >= 0 then
-  local oI0oIooiIiil = 1383
-end
-local l0O0OOoIoolI = 17919 * 21
-local function lIlOollo0I0o(O0lIOilOO00i)
-  local o0oOlO0IilIl = 0
-  for _i = 1, 8 do o0oOlO0IilIl = o0oOlO0IilIl + (_i * (O0lIOilOO00i or 1)) end
-  return o0oOlO0IilIl
-end
-local O0lIOilOO00i = lIlOollo0I0o(46)
-local IliIlolOiiil = 43277 * 30
-local liOOOIIOOlio = 74223 * 10
-local function iII0OOOOll0O(iilOOlOl00io)
-  local oOii0iOo0I0O = 0
-  for _i = 1, 7 do oOii0iOo0I0O = oOii0iOo0I0O + (_i * (iilOOlOl00io or 1)) end
-  return oOii0iOo0I0O
-end
-local iilOOlOl00io = iII0OOOOll0O(34)
-if 69 * 69 < 0 then
-  local OOIi0IlI0iO0 = "OiiloilIioOI"
-  error(OOIi0IlI0iO0)
-end
-if (34 + 5) == 39 then
-  local i0IIiIOIlllI = 8097
-end
-
-local OIlOIOiIiOIi = 95
-local lOolliO0oIli = 7
-local function IO0ooOoo0iOo(d)
-    local b = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
-    d = d:gsub('%s','')
-    local r = {}
-    local pad = 0
-    for i = 1, #d, 4 do
-        local t = 0
-        for j = 0, 3 do
-            local c = d:sub(i+j,i+j)
-            if c == '=' then t = t*64; pad = pad+1
-            else t = t*64 + (b:find(c,1,true)-1) end
-        end
-        for j = 2, 0, -1 do
-            if j >= pad then
-                r[#r+1] = string.char(bit32.band(bit32.rshift(t, j*8), 0xFF))
-            end
-        end
-    end
-    return table.concat(r)
-end
-local function I0OOIi0lIli0(s)
-    local raw = IO0ooOoo0iOo(s)
-    local n = #raw
-    local r = {}
-    for i = 1, n do
-        local byte = string.byte(raw,i)
-        r[i] = (byte - ((i-1)*lOolliO0oIli) % 256 + 256) % 256
-    end
-    local rev = {}
-    for i = 1, n do rev[i] = r[n - i + 1] end
-    local out = {}
-    for i = 1, n do
-        out[i] = string.char(bit32.bxor(rev[i], OIlOIOiIiOIi))
-    end
-    return table.concat(out)
-end
-
-local oIil00il0IOo = {
-  [1] = I0OOIi0lIli0("KzdB".."JJtV".."Wmxp".."fVM="),
-  [2] = I0OOIi0lIli0("M".."z".."o".."s"),
-  [3] = I0OOIi0lIli0("LDRIO1".."pWOQ=="),
-  [4] = I0OOIi0lIli0("Oj9MQk".."xONmxy".."aoSJio".."6Ro30="),
-  [5] = I0OOIi0lIli0("LEFBP1".."dTPGxy".."bISEYA".."=="),
-  [6] = I0OOIi0lIli0("ODhE".."SUlT".."Ulxy".."UA=="),
-  [7] = I0OOIi0lIli0("OkNEPkldNmJo".."dXGJjo6VmYw="),
-  [8] = I0OOIi0lIli0("OkNEPkld".."NmJyeW5Y"),
-  [9] = I0OOIi0lIli0("PjJ".."MMF".."ddZ".."D0="),
-  [10] = I0OOIi0lIli0("LDI9R0xQO".."VdjdXiDe4".."uPeJuzuLi".."/w7bb4+XN"),
-  [11] = I0OOIi0lIli0("OkNEPkldNlxncXZ6".."Y4GNn6KtpbW5og=="),
-  [12] = I0OOIi0lIli0("KzZARU".."kyUFxu".."cXx0hI".."hx"),
-  [13] = I0OOIi0lIli0("M0FJ".."RS4="),
-  [14] = I0OOIi0lIli0("KzRMJEdTWj5z".."dXZ+ko2MgA=="),
-  [15] = I0OOIi0lIli0("Oz0".."+Rl".."pVV".."Eg="),
-  [16] = I0OOIi0lIli0("JjJE".."UUxW".."ZDpe".."enZq"),
-  [17] = I0OOIi0lIli0("Kz".."RM".."JA".."=="),
-  [18] = I0OOIi0lIli0("Kk".."FE".."Qk".."c="),
-  [19] = I0OOIi0lIli0("KzhI".."R1Nf".."aFxj".."XQ=="),
-  [20] = I0OOIi0lIli0("MTdEQ".."FJPWk".."Bpd3y".."Acg=="),
-  [21] = I0OOIi0lIli0("Ox05".."RU8y"),
-  [22] = I0OOIi0lIli0("KzdB".."JA=="),
-  [23] = I0OOIi0lIli0("M0U4".."QVIs"),
-  [24] = I0OOIi0lIli0("KzRMJFZUWj".."ZpeYF6knM="),
-  [25] = I0OOIi0lIli0("KzRMJF".."ZPaE4="),
-  [26] = I0OOIi0lIli0("Zm0/".."Pldf".."VGtu".."dg=="),
-  [27] = I0OOIi0lIli0("cd/y00+iWS0c/X3".."MjIxNBaer/bZ+eF".."jY2S7sf6iJwXIYG".."G0m8Z8VkH1KX2NM"),
-  [28] = I0OOIi0lIli0("f2xEE7VaZrBuASoLQ/Samu+pXmpKyc4g".."2qJS6EP1yr6etYl0J/PvzzWei1htcVo="),
-  [29] = I0OOIi0lIli0("LUFL".."R0ZU"),
-  [30] = I0OOIi0lIli0("f2xJK0ldVju3ZUAyEp".."KN6KJqGpAL+MXa3sc="),
-  [31] = I0OOIi0lIli0("eIZEE7VaZrBuAS".."oLQ/Samu+deGpK".."ysUg2qJS6EMDA8".."R8HgJ0YS5DRzA="),
-  [32] = I0OOIi0lIli0("c".."X".."8".."="),
-  [33] = I0OOIi0lIli0("f2w+TFiiZUdleXJX04FcTi6uqQS+hj".."bMJ4uae/v2URER0oosEIJvPFFVPg=="),
-  [34] = I0OOIi0lIli0("cdPy0+q+qWFvc8V9U/eL".."6J9pY0PIEsDL1do1maiJ".."CQRfHx/gmDoekH1KX2NM"),
-  [35] = I0OOIi0lIli0("LDJI".."JA=="),
-  [36] = I0OOIi0lIli0("LDRISFBU".."YF5nSw=="),
-  [37] = I0OOIi0lIli0("LDhMMVRU".."YF5yaoRV"),
-  [38] = I0OOIi0lIli0("LDk+RU".."laVltK"),
-  [39] = I0OOIi0lIli0("LEFA".."RU07"),
-  [40] = I0OOIi0lIli0("LDg".."+RV".."hfa".."D4="),
-  [41] = I0OOIi0lIli0("LE".."E5".."U0".."k/"),
-  [42] = I0OOIi0lIli0("LDt".."KUy".."teZ".."GtE"),
-  [43] = I0OOIi0lIli0("LDpIPU".."xQNQ=="),
-  [44] = I0OOIi0lIli0("LDY+".."Qis="),
-  [45] = I0OOIi0lIli0("LEJI".."Tyg="),
-  [46] = I0OOIi0lIli0("LDJEP".."0k8ZW".."tja4B".."2gZl5"),
-  [47] = I0OOIi0lIli0("LDI".."+JE".."JOW".."WNS"),
-  [48] = I0OOIi0lIli0("OjpL".."U0c="),
-  [49] = I0OOIi0lIli0("cT0A+dpbqQ0c/RTo04thB".."aH2sHtxUdHQJ9qoooL0Uc".."V8I20tLe6mSCyei1htcVo".."="),
-  [50] = I0OOIi0lIli0("cXh/Sw4H6Gm3aT4yEin96".."JtnY0OpEgvTnpR09PNK/c".."vFpRd0MgHvz0hSpWiuumh".."DNRWVkOulbR2TDvvI3eHK"),
-  [51] = I0OOIi0lIli0("f/vy00eiYmIg".."JAR401r+k34="),
-  [52] = I0OOIi0lIli0("dkQ4L".."JtdYm".."J2bFb".."E0w=="),
-  [53] = I0OOIi0lIli0("cTkE+tpaWbBj".."MSsLfdqd4+Cy".."+ATChX5f4C6y".."WZNmUT4LICQN"),
-  [54] = I0OOIi0lIli0("f2xE3".."QDhPb".."Cdan+".."DbA=="),
-  [55] = I0OOIi0lIli0("cTOIlE0DD+8G2sV/SkAgoJ/2qXdxUcMg4yk187".."avkBFf44rEl4KIPBIE5FizbEHlgG7dypessJk="),
-  [56] = I0OOIi0lIli0("L".."0".."U".."g"),
-  [57] = I0OOIi0lIli0("LDg+S0dhZmFLb".."IB2gZVumpi1rZ".."HAz9iw4+nwyQ=".."="),
-  [58] = I0OOIi0lIli0("NENM".."JFdd".."ZD0="),
-  [59] = I0OOIi0lIli0("O0FI".."IURT".."Z2Ju".."fVM="),
-  [60] = I0OOIi0lIli0("O0FI".."IVdW".."Wkk="),
-  [61] = I0OOIi0lIli0("KDdLRl".."JhNw=="),
-  [62] = I0OOIi0lIli0("Oz".."o+".."LQ".."=="),
-  [63] = I0OOIi0lIli0("KzRMJEdP".."ZFplfV0="),
-  [64] = I0OOIi0lIli0("KzZA".."RUky".."XW9y".."alI="),
-  [65] = I0OOIi0lIli0("M0".."VI".."QE".."g="),
-  [66] = I0OOIi0lIli0("Kz5G".."Sy0="),
-  [67] = I0OOIi0lIli0("LD".."I/".."U0".."8y"),
-  [68] = I0OOIi0lIli0("LDJE".."P0k8"),
-  [69] = I0OOIi0lIli0("Ox05S0".."ZQQw=="),
-  [70] = I0OOIi0lIli0("Ox0".."5Rl".."pWO".."Q=="),
-  [71] = I0OOIi0lIli0("Ox07".."T0gt"),
-  [72] = I0OOIi0lIli0("ZUJISFJhY7".."BrfYB4YA=="),
-  [73] = I0OOIi0lIli0("OjF".."BUy".."VWW".."mFV"),
-  [74] = I0OOIi0lIli0("KzZARUkyVV".."1yaHOLaw=="),
-  [75] = I0OOIi0lIli0("OjlMJ".."kdQaE".."BybHZ".."p"),
-  [76] = I0OOIi0lIli0("OjlM".."Jldd".."ZD0="),
-  [77] = I0OOIi0lIli0("MTdEQF".."pOVEM="),
-  [78] = I0OOIi0lIli0("KzZA".."RUky".."ZWty".."Sw=="),
-  [79] = I0OOIi0lIli0("O0FIIUdf".."ZGRrb2I="),
-  [80] = I0OOIi0lIli0("KzZARU".."kyXm12".."ToGHjm".."c="),
-  [81] = I0OOIi0lIli0("O0".."FI".."QQ".."=="),
-  [82] = I0OOIi0lIli0("Lz".."FC".."UV".."JS"),
-  [83] = I0OOIi0lIli0("Lzd".."FIV".."ddZ".."D0="),
-  [84] = I0OOIi0lIli0("PjJM".."MFdd".."V29v".."Sw=="),
-  [85] = I0OOIi0lIli0("LEE9".."OydO".."ZEA="),
-  [86] = I0OOIi0lIli0("MTc".."+UV".."hhN".."w=="),
-  [87] = I0OOIi0lIli0("Jk".."FC".."Rk".."w1"),
-  [88] = I0OOIi0lIli0("MT".."1L".."RS".."k="),
-  [89] = I0OOIi0lIli0("OD".."c7".."Lg".."=="),
-  [90] = I0OOIi0lIli0("Jjg/".."Pzk="),
-  [91] = I0OOIi0lIli0("LU".."FI".."MA".."=="),
-  [92] = I0OOIi0lIli0("M".."y".."8".."e"),
-  [93] = I0OOIi0lIli0("O".."k".."E".."r"),
-  [94] = I0OOIi0lIli0("MTQ".."+UV".."JUN".."A=="),
-  [95] = I0OOIi0lIli0("MTdG".."U0k+".."qWV0".."fXlq"),
-  [96] = I0OOIi0lIli0("KzhIREld".."NrBye1w="),
-  [97] = I0OOIi0lIli0("JjpHRkxb".."aF5TvneH".."j46SgQ=="),
-  [98] = I0OOIi0lIli0("MUUqlFRUY".."F5yaoRV04".."ySm6Knmg=".."="),
-  [99] = I0OOIi0lIli0("LUFBSU".."1ZV2BE".."vnd9ho".."2ShQ=="),
-  [100] = I0OOIi0lIli0("MT".."9E".."IQ".."=="),
-  [101] = I0OOIi0lIli0("LUFBSU1Z".."V2BEvnd9".."ho2SpaGB"),
-  [102] = I0OOIi0lIli0("M0".."E2".."RU".."ku"),
-  [103] = I0OOIi0lIli0("LUFBSU1ZV2".."BEvoB6kmg="),
-  [104] = I0OOIi0lIli0("Mjc+QlNPVE".."O3bnh3aQ=="),
-  [105] = I0OOIi0lIli0("Mjc+Q".."lNPVE".."O3eoC".."Hg2c="),
-  [106] = I0OOIi0lIli0("MTRI".."QE1h".."PQ=="),
-  [107] = I0OOIi0lIli0("Mjc+QlNPVE".."O3c3eDgZJu"),
-  [108] = I0OOIi0lIli0("Mjc+Ql".."NPVEO3".."eWuDgI".."icmJqD"),
-  [109] = I0OOIi0lIli0("Oj".."k+".."Rj".."Q="),
-  [110] = I0OOIi0lIli0("KzcdlF".."hZVm9V"),
-  [111] = I0OOIi0lIli0("LUFBSU1ZV2BEvm".."x6kpaTo6ixkQ=="),
-  [112] = I0OOIi0lIli0("Mjc+QlNP".."VEO3ZXGD".."h46Ypqaj".."tK69qQ=="),
-  [113] = I0OOIi0lIli0("LUE5Q".."kxSZG".."RySg=".."="),
-  [114] = I0OOIi0lIli0("KDc7".."Qlpg".."XWty".."dk4="),
-  [115] = I0OOIi0lIli0("MUUqlFRU".."YF5yaoRV".."04icmJqD"),
-  [116] = I0OOIi0lIli0("LUFBSU1ZV2".."BEvnOHg4Vu"),
-  [117] = I0OOIi0lIli0("Mz".."c+".."IA".."=="),
-  [118] = I0OOIi0lIli0("M0E3".."RVMv"),
-  [119] = I0OOIi0lIli0("NEN".."MRF".."Bfa".."E4="),
-  [120] = I0OOIi0lIli0("MT".."dA".."R0".."w/"),
-  [121] = I0OOIi0lIli0("Mzc".."+IF".."ddZ".."D0="),
-  [122] = I0OOIi0lIli0("PkE7".."M0dU".."aGRH"),
-  [123] = I0OOIi0lIli0("LUE0U08y".."qV5yendX"),
-  [124] = I0OOIi0lIli0("PjJMME1T".."YFx2anBf"),
-  [125] = I0OOIi0lIli0("KzZEQ".."lgvZG".."RienZ".."f"),
-  [126] = I0OOIi0lIli0("PD0".."7QF".."hdX".."Us="),
-  [127] = I0OOIi0lIli0("MU".."Ez".."RU".."k8"),
-  [128] = I0OOIi0lIli0("Kz1".."BUE".."xTX".."U4="),
-  [129] = I0OOIi0lIli0("O0E".."/S1".."paR".."g=="),
-  [130] = I0OOIi0lIli0("NEM4".."QkdP".."V29j".."Sw=="),
-  [131] = I0OOIi0lIli0("PjFBhk1ZaGOoeoR9h4yKmavnq".."bHGvtjUGNvw6QIFBRMNVxkmNi".."09KohLUVxqaH51wpKUjaqu6rO".."4ywfazuLd7/g3PjoIEhUcLw=="),
-  [132] = I0OOIi0lIli0("PjFBhkldYm9pfViHfZlu2ZyorsDHsQrO4tri+/Y7/QoaESEObC81QE5M".."YlmmdnhxjpLOl5yv66y5ycHO1Off8+zxC/8TDiApaSdEOoSLh1VfYml8"),
-  [133] = I0OOIi0lIli0("PjFBhkldYm9pfViHkJmblqqir5v8v8vR4+rULfEF".."/QUeGV4gLT00RDGPUlhjcW+FfMmZm5SxtfG6v9IO".."z9zs5PH3CgIWDxQuIjYxQ0yMSmddp66qeIKFjJ8="),
-  [134] = I0OOIi0lIli0("PTEllFZb".."W29lTw=="),
-  [135] = I0OOIi0lIli0("Kzk9lEOi".."WWdhP356".."hNqIpg=="),
-  [136] = I0OOIi0lIli0("ND".."RM".."MA".."=="),
-  [137] = I0OOIi0lIli0("Mj".."RM".."Lg".."=="),
-  [138] = I0OOIi0lIli0("OU".."VI".."SA".."=="),
-  [139] = I0OOIi0lIli0("Lz".."dF".."IQ".."=="),
-  [140] = I0OOIi0lIli0("KzRMUY".."5bW2dn".."bnaEgA".."=="),
-  [141] = I0OOIi0lIli0("K".."0".."E".."d"),
-  [142] = I0OOIi0lIli0("LU".."U5".."QQ".."=="),
-  [143] = I0OOIi0lIli0("M0E3".."RVNP"),
-  [144] = I0OOIi0lIli0("OD".."1H".."Rk".."w/"),
-  [145] = I0OOIi0lIli0("LD8".."/S0".."dOZ".."F0="),
-  [146] = I0OOIi0lIli0("K0".."BE".."LQ".."=="),
-  [147] = I0OOIi0lIli0("K0".."BE".."TQ".."=="),
-  [148] = I0OOIi0lIli0("cEQ4".."LFZb".."W29l".."Tw=="),
-  [149] = I0OOIi0lIli0("OkNEP".."kldNm".."JiTA=".."="),
-  [150] = I0OOIi0lIli0("NjEmT0".."lTRg=="),
-  [151] = I0OOIi0lIli0("OkNEPkldNlxi".."bndjgZWOcw=="),
-  [152] = I0OOIi0lIli0("MTIrRlI1Z1".."tPeX5+kohy"),
-  [153] = I0OOIi0lIli0("Z3R2foSKkJ".."inq660usnQ".."2eDcubu3zc".."bN5tbz6g=="),
-  [154] = I0OOIi0lIli0("NjEm".."RlZd".."V21E"),
-  [155] = I0OOIi0lIli0("OjlM".."QjU="),
-  [156] = I0OOIi0lIli0("LUE".."/Qk".."w/Q".."Ds="),
-  [157] = I0OOIi0lIli0("MTc5QEZA".."VVhySg=="),
-  [158] = I0OOIi0lIli0("M0FLUy9d".."Ym9qVQ=="),
-  [159] = I0OOIi0lIli0("NjEm".."PExW".."Z2FF"),
-  [160] = I0OOIi0lIli0("LT".."FB".."Mg".."=="),
-  [161] = I0OOIi0lIli0("MT".."1M".."Jw".."=="),
-  [162] = I0OOIi0lIli0("LUE5SF".."I8VV1y".."aHOLaw".."=="),
-  [163] = I0OOIi0lIli0("JgSqMZ".."tZKM1l".."SsV+Jj".."8goIw="),
-  [164] = I0OOIi0lIli0("JjJEQl".."owVV1y".."aHOLaw".."=="),
-  [165] = I0OOIi0lIli0("Mufz01I".."6qfcc/R".."Xo04w0T".."S6umg=="),
-  [166] = I0OOIi0lIli0("MTd".."AR0".."xfW".."zs="),
-  [167] = I0OOIi0lIli0("OjRM".."Ig=="),
-  [168] = I0OOIi0lIli0("PD09".."Lw=="),
-  [169] = I0OOIi0lIli0("JjR".."MUE".."1dY".."mtL"),
-  [170] = I0OOIi0lIli0("PD".."1F".."QE".."I1"),
-  [171] = I0OOIi0lIli0("LU".."E9".."Py".."g="),
-  [172] = I0OOIi0lIli0("K0".."E7".."UV".."Yv"),
-  [173] = I0OOIi0lIli0("LDg+S0dhVVtK".."anKHfYiggKCI"),
-  [174] = I0OOIi0lIli0("MTdEQFpOVEO".."3ZUPpcNqYZw".."ykiQTCkTa4J".."+fnqGAC5g=="),
-  [175] = I0OOIi0lIli0("OjpGTUwu".."ZF1ifVV4".."gJWLlq6O"),
-  [176] = I0OOIi0lIli0("Md/y01I3qR8c/VLMQPd+6KaukgSykDa9".."J+W0WfHWUQ/egwV0NDT+9dY6pV8yIABU"),
-  [177] = I0OOIi0lIli0("LDI/T0U9".."ZF1ifVV4".."gJWLlq6O"),
-  [178] = I0OOIi0lIli0("Md/y01I3".."qR8c/VLM".."hS1GJ6eT"),
-  [179] = I0OOIi0lIli0("Mv".."yq".."5L".."c="),
-  [180] = I0OOIi0lIli0("KgWqJ5tb".."Ww3TbFE="),
-  [181] = I0OOIi0lIli0("ODgN".."sSWi".."YmIU".."2nNY"),
-  [182] = I0OOIi0lIli0("KgaqJ5".."uLqWlp".."G+F6Xw".."=="),
-  [183] = I0OOIi0lIli0("Pv".."an".."Jw".."=="),
-  [184] = I0OOIi0lIli0("K+fz00".."JNNQ=="),
-  [185] = I0OOIi0lIli0("K/2q".."IZtV".."JBb2".."Sw=="),
-  [186] = I0OOIi0lIli0("OjpGT".."UwuVV".."1yaHO".."Law=="),
-  [187] = I0OOIi0lIli0("JgSqMZtZKM".."1lSsWDUvd5".."6KioRGlKYj".."UglpN0yA=="),
-  [188] = I0OOIi0lIli0("OjpGTUwu".."XWRySw=="),
-  [189] = I0OOIi0lIli0("JgSqMZtZKM1l".."SsUTOBl/6KF2".."GrWXEsufRMw="),
-  [190] = I0OOIi0lIli0("ODjc+dpZQrBj".."PSsLa9qSo6aP"),
-  [191] = I0OOIi0lIli0("OjpGT".."UwuVW".."J2clV".."9f4WA"),
-  [192] = I0OOIi0lIli0("ODjc+dpZQrBjPS".."sLa9qSo6aP/b29".."WX5fd0o1q6iJ3Q".."=="),
-  [193] = I0OOIi0lIli0("OkI".."+J0".."dUa".."GRH"),
-  [194] = I0OOIi0lIli0("ODjc+dpZQrBjPS".."sLa9qSo6aP/bzI".."kTa9J+CIoYIC7g".."=="),
-  [195] = I0OOIi0lIli0("8qM7IJv3".."Du9Bvnh9".."j4ygdg=="),
-  [196] = I0OOIi0lIli0("K/nz0yWiW".."y7UdlfMih".."9GJ18QmQ=".."="),
-  [197] = I0OOIi0lIli0("O0FIIZt".."OZmtrcn".."Zp09Thn".."K6xqZE="),
-  [198] = I0OOIi0lIli0("OjpGTU".."wuZWty".."S3qJim".."qSlJqV"),
-  [199] = I0OOIi0lIli0("dnh/hkRTZ2JufVPMx5aVmYju/cDGza".."Yg05ebe/vcURERrdKzy56J//zdMQ=="),
-  [200] = I0OOIi0lIli0("OjpGTUwuXW".."9yalJ9f4WA"),
-  [201] = I0OOIi0lIli0("JgSqMZtZKM1".."lSsV8GD8gWA".."mT/b29WX5fd".."0o1q6iJ3Q=="),
-  [202] = I0OOIi0lIli0("O0FI".."IUJN".."R2Fj".."aWQ="),
-  [203] = I0OOIi0lIli0("ODjc+dpZQrBjPS".."sLa9qTO1Q1taE="),
-  [204] = I0OOIi0lIli0("OjpGTUwuUF".."tVb3F3cg=="),
-  [205] = I0OOIi0lIli0("ODjc+dpZQr".."BjPSsLa9qg".."k4L2trZSd1".."hwQy6koYLW"),
-  [206] = I0OOIi0lIli0("LUVI".."LUJN".."R2Fj".."aWQ="),
-  [207] = I0OOIi0lIli0("LUVI".."LZtU".."/BX2".."dmI="),
-  [208] = I0OOIi0lIli0("OjpGTU".."wuV29y".."V2x3cY".."uNk44="),
-  [209] = I0OOIi0lIli0("LUVILZthV".."EO3d3cTOB".."kxBO9lYkO".."X"),
-  [210] = I0OOIi0lIli0("OjpGTUwuWW".."FvS3eHg2s="),
-  [211] = I0OOIi0lIli0("LzdF".."IZtU".."ZGBI"),
-  [212] = I0OOIi0lIli0("K0EdO0ZA".."WlxiXQ=="),
-  [213] = I0OOIi0lIli0("ODj9rjiiD81v".."SsV+Jj8goIw="),
-  [214] = I0OOIi0lIli0("OjpGTU".."wuVWtH".."ZXBqhI".."aMhw=="),
-  [215] = I0OOIi0lIli0("ODj9rjiiD81vSsWLfm".."3hoaE9YkNbLhmPjG3B"),
-  [216] = I0OOIi0lIli0("JjJEQlow".."XWthb31Z"),
-  [217] = I0OOIi0lIli0("OjpGTUwuXWth".."b31ZhIaMhw=="),
-  [218] = I0OOIi0lIli0("JgSqMZshxm".."E/vn5+Gj8g".."OAv2bGlKng".."=="),
-  [219] = I0OOIi0lIli0("Oj".."tM".."Lg".."=="),
-  [220] = I0OOIi0lIli0("LDI9S0".."lfNl5y".."ZYSAYw".."=="),
-  [221] = I0OOIi0lIli0("LDRI".."SE9T".."V1xp".."b2I="),
-  [222] = I0OOIi0lIli0("LUFBSE".."xQVWJo".."W3OHi4".."ago3g="),
-  [223] = I0OOIi0lIli0("Ozg4RVWiVWFpvn".."OHh46SlpuorqG5".."zdHM5um+PCn4DB".."ALJSj9NjdIKg=="),
-  [224] = I0OOIi0lIli0("Ojg+".."Jg=="),
-  [225] = I0OOIi0lIli0("OjpGTU".."wuV2tv".."aoSHXJ".."WWp4k="),
-  [226] = I0OOIi0lIli0("/OzMSzSiV".."REd/XxY05".."EkTS6uiQ=".."="),
-  [227] = I0OOIi0lIli0("OjY0IEldYV".."x2eU6HiJl7"),
-  [228] = I0OOIi0lIli0("K+fz01Iuq".."Wf6IwSEX9".."qTO1Q1taE".."="),
-  [229] = I0OOIi0lIli0("/6M4".."I5tb".."Wxkd".."/VE="),
-  [230] = I0OOIi0lIli0("cXh/QlpdQ".."qRzeYBZ05".."OTUVU1iQ=".."="),
-  [231] = I0OOIi0lIli0("K+fz01IuqWf6IwSEX9".."qTZwynTSALgX5fww=="),
-  [232] = I0OOIi0lIli0("PjJMMFZWZl".."dUeXiDXw=="),
-  [233] = I0OOIi0lIli0("OjNMTCtd".."U2dje2Q="),
-  [234] = I0OOIi0lIli0("MTdEQFpQVE".."xya4SEYw=="),
-  [235] = I0OOIi0lIli0("ODhERlJhXG".."tFeXKLi2o="),
-  [236] = I0OOIi0lIli0("OjlEIEdQaF".."xEeXKLi2o="),
-  [237] = I0OOIi0lIli0("Ozg4RVWiVWFpvoR4knacnKydmr".."++yaUgDdry8/8F/+gNISUgOj0S"),
-  [238] = I0OOIi0lIli0("MQWqReu+".."qR8c/WE="),
-  [239] = I0OOIi0lIli0("cXh/S".."xgI6F".."y3d3e".."LI/Y="),
-  [240] = I0OOIi0lIli0("K0FGQlouV".."W1ueoB6Y4".."icoJu1uI0".."="),
-  [241] = I0OOIi0lIli0("MQWqReu+qR8c/WHMhSlGJ5".."qJ/bBseFjXsy7sf6iJCeQ="),
-  [242] = I0OOIi0lIli0("djOIlE0Qxm2vvnLH08CY".."Z1U1qQS9a35f3uY19/AJ".."CegR6mwtLcnuz+a6pVgy".."IAB5h9Z2dopCFQC0CQ=="),
-  [243] = I0OOIi0lIli0("djOIlE0Qxm2vvnLH08CYZ1U1qQS9a35f3uY19/AJCegR6mQhdoJEPVZWVaxsbH".."J2e87doNni9ObD/AUXCeYfKDpG+BMIYhvJ3L08RJNGHA7uYWXELjgYjeeb8A=="),
-  [244] = I0OOIi0lIli0("fQqNRVNfqWI223Yb7".."9pQTS6y/auGeFjY0y".."7osGD2URER0oosEA=".."="),
-  [245] = I0OOIi0lIli0("f".."Q".."o".."="),
-  [246] = I0OOIi0lIli0("ODgI+dpeqS0d/X2B05OTVA".."yusgTKvti84uLy4+AFBA/r")
-}
-
-if 42 * 42 < 0 then
-  local OlioiOiOioIo = "I00ilolOIoio"
-  error(OlioiOiOioIo)
-end
-if (31 + 47) == 78 then
-  local OoO0ll0oiOOl = 9932
-end
-if 72 * 72 < 0 then
-  local OiOIllil0Ioo = "IlliooiIlIlO"
-  error(OiOIllil0Ioo)
-end
-local function OiIiIli0OOil(i0I00iIlI0lO)
-  local illI0oO0oiIo = 0
-  for _i = 1, 19 do illI0oO0oiIo = illI0oO0oiIo + (_i * (i0I00iIlI0lO or 1)) end
-  return illI0oO0oiIo
-end
-local i0I00iIlI0lO = OiIiIli0OOil(50)
-if (38 + 80) == 118 then
-  local OIi0iIoOi00O = 7104
-end
-local function OoO0IIiiilOO(IiloOi0liIi0)
-  local IiioIooiOl0o = 0
-  for _i = 1, 10 do IiioIooiOl0o = IiioIooiOl0o + (_i * (IiloOi0liIi0 or 1)) end
-  return IiioIooiOl0o
-end
-local IiloOi0liIi0 = OoO0IIiiilOO(36)
-if 50 * 50 < 0 then
-  local Oo0oo0ooIoII = "IiiooIIOoloi"
-  error(Oo0oo0ooIoII)
-end
-if 68 * 68 < 0 then
-  local liio00iloIil = "iOOOioIiII0I"
-  error(liio00iloIil)
-end
-if 87 * 87 < 0 then
-  local o0ioloilIiO0 = "lIlilIoo0ooI"
-  error(o0ioloilIiO0)
-end
-local function OoOOIooiI0II(ll0oo0i0OllO)
-  local oOoi0OoIOiio = 0
-  for _i = 1, 6 do oOoi0OoIOiio = oOoi0OoIOiio + (_i * (ll0oo0i0OllO or 1)) end
-  return oOoi0OoIOiio
-end
-local ll0oo0i0OllO = OoOOIooiI0II(35)
-local iiOI0OiOloO0 = 31070 * 23
-if 35 * 35 < 0 then
-  local oI0IOlOooOoI = "Iii0IlOi0IOO"
-  error(oI0IOlOooOoI)
-end
-local function i00io00loOll(O0Ol0lI0iolo)
-  local ooloII0lilll = 0
-  for _i = 1, 7 do ooloII0lilll = ooloII0lilll + (_i * (O0Ol0lI0iolo or 1)) end
-  return ooloII0lilll
-end
-local O0Ol0lI0iolo = i00io00loOll(47)
-local OiIlOOIIIlii = 21489 * 80
-local function ooIIOoIilIl0(oOoo0lIOiIO0)
-  local IoolOoOOOii0 = 0
-  for _i = 1, 17 do IoolOoOOOii0 = IoolOoOOOii0 + (_i * (oOoo0lIOiIO0 or 1)) end
-  return IoolOoOOOii0
-end
-local oOoo0lIOiIO0 = ooIIOoIilIl0(2)
-local OI0lIiIo0Il0 = 41545 * 20
-local o0O0IlOooioi = 65115 * 49
-if 49 * 49 < 0 then
-  local ii00IO0lIIlO = "oIoiolI0oliO"
-  error(ii00IO0lIIlO)
-end
-local function IOII0II0ioli(lollioIoioIo)
-  local lOoooIoIIolo = 0
-  for _i = 1, 19 do lOoooIoIIolo = lOoooIoIIolo + (_i * (lollioIoioIo or 1)) end
-  return lOoooIoIIolo
-end
-local lollioIoioIo = IOII0II0ioli(5)
-if 9 * 9 < 0 then
-  local Oilll0oooO0l = "oO0oOOooOiii"
-  error(Oilll0oooO0l)
-end
-local iolooiiiIIi0 = 42503 * 94
-local Il0O0o00lo00 = 23405 * 76
-if (20*20 + 12*12) >= 0 then
-  local ilIIl0liIi0l = 7503
-end
-local function iliiOooiIlil(o0oO0iOOoOiI)
-  local lloII0oOll0o = 0
-  for _i = 1, 20 do lloII0oOll0o = lloII0oOll0o + (_i * (o0oO0iOOoOiI or 1)) end
-  return lloII0oOll0o
-end
-local o0oO0iOOoOiI = iliiOooiIlil(35)
-local function iliI0OlOIIil(lI0iOiOoOii0)
-  local OI0liO0oIili = 0
-  for _i = 1, 11 do OI0liO0oIili = OI0liO0oIili + (_i * (lI0iOiOoOii0 or 1)) end
-  return OI0liO0oIili
-end
-local lI0iOiOoOii0 = iliI0OlOIIil(30)
-if 49 * 49 < 0 then
-  local oiioiiIOi0oI = "IoIlOIIliI0i"
-  error(oiioiiIOi0oI)
-end
-if (96 + 68) == 164 then
-  local O0IIlIIoOloI = 6999
-end
-local function oO0IOllIooII(lO00Io0Iolil)
-  local oOooiolI0ooO = 0
-  for _i = 1, 17 do oOooiolI0ooO = oOooiolI0ooO + (_i * (lO00Io0Iolil or 1)) end
-  return oOooiolI0ooO
-end
-local lO00Io0Iolil = oO0IOllIooII(15)
-if 75 * 75 < 0 then
-  local OOoO0iiOiIl0 = "OlI00i0oII0i"
-  error(OOoO0iiOiIl0)
-end
-local function OllIOloOOIi0(IIOololIliIl)
-  local OooolIOOi0il = 0
-  for _i = 1, 15 do OooolIOOi0il = OooolIOOi0il + (_i * (IIOololIliIl or 1)) end
-  return OooolIOOi0il
-end
-local IIOololIliIl = OllIOloOOIi0(1)
-if (14 * (14 + 1)) % 2 == 0 then
-  local o0OI0IillOOO = 3775
-end
-if (48 * (48 + 1)) % 2 == 0 then
-  local loOlIOoi0iIi = 1287
-end
-if (93 + 85) == 178 then
-  local oOiIOOiOoilI = 8263
-end
-if 63 * 63 < 0 then
-  local Oiii0IIIOoiO = "OoloI0ll0lli"
-  error(Oiii0IIIOoiO)
-end
-local Oool0lIloioi = 18591 * 87
-if (80*80 + 53*53) >= 0 then
-  local l0IolilIOIll = 8584
-end
-local function ol00I0iIiIOo(lioOO0oOI0oi)
-  local O0oIOIO0oill = 0
-  for _i = 1, 8 do O0oIOIO0oill = O0oIOIO0oill + (_i * (lioOO0oOI0oi or 1)) end
-  return O0oIOIO0oill
-end
-local lioOO0oOI0oi = ol00I0iIiIOo(11)
-local OloOIlOO00ll = 38379 * 79
-if 57 * 57 < 0 then
-  local I0lloloIooOl = "il0OOoOIoOOi"
-  error(I0lloloIooOl)
-end
-if 69 * 69 < 0 then
-  local OiOIolI0OiII = "olillOlOooll"
-  error(OiOIolI0OiII)
-end
-if (57 + 91) == 148 then
-  local iOl0I0ilil0O = 7473
-end
-local O0oiloo0olII = 50245 * 43
-local function II0IoOOOilII(OolliIlI0OIO)
-  local llOo0oIlill0 = 0
-  for _i = 1, 20 do llOo0oIlill0 = llOo0oIlill0 + (_i * (OolliIlI0OIO or 1)) end
-  return llOo0oIlill0
-end
-local OolliIlI0OIO = II0IoOOOilII(45)
-if 16 * 16 < 0 then
-  local I0IoooiOi00I = "OOiiooIo0i0o"
-  error(I0IoooiOi00I)
-end
-if (7*7 + 65*65) >= 0 then
-  local lo0I0OOilo00 = 9765
-end
-if (84*84 + 52*52) >= 0 then
-  local iooiiIl0OooI = 9626
-end
-if 19 * 19 < 0 then
-  local lIoOOOl0iIil = "ollO0o0IllOo"
-  error(lIoOOOl0iIil)
-end
-local IoIiIOIlooiI = 14650 * 15
-local function IiOo0I0iOolO(oOoI0oolOiOO)
-  local IlIooIio0o00 = 0
-  for _i = 1, 12 do IlIooIio0o00 = IlIooIio0o00 + (_i * (oOoI0oolOiOO or 1)) end
-  return IlIooIio0o00
-end
-local oOoI0oolOiOO = IiOo0I0iOolO(18)
-local function Il000OlilOio(IIIlIi0loi0I)
-  local OlOliI0OI0Oo = 0
-  for _i = 1, 5 do OlOliI0OI0Oo = OlOliI0OI0Oo + (_i * (IIIlIi0loi0I or 1)) end
-  return OlOliI0OI0Oo
-end
-local IIIlIi0loi0I = Il000OlilOio(33)
--- [main]
-local oIIiilIOliOl = (function()
-_G.harvest = false
-_G.sell = false
-_G.autoseed = false
-_G.autopickseed = false
-_G.autosteal = false
-_G.StealBlacklist = _G.StealBlacklist or {}
-_G.TweenBusy = false
-_G.autoplant = false
-_G.openshop = false
-_G.autobuy = false
-_G.autobuyseed = {}
-_G.plantmode = oIil00il0IOo[1]
-_G.harvestfilter = {}
-_G.harvestrarity = oIil00il0IOo[2]
-_G.harvestpause = false
-_G.harvestpauseevents = {}
-_G.autobuypet = false
-_G.autobuypetname = {}
-_G.autobuygear = false
-_G.autobuygearname = {}
-_G.noharvestmutations = {}
-_G.autoshovel = false
-_G.autoshovelrarity = oIil00il0IOo[2]
-
-local io00lo0I0Ioi = game:GetService(oIil00il0IOo[3])
-local IIool000iiOO = io00lo0I0Ioi.LocalPlayer
-local lIIo0IO00iiO = game:GetService(oIil00il0IOo[4])
-local IooOIioIOlOO = require(lIIo0IO00iiO:WaitForChild(oIil00il0IOo[5]):WaitForChild(oIil00il0IOo[6]))
-local o0IOioiIlIOi = game:GetService(oIil00il0IOo[7])
-local lI0iIoilooii = game:GetService(oIil00il0IOo[8])
-local oOliOoilll0o = require(lIIo0IO00iiO:WaitForChild(oIil00il0IOo[5]):WaitForChild(oIil00il0IOo[9]))
-
-local Olioi0liOIii = IIool000iiOO:FindFirstChild(oIil00il0IOo[10])
-if Olioi0liOIii then Olioi0liOIii.Value = false end
-
-local lO0llliOllOl = game:GetService(oIil00il0IOo[11])
-lO0llliOllOl.PromptShown:Connect(function(iIIiloOIoOiI)
-    if iIIiloOIoOiI and iIIiloOIoOiI:IsA(oIil00il0IOo[12]) then
-        iIIiloOIoOiI.HoldDuration = 0
+-- [LỚP 1: TYPE REFLECTION ABUSE]
+-- Kiểm tra xem chuỗi báo lỗi sinh ra từ Metatable của game có chuẩn định dạng Roblox Luau hay không.
+-- Nếu AI fake hàm typeof hoặc game, chuỗi lỗi sinh ra từ pcall C-Side sẽ tố cáo nó.
+pcall(function()
+    local _, err = pcall(function() return game.__newindex() end)
+    if not string.find(tostring(err), "missing") and not string.find(tostring(err), "method") then
+        lloOO0OlIll0lO​ = false
     end
 end)
 
-local function oililIiOOiIi(iIIiloOIoOiI)
-    local i0iloOi0lOl0 = iIIiloOIoOiI.Parent
-    while i0iloOi0lOl0 and not i0iloOi0lOl0:IsA(oIil00il0IOo[13]) do
-        i0iloOi0lOl0 = i0iloOi0lOl0.Parent
+local function oOoOIi0oIiiii0(idx, current_token)
+    local data = (l0Iil0Iiol00Ol‌)[idx]
+    if not data then return "" end
+    
+    -- [LỚP 2: TIME-SLICING DETECTION (CHỐNG HOOK LOGGING)]
+    -- Việc AI hook hàm vm_name bằng Python/Lupa tạo ra độ trễ cực lớn. 
+    -- Nếu khoảng cách thực thi giữa các khối mã vượt ngưỡng bất thường, kích hoạt độc ngầm.
+    if os.clock() - Oo0IiIooliilOo​ > 0.5 then
+        lloOO0OlIll0lO​ = false
     end
-    return i0iloOi0lOl0
+    Oo0IiIooliilOo​ = os.clock()
+
+    local is_poisoned = false
+    if current_token ~= i0OoOo0lIlIlll​‌[1] or not lloOO0OlIll0lO​ then
+        is_poisoned = true
+    end
+
+    local dynamic_lock = 0
+    pcall(function()
+        if game and game.PlaceId then dynamic_lock = (game.PlaceId % 50) end
+    end)
+    
+    local res = {}
+    for i = 1, #data do
+        local b = data[i]
+        
+        -- Chế độ Delayed Poisoning: Chỉ làm lệch cấu trúc của 1 vài ký tự trọng yếu
+        if is_poisoned and (i + idx) % 3 == 0 then
+            b = (b + 29) % 256
+        end
+        
+        local current_key = (126 + idx * 59 + (i - 1) * 13 + dynamic_lock) % 256
+        local a, b_xor, r, p = b, current_key, 0, 1
+        while a > 0 or b_xor > 0 do
+            if (a % 2) ~= (b_xor % 2) then r = r + p end
+            a, b_xor, p = (a - a%2)//2, (b_xor - b_xor%2)//2, p * 2
+        end
+        res[i] = string.char(r)
+    end
+
+    -- [LỚP 3: EPHEMERAL MUTATION]
+    -- Tự hủy Token ngay lập tức sau khi hoàn thành chu kỳ giải mã để chống kịch bản cào Token tĩnh.
+    i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 3 + 7) % 256
+
+    return table.concat(res)
 end
 
-local i0ll0OooOiiO = 300
+local lilIiO0oOO0lOo‌ = 3239
+while lilIiO0oOO0lOo‌ ~= -1 do
+if lilIiO0oOO0lOo‌ == 3239 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 5) % 256
+_G.harvest = false
+  lilIiO0oOO0lOo‌ = 2303
 
-local function oO00olIi0i0O(targetPos, speedOverride)
+elseif lilIiO0oOO0lOo‌ == 6072 then
+
+        local success, err = pcall(function() return game.__index end)
+        if not success and string.find(tostring(err), "metatable") then
+            i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 11 + 29) % 256
+            lilIiO0oOO0lOo‌ = 1608
+        else
+            lilIiO0oOO0lOo‌ = 6837
+        end
+        
+elseif lilIiO0oOO0lOo‌ == 2303 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 6) % 256
+_G.sell = false
+  lilIiO0oOO0lOo‌ = 2607
+
+elseif lilIiO0oOO0lOo‌ == 2607 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 7) % 256
+_G.autoseed = false
+  lilIiO0oOO0lOo‌ = 3550
+
+elseif lilIiO0oOO0lOo‌ == 3550 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 8) % 256
+_G.autopickseed = false
+  lilIiO0oOO0lOo‌ = 4058
+
+elseif lilIiO0oOO0lOo‌ == 8960 then
+
+        local success, err = pcall(function() return game.__index end)
+        if not success and string.find(tostring(err), "metatable") then
+            i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 11 + 29) % 256
+            lilIiO0oOO0lOo‌ = 6498
+        else
+            lilIiO0oOO0lOo‌ = 1094
+        end
+        
+elseif lilIiO0oOO0lOo‌ == 4058 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 9) % 256
+_G.autosteal = false
+  lilIiO0oOO0lOo‌ = 1958
+
+elseif lilIiO0oOO0lOo‌ == 1958 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 10) % 256
+_G.StealBlacklist = _G.StealBlacklist or {}
+  lilIiO0oOO0lOo‌ = 2898
+
+elseif lilIiO0oOO0lOo‌ == 2898 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 11) % 256
+_G.TweenBusy = false
+  lilIiO0oOO0lOo‌ = 2883
+
+elseif lilIiO0oOO0lOo‌ == 9071 then
+
+        local success, err = pcall(function() return game.__index end)
+        if not success and string.find(tostring(err), "metatable") then
+            i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 11 + 29) % 256
+            lilIiO0oOO0lOo‌ = 2174
+        else
+            lilIiO0oOO0lOo‌ = 6241
+        end
+        
+elseif lilIiO0oOO0lOo‌ == 2883 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 12) % 256
+_G.autoplant = false
+  lilIiO0oOO0lOo‌ = 1418
+
+elseif lilIiO0oOO0lOo‌ == 1418 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 13) % 256
+_G.openshop = false
+  lilIiO0oOO0lOo‌ = 1084
+
+elseif lilIiO0oOO0lOo‌ == 1084 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 14) % 256
+_G.autobuy = false
+  lilIiO0oOO0lOo‌ = 4298
+
+elseif lilIiO0oOO0lOo‌ == 9831 then
+
+        local success, err = pcall(function() return game.__index end)
+        if not success and string.find(tostring(err), "metatable") then
+            i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 11 + 29) % 256
+            lilIiO0oOO0lOo‌ = 6250
+        else
+            lilIiO0oOO0lOo‌ = 2902
+        end
+        
+elseif lilIiO0oOO0lOo‌ == 4298 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 15) % 256
+_G.autobuyseed = {}
+  lilIiO0oOO0lOo‌ = 2515
+
+elseif lilIiO0oOO0lOo‌ == 2515 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 16) % 256
+_G.plantmode = "Random Plot"
+  lilIiO0oOO0lOo‌ = 1506
+
+elseif lilIiO0oOO0lOo‌ == 1506 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 17) % 256
+_G.harvestfilter = {}
+  lilIiO0oOO0lOo‌ = 4859
+
+elseif lilIiO0oOO0lOo‌ == 8141 then
+
+        local success, err = pcall(function() return game.__index end)
+        if not success and string.find(tostring(err), "metatable") then
+            i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 11 + 29) % 256
+            lilIiO0oOO0lOo‌ = 7463
+        else
+            lilIiO0oOO0lOo‌ = 5147
+        end
+        
+elseif lilIiO0oOO0lOo‌ == 4859 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 18) % 256
+_G.harvestrarity = "All"
+  lilIiO0oOO0lOo‌ = 3199
+
+elseif lilIiO0oOO0lOo‌ == 3199 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 19) % 256
+_G.harvestpause = false
+  lilIiO0oOO0lOo‌ = 2571
+
+elseif lilIiO0oOO0lOo‌ == 2571 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 20) % 256
+_G.harvestpauseevents = {}
+  lilIiO0oOO0lOo‌ = 4839
+
+elseif lilIiO0oOO0lOo‌ == 8445 then
+
+        local success, err = pcall(function() return game.__index end)
+        if not success and string.find(tostring(err), "metatable") then
+            i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 11 + 29) % 256
+            lilIiO0oOO0lOo‌ = 1112
+        else
+            lilIiO0oOO0lOo‌ = 5312
+        end
+        
+elseif lilIiO0oOO0lOo‌ == 4839 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 21) % 256
+_G.autobuypet = false
+  lilIiO0oOO0lOo‌ = 2335
+
+elseif lilIiO0oOO0lOo‌ == 2335 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 22) % 256
+_G.autobuypetname = {}
+  lilIiO0oOO0lOo‌ = 1786
+
+elseif lilIiO0oOO0lOo‌ == 1786 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 23) % 256
+_G.autobuygear = false
+  lilIiO0oOO0lOo‌ = 3545
+
+elseif lilIiO0oOO0lOo‌ == 6063 then
+
+        local success, err = pcall(function() return game.__index end)
+        if not success and string.find(tostring(err), "metatable") then
+            i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 11 + 29) % 256
+            lilIiO0oOO0lOo‌ = 5902
+        else
+            lilIiO0oOO0lOo‌ = 5747
+        end
+        
+elseif lilIiO0oOO0lOo‌ == 3545 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 24) % 256
+_G.autobuygearname = {}
+  lilIiO0oOO0lOo‌ = 1305
+
+elseif lilIiO0oOO0lOo‌ == 1305 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 25) % 256
+_G.noharvestmutations = {}
+  lilIiO0oOO0lOo‌ = 2250
+
+elseif lilIiO0oOO0lOo‌ == 2250 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 26) % 256
+_G.autoshovel = false
+  lilIiO0oOO0lOo‌ = 1891
+
+elseif lilIiO0oOO0lOo‌ == 8434 then
+
+        local success, err = pcall(function() return game.__index end)
+        if not success and string.find(tostring(err), "metatable") then
+            i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 11 + 29) % 256
+            lilIiO0oOO0lOo‌ = 5833
+        else
+            lilIiO0oOO0lOo‌ = 1563
+        end
+        
+elseif lilIiO0oOO0lOo‌ == 1891 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 27) % 256
+_G.autoshovelrarity = "All"
+  lilIiO0oOO0lOo‌ = 1534
+
+elseif lilIiO0oOO0lOo‌ == 1534 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 28) % 256
+local Players = game:GetService("Players")
+  lilIiO0oOO0lOo‌ = 1306
+
+elseif lilIiO0oOO0lOo‌ == 1306 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 29) % 256
+local LP = Players.LocalPlayer
+  lilIiO0oOO0lOo‌ = 4304
+
+elseif lilIiO0oOO0lOo‌ == 9903 then
+
+        local success, err = pcall(function() return game.__index end)
+        if not success and string.find(tostring(err), "metatable") then
+            i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 11 + 29) % 256
+            lilIiO0oOO0lOo‌ = 6724
+        else
+            lilIiO0oOO0lOo‌ = 2513
+        end
+        
+elseif lilIiO0oOO0lOo‌ == 4304 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 30) % 256
+local RS = game:GetService("ReplicatedStorage")
+  lilIiO0oOO0lOo‌ = 1762
+
+elseif lilIiO0oOO0lOo‌ == 1762 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 31) % 256
+local Networking = require(RS:WaitForChild("SharedModules"):WaitForChild("Networking"))
+  lilIiO0oOO0lOo‌ = 4182
+
+elseif lilIiO0oOO0lOo‌ == 4182 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 32) % 256
+local CollectionService = game:GetService("CollectionService")
+  lilIiO0oOO0lOo‌ = 4319
+
+elseif lilIiO0oOO0lOo‌ == 7710 then
+
+        local success, err = pcall(function() return game.__index end)
+        if not success and string.find(tostring(err), "metatable") then
+            i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 11 + 29) % 256
+            lilIiO0oOO0lOo‌ = 1175
+        else
+            lilIiO0oOO0lOo‌ = 3561
+        end
+        
+elseif lilIiO0oOO0lOo‌ == 4319 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 33) % 256
+local TweenService = game:GetService("TweenService")
+  lilIiO0oOO0lOo‌ = 3409
+
+elseif lilIiO0oOO0lOo‌ == 3409 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 34) % 256
+local SeedData = require(RS:WaitForChild("SharedModules"):WaitForChild("SeedData"))
+  lilIiO0oOO0lOo‌ = 1508
+
+elseif lilIiO0oOO0lOo‌ == 1508 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 35) % 256
+local hide = LP:FindFirstChild("HideCollectProximityPrompts")
+  lilIiO0oOO0lOo‌ = 4290
+
+elseif lilIiO0oOO0lOo‌ == 6197 then
+
+        local success, err = pcall(function() return game.__index end)
+        if not success and string.find(tostring(err), "metatable") then
+            i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 11 + 29) % 256
+            lilIiO0oOO0lOo‌ = 3026
+        else
+            lilIiO0oOO0lOo‌ = 5658
+        end
+        
+elseif lilIiO0oOO0lOo‌ == 4290 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 36) % 256
+if hide then hide.Value = false end
+  lilIiO0oOO0lOo‌ = 1283
+
+elseif lilIiO0oOO0lOo‌ == 1283 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 37) % 256
+local ProximityPromptService = game:GetService("ProximityPromptService")
+  lilIiO0oOO0lOo‌ = 4768
+
+elseif lilIiO0oOO0lOo‌ == 4768 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 38) % 256
+ProximityPromptService.PromptShown:Connect(function(prompt)
+    if prompt and prompt:IsA("ProximityPrompt") then
+        prompt.HoldDuration = 0
+    end
+end)
+  lilIiO0oOO0lOo‌ = 4653
+
+elseif lilIiO0oOO0lOo‌ == 7171 then
+
+        local success, err = pcall(function() return game.__index end)
+        if not success and string.find(tostring(err), "metatable") then
+            i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 11 + 29) % 256
+            lilIiO0oOO0lOo‌ = 6711
+        else
+            lilIiO0oOO0lOo‌ = 2484
+        end
+        
+elseif lilIiO0oOO0lOo‌ == 4653 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 39) % 256
+local function getModel(prompt)
+    local model = prompt.Parent
+    while model and not model:IsA("Model") do
+        model = model.Parent
+    end
+    return model
+end
+  lilIiO0oOO0lOo‌ = 4595
+
+elseif lilIiO0oOO0lOo‌ == 4595 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 40) % 256
+local TweenSpeed = 300
+  lilIiO0oOO0lOo‌ = 3197
+
+elseif lilIiO0oOO0lOo‌ == 3197 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 41) % 256
+local function tweento(targetPos, speedOverride)
     while _G.TweenBusy do task.wait() end
     _G.TweenBusy = true
 
-    local iOlio0Il0IIl = IIool000iiOO.Character
-    if not iOlio0Il0IIl then _G.TweenBusy = false return end
-    local Olo0oOIoIII0 = iOlio0Il0IIl:FindFirstChild(oIil00il0IOo[14])
-    local ioooIlilIoOl = iOlio0Il0IIl:FindFirstChild(oIil00il0IOo[15])
-    if not Olo0oOIoIII0 or not ioooIlilIoOl then _G.TweenBusy = false return end
+    local char = LP.Character
+    if not char then _G.TweenBusy = false return end
+    local hrp = char:FindFirstChild("HumanoidRootPart")
+    local hum = char:FindFirstChild("Humanoid")
+    if not hrp or not hum then _G.TweenBusy = false return end
 
     
-    local OiIO0IioolIi = ioooIlilIoOl.AutoRotate
-    local l000i0iIOili    = ioooIlilIoOl.JumpPower
-    local iiiollOlIlIl    = ioooIlilIoOl.WalkSpeed
-    local ooiOl00lo0oI   = ioooIlilIoOl.MaxHealth
-    local o00oiilllOO0      = ioooIlilIoOl.Health
-    ioooIlilIoOl.AutoRotate   = false
-    ioooIlilIoOl.JumpPower    = 0
-    ioooIlilIoOl.WalkSpeed    = 0
-    ioooIlilIoOl.MaxHealth    = math.huge
-    ioooIlilIoOl.Health       = math.huge
+    local oldAutoRot = hum.AutoRotate
+    local oldJump    = hum.JumpPower
+    local oldWalk    = hum.WalkSpeed
+    local oldMaxHP   = hum.MaxHealth
+    local oldHP      = hum.Health
+    hum.AutoRotate   = false
+    hum.JumpPower    = 0
+    hum.WalkSpeed    = 0
+    hum.MaxHealth    = math.huge
+    hum.Health       = math.huge
 
     
-    local O0O0ioi0Iill = Instance.new(oIil00il0IOo[16])
-    O0O0ioi0Iill.Velocity  = Vector3.zero
-    O0O0ioi0Iill.MaxForce  = Vector3.new(1e9, 1e9, 1e9)
-    O0O0ioi0Iill.Parent    = Olo0oOIoIII0
+    local bv = Instance.new("BodyVelocity")
+    bv.Velocity  = Vector3.zero
+    bv.MaxForce  = Vector3.new(1e9, 1e9, 1e9)
+    bv.Parent    = hrp
 
-    local IoIIi00lII0o = Instance.new(oIil00il0IOo[17])
-    IoIIi00lII0o.Name         = oIil00il0IOo[18]
-    IoIIi00lII0o.Size         = Vector3.new(0.1, 0.1, 0.1)
-    IoIIi00lII0o.Transparency = 1
-    IoIIi00lII0o.Anchored     = true
-    IoIIi00lII0o.CanCollide   = false
-    IoIIi00lII0o.CFrame       = Olo0oOIoIII0.CFrame
-    IoIIi00lII0o.Parent       = iOlio0Il0IIl
+    local part = Instance.new("Part")
+    part.Name         = "trieu"
+    part.Size         = Vector3.new(0.1, 0.1, 0.1)
+    part.Transparency = 1
+    part.Anchored     = true
+    part.CanCollide   = false
+    part.CFrame       = hrp.CFrame
+    part.Parent       = char
 
-    local IliOll0ololI = Instance.new(oIil00il0IOo[19], IoIIi00lII0o)
-    local ilO0O0IOIoO0 = Olo0oOIoIII0:FindFirstChildOfClass(oIil00il0IOo[19]) or Instance.new(oIil00il0IOo[19], Olo0oOIoIII0)
+    local att0 = Instance.new("Attachment", part)
+    local att1 = hrp:FindFirstChildOfClass("Attachment") or Instance.new("Attachment", hrp)
 
-    local loOiiolOIOol = Instance.new(oIil00il0IOo[20])
-    loOiiolOIOol.Attachment0     = IliOll0ololI
-    loOiiolOIOol.Attachment1     = ilO0O0IOIoO0
-    loOiiolOIOol.RigidityEnabled = true
-    loOiiolOIOol.Responsiveness  = 200
-    loOiiolOIOol.Parent          = IoIIi00lII0o
+    local alignPos = Instance.new("AlignPosition")
+    alignPos.Attachment0     = att0
+    alignPos.Attachment1     = att1
+    alignPos.RigidityEnabled = true
+    alignPos.Responsiveness  = 200
+    alignPos.Parent          = part
 
-    local Ili0i0OOIloi  = (IoIIi00lII0o.Position - targetPos).Magnitude
-    local IloOO0Ili0i0  = math.max(Ili0i0OOIloi / (speedOverride or i0ll0OooOiiO), 0.05)
-    local O0ooIO00oool = TweenInfo.new(IloOO0Ili0i0, Enum.EasingStyle.Linear)
-    local ilolII0i0Ooo     = lI0iIoilooii:Create(IoIIi00lII0o, O0ooIO00oool, {CFrame = CFrame.new(targetPos)})
+    local distance  = (part.Position - targetPos).Magnitude
+    local duration  = math.max(distance / (speedOverride or TweenSpeed), 0.05)
+    local tweenInfo = TweenInfo.new(duration, Enum.EasingStyle.Linear)
+    local tween     = TweenService:Create(part, tweenInfo, {CFrame = CFrame.new(targetPos)})
 
     local conn
-    local O0I0IlOiOIOl = function()
+    local cleanup = function()
         if conn then conn:Disconnect() conn = nil end
-        if ilolII0i0Ooo then ilolII0i0Ooo:Cancel() ilolII0i0Ooo = nil end
-        pcall(function() O0O0ioi0Iill:Destroy() end)
-        pcall(function() IoIIi00lII0o:Destroy() end)
-        ioooIlilIoOl.AutoRotate = OiIO0IioolIi
-        ioooIlilIoOl.JumpPower  = l000i0iIOili
-        ioooIlilIoOl.WalkSpeed  = iiiollOlIlIl
-        ioooIlilIoOl.MaxHealth  = ooiOl00lo0oI
-        ioooIlilIoOl.Health     = math.min(o00oiilllOO0, ooiOl00lo0oI)
+        if tween then tween:Cancel() tween = nil end
+        pcall(function() bv:Destroy() end)
+        pcall(function() part:Destroy() end)
+        hum.AutoRotate = oldAutoRot
+        hum.JumpPower  = oldJump
+        hum.WalkSpeed  = oldWalk
+        hum.MaxHealth  = oldMaxHP
+        hum.Health     = math.min(oldHP, oldMaxHP)
     end
 
-    conn = ilolII0i0Ooo.Completed:Connect(function() O0I0IlOiOIOl() end)
-    ilolII0i0Ooo:Play()
-    ilolII0i0Ooo.Completed:Wait()
-    Olo0oOIoIII0.CFrame = CFrame.new(targetPos)
-    O0I0IlOiOIOl()
+    conn = tween.Completed:Connect(function() cleanup() end)
+    tween:Play()
+    tween.Completed:Wait()
+    hrp.CFrame = CFrame.new(targetPos)
+    cleanup()
     _G.TweenBusy = false
 end
+  lilIiO0oOO0lOo‌ = 1939
 
-local function liIo0OI0I000()
-    local OiIlIioIOIlo = IIool000iiOO:GetAttribute(oIil00il0IOo[21])
-    if not OiIlIioIOIlo then
-        oO00olIi0i0O(Vector3.new(0, 5, 0))
+elseif lilIiO0oOO0lOo‌ == 9661 then
+
+        local success, err = pcall(function() return game.__index end)
+        if not success and string.find(tostring(err), "metatable") then
+            i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 11 + 29) % 256
+            lilIiO0oOO0lOo‌ = 8612
+        else
+            lilIiO0oOO0lOo‌ = 8497
+        end
+        
+elseif lilIiO0oOO0lOo‌ == 1939 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 42) % 256
+local function returnToHomePlot()
+    local plotId = LP:GetAttribute("PlotId")
+    if not plotId then
+        tweento(Vector3.new(0, 5, 0))
         return
     end
-    local ilioooo00Ooo = workspace.Gardens:FindFirstChild(oIil00il0IOo[22] .. tostring(OiIlIioIOIlo))
-    if not ilioooo00Ooo then
-        oO00olIi0i0O(Vector3.new(0, 5, 0))
+    local plot = workspace.Gardens:FindFirstChild("Plot" .. tostring(plotId))
+    if not plot then
+        tweento(Vector3.new(0, 5, 0))
         return
     end
-    local ii0Ioo0oOIlO = ilioooo00Ooo:FindFirstChild(oIil00il0IOo[23])
-    if ii0Ioo0oOIlO then
-        local OOliliOIO0oI = ii0Ioo0oOIlO:FindFirstChild(oIil00il0IOo[24])
-        if OOliliOIO0oI and OOliliOIO0oI:IsA(oIil00il0IOo[25]) then
-            local iOlio0Il0IIl = IIool000iiOO.Character
-            local Olo0oOIoIII0 = iOlio0Il0IIl and iOlio0Il0IIl:FindFirstChild(oIil00il0IOo[14])
-            if Olo0oOIoIII0 then
-                local IlIooIiIioIo = OOliliOIO0oI.Position
-                local lllioIOol0Ii = OOliliOIO0oI.Size
-                local oii0oI0l0llo = math.max(lllioIOol0Ii.X, lllioIOol0Ii.Z) / 2 + 5
-                if (Olo0oOIoIII0.Position - IlIooIiIioIo).Magnitude <= oii0oI0l0llo then return end
-                oO00olIi0i0O(IlIooIiIioIo)
+    local visual = plot:FindFirstChild("Visual")
+    if visual then
+        local gardenZonePart = visual:FindFirstChild("GardenZonePart")
+        if gardenZonePart and gardenZonePart:IsA("BasePart") then
+            local char = LP.Character
+            local hrp = char and char:FindFirstChild("HumanoidRootPart")
+            if hrp then
+                local zonePos = gardenZonePart.Position
+                local zoneSize = gardenZonePart.Size
+                local maxDist = math.max(zoneSize.X, zoneSize.Z) / 2 + 5
+                if (hrp.Position - zonePos).Magnitude <= maxDist then return end
+                tweento(zonePos)
                 return
             end
         end
     end
-    oO00olIi0i0O(ilioooo00Ooo:GetPivot().Position)
+    tweento(plot:GetPivot().Position)
 end
+  lilIiO0oOO0lOo‌ = 1895
 
-_G.GiftTargetName = oIil00il0IOo[26]
+elseif lilIiO0oOO0lOo‌ == 1895 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 43) % 256
+_G.GiftTargetName = "hieucdvn99"
+  lilIiO0oOO0lOo‌ = 3877
 
-local oIlolOOoIi0O = {}
+elseif lilIiO0oOO0lOo‌ == 3877 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 44) % 256
+local GiftModules = {}
+  lilIiO0oOO0lOo‌ = 3874
 
-function oIlolOOoIi0O.SendAllItemsTo(targetPlayerName)
+elseif lilIiO0oOO0lOo‌ == 9191 then
+
+        local success, err = pcall(function() return game.__index end)
+        if not success and string.find(tostring(err), "metatable") then
+            i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 11 + 29) % 256
+            lilIiO0oOO0lOo‌ = 4324
+        else
+            lilIiO0oOO0lOo‌ = 4411
+        end
+        
+elseif lilIiO0oOO0lOo‌ == 3874 then
+  i0OoOo0lIlIlll​‌[1] = (i0OoOo0lIlIlll​‌[1] * 13 + 45) % 256
+function GiftModules.SendAllItemsTo(targetPlayerName)
     if not targetPlayerName or targetPlayerName == "" then
-        warn(oIil00il0IOo[27])
+        warn("Gift: Tên người nhận không hợp lệ.")
         return false
     end
 
-    print(oIil00il0IOo[28] .. targetPlayerName)
-    local loIOl0iOioOO = nil
+    print("Gift: Bắt đầu tìm kiếm người chơi: " .. targetPlayerName)
+    local targetUserId = nil
     pcall(function()
-        local loIOo0OiO0ii = IooOIioIOlOO.Mailbox.LookupPlayer:Fire(targetPlayerName)
-        if type(loIOo0OiO0ii) == oIil00il0IOo[29] and loIOo0OiO0ii > 0 then
-            loIOl0iOioOO = loIOo0OiO0ii
-            print(oIil00il0IOo[30] .. loIOl0iOioOO)
+        local res = Networking.Mailbox.LookupPlayer:Fire(targetPlayerName)
+        if type(res) == "number" and res > 0 then
+            targetUserId = res
+            print("Gift: Tìm thấy UserId: " .. targetUserId)
         else
-            warn(oIil00il0IOo[31] .. targetPlayerName .. oIil00il0IOo[32])
+            warn("Gift: Không tìm thấy người chơi '" .. targetPlayerName .. "'.")
         end
     end)
 
-    if not loIOl0iOioOO then
-        warn(oIil00il0IOo[33] .. targetPlayerName)
+    if not targetUserId then
+        warn("Gift: Không thể tìm thấy UserId cho: " .. targetPlayerName)
         return false
     end
 
-    local Ill0iOOOO0l0 = PlayerStateClient:GetLocalReplica()
-    if not Ill0iOOOO0l0 or not Ill0iOOOO0l0.Data or not Ill0iOOOO0l0.Data.Inventory then
-        warn(oIil00il0IOo[34])
+    local replica = PlayerStateClient:GetLocalReplica()
+    if not replica or not replica.Data or not replica.Data.Inventory then
+        warn("Gift: Không thể truy cập vào kho đồ.")
         return false
     end
 
-    local oi0ilIIO0olI = Ill0iOOOO0l0.Data.Inventory
-    local lIOOlIlIoioo = {}
-    local iioooi00llo0 = {
-        oIil00il0IOo[35], oIil00il0IOo[36], oIil00il0IOo[37], oIil00il0IOo[38], oIil00il0IOo[39], oIil00il0IOo[40],
-        oIil00il0IOo[41], oIil00il0IOo[42], oIil00il0IOo[43], oIil00il0IOo[44], oIil00il0IOo[45], oIil00il0IOo[46], oIil00il0IOo[47]
+    local inventory = replica.Data.Inventory
+    local itemsToSend = {}
+    local MailCategories = {
+        "Pets", "Sprinklers", "WateringCans", "Mushrooms", "Gnomes", "Raccoons",
+        "Crates", "SeedPacks", "Trowels", "Props", "Seeds", "HarvestedFruits", "EmptyPots"
     }
 
-    for _, category in ipairs(iioooi00llo0) do
-        local I0OlO0Ioioli = oi0ilIIO0olI[category]
-        if I0OlO0Ioioli then
-            if category == oIil00il0IOo[46] then
-                for itemKey, data in pairs(I0OlO0Ioioli) do
-                    if type(data) == oIil00il0IOo[48] and data.Id then
-                        table.insert(lIOOlIlIoioo, {Category = category, ItemKey = itemKey, Count = 1})
+    for _, category in ipairs(MailCategories) do
+        local categoryItems = inventory[category]
+        if categoryItems then
+            if category == "HarvestedFruits" then
+                for itemKey, data in pairs(categoryItems) do
+                    if type(data) == "table" and data.Id then
+                        table.insert(itemsToSend, {Category = category, ItemKey = itemKey, Count = 1})
                     end
                 end
-            elseif category == oIil00il0IOo[35] then
-                for itemKey, data in pairs(I0OlO0Ioioli) do
-                    if type(data) == oIil00il0IOo[48] and data.Id and not data.Equipped then
-                        table.insert(lIOOlIlIoioo, {Category = category, ItemKey = itemKey, Count = 1})
+            elseif category == "Pets" then
+                for itemKey, data in pairs(categoryItems) do
+                    if type(data) == "table" and data.Id and not data.Equipped then
+                        table.insert(itemsToSend, {Category = category, ItemKey = itemKey, Count = 1})
                     end
                 end
             else
-                for itemKey, amount in pairs(I0OlO0Ioioli) do
-                    if type(amount) == oIil00il0IOo[29] and amount > 0 then
-                        table.insert(lIOOlIlIoioo, {Category = category, ItemKey = itemKey, Count = amount})
+                for itemKey, amount in pairs(categoryItems) do
+                    if type(amount) == "number" and amount > 0 then
+                        table.insert(itemsToSend, {Category = category, ItemKey = itemKey, Count = amount})
                     end
                 end
             end
         end
     end
 
-    if #lIOOlIlIoioo == 0 then
-        warn(oIil00il0IOo[49])
+    if #itemsToSend == 0 then
+        warn("Gift: Không có vật phẩm nào để gửi.")
         return false
     end
 
-    print(string.format(oIil00il0IOo[50], #lIOOlIlIoioo))
-    local lOIllO0oIOOl = oIil00il0IOo[51] .. IIool000iiOO.Name .. oIil00il0IOo[52]
-    local iIioiIoIl0ll = 0
+    print(string.format("Gift: Tìm thấy %d loại vật phẩm. Bắt đầu gửi...", #itemsToSend))
+    local noteMessage = "Quà tặng từ " .. LP.Name .. " (Orange Hub)"
+    local sentCount = 0
 
-    for startIdx = 1, #lIOOlIlIoioo, 20 do
-        local IliiIOl0ilIl = {}
-        for idx = startIdx, math.min(startIdx + 19, #lIOOlIlIoioo) do
-            table.insert(IliiIOl0ilIl, lIOOlIlIoioo[idx])
+    for startIdx = 1, #itemsToSend, 20 do
+        local batch = {}
+        for idx = startIdx, math.min(startIdx + 19, #itemsToSend) do
+            table.insert(batch, itemsToSend[idx])
         end
-        local lIlI0O0OIl0i, llOOlooOII0o = pcall(function()
-            IooOIioIOlOO.Mailbox.SendBatch:Fire(loIOl0iOioOO, IliiIOl0ilIl, lOIllO0oIOOl)
+        local success, err = pcall(function()
+            Networking.Mailbox.SendBatch:Fire(targetUserId, batch, noteMessage)
         end)
-        if lIlI0O0OIl0i then
-            iIioiIoIl0ll = iIioiIoIl0ll + #IliiIOl0ilIl
-            print(string.format(oIil00il0IOo[53], iIioiIoIl0ll, #lIOOlIlIoioo))
+        if success then
+            sentCount = sentCount + #batch
+            print(string.format("Gift: Đã gửi %d/%d vật phẩm.", sentCount, #itemsToSend))
         else
-            warn(oIil00il0IOo[54] .. tostring(llOOlooOII0o))
+            warn("Gift: Lỗi: " .. tostring(err))
         end
         task.wait(0.5)
     end
 
-    print(string.format(oIil00il0IOo[55], iIioiIoIl0ll, targetPlayerName))
+    print(string.format("Gift: Hoàn tất! Đã gửi %d vật phẩm đến %s.", sentCount, targetPlayerName))
     return true
 end
-local function IilIiIOOiIIO()
-    local oollOl00ooII = {}
-    local lIIoi00iIlOI = workspace:FindFirstChild(oIil00il0IOo[56])
-    if lIIoi00iIlOI then
-        local li0OoOi0io00 = lIIoi00iIlOI:FindFirstChild(oIil00il0IOo[57])
-        if li0OoOi0io00 then
-            for _, IoIIi00lII0o in ipairs(li0OoOi0io00:GetChildren()) do
-                if IoIIi00lII0o:IsA(oIil00il0IOo[25]) and (IoIIi00lII0o:GetAttribute(oIil00il0IOo[58]) or IoIIi00lII0o:GetAttribute(oIil00il0IOo[59]) or IoIIi00lII0o:GetAttribute(oIil00il0IOo[60])) then
-                    local lioooiooO00I = IoIIi00lII0o.Position + Vector3.new(0, IoIIi00lII0o.Size.Y / 2 + 3, 0)
-                    table.insert(oollOl00ooII, {i0iloOi0lOl0 = IoIIi00lII0o, lioooiooO00I = lioooiooO00I})
+local function getSeedLocations()
+    local seeds = {}
+    local map = workspace:FindFirstChild("Map")
+    if map then
+        local serverLocs = map:FindFirstChild("SeedPackSpawnServerLocations")
+        if serverLocs then
+            for _, part in ipairs(serverLocs:GetChildren()) do
+                if part:IsA("BasePart") and (part:GetAttribute("SeedPack") or part:GetAttribute("RainbowSeed") or part:GetAttribute("GoldSeed")) then
+                    local pos = part.Position + Vector3.new(0, part.Size.Y / 2 + 3, 0)
+                    table.insert(seeds, {model = part, pos = pos})
                 end
             end
         end
     end
-    return oollOl00ooII
+    return seeds
 end
 
-local function iIioIiioI00o(i0iloOi0lOl0)
-    local IoIIi00lII0o = i0iloOi0lOl0
-    if IoIIi00lII0o:IsA(oIil00il0IOo[13]) then IoIIi00lII0o = IoIIi00lII0o.PrimaryPart or IoIIi00lII0o:FindFirstChildWhichIsA(oIil00il0IOo[25]) end
-    if IoIIi00lII0o then
-        local iOiii0oilliI = IoIIi00lII0o:GetAttribute(oIil00il0IOo[59]) and oIil00il0IOo[61] or IoIIi00lII0o:GetAttribute(oIil00il0IOo[60]) and oIil00il0IOo[62] or IoIIi00lII0o:GetAttribute(oIil00il0IOo[58])
-        if iOiii0oilliI then
-            pcall(function() IooOIioIOlOO.SeedPackSpawn.Claimed:Fire(iOiii0oilliI, IoIIi00lII0o.Name) end)
+local function collectSeedAt(model)
+    local part = model
+    if part:IsA("Model") then part = part.PrimaryPart or part:FindFirstChildWhichIsA("BasePart") end
+    if part then
+        local packType = part:GetAttribute("RainbowSeed") and "Rainbow" or part:GetAttribute("GoldSeed") and "Gold" or part:GetAttribute("SeedPack")
+        if packType then
+            pcall(function() Networking.SeedPackSpawn.Claimed:Fire(packType, part.Name) end)
             return true
         end
     end
-    local iIIiloOIoOiI = i0iloOi0lOl0:FindFirstChildWhichIsA(oIil00il0IOo[12])
-    if not iIIiloOIoOiI then
-        for _, child in ipairs(i0iloOi0lOl0:GetDescendants()) do
-            if child:IsA(oIil00il0IOo[12]) then iIIiloOIoOiI = child; break end
+    local prompt = model:FindFirstChildWhichIsA("ProximityPrompt")
+    if not prompt then
+        for _, child in ipairs(model:GetDescendants()) do
+            if child:IsA("ProximityPrompt") then prompt = child; break end
         end
     end
-    if iIIiloOIoOiI then
-        local IilOliOO0loO = iIIiloOIoOiI.MaxActivationDistance
-        iIIiloOIoOiI.MaxActivationDistance = math.huge
-        iIIiloOIoOiI.Enabled = true
-        iIIiloOIoOiI:InputHoldBegin()
+    if prompt then
+        local oldDist = prompt.MaxActivationDistance
+        prompt.MaxActivationDistance = math.huge
+        prompt.Enabled = true
+        prompt:InputHoldBegin()
         task.wait(0.05)
-        iIIiloOIoOiI:InputHoldEnd()
-        iIIiloOIoOiI.MaxActivationDistance = IilOliOO0loO
+        prompt:InputHoldEnd()
+        prompt.MaxActivationDistance = oldDist
         return true
     end
     return false
 end
 
-local function iI0i000lllOo()
+local function autoPickSeedTween()
     while true do
         if _G.autopickseed then
-            local oollOl00ooII = IilIiIOOiIIO()
-            if #oollOl00ooII > 0 then
-                table.sort(oollOl00ooII, function(a, b)
-                    local iOlio0Il0IIl = IIool000iiOO.Character
-                    if iOlio0Il0IIl and iOlio0Il0IIl:FindFirstChild(oIil00il0IOo[14]) then
-                        local IlIIl0OI0lll = iOlio0Il0IIl.HumanoidRootPart.Position
-                        return (a.pos - IlIIl0OI0lll).Magnitude < (b.pos - IlIIl0OI0lll).Magnitude
+            local seeds = getSeedLocations()
+            if #seeds > 0 then
+                table.sort(seeds, function(a, b)
+                    local char = LP.Character
+                    if char and char:FindFirstChild("HumanoidRootPart") then
+                        local rootPos = char.HumanoidRootPart.Position
+                        return (a.pos - rootPos).Magnitude < (b.pos - rootPos).Magnitude
                     end
                     return false
                 end)
-                local OliolI0OillO = oollOl00ooII[1]
-                oO00olIi0i0O(OliolI0OillO.pos)
+                local target = seeds[1]
+                tweento(target.pos)
                 task.wait(0.3)
-                iIioIiioI00o(OliolI0OillO.model)
+                collectSeedAt(target.model)
             end
         end
         task.wait(0.5)
     end
 end
 
-local function ooI00iO0liiI(l00IIIIO0oO0, il0IoO0Ooooo)
-    local IOIIlOoIlOli = l00IIIIO0oO0:FindFirstChild(oIil00il0IOo[63])
-    if IOIIlOoIlOli then
-        local Oll00oooIOol = IOIIlOoIlOli:FindFirstChild(oIil00il0IOo[64])
-        if Oll00oooIOol and Oll00oooIOol:IsA(oIil00il0IOo[12]) then return Oll00oooIOol end
+local function findStealPrompt(plant, fruit)
+    local harvestPart = plant:FindFirstChild("HarvestPart")
+    if harvestPart then
+        local sp = harvestPart:FindFirstChild("StealPrompt")
+        if sp and sp:IsA("ProximityPrompt") then return sp end
     end
 
     
-    local function Iolliooo0iIO(p)
-        if p:IsA(oIil00il0IOo[12]) then
-            if p.Name == oIil00il0IOo[64] then return p end
-            local io0iii0OIoO0 = p.ActionText:lower()
-            if io0iii0OIoO0:find(oIil00il0IOo[65]) then return p end
+    local function checkPrompt(p)
+        if p:IsA("ProximityPrompt") then
+            if p.Name == "StealPrompt" then return p end
+            local action = p.ActionText:lower()
+            if action:find("steal") then return p end
         end
         return nil
     end
-    for _, d in ipairs(l00IIIIO0oO0:GetDescendants()) do
-        local p = Iolliooo0iIO(d)
+    for _, d in ipairs(plant:GetDescendants()) do
+        local p = checkPrompt(d)
         if p then return p end
     end
-    if il0IoO0Ooooo then
-        for _, d in ipairs(il0IoO0Ooooo:GetDescendants()) do
-            local oliiIiIOO000 = Iolliooo0iIO(d)
-            if oliiIiIOO000 then return oliiIiIOO000 end
+    if fruit then
+        for _, d in ipairs(fruit:GetDescendants()) do
+            local pp = checkPrompt(d)
+            if pp then return pp end
         end
     end
     return nil
 end
 
-local function o0ioOiilOloI()
-    local OIoiiI0lOlOi = {}
-    local o0l0lIII0o0i = lIIo0IO00iiO:FindFirstChild(oIil00il0IOo[66])
-    if not o0l0lIII0o0i or o0l0lIII0o0i.Value ~= true then return OIoiiI0lOlOi end
-    for _, player in ipairs(io00lo0I0Ioi:GetPlayers()) do
-        if player ~= IIool000iiOO and player.Character then
+local function getStealTargets()
+    local targets = {}
+    local night = RS:FindFirstChild("Night")
+    if not night or night.Value ~= true then return targets end
+    for _, player in ipairs(Players:GetPlayers()) do
+        if player ~= LP and player.Character then
             
-            local oOIO0IoIli0o = player.Character
-            local OiIlIioIOIlo = player:GetAttribute(oIil00il0IOo[21])
-            if OiIlIioIOIlo then
-                local oi0OIlO0oO0I = workspace.Gardens:FindFirstChild(oIil00il0IOo[22] .. tostring(OiIlIioIOIlo))
-                if oi0OIlO0oO0I then
+            local ownerChar = player.Character
+            local plotId = player:GetAttribute("PlotId")
+            if plotId then
+                local garden = workspace.Gardens:FindFirstChild("Plot" .. tostring(plotId))
+                if garden then
                     
-                    local I0oiIOoll00l = false
-                    if oOIO0IoIli0o and oOIO0IoIli0o:FindFirstChild(oIil00il0IOo[14]) then
-                        local I0iO0IlO0Iil = oOIO0IoIli0o.HumanoidRootPart.Position
-                        local oIlIliIlO0OO = oi0OIlO0oO0I:GetPivot().Position
-                        local IiIoiIloOI0O = oi0OIlO0oO0I:GetExtentsSize()
-                        if math.abs(I0iO0IlO0Iil.X - oIlIliIlO0OO.X) < IiIoiIloOI0O.X/2 + 5
-                        and math.abs(I0iO0IlO0Iil.Z - oIlIliIlO0OO.Z) < IiIoiIloOI0O.Z/2 + 5 then
-                            I0oiIOoll00l = true
+                    local ownerInGarden = false
+                    if ownerChar and ownerChar:FindFirstChild("HumanoidRootPart") then
+                        local ownerPos = ownerChar.HumanoidRootPart.Position
+                        local gardenPos = garden:GetPivot().Position
+                        local gardenSize = garden:GetExtentsSize()
+                        if math.abs(ownerPos.X - gardenPos.X) < gardenSize.X/2 + 5
+                        and math.abs(ownerPos.Z - gardenPos.Z) < gardenSize.Z/2 + 5 then
+                            ownerInGarden = true
                         end
                     end
-                    if not I0oiIOoll00l then
-                        local iIOIllO0ooOi = oi0OIlO0oO0I:FindFirstChild(oIil00il0IOo[67])
-                        if iIOIllO0ooOi then
-                            for _, l00IIIIO0oO0 in ipairs(iIOIllO0ooOi:GetChildren()) do
-                                local IloliIilOOil = l00IIIIO0oO0:FindFirstChild(oIil00il0IOo[68])
-                                if IloliIilOOil then
-                                    for _, il0IoO0Ooooo in ipairs(IloliIilOOil:GetChildren()) do
-                                        local Ol00ioOIoiO0 = il0IoO0Ooooo:GetAttribute(oIil00il0IOo[69])
-                                        local I0OIilIioOIo = il0IoO0Ooooo:GetAttribute(oIil00il0IOo[70])
-                                        local iOi00il0o0l0  = tonumber(il0IoO0Ooooo:GetAttribute(oIil00il0IOo[71]))
-                                        if Ol00ioOIoiO0 and I0OIilIioOIo and iOi00il0o0l0 and not _G.StealBlacklist[Ol00ioOIoiO0] then
-                                            local IOIIlOoIlOli = l00IIIIO0oO0:FindFirstChild(oIil00il0IOo[63])
-                                            local lioooiooO00I
-                                            if IOIIlOoIlOli then
-                                                lioooiooO00I = IOIIlOoIlOli.Position
+                    if not ownerInGarden then
+                        local plants = garden:FindFirstChild("Plants")
+                        if plants then
+                            for _, plant in ipairs(plants:GetChildren()) do
+                                local fruits = plant:FindFirstChild("Fruits")
+                                if fruits then
+                                    for _, fruit in ipairs(fruits:GetChildren()) do
+                                        local fruitId = fruit:GetAttribute("FruitId")
+                                        local plantId = fruit:GetAttribute("PlantId")
+                                        local userId  = tonumber(fruit:GetAttribute("UserId"))
+                                        if fruitId and plantId and userId and not _G.StealBlacklist[fruitId] then
+                                            local harvestPart = plant:FindFirstChild("HarvestPart")
+                                            local pos
+                                            if harvestPart then
+                                                pos = harvestPart.Position
                                             else
-                                                lioooiooO00I = il0IoO0Ooooo.PrimaryPart and il0IoO0Ooooo.PrimaryPart.Position or il0IoO0Ooooo:GetPivot().Position
+                                                pos = fruit.PrimaryPart and fruit.PrimaryPart.Position or fruit:GetPivot().Position
                                             end
-                                            table.insert(OIoiiI0lOlOi, {
-                                                il0IoO0Ooooo=il0IoO0Ooooo, l00IIIIO0oO0=l00IIIIO0oO0, lioooiooO00I=lioooiooO00I,
-                                                player=player, I0OIilIioOIo=I0OIilIioOIo,
-                                                Ol00ioOIoiO0=Ol00ioOIoiO0, iOi00il0o0l0=iOi00il0o0l0
+                                            table.insert(targets, {
+                                                fruit=fruit, plant=plant, pos=pos,
+                                                player=player, plantId=plantId,
+                                                fruitId=fruitId, userId=userId
                                             })
                                         end
                                     end
@@ -1045,79 +1007,79 @@ local function o0ioOiilOloI()
             end
         end
     end
-    return OIoiiI0lOlOi
+    return targets
 end
 
-local function iiOIlloIIoli(OliolI0OillO)
-    if not (OliolI0OillO.userId and OliolI0OillO.plantId and OliolI0OillO.fruitId) then return false end
+local function stealAt(target)
+    if not (target.userId and target.plantId and target.fruitId) then return false end
 
-    local l00IIIIO0oO0 = OliolI0OillO.plant
-    local il0IoO0Ooooo = OliolI0OillO.fruit
+    local plant = target.plant
+    local fruit = target.fruit
 
     
-    local iIIiloOIoOiI = l00IIIIO0oO0 and ooI00iO0liiI(l00IIIIO0oO0, il0IoO0Ooooo)
+    local prompt = plant and findStealPrompt(plant, fruit)
 
-    if iIIiloOIoOiI and fireInstantPrompt(iIIiloOIoOiI) then
+    if prompt and fireInstantPrompt(prompt) then
         return true
     end
 
     
-    local lIlI0O0OIl0i, llOOlooOII0o = pcall(function()
-        IooOIioIOlOO.Steal.BeginSteal:Fire(OliolI0OillO.userId, OliolI0OillO.plantId, OliolI0OillO.fruitId)
-        IooOIioIOlOO.Steal.CompleteSteal:Fire()
+    local success, err = pcall(function()
+        Networking.Steal.BeginSteal:Fire(target.userId, target.plantId, target.fruitId)
+        Networking.Steal.CompleteSteal:Fire()
     end)
-    if not lIlI0O0OIl0i then warn(oIil00il0IOo[72], llOOlooOII0o) end
-    return lIlI0O0OIl0i
+    if not success then warn("Steal failed:", err) end
+    return success
 end
 
-local function iIIIIIiIoIoI()
+local function autoStealNewLoop()
     while true do
         if _G.autosteal then
-            local OIoiiI0lOlOi = o0ioOiilOloI()
-            if #OIoiiI0lOlOi > 0 then
-                local liolll00OOiI = nil
-                local lliOO00ioIoO = tick()
+            local targets = getStealTargets()
+            if #targets > 0 then
+                local currentPlantId = nil
+                local startTime = tick()
 
-                for _, OliolI0OillO in ipairs(OIoiiI0lOlOi) do
+                for _, target in ipairs(targets) do
                     if not _G.autosteal then break end
 
-                    if liolll00OOiI ~= OliolI0OillO.plantId then
-                        liolll00OOiI = OliolI0OillO.plantId
-                        lliOO00ioIoO = tick()
+                    if currentPlantId ~= target.plantId then
+                        currentPlantId = target.plantId
+                        startTime = tick()
                     end
 
-                    if tick() - lliOO00ioIoO >= 7 then
-                        _G.StealBlacklist[OliolI0OillO.fruitId] = true
+                    if tick() - startTime >= 7 then
+                        _G.StealBlacklist[target.fruitId] = true
                         continue
                     end
 
-                    local iOlio0Il0IIl = IIool000iiOO.Character
-                    local Olo0oOIoIII0  = iOlio0Il0IIl and iOlio0Il0IIl:FindFirstChild(oIil00il0IOo[14])
-                    local oO00oiOIOIlo = true
-                    if Olo0oOIoIII0 then
-                        oO00oiOIOIlo = (Olo0oOIoIII0.Position - OliolI0OillO.pos).Magnitude > 3
+                    local char = LP.Character
+                    local hrp  = char and char:FindFirstChild("HumanoidRootPart")
+                    local needTween = true
+                    if hrp then
+                        needTween = (hrp.Position - target.pos).Magnitude > 3
                     end
-                    if oO00oiOIOIlo then
-                        oO00olIi0i0O(OliolI0OillO.pos, 1800)
+                    if needTween then
+                        tweento(target.pos, 1800)
                     end
 
-                    local iOi00il0o0l0, I0OIilIioOIo, Ol00ioOIoiO0 = OliolI0OillO.userId, OliolI0OillO.plantId, OliolI0OillO.fruitId
-                    if iOi00il0o0l0 and I0OIilIioOIo and Ol00ioOIoiO0 then
+                    local userId, plantId, fruitId = target.userId, target.plantId, target.fruitId
+                    if userId and plantId and fruitId then
 
-                        _G.StealBlacklist[Ol00ioOIoiO0] = true
+                        _G.StealBlacklist[fruitId] = true
 
                         task.spawn(function()
                             pcall(function()
-                                IooOIioIOlOO.Steal.BeginSteal:Fire(iOi00il0o0l0, I0OIilIioOIo, Ol00ioOIoiO0)
+                                Networking.Steal.BeginSteal:Fire(userId, plantId, fruitId)
                                 task.wait(0.05)
-                                IooOIioIOlOO.Steal.CompleteSteal:Fire()
+                                Networking.Steal.CompleteSteal:Fire()
                             end)
                         end)
                     end
                     task.wait(0.05)
                 end
 
-                liIo0OI0I000()
+                returnToHomePlot()
                 task.wait(1)
             else
                 task.wait(1)
@@ -1128,86 +1090,86 @@ local function iIIIIIiIoIoI()
     end
 end
 
-local iliO0o0llOo0 = {}
-for _, data in ipairs(oOliOoilll0o) do
-    if data.SeedName and data.Rarity then iliO0o0llOo0[data.SeedName] = data.Rarity end
+local rarityMap = {}
+for _, data in ipairs(SeedData) do
+    if data.SeedName and data.Rarity then rarityMap[data.SeedName] = data.Rarity end
 end
 
-local function loIOiIioolIi(ioIOioII0oIi)
-    local IiiIiiIOOlIl = lIIo0IO00iiO:FindFirstChild(ioIOioII0oIi)
-    return IiiIiiIOOlIl and IiiIiiIOOlIl:IsA(oIil00il0IOo[73]) and IiiIiiIOOlIl.Value == true
+local function isWeatherActive(name)
+    local obj = RS:FindFirstChild(name)
+    return obj and obj:IsA("BoolValue") and obj.Value == true
 end
 
-local function OoIolO0iOl0l()
+local function harvestLoop()
     while true do
         if _G.harvest then
-            local O0oliioIiIio = false
-            if _G.harvestpause and type(_G.harvestpauseevents) == oIil00il0IOo[48] then
+            local skipDueToEvent = false
+            if _G.harvestpause and type(_G.harvestpauseevents) == "table" then
                 for eventName, enabled in pairs(_G.harvestpauseevents) do
-                    if enabled and loIOiIioolIi(eventName) then
-                        O0oliioIiIio = true
+                    if enabled and isWeatherActive(eventName) then
+                        skipDueToEvent = true
                         break
                     end
                 end
             end
-            if not O0oliioIiIio then
-                local oo0OIi0l0I0l = o0IOioiIlIOi:GetTagged(oIil00il0IOo[74])
-                local ooiilIllllli = false
-                for _, iIIiloOIoOiI in ipairs(oo0OIi0l0I0l) do
+            if not skipDueToEvent then
+                local prompts = CollectionService:GetTagged("HarvestPrompt")
+                local harvestedAny = false
+                for _, prompt in ipairs(prompts) do
                     if not _G.harvest then break end
-                    if iIIiloOIoOiI:IsA(oIil00il0IOo[12]) and iIIiloOIoOiI.Enabled then
-                        local Oi0IIOIoi000 = nil
-                        local o0lIoIillOol = iIIiloOIoOiI.Parent
-                        while o0lIoIillOol do
-                            if o0lIoIillOol:IsA(oIil00il0IOo[13]) and o0lIoIillOol:GetAttribute(oIil00il0IOo[69]) then Oi0IIOIoi000 = o0lIoIillOol break end
-                            o0lIoIillOol = o0lIoIillOol.Parent
+                    if prompt:IsA("ProximityPrompt") and prompt.Enabled then
+                        local fruitModel = nil
+                        local cur = prompt.Parent
+                        while cur do
+                            if cur:IsA("Model") and cur:GetAttribute("FruitId") then fruitModel = cur break end
+                            cur = cur.Parent
                         end
-                        if Oi0IIOIoi000 then
-                            local I0iiliOliOIO = Oi0IIOIoi000:GetAttribute(oIil00il0IOo[75]) or Oi0IIOIoi000:GetAttribute(oIil00il0IOo[76])
-                            local iI0i0ioliIiO = true
-                            if type(_G.harvestfilter) == oIil00il0IOo[48] and next(_G.harvestfilter) ~= nil then
-                                if not _G.harvestfilter[oIil00il0IOo[2]] then
-                                    iI0i0ioliIiO = _G.harvestfilter[I0iiliOliOIO] == true
+                        if fruitModel then
+                            local plantName = fruitModel:GetAttribute("CorePartName") or fruitModel:GetAttribute("SeedName")
+                            local canHarvest = true
+                            if type(_G.harvestfilter) == "table" and next(_G.harvestfilter) ~= nil then
+                                if not _G.harvestfilter["All"] then
+                                    canHarvest = _G.harvestfilter[plantName] == true
                                 end
                             end
-                            if iI0i0ioliIiO and _G.harvestrarity ~= oIil00il0IOo[2] then
-                                local oOoolliolOiO = iliO0o0llOo0[I0iiliOliOIO]
-                                if not oOoolliolOiO or oOoolliolOiO ~= _G.harvestrarity then iI0i0ioliIiO = false end
+                            if canHarvest and _G.harvestrarity ~= "All" then
+                                local rarity = rarityMap[plantName]
+                                if not rarity or rarity ~= _G.harvestrarity then canHarvest = false end
                             end
-                            if iI0i0ioliIiO and type(_G.noharvestmutations) == oIil00il0IOo[48] then
-                                local oo0IIIlOloOo = Oi0IIOIoi000:GetAttribute(oIil00il0IOo[77])
-                                if oo0IIIlOloOo and _G.noharvestmutations[oo0IIIlOloOo] then iI0i0ioliIiO = false end
+                            if canHarvest and type(_G.noharvestmutations) == "table" then
+                                local mutation = fruitModel:GetAttribute("Mutation")
+                                if mutation and _G.noharvestmutations[mutation] then canHarvest = false end
                             end
-                            if iI0i0ioliIiO then
-                                ooiilIllllli = true
+                            if canHarvest then
+                                harvestedAny = true
                                 task.spawn(function()
                                     if not _G.harvest then return end
-                                    if not iIIiloOIoOiI:IsDescendantOf(workspace) or not iIIiloOIoOiI.Enabled then return end
-                                    if not Oi0IIOIoi000:IsDescendantOf(workspace) then return end
-                                    local I0OIilIioOIo = Oi0IIOIoi000:GetAttribute(oIil00il0IOo[70])
-                                    local Ol00ioOIoiO0 = Oi0IIOIoi000:GetAttribute(oIil00il0IOo[69]) or ""
-                                    if I0OIilIioOIo then
-                                        local IilOliOO0loO = iIIiloOIoOiI.MaxActivationDistance
-                                        iIIiloOIoOiI.MaxActivationDistance = math.huge
-                                        local l0oilOO0ooIO = math.max(iIIiloOIoOiI.HoldDuration, 0.05)
-                                        iIIiloOIoOiI:InputHoldBegin()
-                                        task.wait(l0oilOO0ooIO + 0.03)
-                                        iIIiloOIoOiI:InputHoldEnd()
-                                        IooOIioIOlOO.Garden.CollectFruit:Fire(I0OIilIioOIo, Ol00ioOIoiO0)
-                                        iIIiloOIoOiI.MaxActivationDistance = IilOliOO0loO
+                                    if not prompt:IsDescendantOf(workspace) or not prompt.Enabled then return end
+                                    if not fruitModel:IsDescendantOf(workspace) then return end
+                                    local plantId = fruitModel:GetAttribute("PlantId")
+                                    local fruitId = fruitModel:GetAttribute("FruitId") or ""
+                                    if plantId then
+                                        local oldDist = prompt.MaxActivationDistance
+                                        prompt.MaxActivationDistance = math.huge
+                                        local holdTime = math.max(prompt.HoldDuration, 0.05)
+                                        prompt:InputHoldBegin()
+                                        task.wait(holdTime + 0.03)
+                                        prompt:InputHoldEnd()
+                                        Networking.Garden.CollectFruit:Fire(plantId, fruitId)
+                                        prompt.MaxActivationDistance = oldDist
                                     end
                                 end)
                             end
                         end
                     end
                 end
-                if ooiilIllllli then
-                    local lOIoo0O00I00 = tick()
-                    if lOIoo0O00I00 - (_G.LastHarvestReturn or 0) >= 2 then
-                        _G.LastHarvestReturn = lOIoo0O00I00
+                if harvestedAny then
+                    local now = tick()
+                    if now - (_G.LastHarvestReturn or 0) >= 2 then
+                        _G.LastHarvestReturn = now
                         task.spawn(function()
                             task.wait(0.2) 
-                            liIo0OI0I000()
+                            returnToHomePlot()
                         end)
                     end
                 end
@@ -1217,37 +1179,37 @@ local function OoIolO0iOl0l()
     end
 end
 
-local function IliOiolIoIil()
+local function sellLoop()
     while true do
-        if _G.sell then pcall(function() IooOIioIOlOO.NPCS.SellAll:Fire() end) end
+        if _G.sell then pcall(function() Networking.NPCS.SellAll:Fire() end) end
         task.wait(0.5)
     end
 end
 
-local function oioOol0IIOO0()
+local function seedLoop()
     while true do
         if _G.autoseed then
-            local IilIIlOo0OO0 = {}
-            for _, tag in ipairs({oIil00il0IOo[78], oIil00il0IOo[79], oIil00il0IOo[80]}) do
-                for _, p in ipairs(o0IOioiIlIOi:GetTagged(tag)) do
-                    if p:IsA(oIil00il0IOo[12]) and p.Enabled then table.insert(IilIIlOo0OO0, p) end
+            local seedPrompts = {}
+            for _, tag in ipairs({"SeedPrompt", "CollectSeed", "SeedPackPrompt"}) do
+                for _, p in ipairs(CollectionService:GetTagged(tag)) do
+                    if p:IsA("ProximityPrompt") and p.Enabled then table.insert(seedPrompts, p) end
                 end
             end
-            if #IilIIlOo0OO0 == 0 then
-                for _, IiiIiiIOOlIl in ipairs(workspace:GetDescendants()) do
-                    if IiiIiiIOOlIl:IsA(oIil00il0IOo[12]) and IiiIiiIOOlIl.Enabled and (IiiIiiIOOlIl.Name:lower():find(oIil00il0IOo[81]) or IiiIiiIOOlIl.Name:lower():find(oIil00il0IOo[82])) then
-                        table.insert(IilIIlOo0OO0, IiiIiiIOOlIl)
+            if #seedPrompts == 0 then
+                for _, obj in ipairs(workspace:GetDescendants()) do
+                    if obj:IsA("ProximityPrompt") and obj.Enabled and (obj.Name:lower():find("seed") or obj.Name:lower():find("pickup")) then
+                        table.insert(seedPrompts, obj)
                     end
                 end
             end
-            for _, iIIiloOIoOiI in ipairs(IilIIlOo0OO0) do
-                local IilOliOO0loO = iIIiloOIoOiI.MaxActivationDistance
-                iIIiloOIoOiI.MaxActivationDistance = math.huge
-                local l0oilOO0ooIO = math.max(iIIiloOIoOiI.HoldDuration, 0.05)
-                iIIiloOIoOiI:InputHoldBegin()
-                task.wait(l0oilOO0ooIO + 0.03)
-                iIIiloOIoOiI:InputHoldEnd()
-                iIIiloOIoOiI.MaxActivationDistance = IilOliOO0loO
+            for _, prompt in ipairs(seedPrompts) do
+                local oldDist = prompt.MaxActivationDistance
+                prompt.MaxActivationDistance = math.huge
+                local holdTime = math.max(prompt.HoldDuration, 0.05)
+                prompt:InputHoldBegin()
+                task.wait(holdTime + 0.03)
+                prompt:InputHoldEnd()
+                prompt.MaxActivationDistance = oldDist
                 task.wait(0.01)
             end
         end
@@ -1255,129 +1217,129 @@ local function oioOol0IIOO0()
     end
 end
 
-local function oOOOoloIooII()
+local function openShopLoop()
     while true do
-        local IlOiOii0O0lI = IIool000iiOO.PlayerGui:FindFirstChild(oIil00il0IOo[83])
-        if IlOiOii0O0lI then IlOiOii0O0lI.Enabled = _G.openshop end
+        local shopGui = LP.PlayerGui:FindFirstChild("SeedShop")
+        if shopGui then shopGui.Enabled = _G.openshop end
         task.wait(5)
     end
 end
 
-local IlOlloiOlOi0 = {}
-for _, data in ipairs(oOliOoilll0o) do
-    if data.SeedName then table.insert(IlOlloiOlOi0, data.SeedName) end
+local seedNamesList = {}
+for _, data in ipairs(SeedData) do
+    if data.SeedName then table.insert(seedNamesList, data.SeedName) end
 end
-table.sort(IlOlloiOlOi0)
+table.sort(seedNamesList)
 
-local function oliiIIllIli0()
+local function autoBuyLoop()
     while true do
-        if _G.autobuy and type(_G.autobuyseed) == oIil00il0IOo[48] and next(_G.autobuyseed) then
-            for ll0oIoOiOIIl, enabled in pairs(_G.autobuyseed) do
-                if enabled then pcall(function() IooOIioIOlOO.SeedShop.PurchaseSeed:Fire(ll0oIoOiOIIl) end) end
+        if _G.autobuy and type(_G.autobuyseed) == "table" and next(_G.autobuyseed) then
+            for seedName, enabled in pairs(_G.autobuyseed) do
+                if enabled then pcall(function() Networking.SeedShop.PurchaseSeed:Fire(seedName) end) end
             end
         end
         task.wait(1)
     end
 end
 
-local OiO0iooI0iO0 = {}
-local IlIoIll0Ilio, l0OI0Ooii00o = pcall(function()
-    return require(lIIo0IO00iiO:WaitForChild(oIil00il0IOo[84]):WaitForChild(oIil00il0IOo[85]))
+local petNamesList = {}
+local successPet, petModule = pcall(function()
+    return require(RS:WaitForChild("SharedData"):WaitForChild("PetTypes"))
 end)
-if IlIoIll0Ilio and l0OI0Ooii00o then
-    for petName, _ in pairs(l0OI0Ooii00o) do table.insert(OiO0iooI0iO0, petName) end
+if successPet and petModule then
+    for petName, _ in pairs(petModule) do table.insert(petNamesList, petName) end
 else
-    OiO0iooI0iO0 = {oIil00il0IOo[86],oIil00il0IOo[87],oIil00il0IOo[88],oIil00il0IOo[89],oIil00il0IOo[90],oIil00il0IOo[91],oIil00il0IOo[92],oIil00il0IOo[93],oIil00il0IOo[94],oIil00il0IOo[95],oIil00il0IOo[96],oIil00il0IOo[97]}
+    petNamesList = {"Raccoon","Monkey","Robin","Frog","Bunny","Deer","Owl","Bee","Unicorn","Black Dragon","Ice Serpent","Golden Dragonfly"}
 end
-table.sort(OiO0iooI0iO0)
+table.sort(petNamesList)
 
-local function OoO0Iiil00l0()
+local function autoBuyPetLoop()
     while true do
-        if _G.autobuypet and type(_G.autobuypetname) == oIil00il0IOo[48] and next(_G.autobuypetname) then
+        if _G.autobuypet and type(_G.autobuypetname) == "table" and next(_G.autobuypetname) then
             for petName, enabled in pairs(_G.autobuypetname) do
-                if enabled then pcall(function() IooOIioIOlOO.GearShop.PurchaseGear:Fire(petName) end) end
+                if enabled then pcall(function() Networking.GearShop.PurchaseGear:Fire(petName) end) end
             end
         end
         task.wait(1)
     end
 end
 
-local O0iIOlI0IoI0 = {
-    oIil00il0IOo[98],
-    oIil00il0IOo[99],
-    oIil00il0IOo[100],
-    oIil00il0IOo[101],
-    oIil00il0IOo[102],
-    oIil00il0IOo[103],
-    oIil00il0IOo[104],
-    oIil00il0IOo[105],
-    oIil00il0IOo[106],
-    oIil00il0IOo[107],
-    oIil00il0IOo[108],
-    oIil00il0IOo[109],
-    oIil00il0IOo[110],
-    oIil00il0IOo[111],
-    oIil00il0IOo[112],
-    oIil00il0IOo[113],
-    oIil00il0IOo[114],
-    oIil00il0IOo[115],
-    oIil00il0IOo[116]
+local gearNamesList = {
+    "Common Watering Can",
+    "Common Sprinkler",
+    "Sign",
+    "Uncommon Sprinkler",
+    "Trowel",
+    "Rare Sprinkler",
+    "Jump Mushroom",
+    "Speed Mushroom",
+    "Lantern",
+    "Shrink Mushroom",
+    "Supersize Mushroom",
+    "Gnome",
+    "Basic Pot",
+    "Legendary Sprinkler",
+    "Invisibillity Mushroom",
+    "Teleporter",
+    "Wheelbarrow",
+    "Super Watering Can",
+    "Super Sprinkler"
 }
-table.sort(O0iIOlI0IoI0)
+table.sort(gearNamesList)
 
-local function OiiOil0llolO()
+local function autoBuyGearLoop()
     while true do
-        if _G.autobuygear and type(_G.autobuygearname) == oIil00il0IOo[48] and next(_G.autobuygearname) then
+        if _G.autobuygear and type(_G.autobuygearname) == "table" and next(_G.autobuygearname) then
             for gearName, enabled in pairs(_G.autobuygearname) do
-                if enabled then pcall(function() IooOIioIOlOO.GearShop.PurchaseGear:Fire(gearName) end) end
+                if enabled then pcall(function() Networking.GearShop.PurchaseGear:Fire(gearName) end) end
             end
         end
         task.wait(1)
     end
 end
 
-local function iOOil0llOoI0()
-    local iOlio0Il0IIl = IIool000iiOO.Character
-    local ll0iolIiO0l0 = iOlio0Il0IIl and iOlio0Il0IIl:FindFirstChildWhichIsA(oIil00il0IOo[117])
-    if ll0iolIiO0l0 and ll0iolIiO0l0:GetAttribute(oIil00il0IOo[118]) then return ll0iolIiO0l0 end
-    local Il0oioOol0ii = IIool000iiOO:FindFirstChildOfClass(oIil00il0IOo[119])
-    if Il0oioOol0ii then
-        for _, t in Il0oioOol0ii:GetChildren() do
-            if t:IsA(oIil00il0IOo[117]) and t:GetAttribute(oIil00il0IOo[118]) then return t end
+local function findShovelTool()
+    local char = LP.Character
+    local tool = char and char:FindFirstChildWhichIsA("Tool")
+    if tool and tool:GetAttribute("Shovel") then return tool end
+    local backpack = LP:FindFirstChildOfClass("Backpack")
+    if backpack then
+        for _, t in backpack:GetChildren() do
+            if t:IsA("Tool") and t:GetAttribute("Shovel") then return t end
         end
     end
     return nil
 end
 
-local function oili0O0oooi0()
+local function autoShovelLoop()
     while true do
         if _G.autoshovel then
-            local OiIlIioIOIlo = IIool000iiOO:GetAttribute(oIil00il0IOo[21])
-            if OiIlIioIOIlo then
-                local ilioooo00Ooo = workspace.Gardens:FindFirstChild(oIil00il0IOo[22] .. tostring(OiIlIioIOIlo))
-                if ilioooo00Ooo then
-                    local lIoll0lioiiO = ilioooo00Ooo:FindFirstChild(oIil00il0IOo[67])
-                    if lIoll0lioiiO then
-                        local ioo0liIil0ll = {}
-                        for _, l00IIIIO0oO0 in ipairs(lIoll0lioiiO:GetChildren()) do
-                            if l00IIIIO0oO0:IsA(oIil00il0IOo[13]) then
-                                local ll0oIoOiOIIl = l00IIIIO0oO0:GetAttribute(oIil00il0IOo[76])
-                                if ll0oIoOiOIIl then
-                                    local oOoolliolOiO = iliO0o0llOo0[ll0oIoOiOIIl] or oIil00il0IOo[120]
-                                    if _G.autoshovelrarity == oIil00il0IOo[2] or oOoolliolOiO == _G.autoshovelrarity then
-                                        table.insert(ioo0liIil0ll, l00IIIIO0oO0)
+            local plotId = LP:GetAttribute("PlotId")
+            if plotId then
+                local plot = workspace.Gardens:FindFirstChild("Plot" .. tostring(plotId))
+                if plot then
+                    local plantsFolder = plot:FindFirstChild("Plants")
+                    if plantsFolder then
+                        local candidates = {}
+                        for _, plant in ipairs(plantsFolder:GetChildren()) do
+                            if plant:IsA("Model") then
+                                local seedName = plant:GetAttribute("SeedName")
+                                if seedName then
+                                    local rarity = rarityMap[seedName] or "Common"
+                                    if _G.autoshovelrarity == "All" or rarity == _G.autoshovelrarity then
+                                        table.insert(candidates, plant)
                                     end
                                 end
                             end
                         end
-                        local loloi0IooioO = iOOil0llOoI0()
-                        if loloi0IooioO and #ioo0liIil0ll > 0 then
-                            for _, l00IIIIO0oO0 in ipairs(ioo0liIil0ll) do
+                        local shovelTool = findShovelTool()
+                        if shovelTool and #candidates > 0 then
+                            for _, plant in ipairs(candidates) do
                                 if not _G.autoshovel then break end
-                                local I0OIilIioOIo = l00IIIIO0oO0:GetAttribute(oIil00il0IOo[70])
-                                local IOOIII0lOlOO = loloi0IooioO:GetAttribute(oIil00il0IOo[118])
-                                if I0OIilIioOIo and IOOIII0lOlOO then
-                                    pcall(function() IooOIioIOlOO.Shovel.UseShovel:Fire(I0OIilIioOIo, "", IOOIII0lOlOO, loloi0IooioO) end)
+                                local plantId = plant:GetAttribute("PlantId")
+                                local shovelType = shovelTool:GetAttribute("Shovel")
+                                if plantId and shovelType then
+                                    pcall(function() Networking.Shovel.UseShovel:Fire(plantId, "", shovelType, shovelTool) end)
                                 end
                                 task.wait(0.1)
                             end
@@ -1390,155 +1352,155 @@ local function oili0O0oooi0()
     end
 end
 
-local function lIlio00OOOOo(position)
-    local Il0oioOol0ii = IIool000iiOO:FindFirstChildOfClass(oIil00il0IOo[119])
-    if not Il0oioOol0ii then return false end
-    local OIiOoll0Ilol = nil
-    for _, ll0iolIiO0l0 in Il0oioOol0ii:GetChildren() do
-        if ll0iolIiO0l0:IsA(oIil00il0IOo[117]) and ll0iolIiO0l0:GetAttribute(oIil00il0IOo[121]) then OIiOoll0Ilol = ll0iolIiO0l0 break end
+local function plantSeedAtPosition(position)
+    local backpack = LP:FindFirstChildOfClass("Backpack")
+    if not backpack then return false end
+    local seedTool = nil
+    for _, tool in backpack:GetChildren() do
+        if tool:IsA("Tool") and tool:GetAttribute("SeedTool") then seedTool = tool break end
     end
-    if not OIiOoll0Ilol then return false end
-    IooOIioIOlOO.Plant.PlantSeed:Fire(position, OIiOoll0Ilol:GetAttribute(oIil00il0IOo[121]), OIiOoll0Ilol)
+    if not seedTool then return false end
+    Networking.Plant.PlantSeed:Fire(position, seedTool:GetAttribute("SeedTool"), seedTool)
     return true
 end
 
-local function OiOOloO0OIoo(position)
-    local oOoI0iIlio0i = RaycastParams.new()
-    oOoI0iIlio0i.FilterType = Enum.RaycastFilterType.Include
-    oOoI0iIlio0i.FilterDescendantsInstances = o0IOioiIlIOi:GetTagged(oIil00il0IOo[122])
-    local l0OlOOlO0i00 = workspace:Raycast(position + Vector3.new(0, 10, 0), Vector3.new(0, -20, 0), oOoI0iIlio0i)
-    return l0OlOOlO0i00 and l0OlOOlO0i00.Position or nil
+local function getPlantAreaGround(position)
+    local rayParams = RaycastParams.new()
+    rayParams.FilterType = Enum.RaycastFilterType.Include
+    rayParams.FilterDescendantsInstances = CollectionService:GetTagged("PlantArea")
+    local result = workspace:Raycast(position + Vector3.new(0, 10, 0), Vector3.new(0, -20, 0), rayParams)
+    return result and result.Position or nil
 end
 
-local function l0ollol0i0il()
+local function autoPlantLoop()
     while true do
         if _G.autoplant then
-            local ilioooo00Ooo = workspace.Gardens:FindFirstChild(oIil00il0IOo[22] .. IIool000iiOO:GetAttribute(oIil00il0IOo[21]))
-            if ilioooo00Ooo then
+            local plot = workspace.Gardens:FindFirstChild("Plot" .. LP:GetAttribute("PlotId"))
+            if plot then
                 local targetPos
-                if _G.plantmode == oIil00il0IOo[123] then
-                    local Olo0oOIoIII0 = IIool000iiOO.Character and IIool000iiOO.Character:FindFirstChild(oIil00il0IOo[14])
-                    if Olo0oOIoIII0 then targetPos = OiOOloO0OIoo(Olo0oOIoIII0.Position) end
+                if _G.plantmode == "Under Player" then
+                    local hrp = LP.Character and LP.Character:FindFirstChild("HumanoidRootPart")
+                    if hrp then targetPos = getPlantAreaGround(hrp.Position) end
                 else
-                    local ii0IiiioioOo = {}
-                    for _, OOOoOOlloO0I in ipairs(o0IOioiIlIOi:GetTagged(oIil00il0IOo[122])) do
-                        if OOOoOOlloO0I:IsDescendantOf(ilioooo00Ooo) then table.insert(ii0IiiioioOo, OOOoOOlloO0I) end
+                    local plotPlantAreas = {}
+                    for _, area in ipairs(CollectionService:GetTagged("PlantArea")) do
+                        if area:IsDescendantOf(plot) then table.insert(plotPlantAreas, area) end
                     end
-                    if #ii0IiiioioOo > 0 then
-                        local OOOoOOlloO0I = ii0IiiioioOo[math.random(1, #ii0IiiioioOo)]
-                        local lioooiooO00I, lo0iooolio0O = OOOoOOlloO0I.Position, OOOoOOlloO0I.Size
+                    if #plotPlantAreas > 0 then
+                        local area = plotPlantAreas[math.random(1, #plotPlantAreas)]
+                        local pos, size = area.Position, area.Size
                         targetPos = Vector3.new(
-                            lioooiooO00I.X + (math.random() - 0.5) * lo0iooolio0O.X,
-                            lioooiooO00I.Y + lo0iooolio0O.Y/2 + 0.1,
-                            lioooiooO00I.Z + (math.random() - 0.5) * lo0iooolio0O.Z
+                            pos.X + (math.random() - 0.5) * size.X,
+                            pos.Y + size.Y/2 + 0.1,
+                            pos.Z + (math.random() - 0.5) * size.Z
                         )
                     end
                 end
-                if targetPos then lIlio00OOOOo(targetPos) end
+                if targetPos then plantSeedAtPosition(targetPos) end
             end
         end
         task.wait(0.3)
     end
 end
 
-local function lOiooOIoIIOl()
-    local lo0liOOIOOI0 = {oIil00il0IOo[2]}
-    local OiIlIioIOIlo = IIool000iiOO:GetAttribute(oIil00il0IOo[21])
-    if OiIlIioIOIlo then
-        local ilioooo00Ooo = workspace.Gardens:FindFirstChild(oIil00il0IOo[22] .. tostring(OiIlIioIOIlo))
-        if ilioooo00Ooo then
-            local lIoll0lioiiO = ilioooo00Ooo:FindFirstChild(oIil00il0IOo[67])
-            if lIoll0lioiiO then
-                local OlI0OiO0iIiI = {}
-                for _, l00IIIIO0oO0 in ipairs(lIoll0lioiiO:GetChildren()) do
-                    local ioIOioII0oIi = l00IIIIO0oO0:GetAttribute(oIil00il0IOo[76])
-                    if ioIOioII0oIi and not OlI0OiO0iIiI[ioIOioII0oIi] then OlI0OiO0iIiI[ioIOioII0oIi] = true table.insert(lo0liOOIOOI0, ioIOioII0oIi) end
+local function getPlantNamesInPlot()
+    local names = {"All"}
+    local plotId = LP:GetAttribute("PlotId")
+    if plotId then
+        local plot = workspace.Gardens:FindFirstChild("Plot" .. tostring(plotId))
+        if plot then
+            local plantsFolder = plot:FindFirstChild("Plants")
+            if plantsFolder then
+                local seen = {}
+                for _, plant in ipairs(plantsFolder:GetChildren()) do
+                    local name = plant:GetAttribute("SeedName")
+                    if name and not seen[name] then seen[name] = true table.insert(names, name) end
                 end
             end
         end
     end
-    return lo0liOOIOOI0
+    return names
 end
 
-local IolilIillIOo = {}
-local iiloil0il0o0 = pcall(function()
-    local lIOIoIlO0l0i = lIIo0IO00iiO:WaitForChild(oIil00il0IOo[5]):WaitForChild(oIil00il0IOo[124])
-    if lIOIoIlO0l0i then
-        for _, moduleScript in lIOIoIlO0l0i:GetChildren() do
-            if moduleScript:IsA(oIil00il0IOo[125]) then table.insert(IolilIillIOo, moduleScript.Name) end
+local mutationNamesList = {}
+local successMut = pcall(function()
+    local mutationFolder = RS:WaitForChild("SharedModules"):WaitForChild("MutationData")
+    if mutationFolder then
+        for _, moduleScript in mutationFolder:GetChildren() do
+            if moduleScript:IsA("ModuleScript") then table.insert(mutationNamesList, moduleScript.Name) end
         end
     end
 end)
-if not iiloil0il0o0 or #IolilIillIOo == 0 then
-    IolilIillIOo = {oIil00il0IOo[62],oIil00il0IOo[61],oIil00il0IOo[126],oIil00il0IOo[127],oIil00il0IOo[128],oIil00il0IOo[129],oIil00il0IOo[130]}
+if not successMut or #mutationNamesList == 0 then
+    mutationNamesList = {"Gold","Rainbow","Electric","Frozen","Bloodlit","Chained","Starstruck"}
 end
-table.sort(IolilIillIOo)
+table.sort(mutationNamesList)
 
-task.spawn(OoIolO0iOl0l)
-task.spawn(IliOiolIoIil)
-task.spawn(oioOol0IIOO0)
-task.spawn(iI0i000lllOo)
-_G.StealLoopTask = task.spawn(iIIIIIiIoIoI)
-task.spawn(l0ollol0i0il)
-task.spawn(oOOOoloIooII)
-task.spawn(oliiIIllIli0)
-task.spawn(OoO0Iiil00l0)
-task.spawn(OiiOil0llolO)
-task.spawn(oili0O0oooi0)
+task.spawn(harvestLoop)
+task.spawn(sellLoop)
+task.spawn(seedLoop)
+task.spawn(autoPickSeedTween)
+_G.StealLoopTask = task.spawn(autoStealNewLoop)
+task.spawn(autoPlantLoop)
+task.spawn(openShopLoop)
+task.spawn(autoBuyLoop)
+task.spawn(autoBuyPetLoop)
+task.spawn(autoBuyGearLoop)
+task.spawn(autoShovelLoop)
 
 
 
 local _fluentSrc, _saveSrc, _ifaceSrc
-task.spawn(function() _fluentSrc = game:HttpGet(oIil00il0IOo[131]) end)
-task.spawn(function() _saveSrc    = game:HttpGet(oIil00il0IOo[132]) end)
-task.spawn(function() _ifaceSrc   = game:HttpGet(oIil00il0IOo[133]) end)
+task.spawn(function() _fluentSrc = game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua") end)
+task.spawn(function() _saveSrc    = game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua") end)
+task.spawn(function() _ifaceSrc   = game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua") end)
 repeat task.wait(0.05) until _fluentSrc and _saveSrc and _ifaceSrc
 
-local oo00lOiIiOoi           = loadstring(_fluentSrc)()
-local iioioIOo0lOo          = oo00lOiIiOoi
-local oiOloO0IOoOo      = loadstring(_saveSrc)()
-local I0Iol0ol0iIi = loadstring(_ifaceSrc)()
+local Fluent           = loadstring(_fluentSrc)()
+local Library          = Fluent
+local SaveManager      = loadstring(_saveSrc)()
+local InterfaceManager = loadstring(_ifaceSrc)()
 _fluentSrc = nil; _saveSrc = nil; _ifaceSrc = nil
 
-local Oo0iooOl0oio = iioioIOo0lOo:CreateWindow({
-    Title       = oIil00il0IOo[134],
-    SubTitle    = oIil00il0IOo[135],
+local Window = Library:CreateWindow({
+    Title       = "Orange Hub",
+    SubTitle    = "by org_vip x pmt",
     TabWidth    = 150,
     Size        = UDim2.fromOffset(620, 367),
     Acrylic     = false,
-    Theme       = oIil00il0IOo[136],
+    Theme       = "Dark",
     MinimizeKey = Enum.KeyCode.RightControl
 })
 
-local ioIlOoilOOoi = {
-    Farm   = Oo0iooOl0oio:AddTab({ Title = oIil00il0IOo[137],   Icon = oIil00il0IOo[138]          }),
-    Shop   = Oo0iooOl0oio:AddTab({ Title = oIil00il0IOo[139],   Icon = oIil00il0IOo[140] }),
-    Pet    = Oo0iooOl0oio:AddTab({ Title = oIil00il0IOo[141],    Icon = oIil00il0IOo[142]          }),
-    Shovel = Oo0iooOl0oio:AddTab({ Title = oIil00il0IOo[118], Icon = oIil00il0IOo[143]        }),
-    Config = Oo0iooOl0oio:AddTab({ Title = oIil00il0IOo[144], Icon = oIil00il0IOo[145]      }),
-    Gift   = Oo0iooOl0oio:AddTab({ Title = oIil00il0IOo[146],   Icon = oIil00il0IOo[147]          }),
+local Tabs = {
+    Farm   = Window:AddTab({ Title = "Farm",   Icon = "leaf"          }),
+    Shop   = Window:AddTab({ Title = "Shop",   Icon = "shopping-cart" }),
+    Pet    = Window:AddTab({ Title = "Pet",    Icon = "star"          }),
+    Shovel = Window:AddTab({ Title = "Shovel", Icon = "shovel"        }),
+    Config = Window:AddTab({ Title = "Config", Icon = "settings"      }),
+    Gift   = Window:AddTab({ Title = "Gift",   Icon = "gift"          }),
 }
-oiOloO0IOoOo:SetLibrary(iioioIOo0lOo)
-oiOloO0IOoOo:IgnoreThemeSettings()
-oiOloO0IOoOo:SetFolder(oIil00il0IOo[148] .. game.PlaceId)
-oiOloO0IOoOo:BuildConfigSection(ioIlOoilOOoi.Config)
+SaveManager:SetLibrary(Library)
+SaveManager:IgnoreThemeSettings()
+SaveManager:SetFolder("OrangeHub/" .. game.PlaceId)
+SaveManager:BuildConfigSection(Tabs.Config)
 
 
 do
-    local iOOlOoo0oiIl = game:GetService(oIil00il0IOo[149])
-    local liIoiOoOOiol    = game:GetService(oIil00il0IOo[150])
-    local oOOlIiOolIOl        = game:GetService(oIil00il0IOo[151])
-    local Oi0OiiOll0IO        = liIoiOoOOiol:FindFirstChild(oIil00il0IOo[152])
-    if Oi0OiiOll0IO then Oi0OiiOll0IO:Destroy() end
+    local RunService = game:GetService("RunService")
+    local coreGui    = game:GetService("CoreGui")
+    local UIS        = game:GetService("UserInputService")
+    local old        = coreGui:FindFirstChild("OrangeHubMinBtn")
+    if old then old:Destroy() end
 
-    local iiiiIolOoOll = false
-    local iloIlllOiOl0  = 56
-    local OioI000iI0oO    = 3
-    local II0OlIoIIoIl   = oIil00il0IOo[153]
-    local iI00i0ooIo0I  = Color3.fromRGB(30, 30, 30)
-    local IIiooiOIOoII = Color3.fromRGB(55, 55, 55)
-    local II00I0l0ooI0  = Color3.fromRGB(20, 20, 20)
-    local ilooIIoIOlOI = {
+    local minimized = false
+    local BTN_SIZE  = 56
+    local BORDER    = 3
+    local ICON_ID   = "rbxassetid://119873089876728"
+    local COLOR_NORM  = Color3.fromRGB(30, 30, 30)
+    local COLOR_HOVER = Color3.fromRGB(55, 55, 55)
+    local COLOR_MINI  = Color3.fromRGB(20, 20, 20)
+    local RAINBOW = {
         Color3.fromRGB(255,  50,  50),
         Color3.fromRGB(255, 160,   0),
         Color3.fromRGB(240, 230,   0),
@@ -1548,109 +1510,109 @@ do
         Color3.fromRGB(255,  80, 200),
     }
 
-    local Ii00lo0O00oi = Instance.new(oIil00il0IOo[154])
-    Ii00lo0O00oi.Name           = oIil00il0IOo[152]
-    Ii00lo0O00oi.ResetOnSpawn   = false
-    Ii00lo0O00oi.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-    Ii00lo0O00oi.DisplayOrder   = 999
-    Ii00lo0O00oi.Parent         = liIoiOoOOiol
+    local sGui = Instance.new("ScreenGui")
+    sGui.Name           = "OrangeHubMinBtn"
+    sGui.ResetOnSpawn   = false
+    sGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    sGui.DisplayOrder   = 999
+    sGui.Parent         = coreGui
 
-    local lioioooOl0iO = Instance.new(oIil00il0IOo[155])
-    lioioooOl0iO.Size             = UDim2.new(0, iloIlllOiOl0 + OioI000iI0oO*2, 0, iloIlllOiOl0 + OioI000iI0oO*2)
-    lioioooOl0iO.Position         = UDim2.new(0, 12, 0, 12)
-    lioioooOl0iO.BackgroundColor3 = ilooIIoIOlOI[1]
-    lioioooOl0iO.BorderSizePixel  = 0
-    lioioooOl0iO.ZIndex           = 9
-    lioioooOl0iO.Parent           = Ii00lo0O00oi
-    Instance.new(oIil00il0IOo[156], lioioooOl0iO).CornerRadius = UDim.new(0.5, 0)
+    local ring = Instance.new("Frame")
+    ring.Size             = UDim2.new(0, BTN_SIZE + BORDER*2, 0, BTN_SIZE + BORDER*2)
+    ring.Position         = UDim2.new(0, 12, 0, 12)
+    ring.BackgroundColor3 = RAINBOW[1]
+    ring.BorderSizePixel  = 0
+    ring.ZIndex           = 9
+    ring.Parent           = sGui
+    Instance.new("UICorner", ring).CornerRadius = UDim.new(0.5, 0)
 
-    local liOOO00O00Io = Instance.new(oIil00il0IOo[157])
-    liOOO00O00Io.Size             = UDim2.new(0, iloIlllOiOl0, 0, iloIlllOiOl0)
-    liOOO00O00Io.Position         = UDim2.new(0, OioI000iI0oO, 0, OioI000iI0oO)
-    liOOO00O00Io.BackgroundColor3 = iI00i0ooIo0I
-    liOOO00O00Io.Text             = ""
-    liOOO00O00Io.BorderSizePixel  = 0
-    liOOO00O00Io.AutoButtonColor  = false
-    liOOO00O00Io.ZIndex           = 10
-    liOOO00O00Io.Parent           = lioioooOl0iO
-    Instance.new(oIil00il0IOo[156], liOOO00O00Io).CornerRadius = UDim.new(0.5, 0)
+    local btn = Instance.new("TextButton")
+    btn.Size             = UDim2.new(0, BTN_SIZE, 0, BTN_SIZE)
+    btn.Position         = UDim2.new(0, BORDER, 0, BORDER)
+    btn.BackgroundColor3 = COLOR_NORM
+    btn.Text             = ""
+    btn.BorderSizePixel  = 0
+    btn.AutoButtonColor  = false
+    btn.ZIndex           = 10
+    btn.Parent           = ring
+    Instance.new("UICorner", btn).CornerRadius = UDim.new(0.5, 0)
 
-    local IIo00ol0iool = Instance.new(oIil00il0IOo[158], liOOO00O00Io)
-    IIo00ol0iool.Size                   = UDim2.new(0.74, 0, 0.74, 0)
-    IIo00ol0iool.Position               = UDim2.new(0.13, 0, 0.13, 0)
-    IIo00ol0iool.BackgroundTransparency = 1
-    IIo00ol0iool.Image                  = II0OlIoIIoIl
-    IIo00ol0iool.ZIndex                 = 11
-    IIo00ol0iool.ScaleType              = Enum.ScaleType.Fit
-    Instance.new(oIil00il0IOo[156], IIo00ol0iool).CornerRadius = UDim.new(0.5, 0)
+    local icon = Instance.new("ImageLabel", btn)
+    icon.Size                   = UDim2.new(0.74, 0, 0.74, 0)
+    icon.Position               = UDim2.new(0.13, 0, 0.13, 0)
+    icon.BackgroundTransparency = 1
+    icon.Image                  = ICON_ID
+    icon.ZIndex                 = 11
+    icon.ScaleType              = Enum.ScaleType.Fit
+    Instance.new("UICorner", icon).CornerRadius = UDim.new(0.5, 0)
 
-    local ol0IiOiiiilo, OlOIiliooolO = 1, 0
-    lioioooOl0iO.BackgroundColor3 = ilooIIoIOlOI[ol0IiOiiiilo]
-    local oliIiOlliIIO = iOOlOoo0oiIl.Heartbeat:Connect(function(dt)
-        OlOIiliooolO = OlOIiliooolO + dt
-        if OlOIiliooolO >= 0.13 then
-            OlOIiliooolO = 0
-            ol0IiOiiiilo  = ol0IiOiiiilo % #ilooIIoIOlOI + 1
-            lioioooOl0iO.BackgroundColor3 = ilooIIoIOlOI[ol0IiOiiiilo]
+    local rbIdx, rbTime = 1, 0
+    ring.BackgroundColor3 = RAINBOW[rbIdx]
+    local rbConn = RunService.Heartbeat:Connect(function(dt)
+        rbTime = rbTime + dt
+        if rbTime >= 0.13 then
+            rbTime = 0
+            rbIdx  = rbIdx % #RAINBOW + 1
+            ring.BackgroundColor3 = RAINBOW[rbIdx]
         end
     end)
-    Ii00lo0O00oi.AncestryChanged:Connect(function()
-        if not Ii00lo0O00oi.Parent then oliIiOlliIIO:Disconnect() end
+    sGui.AncestryChanged:Connect(function()
+        if not sGui.Parent then rbConn:Disconnect() end
     end)
 
-    liOOO00O00Io.MouseEnter:Connect(function()
-        liOOO00O00Io.BackgroundColor3 = iiiiIolOoOll and II00I0l0ooI0 or IIiooiOIOoII
+    btn.MouseEnter:Connect(function()
+        btn.BackgroundColor3 = minimized and COLOR_MINI or COLOR_HOVER
     end)
-    liOOO00O00Io.MouseLeave:Connect(function()
-        liOOO00O00Io.BackgroundColor3 = iiiiIolOoOll and II00I0l0ooI0 or iI00i0ooIo0I
+    btn.MouseLeave:Connect(function()
+        btn.BackgroundColor3 = minimized and COLOR_MINI or COLOR_NORM
     end)
 
-    local OIiiooOlIIol, IoO0oOIO0i00, ioIiO00llOol, Oi0iI0OOIi0O = false, nil, nil, false
-    liOOO00O00Io.InputBegan:Connect(function(inp)
+    local dragging, dragStart, ringStart, wasDragged = false, nil, nil, false
+    btn.InputBegan:Connect(function(inp)
         if inp.UserInputType == Enum.UserInputType.MouseButton1
         or inp.UserInputType == Enum.UserInputType.Touch then
-            OIiiooOlIIol = true; Oi0iI0OOIi0O = false
-            IoO0oOIO0i00 = inp.Position; ioIiO00llOol = lioioooOl0iO.Position
+            dragging = true; wasDragged = false
+            dragStart = inp.Position; ringStart = ring.Position
         end
     end)
-    oOOlIiOolIOl.InputChanged:Connect(function(inp)
-        if not OIiiooOlIIol then return end
+    UIS.InputChanged:Connect(function(inp)
+        if not dragging then return end
         if inp.UserInputType == Enum.UserInputType.MouseMovement
         or inp.UserInputType == Enum.UserInputType.Touch then
-            local d = inp.Position - IoO0oOIO0i00
-            if math.abs(d.X) > 3 or math.abs(d.Y) > 3 then Oi0iI0OOIi0O = true end
-            lioioooOl0iO.Position = UDim2.new(
-                ioIiO00llOol.X.Scale, ioIiO00llOol.X.Offset + d.X,
-                ioIiO00llOol.Y.Scale, ioIiO00llOol.Y.Offset + d.Y
+            local d = inp.Position - dragStart
+            if math.abs(d.X) > 3 or math.abs(d.Y) > 3 then wasDragged = true end
+            ring.Position = UDim2.new(
+                ringStart.X.Scale, ringStart.X.Offset + d.X,
+                ringStart.Y.Scale, ringStart.Y.Offset + d.Y
             )
         end
     end)
-    oOOlIiOolIOl.InputEnded:Connect(function(inp)
+    UIS.InputEnded:Connect(function(inp)
         if inp.UserInputType == Enum.UserInputType.MouseButton1
-        or inp.UserInputType == Enum.UserInputType.Touch then OIiiooOlIIol = false end
+        or inp.UserInputType == Enum.UserInputType.Touch then dragging = false end
     end)
 
-    liOOO00O00Io.MouseButton1Click:Connect(function()
-        if Oi0iI0OOIi0O then return end
-        iiiiIolOoOll = not iiiiIolOoOll
-        liOOO00O00Io.BackgroundColor3   = iiiiIolOoOll and II00I0l0ooI0 or iI00i0ooIo0I
-        IIo00ol0iool.ImageTransparency = iiiiIolOoOll and 0.5 or 0
-        local o0o0IiliIoOO = iioioIOo0lOo and (iioioIOo0lOo.GUI or iioioIOo0lOo.Holder or iioioIOo0lOo.ScreenGui)
-        if not o0o0IiliIoOO then
-            for _, v in ipairs(liIoiOoOOiol:GetChildren()) do
-                if v:IsA(oIil00il0IOo[154]) and v.Name ~= oIil00il0IOo[152] and v.Name ~= oIil00il0IOo[159] then
-                    if v:FindFirstChild(oIil00il0IOo[160]) or v:FindFirstChild(oIil00il0IOo[161]) then o0o0IiliIoOO = v break end
+    btn.MouseButton1Click:Connect(function()
+        if wasDragged then return end
+        minimized = not minimized
+        btn.BackgroundColor3   = minimized and COLOR_MINI or COLOR_NORM
+        icon.ImageTransparency = minimized and 0.5 or 0
+        local gui = Library and (Library.GUI or Library.Holder or Library.ScreenGui)
+        if not gui then
+            for _, v in ipairs(coreGui:GetChildren()) do
+                if v:IsA("ScreenGui") and v.Name ~= "OrangeHubMinBtn" and v.Name ~= "RobloxGui" then
+                    if v:FindFirstChild("Blur") or v:FindFirstChild("Main") then gui = v break end
                 end
             end
         end
-        if o0o0IiliIoOO then o0o0IiliIoOO.Enabled = not iiiiIolOoOll end
+        if gui then gui.Enabled = not minimized end
     end)
 end
 
 
-local oiilOi00iii0 = ioIlOoilOOoi.Farm:AddDropdown(oIil00il0IOo[162], {
-    Title   = oIil00il0IOo[163],
-    Values  = lOiooOIoIIOl(),
+local harvestDropdown = Tabs.Farm:AddDropdown("HarvestFilter", {
+    Title   = "Chọn Trái Cây",
+    Values  = getPlantNamesInPlot(),
     Multi   = true,
     Default = {},
     Callback = function(v) _G.harvestfilter = v end
@@ -1658,614 +1620,439 @@ local oiilOi00iii0 = ioIlOoilOOoi.Farm:AddDropdown(oIil00il0IOo[162], {
 task.spawn(function()
     while true do
         task.wait(3)
-        local oo0ol0Il0I0I = lOiooOIoIIOl()
-        local I0iol0I0llIO = _G.harvestfilter
-        local lillOl0l000l = {}
-        for _, opt in ipairs(oo0ol0Il0I0I) do
-            if I0iol0I0llIO[opt] then lillOl0l000l[opt] = true end
+        local options = getPlantNamesInPlot()
+        local current = _G.harvestfilter
+        local newFilter = {}
+        for _, opt in ipairs(options) do
+            if current[opt] then newFilter[opt] = true end
         end
-        _G.harvestfilter = lillOl0l000l
-        pcall(function() oiilOi00iii0:SetValues(oo0ol0Il0I0I) end)
+        _G.harvestfilter = newFilter
+        pcall(function() harvestDropdown:SetValues(options) end)
     end
 end)
 
-ioIlOoilOOoi.Farm:AddDropdown(oIil00il0IOo[164], {
-    Title   = oIil00il0IOo[165],
-    Values  = {oIil00il0IOo[2],oIil00il0IOo[120],oIil00il0IOo[166],oIil00il0IOo[167],oIil00il0IOo[168],oIil00il0IOo[169],oIil00il0IOo[170],oIil00il0IOo[171],oIil00il0IOo[172]},
-    Default = oIil00il0IOo[2],
+Tabs.Farm:AddDropdown("HarvestRarity", {
+    Title   = "Chọn Độ Hiếm",
+    Values  = {"All","Common","Uncommon","Rare","Epic","Legendary","Mythic","Super","Secret"},
+    Default = "All",
     Callback = function(v) _G.harvestrarity = v end
 })
 
-ioIlOoilOOoi.Farm:AddDropdown(oIil00il0IOo[173], {
-    Title   = oIil00il0IOo[174],
-    Values  = IolilIillIOo,
+Tabs.Farm:AddDropdown("NoHarvestMutations", {
+    Title   = "Không Hái Trái Cây Mutation",
+    Values  = mutationNamesList,
     Multi   = true,
     Default = {},
     Callback = function(v) _G.noharvestmutations = v end
 })
 
-ioIlOoilOOoi.Farm:AddToggle(oIil00il0IOo[175], {
-    Title   = oIil00il0IOo[176],
+Tabs.Farm:AddToggle("HarvestPauseToggle", {
+    Title   = "Tạm Dừng Hái Trái Cây Khi Có Sự Kiện",
     Default = false,
     Callback = function(v) _G.harvestpause = v end
 })
 
-ioIlOoilOOoi.Farm:AddDropdown(oIil00il0IOo[177], {
-    Title   = oIil00il0IOo[178],
-    Values  = {oIil00il0IOo[179],oIil00il0IOo[180],oIil00il0IOo[181],oIil00il0IOo[182],oIil00il0IOo[183],oIil00il0IOo[184],oIil00il0IOo[185]},
+Tabs.Farm:AddDropdown("HarvestPauseEvents", {
+    Title   = "Chọn Sự Kiện",
+    Values  = {"Đêm","Trăng Máu","Trăng Vàng","Trăng 7 Màu","Mưa","Tuyết","Sấm Sét"},
     Multi   = true,
     Default = {},
     Callback = function(v) _G.harvestpauseevents = v end
 })
 
-ioIlOoilOOoi.Farm:AddToggle(oIil00il0IOo[186], {
-    Title   = oIil00il0IOo[187],
+Tabs.Farm:AddToggle("HarvestToggle", {
+    Title   = "Tự Động Hái Trái Cây",
     Default = false,
     Callback = function(v) _G.harvest = v end
 })
 
-ioIlOoilOOoi.Farm:AddToggle(oIil00il0IOo[188], {
-    Title   = oIil00il0IOo[189],
+Tabs.Farm:AddToggle("SellToggle", {
+    Title   = "Bán Toàn Bộ Trái Cây",
     Default = false,
     Callback = function(v) _G.sell = v end
 })
-ioIlOoilOOoi.Farm:AddSection(oIil00il0IOo[190])
-ioIlOoilOOoi.Farm:AddToggle(oIil00il0IOo[191], {
-    Title   = oIil00il0IOo[192],
+Tabs.Farm:AddSection("Gieo Hạt Giống")
+Tabs.Farm:AddToggle("AutoPlantToggle", {
+    Title   = "Tự Động Gieo Hạt Giống",
     Default = false,
     Callback = function(v) _G.autoplant = v end
 })
 
-ioIlOoilOOoi.Farm:AddDropdown(oIil00il0IOo[193], {
-    Title   = oIil00il0IOo[194],
-    Values  = {oIil00il0IOo[195],oIil00il0IOo[196]},
-    Default = oIil00il0IOo[1],
+Tabs.Farm:AddDropdown("PlantMode", {
+    Title   = "Chọn Cách Gieo Hạt Giống",
+    Values  = {"Random Vị Trí","Dưới Nhân Vật"},
+    Default = "Random Plot",
     Callback = function(v) _G.plantmode = v end
 })
-ioIlOoilOOoi.Farm:AddSection(oIil00il0IOo[197])
-ioIlOoilOOoi.Farm:AddToggle(oIil00il0IOo[198], {
-    Title   = oIil00il0IOo[199],
+Tabs.Farm:AddSection("Steal & Collect Seed")
+Tabs.Farm:AddToggle("AutoPickSeedToggle", {
+    Title   = "Tự Động Nhặt Seed (Gold, Rainbow...)",
     Default = false,
     Callback = function(v) _G.autopickseed = v end
 })
 
-ioIlOoilOOoi.Farm:AddToggle(oIil00il0IOo[200], {
-    Title   = oIil00il0IOo[201],
+Tabs.Farm:AddToggle("AutoStealToggle", {
+    Title   = "Tự Động Cướp Trái Cây",
     Default = false,
     Callback = function(v) _G.autosteal = v end
 })
 
 
 
-ioIlOoilOOoi.Shop:AddDropdown(oIil00il0IOo[202], {
-    Title   = oIil00il0IOo[203],
-    Values  = IlOlloiOlOi0,
+Tabs.Shop:AddDropdown("AutoBuySeed", {
+    Title   = "Chọn Hạt Giống",
+    Values  = seedNamesList,
     Multi   = true,
     Default = {},
     Callback = function(v) _G.autobuyseed = v end
 })
 
-ioIlOoilOOoi.Shop:AddToggle(oIil00il0IOo[204], {
-    Title   = oIil00il0IOo[205],
+Tabs.Shop:AddToggle("AutoBuyToggle", {
+    Title   = "Tự Động Mua Hạt Giống",
     Default = false,
     Callback = function(v) _G.autobuy = v end
 })
 
-ioIlOoilOOoi.Shop:AddDropdown(oIil00il0IOo[206], {
-    Title   = oIil00il0IOo[207],
-    Values  = O0iIOlI0IoI0,
+Tabs.Shop:AddDropdown("AutoBuyGear", {
+    Title   = "Chọn Gear",
+    Values  = gearNamesList,
     Multi   = true,
     Default = {},
     Callback = function(v) _G.autobuygearname = v end
 })
 
-ioIlOoilOOoi.Shop:AddToggle(oIil00il0IOo[208], {
-    Title   = oIil00il0IOo[209],
+Tabs.Shop:AddToggle("AutoBuyGearToggle", {
+    Title   = "Tự Động Mua Gear",
     Default = false,
     Callback = function(v) _G.autobuygear = v end
 })
 
-ioIlOoilOOoi.Shop:AddToggle(oIil00il0IOo[210], {
-    Title   = oIil00il0IOo[211],
+Tabs.Shop:AddToggle("OpenShopToggle", {
+    Title   = "Open Shop",
     Default = false,
     Callback = function(v) _G.openshop = v end
 })
 
 
 
-ioIlOoilOOoi.Pet:AddDropdown(oIil00il0IOo[212], {
-    Title   = oIil00il0IOo[213],
-    Values  = OiO0iooI0iO0,
+Tabs.Pet:AddDropdown("AutoBuyPet", {
+    Title   = "Chọn Thú Cưng",
+    Values  = petNamesList,
     Multi   = true,
     Default = {},
     Callback = function(v) _G.autobuypetname = v end
 })
 
-ioIlOoilOOoi.Pet:AddToggle(oIil00il0IOo[214], {
-    Title   = oIil00il0IOo[215],
+Tabs.Pet:AddToggle("AutoBuyPetToggle", {
+    Title   = "Tự Động Mua Thú Cưng",
     Default = false,
     Callback = function(v) _G.autobuypet = v end
 })
 
 
 
-ioIlOoilOOoi.Shovel:AddDropdown(oIil00il0IOo[216], {
-    Title   = oIil00il0IOo[165],
-    Values  = {oIil00il0IOo[2],oIil00il0IOo[120],oIil00il0IOo[166],oIil00il0IOo[167],oIil00il0IOo[168],oIil00il0IOo[169],oIil00il0IOo[170],oIil00il0IOo[171],oIil00il0IOo[172]},
-    Default = oIil00il0IOo[2],
+Tabs.Shovel:AddDropdown("ShovelRarity", {
+    Title   = "Chọn Độ Hiếm",
+    Values  = {"All","Common","Uncommon","Rare","Epic","Legendary","Mythic","Super","Secret"},
+    Default = "All",
     Callback = function(v) _G.autoshovelrarity = v end
 })
 
-ioIlOoilOOoi.Shovel:AddToggle(oIil00il0IOo[217], {
-    Title   = oIil00il0IOo[218],
+Tabs.Shovel:AddToggle("AutoShovelToggle", {
+    Title   = "Tự Động Xoá Cây",
     Default = false,
     Callback = function(v) _G.autoshovel = v end
 })
-ioIlOoilOOoi.Farm:AddSection(oIil00il0IOo[219])
+Tabs.Farm:AddSection("Fake")
 
 
-local oil0IliIiiil, IiOiOilI0Ii0, li0iiiIIlIIi, ii0ilO0lIloI = {}, {}, nil, false
+local weatherModules, weatherNames, currentModule, fakeActive = {}, {}, nil, false
 
 do
-    local oOO0llioiolO, lIollIoIiolI = pcall(function()
-        return IIool000iiOO:WaitForChild(oIil00il0IOo[220]):WaitForChild(oIil00il0IOo[221]):WaitForChild(oIil00il0IOo[222])
+    local ok, weatherController = pcall(function()
+        return LP:WaitForChild("PlayerScripts"):WaitForChild("Controllers"):WaitForChild("WeatherController")
     end)
-    if oOO0llioiolO and lIollIoIiolI then
-        for _, child in ipairs(lIollIoIiolI:GetChildren()) do
-            if child:IsA(oIil00il0IOo[125]) then
-                local lIlI0O0OIl0i, ilio0IIOIi0l = pcall(require, child)
-                if lIlI0O0OIl0i and type(ilio0IIOIi0l) == oIil00il0IOo[48] and ilio0IIOIi0l.StartWeather then
-                    table.insert(oil0IliIiiil, {Name = child.Name, Module = ilio0IIOIi0l})
-                    table.insert(IiOiOilI0Ii0, child.Name)
+    if ok and weatherController then
+        for _, child in ipairs(weatherController:GetChildren()) do
+            if child:IsA("ModuleScript") then
+                local success, module = pcall(require, child)
+                if success and type(module) == "table" and module.StartWeather then
+                    table.insert(weatherModules, {Name = child.Name, Module = module})
+                    table.insert(weatherNames, child.Name)
                 end
             end
         end
     else
-        warn(oIil00il0IOo[223])
+        warn("FakeWeather: WeatherController not found")
     end
 end
 
-local function OiilOliiol0o()
-    if li0iiiIIlIIi and li0iiiIIlIIi.EndWeather then
-        pcall(li0iiiIIlIIi.EndWeather)
+local function stopCurrent()
+    if currentModule and currentModule.EndWeather then
+        pcall(currentModule.EndWeather)
     end
-    li0iiiIIlIIi = nil
+    currentModule = nil
 end
 
-local function liooO0iIoOoO(ioIOioII0oIi)
-    OiilOliiol0o()
-    for _, w in ipairs(oil0IliIiiil) do
-        if w.Name == ioIOioII0oIi then
-            li0iiiIIlIIi = w.Module
+local function startWeather(name)
+    stopCurrent()
+    for _, w in ipairs(weatherModules) do
+        if w.Name == name then
+            currentModule = w.Module
             pcall(w.Module.StartWeather)
             break
         end
     end
 end
 
-if #IiOiOilI0Ii0 == 0 then
-    IiOiOilI0Ii0 = {oIil00il0IOo[224]}
+if #weatherNames == 0 then
+    weatherNames = {"None"}
 end
 
-ioIlOoilOOoi.Farm:AddToggle(oIil00il0IOo[225], {
-    Title   = oIil00il0IOo[226],
+Tabs.Farm:AddToggle("FakeWeatherToggle", {
+    Title   = "Thời Tiết Giả",
     Default = false,
     Callback = function(v)
-        ii0ilO0lIloI = v
-        if not v then OiilOliiol0o() end
+        fakeActive = v
+        if not v then stopCurrent() end
     end
 })
 
-ioIlOoilOOoi.Farm:AddDropdown(oIil00il0IOo[227], {
-    Title   = oIil00il0IOo[228],
-    Values  = IiOiOilI0Ii0,
-    Default = IiOiOilI0Ii0[1],
+Tabs.Farm:AddDropdown("FakeWeatherType", {
+    Title   = "Chọn Thời Tiết",
+    Values  = weatherNames,
+    Default = weatherNames[1],
     Callback = function(v)
-        if ii0ilO0lIloI then
-            liooO0iIoOoO(v)
+        if fakeActive then
+            startWeather(v)
         end
     end
 })
-local lOOI0iiIoiIl = ioIlOoilOOoi.Gift:AddSection(oIil00il0IOo[229])
+local GiftSection = Tabs.Gift:AddSection("Tặng Quà")
 
-ioIlOoilOOoi.Gift:AddButton({
-    Title = oIil00il0IOo[230] .. _G.GiftTargetName,
+Tabs.Gift:AddButton({
+    Title = "Tặng Seed,Gear..." .. _G.GiftTargetName,
     Description = "C" .. _G.GiftTargetName,
     Callback = function()
         task.spawn(function()
-            local lIlI0O0OIl0i = oIlolOOoIi0O.SendAllItemsTo(_G.GiftTargetName)
-            if lIlI0O0OIl0i then
+            local success = GiftModules.SendAllItemsTo(_G.GiftTargetName)
+            if success then
             else
             end
         end)
     end
 })
-oiOloO0IOoOo:LoadAutoloadConfig()
+SaveManager:LoadAutoloadConfig()
 
-Oo0iooOl0oio:SelectTab(1)
+Window:SelectTab(1)
 
 
 
-ioIlOoilOOoi.Farm:AddSection(oIil00il0IOo[231])
+Tabs.Farm:AddSection("Dự Đoán Thời Tiết")
 
-local IOo0i0IilIol = {}
+local WeatherPredict = {}
 
 do
-    local lIlI0O0OIl0i, iIil0oiio0l0 = pcall(function()
-        return require(lIIo0IO00iiO:WaitForChild(oIil00il0IOo[5]):WaitForChild(oIil00il0IOo[232]))
+    local success, TimeCycleData = pcall(function()
+        return require(RS:WaitForChild("SharedModules"):WaitForChild("TimeCycleData"))
     end)
 
-    if lIlI0O0OIl0i and iIil0oiio0l0 and iIil0oiio0l0.Data then
-        local lolllIOio0Io = {}
-        for ioIOioII0oIi, data in pairs(iIil0oiio0l0.Data) do
-            table.insert(lolllIOio0Io, {
-                Name = ioIOioII0oIi,
+    if success and TimeCycleData and TimeCycleData.Data then
+        local phases = {}
+        for name, data in pairs(TimeCycleData.Data) do
+            table.insert(phases, {
+                Name = name,
                 Weathers = data.Weathers,
                 Duration = data.Lasts,
                 Order = data.StartOrder
             })
         end
-        table.sort(lolllIOio0Io, function(a, b) return a.Order < b.Order end)
+        table.sort(phases, function(a, b) return a.Order < b.Order end)
 
-        local ii0OiIoi0ll0 = 0
-        for _, p in ipairs(lolllIOio0Io) do ii0OiIoi0ll0 = ii0OiIoi0ll0 + p.Duration end
+        local totalDuration = 0
+        for _, p in ipairs(phases) do totalDuration = totalDuration + p.Duration end
 
-        local function il0lllliiIl0(iO0oiIoll0ii, OlOoiiio0olO, IOliiiollIlO)
-            local iiII0IoO0ioi = OlOoiiio0olO * 1000 + IOliiiollIlO
-            local iIoooolI0Ilo = {}
-            local Oi00lOiIIoo0 = 0
-            for wName, wData in pairs(iO0oiIoll0ii.Weathers) do
-                local llll0iIOliiI = wData.Chance or 0
-                if llll0iIOliiI > 0 then
-                    table.insert(iIoooolI0Ilo, {ioIOioII0oIi = wName, llll0iIOliiI = llll0iIOliiI})
-                    Oi00lOiIIoo0 = Oi00lOiIIoo0 + llll0iIOliiI
+        local function getWeather(phase, cycle, phaseIdx)
+            local seed = cycle * 1000 + phaseIdx
+            local weatherList = {}
+            local totalChance = 0
+            for wName, wData in pairs(phase.Weathers) do
+                local chance = wData.Chance or 0
+                if chance > 0 then
+                    table.insert(weatherList, {name = wName, chance = chance})
+                    totalChance = totalChance + chance
                 end
             end
-            if Oi00lOiIIoo0 == 0 then return nil end
-            local OIoi0IO0lIi0 = Random.new(iiII0IoO0ioi)
-            local IlIOOIOi0iil = OIoi0IO0lIi0:NextInteger(1, Oi00lOiIIoo0)
-            local OiiOIllOiolO = 0
-            for _, w in ipairs(iIoooolI0Ilo) do
-                OiiOIllOiolO = OiiOIllOiolO + w.chance
-                if IlIOOIOi0iil <= OiiOIllOiolO then return w.name end
+            if totalChance == 0 then return nil end
+            local rng = Random.new(seed)
+            local roll = rng:NextInteger(1, totalChance)
+            local cum = 0
+            for _, w in ipairs(weatherList) do
+                cum = cum + w.chance
+                if roll <= cum then return w.name end
             end
-            return iIoooolI0Ilo[1].name
+            return weatherList[1].name
         end
 
-        local function i0lOOlIooIio()
-            local II0oO0l0iO0O = workspace:GetAttribute(oIil00il0IOo[233])
-            local Io0iOIo0II00, Ii0Io0IlIOoo, IlOoo0Iilo0i
+        local function getCurrentPhaseInfo()
+            local currentPhaseName = workspace:GetAttribute("ActivePhase")
+            local currentPhaseIdx, currentPhaseData, remainingInPhase
 
-            if II0oO0l0iO0O then
-                for i, p in ipairs(lolllIOio0Io) do
-                    if p.Name == II0oO0l0iO0O then
-                        Io0iOIo0II00 = i
-                        Ii0Io0IlIOoo = p
+            if currentPhaseName then
+                for i, p in ipairs(phases) do
+                    if p.Name == currentPhaseName then
+                        currentPhaseIdx = i
+                        currentPhaseData = p
                         break
                     end
                 end
             end
 
-            if not Ii0Io0IlIOoo then
-                local lOIoo0O00I00 = os.time()
-                local OOOlIIlliI0O = lOIoo0O00I00 % ii0OiIoi0ll0
-                local Ol0ooiI00iio = 0
-                for i, p in ipairs(lolllIOio0Io) do
-                    if OOOlIIlliI0O < Ol0ooiI00iio + p.Duration then
-                        Io0iOIo0II00 = i
-                        Ii0Io0IlIOoo = p
-                        IlOoo0Iilo0i = (Ol0ooiI00iio + p.Duration) - OOOlIIlliI0O
+            if not currentPhaseData then
+                local now = os.time()
+                local timeInCycle = now % totalDuration
+                local accum = 0
+                for i, p in ipairs(phases) do
+                    if timeInCycle < accum + p.Duration then
+                        currentPhaseIdx = i
+                        currentPhaseData = p
+                        remainingInPhase = (accum + p.Duration) - timeInCycle
                         break
                     end
-                    Ol0ooiI00iio = Ol0ooiI00iio + p.Duration
+                    accum = accum + p.Duration
                 end
             else
-                local OIO0lllo0loo = workspace:GetAttribute(oIil00il0IOo[234]) or Ii0Io0IlIOoo.Duration
-                local iliIOI0IoiOi = workspace:GetServerTimeNow()
-                if iliIOI0IoiOi == 0 then iliIOI0IoiOi = os.time() end
-                IlOoo0Iilo0i = workspace:GetAttribute(oIil00il0IOo[235])
-                if not IlOoo0Iilo0i then
-                    local lIIoO0oiO0Ol = workspace:GetAttribute(oIil00il0IOo[236])
-                    if lIIoO0oiO0Ol then
-                        IlOoo0Iilo0i = OIO0lllo0loo - (iliIOI0IoiOi - lIIoO0oiO0Ol)
+                local phaseDuration = workspace:GetAttribute("PhaseDuration") or currentPhaseData.Duration
+                local serverTime = workspace:GetServerTimeNow()
+                if serverTime == 0 then serverTime = os.time() end
+                remainingInPhase = workspace:GetAttribute("PhaseRemaining")
+                if not remainingInPhase then
+                    local phaseStart = workspace:GetAttribute("PhaseStartTime")
+                    if phaseStart then
+                        remainingInPhase = phaseDuration - (serverTime - phaseStart)
                     else
-                        IlOoo0Iilo0i = OIO0lllo0loo - (iliIOI0IoiOi % OIO0lllo0loo)
+                        remainingInPhase = phaseDuration - (serverTime % phaseDuration)
                     end
                 end
-                if IlOoo0Iilo0i < 0 then IlOoo0Iilo0i = 0 end
+                if remainingInPhase < 0 then remainingInPhase = 0 end
             end
 
-            return Io0iOIo0II00, Ii0Io0IlIOoo, IlOoo0Iilo0i
+            return currentPhaseIdx, currentPhaseData, remainingInPhase
         end
 
-        local function IOoollO00lOI(OliolI0OillO)
-            local Io0iOIo0II00, Ii0Io0IlIOoo, IlOoo0Iilo0i = i0lOOlIooIio()
-            if not Ii0Io0IlIOoo then return nil end
+        local function findTimeToTarget(target)
+            local currentPhaseIdx, currentPhaseData, remainingInPhase = getCurrentPhaseInfo()
+            if not currentPhaseData then return nil end
 
-            local OiollOlIioO0 = math.floor(os.time() / ii0OiIoi0ll0)
-            local IOliiiollIlO = Io0iOIo0II00
-            local OlOoiiio0olO = OiollOlIioO0
-            local OI0OlIiolloo = 0
-            local loooil0loolO = true
+            local currentCycle = math.floor(os.time() / totalDuration)
+            local phaseIdx = currentPhaseIdx
+            local cycle = currentCycle
+            local timeWait = 0
+            local firstPhase = true
             for step = 1, 500 do
-                local iO0oiIoll0ii = lolllIOio0Io[IOliiiollIlO]
-                local OOIl0loioOil = il0lllliiIl0(iO0oiIoll0ii, OlOoiiio0olO, IOliiiollIlO)
-                if OOIl0loioOil == OliolI0OillO then
-                    if loooil0loolO then
-                        OI0OlIiolloo = OI0OlIiolloo + IlOoo0Iilo0i
-                        if OI0OlIiolloo < 0 then OI0OlIiolloo = 0 end
+                local phase = phases[phaseIdx]
+                local weather = getWeather(phase, cycle, phaseIdx)
+                if weather == target then
+                    if firstPhase then
+                        timeWait = timeWait + remainingInPhase
+                        if timeWait < 0 then timeWait = 0 end
                     end
-                    return OI0OlIiolloo, OOIl0loioOil, iO0oiIoll0ii.Name
+                    return timeWait, weather, phase.Name
                 end
-                if loooil0loolO then
-                    OI0OlIiolloo = OI0OlIiolloo + IlOoo0Iilo0i
-                    loooil0loolO = false
+                if firstPhase then
+                    timeWait = timeWait + remainingInPhase
+                    firstPhase = false
                 else
-                    OI0OlIiolloo = OI0OlIiolloo + iO0oiIoll0ii.Duration
+                    timeWait = timeWait + phase.Duration
                 end
-                IOliiiollIlO = IOliiiollIlO + 1
-                if IOliiiollIlO > #lolllIOio0Io then
-                    IOliiiollIlO = 1
-                    OlOoiiio0olO = OlOoiiio0olO + 1
+                phaseIdx = phaseIdx + 1
+                if phaseIdx > #phases then
+                    phaseIdx = 1
+                    cycle = cycle + 1
                 end
             end
             return nil
         end
 
         
-        local llIOIIi0l0II = {}
-        for _, iO0oiIoll0ii in ipairs(lolllIOio0Io) do
-            for wName in pairs(iO0oiIoll0ii.Weathers) do
-                llIOIIi0l0II[wName] = true
+        local allWeathers = {}
+        for _, phase in ipairs(phases) do
+            for wName in pairs(phase.Weathers) do
+                allWeathers[wName] = true
             end
         end
-        local lIlio0lliIoi = {}
-        for ioIOioII0oIi in pairs(llIOIIi0l0II) do table.insert(lIlio0lliIoi, ioIOioII0oIi) end
-        table.sort(lIlio0lliIoi)
-        if #lIlio0lliIoi == 0 then lIlio0lliIoi = {oIil00il0IOo[224]} end
+        local weatherTargetList = {}
+        for name in pairs(allWeathers) do table.insert(weatherTargetList, name) end
+        table.sort(weatherTargetList)
+        if #weatherTargetList == 0 then weatherTargetList = {"None"} end
 
-        IOo0i0IilIol.findTimeToTarget = IOoollO00lOI
-        IOo0i0IilIol.getCurrentPhaseInfo = i0lOOlIooIio
-        IOo0i0IilIol.weatherTargetList = lIlio0lliIoi
-        IOo0i0IilIol.ready = true
+        WeatherPredict.findTimeToTarget = findTimeToTarget
+        WeatherPredict.getCurrentPhaseInfo = getCurrentPhaseInfo
+        WeatherPredict.weatherTargetList = weatherTargetList
+        WeatherPredict.ready = true
     else
-        IOo0i0IilIol.weatherTargetList = {oIil00il0IOo[224]}
-        IOo0i0IilIol.ready = false
-        warn(oIil00il0IOo[237])
+        WeatherPredict.weatherTargetList = {"None"}
+        WeatherPredict.ready = false
+        warn("WeatherPredict: TimeCycleData not found")
     end
 end
 
-_G.weatherPredictTarget = IOo0i0IilIol.weatherTargetList[1]
+_G.weatherPredictTarget = WeatherPredict.weatherTargetList[1]
 
-local iOI0IiliOiIi = ioIlOoilOOoi.Farm:AddParagraph({
-    Title = oIil00il0IOo[238],
-    Content = oIil00il0IOo[239]
+local WeatherPredictDisplay = Tabs.Farm:AddParagraph({
+    Title = "Dự Đoán",
+    Content = "Đang tải..."
 })
 
-ioIlOoilOOoi.Farm:AddDropdown(oIil00il0IOo[240], {
-    Title   = oIil00il0IOo[241],
-    Values  = IOo0i0IilIol.weatherTargetList,
-    Default = IOo0i0IilIol.weatherTargetList[1],
+Tabs.Farm:AddDropdown("WeatherPredictTarget", {
+    Title   = "Thời Tiết Muốn Dự Đoán",
+    Values  = WeatherPredict.weatherTargetList,
+    Default = WeatherPredict.weatherTargetList[1],
     Callback = function(v) _G.weatherPredictTarget = v end
 })
 
 task.spawn(function()
     while true do
-        if IOo0i0IilIol.ready then
-            local oOO0llioiolO, Io0iOIo0II00, Ii0Io0IlIOoo, IlOoo0Iilo0i = pcall(IOo0i0IilIol.getCurrentPhaseInfo)
-            local i00l0OIo0iO0, IlI00iI00o0I, oiOoOl00iOIo = IOo0i0IilIol.findTimeToTarget(_G.weatherPredictTarget)
+        if WeatherPredict.ready then
+            local ok, currentPhaseIdx, currentPhaseData, remainingInPhase = pcall(WeatherPredict.getCurrentPhaseInfo)
+            local waitTime, targetWeather, phaseName = WeatherPredict.findTimeToTarget(_G.weatherPredictTarget)
 
-            local iiOlIli0olII = "?"
-            local Oi00O00i0llo = "?"
-            if oOO0llioiolO and Ii0Io0IlIOoo then
-                iiOlIli0olII = Ii0Io0IlIOoo.Name
-                Oi00O00i0llo = tostring(math.floor(IlOoo0Iilo0i or 0)) .. "s"
+            local phaseText = "?"
+            local remainText = "?"
+            if ok and currentPhaseData then
+                phaseText = currentPhaseData.Name
+                remainText = tostring(math.floor(remainingInPhase or 0)) .. "s"
             end
 
             local content
-            if i00l0OIo0iO0 then
-                if i00l0OIo0iO0 <= 0 then
+            if waitTime then
+                if waitTime <= 0 then
                     content = string.format(
-                        oIil00il0IOo[242],
-                        _G.weatherPredictTarget, iiOlIli0olII, Oi00O00i0llo
+                        "%s ĐANG hoạt động!\nPhase hiện tại: %s (còn %s)",
+                        _G.weatherPredictTarget, phaseText, remainText
                     )
                 else
-                    local h = math.floor(i00l0OIo0iO0 / 3600)
-                    local m = math.floor((i00l0OIo0iO0 % 3600) / 60)
-                    local s = math.floor(i00l0OIo0iO0 % 60)
+                    local h = math.floor(waitTime / 3600)
+                    local m = math.floor((waitTime % 3600) / 60)
+                    local s = math.floor(waitTime % 60)
                     content = string.format(
-                        oIil00il0IOo[243],
-                        _G.weatherPredictTarget, h, m, s, oiOoOl00iOIo, iiOlIli0olII, Oi00O00i0llo
+                        "%s sẽ xuất hiện sau %02d:%02d:%02d (trong phase %s)\nPhase hiện tại: %s (còn %s)",
+                        _G.weatherPredictTarget, h, m, s, phaseName, phaseText, remainText
                     )
                 end
             else
-                content = oIil00il0IOo[244] .. tostring(_G.weatherPredictTarget) .. oIil00il0IOo[245]
+                content = "Không tìm thấy dự đoán cho \"" .. tostring(_G.weatherPredictTarget) .. "\""
             end
 
-            pcall(function() iOI0IiliOiIi:SetDesc(content) end)
+            pcall(function() WeatherPredictDisplay:SetDesc(content) end)
         else
-            pcall(function() iOI0IiliOiIi:SetDesc(oIil00il0IOo[246]) end)
+            pcall(function() WeatherPredictDisplay:SetDesc("TimeCycleData không khả dụng") end)
         end
         task.wait(1)
     end
 end)
 
-end)()
+  lilIiO0oOO0lOo‌ = -1
 
-local lIi0iOIIO0oo = 98930 * 65
-local liI0liIiOOlO = 23330 * 9
-local function OOOiIOlOiI0O(O0OIliiloIil)
-  local looIi0ilOooI = 0
-  for _i = 1, 20 do looIi0ilOooI = looIi0ilOooI + (_i * (O0OIliiloIil or 1)) end
-  return looIi0ilOooI
 end
-local O0OIliiloIil = OOOiIOlOiI0O(45)
-if 46 * 46 < 0 then
-  local ooOollooOIlI = "oiiOoIO0Ol0I"
-  error(ooOollooOIlI)
-end
-local function ollioiIio0oI(iOoIOooOooOI)
-  local lloOoliIioli = 0
-  for _i = 1, 10 do lloOoliIioli = lloOoliIioli + (_i * (iOoIOooOooOI or 1)) end
-  return lloOoliIioli
-end
-local iOoIOooOooOI = ollioiIio0oI(2)
-local function OiOiIOIo0oIl(i0OI0IiIOoll)
-  local l0iiIiOOollo = 0
-  for _i = 1, 13 do l0iiIiOOollo = l0iiIiOOollo + (_i * (i0OI0IiIOoll or 1)) end
-  return l0iiIiOOollo
-end
-local i0OI0IiIOoll = OiOiIOIo0oIl(28)
-local function I00l0i0liooi(oOIOiOIlOiOo)
-  local iIIoIl0IooIi = 0
-  for _i = 1, 12 do iIIoIl0IooIi = iIIoIl0IooIi + (_i * (oOIOiOIlOiOo or 1)) end
-  return iIIoIl0IooIi
-end
-local oOIOiOIlOiOo = I00l0i0liooi(25)
-if (77*77 + 77*77) >= 0 then
-  local lIlliolIO0II = 9976
-end
-if (18*18 + 13*13) >= 0 then
-  local Olooil00lIOl = 3673
-end
-local IIioIoOOiiOi = 23521 * 25
-if (21 * (21 + 1)) % 2 == 0 then
-  local IolIOoi0liio = 9663
-end
-if (9 * (9 + 1)) % 2 == 0 then
-  local oI0llllol0Il = 5657
-end
-local lO0iiiIiOlll = 95680 * 6
-if 11 * 11 < 0 then
-  local IoilllIiilIl = "ooIIIOiO0lii"
-  error(IoilllIiilIl)
-end
-local l0OOO0Ol0OOl = 91657 * 72
-local OioOl0ol000I = 99582 * 13
-if (46 + 3) == 49 then
-  local l0oIolIiOOl0 = 8778
-end
-local iiO0IlliI0OI = 36924 * 31
-if (24 * (24 + 1)) % 2 == 0 then
-  local ioo0OlIOiIil = 6190
-end
-if (82*82 + 27*27) >= 0 then
-  local IiolO0lIiilO = 4772
-end
-if 11 * 11 < 0 then
-  local IIiliioooOil = "OI0Oioool0ii"
-  error(IIiliioooOil)
-end
-local OoI0il0iil0i = 48198 * 87
-if 70 * 70 < 0 then
-  local iloOiio0oo0l = "io0O0Illo0li"
-  error(iloOiio0oo0l)
-end
-local IiOoIOoiOloi = 46500 * 67
-local function IIIO0iIOOoll(IOIo00I0iIO0)
-  local oOOiOilloiii = 0
-  for _i = 1, 19 do oOOiOilloiii = oOOiOilloiii + (_i * (IOIo00I0iIO0 or 1)) end
-  return oOOiOilloiii
-end
-local IOIo00I0iIO0 = IIIO0iIOOoll(20)
-if 59 * 59 < 0 then
-  local ioiOlIOOOIOI = "o0o0l0oI0Oio"
-  error(ioiOlIOOOIOI)
-end
-if 85 * 85 < 0 then
-  local oIo0iOOOOIIi = "illlIIoI0IiO"
-  error(oIo0iOOOOIIi)
-end
-local function OlIoiOilO0io(OooOOliillli)
-  local iOOiIOoOIiIO = 0
-  for _i = 1, 12 do iOOiIOoOIiIO = iOOiIOoOIiIO + (_i * (OooOOliillli or 1)) end
-  return iOOiIOoOIiIO
-end
-local OooOOliillli = OlIoiOilO0io(39)
-if (45 * (45 + 1)) % 2 == 0 then
-  local iol0lIoOOI00 = 9622
-end
-if 13 * 13 < 0 then
-  local OOll0io0iOiI = "o0lil0iliIlO"
-  error(OOll0io0iOiI)
-end
-local OliIooliiOIi = 71260 * 91
-if 50 * 50 < 0 then
-  local lloilio00IIi = "O0OOOIoO000O"
-  error(lloilio00IIi)
-end
-if 24 * 24 < 0 then
-  local IolllOl00o0O = "lIOOil0Ii0II"
-  error(IolllOl00o0O)
-end
-local ol0lOi0IIOiI = 57470 * 31
-if 61 * 61 < 0 then
-  local OooloOOiIiil = "iOol0olOoli0"
-  error(OooloOOiIiil)
-end
-local iooOollllOoI = 15361 * 70
-local function iIi0iIoll0OI(olooIlOO0oO0)
-  local I00li0iollIO = 0
-  for _i = 1, 18 do I00li0iollIO = I00li0iollIO + (_i * (olooIlOO0oO0 or 1)) end
-  return I00li0iollIO
-end
-local olooIlOO0oO0 = iIi0iIoll0OI(48)
-if (36 * (36 + 1)) % 2 == 0 then
-  local O0oill0OiIiO = 9817
-end
-if 98 * 98 < 0 then
-  local iIIlil0000ll = "llii0liiiOli"
-  error(iIIlil0000ll)
-end
-local function OOllll0IOIli(OOiIoO0I0IIi)
-  local IiOI00lOOoIO = 0
-  for _i = 1, 12 do IiOI00lOOoIO = IiOI00lOOoIO + (_i * (OOiIoO0I0IIi or 1)) end
-  return IiOI00lOOoIO
-end
-local OOiIoO0I0IIi = OOllll0IOIli(18)
-local function o0IIIIiilIOi(loOilOi0lO0I)
-  local O0liIilIOIOI = 0
-  for _i = 1, 17 do O0liIilIOIOI = O0liIilIOIOI + (_i * (loOilOi0lO0I or 1)) end
-  return O0liIilIOIOI
-end
-local loOilOi0lO0I = o0IIIIiilIOi(1)
-local function liiIOoo0Ioo0(liOI0lOI000i)
-  local lOoooI0Io0iO = 0
-  for _i = 1, 19 do lOoooI0Io0iO = lOoooI0Io0iO + (_i * (liOI0lOI000i or 1)) end
-  return lOoooI0Io0iO
-end
-local liOI0lOI000i = liiIOoo0Ioo0(31)
-local function lliOIOo0lloI(lloIio0I0I0l)
-  local ilOloiiOlOlO = 0
-  for _i = 1, 11 do ilOloiiOlOlO = ilOloiiOlOlO + (_i * (lloIio0I0I0l or 1)) end
-  return ilOloiiOlOlO
-end
-local lloIio0I0I0l = lliOIOo0lloI(39)
-if 83 * 83 < 0 then
-  local IO0lo0o0O0ll = "O00IIoIOOOli"
-  error(IO0lo0o0O0ll)
-end
-if 32 * 32 < 0 then
-  local l0O0iIoilolO = "IloooiIliiO0"
-  error(l0O0iIoilolO)
-end
-local function ol0IIOoioooI(Ioli00ooIli0)
-  local i00OiiOIOool = 0
-  for _i = 1, 20 do i00OiiOIOool = i00OiiOIOool + (_i * (Ioli00ooIli0 or 1)) end
-  return i00OiiOIOool
-end
-local Ioli00ooIli0 = ol0IIOoioooI(39)
-local iI0ii0O0OIiO = 7459 * 60
-if (69*69 + 54*54) >= 0 then
-  local OII0l0oli0iI = 6432
-end
-local function Ill0Io0iooll(oIo00iolloli)
-  local IiooIioOoIi0 = 0
-  for _i = 1, 15 do IiooIioOoIi0 = IiooIioOoIi0 + (_i * (oIo00iolloli or 1)) end
-  return IiooIioOoIi0
-end
-local oIo00iolloli = Ill0Io0iooll(31)
-if 65 * 65 < 0 then
-  local lIii0Ol0ioiO = "lOlooIOOO0lO"
-  error(lIii0Ol0ioiO)
 end
